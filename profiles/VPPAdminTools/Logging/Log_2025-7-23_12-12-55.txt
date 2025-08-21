@@ -1,0 +1,323 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-23_12-12-55
+====================================================================================
+12:12:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:12:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:12:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:12:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:12:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:12:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:12:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:12:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:12:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:12:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:12:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:12:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:12:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:12:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:12:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:12:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:12:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:12:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:12:55 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+12:12:55 | [PermissionManager] Adding Super Admin (76561198413928129)
+12:12:55 | [PermissionManager] Adding Super Admin (76561198061747392)
+12:12:55 | [PermissionManager] Adding Super Admin (76561198065207038)
+12:12:55 | [PermissionManager] Loaded UserGroups.json
+12:12:55 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:12:55 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:12:55 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:12:55 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:12:55 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:12:55 | Building Sets Loaded: 2
+12:12:55 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:15:12 | Player "Fibjam." (steamId=76561198144833647) connected to server!
+12:15:13 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:16:10 | Player "owl" (steamId=76561198143985310) connected to server!
+12:16:42 | Player "Paul " (steamId=76561198121111197) connected to server!
+12:18:14 | Player "Kame" (steamId=76561199372146202) connected to server!
+12:20:46 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+12:32:13 | Player "Keidgos" (steamId=76561198144300120) connected to server!
+12:32:35 | Player "Mick" (steamId=76561198061747392) connected to server!
+12:45:46 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+12:45:49 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+12:49:46 | "Mick" (steamid=76561198061747392) toggled freecam
+12:49:50 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12946.197266, 57.289127, 9813.419922>)
+12:49:50 | "Mick" (steamid=76561198061747392) toggled freecam
+12:49:59 | "Mick" (steamid=76561198061747392) toggled freecam
+12:50:5 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12950.939453, 38.389057, 9813.704102>)
+12:50:6 | "Mick" (steamid=76561198061747392) toggled freecam
+12:53:54 | Player "Fibjam." (steamId=76561198144833647) initiated disconnect process...
+12:53:55 | Player "Fibjam." (steamId=76561198144833647) disconnected early from server (EXIT NOW).
+12:53:57 | Player "Fibjam." (steamId=76561198144833647) disconnected from server.
+13:8:55 | Player "DnWings" (steamId=76561198090803986) connected to server!
+13:11:46 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:26:8 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+13:26:11 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+13:33:16 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:37:42 | "Mick" (steamid=76561198061747392) toggled freecam
+13:38:12 | "Mick" (steamid=76561198061747392) toggled freecam
+13:39:11 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+13:39:14 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+13:39:37 | Player "Mick" (steamId=76561198061747392) connected to server!
+13:47:2 | "Mick" (steamid=76561198061747392) toggled godmode
+13:47:20 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6104.160156, 7.502949, 1306.900024>)
+13:47:20 | "Mick": (steamid=76561198061747392) teleported to (pos=6104.16,0,1306.9)
+13:47:24 | "Mick" (steamid=76561198061747392) toggled freecam
+13:47:28 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6101.775391, 9.781030, 1305.185059>)
+13:48:26 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6499.660156, 21.410000, 1609.130005>)
+13:48:26 | "Mick": (steamid=76561198061747392) teleported to (pos=6499.66,0,1609.13)
+13:48:27 | "Mick" (steamid=76561198061747392) toggled freecam
+13:48:29 | "Mick" (steamid=76561198061747392) toggled freecam
+13:48:30 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6496.560547, 24.598351, 1606.983032>)
+13:49:9 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+13:49:12 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+13:50:19 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HermitSkinny_Green)
+13:53:59 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_FarmerFat_Blue)
+13:54:1 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Red)
+13:57:28 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Red)
+13:57:38 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Base)
+13:57:59 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Base)
+13:59:1 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:59:17 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6149.901367, 31.590101, 1087.069702>)
+14:0:0 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Red)
+14:0:1 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Red)
+14:0:22 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Blue)
+14:0:26 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_FarmerFat_Green)
+14:0:27 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Green)
+14:0:27 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_FarmerFat_Blue)
+14:0:44 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Blue)
+14:0:44 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HermitSkinny_Red)
+14:1:10 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Grey)
+14:1:40 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Snork1)
+14:3:34 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_FarmerFat_Brown)
+14:3:35 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Green)
+14:3:35 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HermitSkinny_Green)
+14:3:36 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Blue)
+14:3:42 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:3:42 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_FarmerFat_Brown)
+14:3:43 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HermitSkinny_Black)
+14:3:43 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenBFat_Base)
+14:5:11 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_MotobikerFat_Beige)
+14:5:30 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_VillagerOld_Blue)
+14:5:30 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HikerSkinny_Yellow)
+14:5:31 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CommercialPilotOld_Olive)
+14:5:31 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_MechanicSkinny_Blue)
+14:6:3 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_VillagerOld_Blue)
+14:6:7 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CommercialPilotOld_Blue)
+14:6:19 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_VillagerOld_Blue)
+14:6:19 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_VillagerOld_Blue)
+14:6:19 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_VillagerOld_Blue)
+14:7:2 | Player "Keidgos" (steamId=76561198144300120) initiated disconnect process...
+14:7:5 | Player "Keidgos" (steamId=76561198144300120) disconnected from server.
+14:7:33 | "Mick" (steamid=76561198061747392) deleted object "Mutant_XZ_Snork1" (pos=<6207.713867, 5.852568, 1312.695557>)
+14:7:42 | "Mick" (steamid=76561198061747392) toggled freecam
+14:8:17 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<8111.589844, 17.314697, 2205.879883>)
+14:8:17 | "Mick": (steamid=76561198061747392) teleported to (pos=8111.59,0,2205.88)
+14:8:18 | "Mick" (steamid=76561198061747392) toggled freecam
+14:8:22 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<8107.673828, 17.362818, 2196.980225>)
+14:9:33 | "Mick" (steamid=76561198061747392) toggled freecam
+14:9:45 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<13454.000000, 84.070000, 2878.219971>)
+14:9:45 | "Mick": (steamid=76561198061747392) teleported to (pos=13454,0,2878.22)
+14:9:47 | "Mick" (steamid=76561198061747392) toggled freecam
+14:9:53 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<13447.682617, 88.028236, 2884.436768>)
+14:11:54 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:11:54 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:11:54 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:11:59 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:11:59 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:12:0 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:12:4 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:12:5 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:12:5 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:12:18 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Snork2)
+14:12:57 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Tushkano1)
+14:12:58 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Tushkano1)
+14:13:11 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Fresh1)
+14:13:37 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:13:38 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:13:40 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:8 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:8 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:8 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:12 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:15 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:18 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:22 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:25 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:30 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:14:41 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_PrisonerSkinny)
+14:16:2 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Krovosos1)
+14:16:9 | "Mick" (steamid=76561198061747392) Spawned Item: (Mutant_XZ_Krovosos1)
+14:16:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12986.090820, 21.331814, 1441.825928>)
+14:16:59 | "Mick" (steamid=76561198061747392) deleted object "Mutant_XZ_Krovosos1" (pos=<12973.268555, 21.100000, 1447.425659>)
+14:19:10 | "Mick" (steamid=76561198061747392) toggled freecam
+14:19:14 | "Mick" (steamid=76561198061747392) toggled freecam
+14:19:19 | "Mick" (steamid=76561198061747392) toggled freecam
+14:19:34 | "Mick" (steamid=76561198061747392) toggled freecam
+14:20:7 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:8 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:21 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:22 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:22 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:33 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:35 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:50 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:51 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:20:51 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:21:6 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:21:7 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:21:7 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:21:7 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:22:10 | "Mick" (steamid=76561198061747392) toggled godmode
+14:22:11 | "Mick" (steamid=76561198061747392) toggled godmode
+14:22:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:22:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:22:13 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_usSoldier_Officer_Desert)
+14:22:30 | "Mick" (steamid=76561198061747392) toggled freecam
+14:23:0 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12984.743164, 21.331814, 1450.906250>)
+14:23:3 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+14:23:5 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+14:23:5 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12981.161133, 21.331814, 1454.414673>)
+14:23:6 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+14:23:6 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12987.683594, 21.331814, 1450.052979>)
+14:23:11 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12984.527344, 21.331814, 1445.369263>)
+14:23:12 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12983.796875, 21.331814, 1439.337402>)
+14:23:36 | "Mick" (steamid=76561198061747392) toggled freecam
+14:24:28 | "Mick" (steamid=76561198061747392) toggled freecam
+14:24:36 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<13094.799805, -0.310000, 9763.429688>)
+14:24:36 | "Mick": (steamid=76561198061747392) teleported to (pos=13094.8,0,9763.43)
+14:24:37 | "Mick" (steamid=76561198061747392) toggled freecam
+14:24:44 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<13087.306641, 3.290258, 9768.003906>)
+14:24:48 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<13082.310547, 13.010065, 9757.333984>)
+14:25:1 | Player "KOG" (steamId=76561198104966670) connected to server!
+14:25:23 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<13324.776367, 3.934697, 9525.274414>)
+14:25:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<12947.154297, 57.357323, 9818.377930>)
+14:25:42 | "Mick" (steamid=76561198061747392) toggled freecam
+14:25:45 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+14:25:47 | Player "Mick" (steamId=76561198061747392) disconnected early from server (EXIT NOW).
+14:25:48 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+14:48:27 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+14:50:29 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+14:50:32 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+14:50:32 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+14:51:54 | Player "owl" (steamId=76561198143985310) connected to server!
+14:52:35 | Player "Paul " (steamId=76561198121111197) connected to server!
+15:22:11 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+15:22:14 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+15:23:40 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+15:23:42 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+15:23:43 | Player "owl" (steamId=76561198143985310) disconnected from server.
+15:23:44 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+15:23:45 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+15:23:46 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+15:23:47 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+15:23:47 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+15:23:48 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+15:23:59 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+15:24:2 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+15:33:59 | Player "Paul " (steamId=76561198121111197) connected to server!
+15:34:45 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+15:34:48 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+15:34:48 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+15:36:19 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+15:36:21 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+15:36:22 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+15:43:19 | Player "KOG" (steamId=76561198104966670) connected to server!
+15:43:33 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+15:43:35 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+15:43:36 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+15:49:13 | Player "owl" (steamId=76561198143985310) connected to server!
+15:54:33 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+15:54:35 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+15:54:37 | Player "owl" (steamId=76561198143985310) disconnected from server.
+15:56:11 | Player "Paul " (steamId=76561198121111197) connected to server!
+15:59:49 | Player "KOG" (steamId=76561198104966670) connected to server!
+16:1:30 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+16:1:32 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+16:1:33 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+16:2:2 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+16:2:4 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+16:2:5 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+18:56:40 | Player "owl" (steamId=76561198143985310) connected to server!
+19:46:3 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+19:46:5 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+19:46:6 | Player "owl" (steamId=76561198143985310) disconnected from server.
+21:56:36 | Player "Miko" (steamId=76561199380565467) connected to server!
+23:58:21 | Player "Miko" (steamId=76561199380565467) initiated disconnect process...
+23:58:24 | Player "Miko" (steamId=76561199380565467) disconnected from server.

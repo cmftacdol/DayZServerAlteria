@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+
+
+    <!-- Couplers-->
+
+    <type name="Ki_Coupler">
+        <nominal>15</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <tag name="floor" />
+        <!-- <value name="Tier1" /> -->
+    </type>
+    <type name="Ki_Mag_MP5Coupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_FAMASCoupled_25Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AKMCoupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AKMCoupled_Palm30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_CMAGCoupled_20Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_CMAGCoupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_CMAGCoupled_40Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AK101Coupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AugCoupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AK74Coupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_AK74Coupled_45Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_SVDCoupled_10Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_FALCoupled_20Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_UMPCoupled_25Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_VSSCoupled_10Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_VALCoupled_20Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_VikhrCoupled_30Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_SaigaCoupled_5Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_SaigaCoupled_8Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_M14Coupled_10Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+    <type name="Ki_Mag_M14Coupled_20Rnd">
+        <nominal>2</nominal>
+        <lifetime>3600</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>5</quantmin>
+        <quantmax>40</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <usage name="Military" />
+    </type>
+
+</types>

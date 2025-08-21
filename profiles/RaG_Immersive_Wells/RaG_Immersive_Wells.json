@@ -1,0 +1,6 @@
+{
+    "version": 1.0,
+    "WellWaterChance": 30,
+    "EnableWellCanTransferCholera": 1,
+    "WellCholeraChance": 1
+}

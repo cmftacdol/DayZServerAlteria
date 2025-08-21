@@ -1,0 +1,401 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-4_7-52-7
+====================================================================================
+7:52:7 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+7:52:7 | [PermissionManager] Perm (FreeCamera) has been registered!
+7:52:7 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuServerManager) has been registered!
+7:52:7 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+7:52:7 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+7:52:7 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+7:52:7 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+7:52:7 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+7:52:7 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+7:52:7 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+7:52:7 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+7:52:7 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+7:52:7 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuBansManager) has been registered!
+7:52:7 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+7:52:7 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+7:52:7 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+7:52:7 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+7:52:7 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+7:52:7 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+7:52:8 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+7:52:8 | [PermissionManager] Adding Super Admin (76561198413928129)
+7:52:8 | [PermissionManager] Adding Super Admin (76561198061747392)
+7:52:8 | [PermissionManager] Adding Super Admin (76561198065207038)
+7:52:8 | [PermissionManager] Loaded UserGroups.json
+7:52:8 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+7:52:8 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+7:52:8 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+7:52:8 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+7:52:8 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+7:52:8 | Building Sets Loaded: 2
+7:52:8 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+7:52:8 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:58:56 | Player "Thug Lee Vogue" (steamId=76561198413928129) connected to server!
+7:59:11 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+7:59:52 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<10198.700195, 20.587509, 11734.799805>)
+7:59:52 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=10198.7,0,11734.8)
+8:0:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (EGER)
+8:0:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (EGER)
+8:2:11 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:2:12 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:4:34 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:6:31 | [WeatherManager] Send Data Count is 0
+8:6:38 | [Time Manager] Setting Date to 2025/9/20 7:7
+8:7:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Fennek)
+8:7:24 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:10:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (G65)
+8:11:30 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "G65" (pos=<10273.081055, 21.623497, 11672.880859>)
+8:11:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ66bort)
+8:16:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10264.841797, 21.198757, 11682.929688>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10266.988281, 21.113445, 11683.629883>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079412, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079412, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079412, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079412, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079412, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079414, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10268.878906, 21.079414, 11683.536133>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10269.072266, 21.075119, 11683.526367>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10269.310547, 21.069889, 11683.514648>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10269.544922, 21.064636, 11683.502930>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10269.783203, 21.059380, 11683.490234>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10270.003906, 21.054516, 11683.479492>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10270.197266, 21.050228, 11683.469727>)
+8:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10270.407227, 21.045637, 11683.458984>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10270.572266, 21.041834, 11683.452148>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10270.946289, 21.033669, 11683.432617>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10271.214844, 21.027676, 11683.418945>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10271.643555, 21.018229, 11683.396484>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10271.921875, 21.012043, 11683.382813>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10272.456055, 21.001463, 11683.356445>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10272.768555, 20.994852, 11683.340820>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10272.942383, 20.990679, 11683.332031>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10273.033203, 20.988455, 11683.328125>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10273.078125, 20.987480, 11683.326172>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10273.098633, 20.986866, 11683.325195>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10273.878906, 20.968082, 11683.285156>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.195313, 20.960583, 11683.268555>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.679688, 20.948715, 11683.246094>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.841797, 20.944786, 11683.238281>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.890625, 20.943632, 11683.235352>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.908203, 20.943211, 11683.234375>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.997070, 20.941034, 11683.230469>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10275.098633, 20.938715, 11683.224609>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10275.333984, 20.932995, 11683.212891>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10275.566406, 20.927307, 11683.202148>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10275.850586, 20.922667, 11683.158203>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10276.121094, 20.919048, 11683.087891>)
+8:16:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10274.783203, 20.930359, 11683.458984>)
+8:17:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ66)
+8:19:58 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "GAZ66" (pos=<10269.278320, 19.439199, 11705.838867>)
+8:20:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gaz71)
+8:20:14 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Gaz71" (pos=<10270.175781, 20.832581, 11686.556641>)
+8:20:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Fennek_WINTER)
+8:20:30 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Fennek_WINTER" (pos=<10270.668945, 20.724047, 11687.590820>)
+8:21:27 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gaz71_WINTER)
+8:23:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kamaz_4350_winter)
+8:24:10 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Kamaz_4350_winter" (pos=<10278.117188, 20.984507, 11681.999023>)
+8:24:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Audi_RS6_WINTER)
+8:28:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMP3_WINTER)
+8:34:27 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (RAPTOR_winter)
+8:34:41 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:38:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SUV_WINTER)
+8:38:53 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:39:48 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "SUV_WINTER" (pos=<10278.766602, 20.111725, 11691.534180>)
+8:40:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gelenvagen_white_camo1)
+8:42:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HEMTT_white)
+8:42:42 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "HEMTT_white" (pos=<10288.263672, 18.936218, 11697.740234>)
+8:42:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MBw140_white)
+8:43:8 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "MBw140_white" (pos=<10289.672852, 18.831636, 11696.722656>)
+8:43:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMW_white)
+8:43:31 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "BMW_white" (pos=<10289.808594, 18.714964, 11696.750000>)
+8:43:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BTR82A_white)
+8:43:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BTR82A_white)
+8:43:41 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "BTR82A_white" (pos=<10289.266602, 19.449375, 11695.407227>)
+8:43:43 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<10287.178711, 19.092148, 11696.193359>)
+8:44:6 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:49:58 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:52:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BTR_white)
+8:53:6 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:56:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Nissan_warrior_white_kamo)
+8:56:31 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+8:58:38 | [WeatherManager] Send Data Count is 0
+8:58:52 | Player "Thug Lee Vogue" (steamId=76561198413928129) initiated disconnect process...
+9:2:30 | Player "Thug Lee Vogue" (steamId=76561198413928129) connected to server!
+9:3:15 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+9:3:17 | [WeatherManager] Send Data Count is 0
+9:3:24 | [Time Manager] Setting Date to 2025/9/20 7:26
+9:4:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ToyotaHilux_white)
+9:4:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ToyotaHilux_white)
+9:6:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (VAZ_2108_white)
+9:6:39 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "VAZ_2108_Doors_Driver" (pos=<10278.960938, 16.843359, 11734.394531>)
+9:6:43 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "VAZ_2108_white" (pos=<10279.686523, 15.897333, 11734.154297>)
+9:6:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Velociraptor6x6_white)
+9:7:0 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Velociraptor6x6_white" (pos=<10280.418945, 15.851836, 11734.239258>)
+9:7:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MUSTANG_white)
+9:7:26 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "MUSTANG_white" (pos=<10284.827148, 15.183907, 11735.997070>)
+9:7:35 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TLC_200_white)
+9:7:39 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "TLC_200_white" (pos=<10283.420898, 15.324100, 11735.505859>)
+9:7:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ChevroletCorvette_white)
+9:8:2 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "ChevroletCorvette_white" (pos=<10283.408203, 15.291300, 11735.466797>)
+9:8:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (VAZ_2108_white)
+9:8:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (VAZ_2109_white)
+9:8:22 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "VAZ_2109_Doors_Driver" (pos=<10281.193359, 16.489832, 11735.434570>)
+9:8:24 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "VAZ_2109_white" (pos=<10281.914063, 15.549908, 11735.157227>)
+9:8:28 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "VAZ_2108_white" (pos=<10283.853516, 15.339693, 11734.997070>)
+9:9:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gelenvagen_white_camo2)
+9:9:48 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Gelenvagen_Doors_Driver_white_camo2" (pos=<10285.096680, 18.248714, 11721.606445>)
+9:9:51 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Gelenvagen_white_camo2" (pos=<10285.743164, 16.850769, 11720.560547>)
+9:10:35 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ROVER_camo2)
+9:11:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ROVER_GREEN)
+9:12:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ROVER_camoOLD)
+9:13:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Range_Rover_black)
+9:13:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Oshkosh_pixel)
+9:17:19 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7185.129883, 33.981945, 4099.220215>)
+9:17:19 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=7185.13,0,4099.22)
+9:19:18 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Novator_Pixel)
+9:19:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (NivaPickup_kamo2)
+9:19:41 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:21:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MUSTANG_red)
+9:23:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kart_Orange)
+9:23:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kart_Orange)
+9:23:51 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Kart_Orange" (pos=<7235.461914, 31.508244, 4161.885742>)
+9:28:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PAZ_BANDIT_white)
+9:28:16 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:28:31 | [WeatherManager] Send Data Count is 0
+9:28:40 | [Time Manager] Setting Date to 2025/9/20 23:27
+9:29:12 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "PAZ_BANDIT_white" (pos=<7214.941895, 31.616190, 4169.686523>)
+9:29:17 | [WeatherManager] Send Data Count is 0
+9:29:21 | [Time Manager] Setting Date to 2025/9/20 7:34
+9:29:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DozorB_Woodland)
+9:30:6 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "DozorB_Woodland" (pos=<7216.805176, 31.621136, 4167.016113>)
+9:30:10 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Novator_Pixel" (pos=<7220.500000, 31.664930, 4157.705566>)
+9:30:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Cougar_black)
+9:30:41 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Cougar_black" (pos=<7226.262695, 31.364119, 4153.861328>)
+9:30:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Conqueror_kamo2)
+9:31:23 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Conqueror_kamo2" (pos=<7224.598633, 31.559013, 4157.728027>)
+9:31:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMW_X5_black)
+9:31:52 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:32:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMW_X5_white)
+9:32:25 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:34:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AZLK_Yellow)
+9:36:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMW_black)
+9:37:7 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "BMW_black" (pos=<7216.985352, 27.818150, 4212.619629>)
+9:37:18 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Buggy_yellow)
+9:37:36 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Buggy_yellow" (pos=<7220.426270, 28.880455, 4206.412598>)
+9:37:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Chevrolet_Camaro_black)
+9:38:6 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Chevrolet_Camaro_black" (pos=<7224.287598, 30.078232, 4194.026367>)
+9:38:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Chevrolet_camaro_Anime)
+9:38:17 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Chevrolet_camaro_Anime" (pos=<7225.429688, 30.082462, 4193.908691>)
+9:38:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Chevrolet_camaro_KKKE)
+9:38:24 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Chevrolet_camaro_KKKE" (pos=<7227.579102, 29.977354, 4195.122559>)
+9:38:27 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Chevrolet_camaro_Veitaru)
+9:38:52 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Chevrolet_camaro_Veitaru" (pos=<7227.530273, 29.862961, 4196.577637>)
+9:38:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Chevrolet_Sibirskij_C)
+9:39:1 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Chevrolet_Sibirskij_C" (pos=<7226.751465, 30.028599, 4194.530762>)
+9:39:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Citroen2CV_pink)
+9:39:25 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Citroen2CV_pink" (pos=<7223.992676, 29.831995, 4197.182617>)
+9:39:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Opel_Astra_camo)
+9:39:55 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Opel_Astra_camo" (pos=<7224.777832, 29.656282, 4197.776855>)
+9:39:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PAZ_blue)
+9:40:25 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "PAZ_blue" (pos=<7224.624512, 29.557787, 4198.385742>)
+9:40:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PAZ_green)
+9:40:33 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "PAZ_green" (pos=<7225.835449, 29.460260, 4199.493652>)
+9:40:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PAZprison_blue)
+9:40:52 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "PAZprison_blue" (pos=<7226.177246, 29.451960, 4199.974609>)
+9:40:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PONTIAC_blue)
+9:41:25 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "PONTIAC_blue" (pos=<7224.468262, 29.560869, 4199.680176>)
+9:41:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SCOUT_Black)
+9:41:53 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:42:9 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "SCOUT_Black" (pos=<7233.953125, 29.518284, 4202.486816>)
+9:42:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Traktor_black)
+9:43:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Typhoon_Woodland)
+9:43:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ469_black)
+9:44:50 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:47:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ469_camo1)
+9:47:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ469_camo1)
+9:47:9 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "UAZ469_camo1" (pos=<7247.040039, 30.235785, 4174.551758>)
+9:47:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_2315_Blue)
+9:47:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (URAL_4320_rust)
+9:48:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (URAL_4320_yellow)
+9:48:36 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "URAL_4320_yellow" (pos=<7247.848145, 30.647669, 4152.690430>)
+9:48:40 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "URAL_4320_rust" (pos=<7248.231934, 30.580257, 4161.988281>)
+9:48:43 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "UAZ_2315_Blue" (pos=<7253.739746, 30.225950, 4161.238281>)
+9:48:48 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3909_MCHS)
+9:48:56 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:50:17 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:50:32 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3909_chaki1)
+9:50:32 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3909_chaki1)
+9:50:37 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "UAZ_3909_chaki1" (pos=<7257.419922, 29.924652, 4178.393066>)
+9:51:13 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:51:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (LUAZ)
+9:51:38 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+9:53:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Offroad_02_Wheel)
+9:53:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HatchbackWheel)
+9:53:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HatchbackWheel)
+9:53:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Hatchback_02_Wheel)
+9:55:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Velociraptor6x6_Sadist)
+9:55:25 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Velociraptor6x6_Sadist" (pos=<7242.887695, 30.837824, 4163.036133>)
+9:55:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Range_Rover_dazzle_black)
+9:56:3 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Range_Rover_dazzle_black" (pos=<7245.766113, 30.697031, 4154.939941>)
+9:56:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OffroadRangeRover_blue)
+9:57:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OffroadRangeRover_police)
+9:57:18 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:2:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Conqueror_kamo2)
+10:2:38 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Conqueror_kamo2" (pos=<7235.823730, 28.502123, 4215.433594>)
+10:2:44 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Typhoon_Woodland" (pos=<7234.109863, 29.972143, 4195.193359>)
+10:14:2 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9933.230469, 21.570604, 10909.599609>)
+10:14:2 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=9933.23,0,10909.6)
+10:14:31 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kart_Orange)
+10:14:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (rag_schoolbus)
+10:16:21 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Kart_Orange" (pos=<9926.792969, 21.297270, 10900.570313>)
+10:16:24 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "rag_schoolbus" (pos=<9923.565430, 21.214096, 10902.339844>)
+10:16:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kart)
+10:18:21 | [WeatherManager] Send Data Count is 0
+10:18:27 | [Time Manager] Setting Date to 2025/9/20 7:21
+10:19:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Fennek_WINTER)
+10:19:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gaz71_WINTER)
+10:19:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kamaz_4350_winter)
+10:19:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kamaz_4350_Kung_winter)
+10:19:48 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Audi_RS6_WINTER)
+10:20:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BMP3_WINTER)
+10:20:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (RAPTOR_winter)
+10:20:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (YAR_87_white)
+10:20:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ToyotaHilux_white)
+10:20:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Nissan_warrior_white_kamo)
+10:21:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MUSTANG_white)
+10:21:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (LUAZ)
+10:21:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ469_offroad)
+10:22:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_2315)
+10:22:16 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "UAZ_2315" (pos=<9675.521484, 29.185369, 11523.768555>)
+10:22:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3909_police)
+10:22:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OffroadRangeRover_police)
+10:23:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ_69)
+10:23:35 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "CarRadiator" (pos=<9666.074219, 29.964279, 11531.553711>)
+10:23:38 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "GAZ_69" (pos=<9666.066406, 29.299011, 11529.670898>)
+10:23:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ_69_GRAY)
+10:23:52 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "GAZ_69_GRAY" (pos=<9664.535156, 29.279961, 11531.876953>)
+10:24:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (G65)
+10:24:22 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "G65" (pos=<9663.778320, 29.085197, 11533.825195>)
+10:24:36 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:24:46 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:24:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Interceptor)
+10:25:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Jeep_Wrangler)
+10:25:23 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Jeep_Wrangler" (pos=<9663.763672, 29.518988, 11521.518555>)
+10:25:35 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kraz_6322)
+10:25:38 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:25:41 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<9658.110352, 29.404671, 11523.917969>)
+10:25:42 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:25:46 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Kraz_6322" (pos=<9662.875977, 29.349131, 11521.995117>)
+10:25:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kart)
+10:26:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MAZ_509)
+10:26:51 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "MAZ_509" (pos=<9661.124023, 29.339420, 11522.539063>)
+10:26:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MBw140)
+10:27:20 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "MBw140" (pos=<9662.791016, 29.239229, 11530.770508>)
+10:27:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Fennek_BIOHAZARD)
+10:27:27 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:27:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<9656.526367, 29.349131, 11528.666016>)
+10:27:32 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:27:48 | "Thug Lee Vogue" (steamid=76561198413928129) deleted object "Fennek_BIOHAZARD" (pos=<9662.239258, 29.187397, 11531.305664>)
+10:27:54 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AZLK_Yellow)
+10:27:59 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:28:6 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:28:40 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:29:58 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:30:9 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:12 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:15 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:18 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:20 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:23 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:26 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:29 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:32 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:36 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:44 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:46 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:50 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:55 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:30:59 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:31:7 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:31:12 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:31:15 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:31:18 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:31:36 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:31:49 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:32:1 | Player "Thug Lee Vogue" (steamId=76561198413928129) initiated disconnect process...
+10:32:4 | Player "Thug Lee Vogue" (steamId=76561198413928129) disconnected from server.

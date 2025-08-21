@@ -1,0 +1,569 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-8_6-59-59
+====================================================================================
+6:59:59 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:59:59 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:59:59 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:59:59 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:59:59 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:59:59 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:59:59 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:59:59 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:59:59 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:59:59 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:59:59 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:59:59 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:59:59 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:59:59 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:59:59 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:59:59 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:59:59 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:59:59 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:59:59 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+6:59:59 | [PermissionManager] Adding Super Admin (76561198413928129)
+6:59:59 | [PermissionManager] Adding Super Admin (76561198061747392)
+6:59:59 | [PermissionManager] Adding Super Admin (76561198065207038)
+6:59:59 | [PermissionManager] Loaded UserGroups.json
+6:59:59 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:59:59 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:59:59 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:59:59 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:59:59 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:59:59 | Building Sets Loaded: 2
+6:59:59 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+6:59:59 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:5:12 | Player "Thug Lee Vogue" (steamId=76561198413928129) connected to server!
+7:5:38 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+7:5:49 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3508.199951, 15.630000, 6482.439941>)
+7:5:49 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=3508.2,0,6482.44)
+7:6:7 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:6:13 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3453.960938, 39.373978, 6460.459961>)
+7:6:14 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:7:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_RedPattern)
+7:7:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_BlackPattern)
+7:7:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_PolkaPattern)
+7:7:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_Greenpattern)
+7:7:54 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_CamoPattern)
+7:7:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_Blue)
+7:7:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_Pink)
+7:7:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Bandana_Yellow)
+7:8:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (STAG_Clothing_Bandana_Black)
+7:8:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (STAG_Clothing_Bandana_Red)
+7:8:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_skullbandanamask)
+7:8:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_bandanamask_G63)
+7:8:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_bandanamask_camowinter)
+7:8:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_bandanamask_bl)
+7:8:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_bandanamask_gr)
+7:9:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Green)
+7:9:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Black)
+7:9:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_UN)
+7:9:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_BDU)
+7:9:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Desert)
+7:9:18 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Woodland)
+7:9:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Winter)
+7:9:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BallisticHelmet_Navy)
+7:9:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZSh3PilotHelmet)
+7:9:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZSh3PilotHelmet)
+7:9:27 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZSh3PilotHelmet_Green)
+7:9:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZSh3PilotHelmet_Black)
+7:9:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_Blue)
+7:9:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_Lime)
+7:9:31 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_Orange)
+7:9:31 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_White)
+7:9:32 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_Red)
+7:9:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_White)
+7:9:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ConstructionHelmet_Yellow)
+7:9:36 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Black)
+7:9:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Grey)
+7:9:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Green)
+7:9:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Lime)
+7:9:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Blue)
+7:9:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Red)
+7:9:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_White)
+7:9:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Yellow)
+7:9:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Black)
+7:9:44 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Grey)
+7:9:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Green)
+7:9:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Lime)
+7:9:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Blue)
+7:9:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Red)
+7:9:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_White)
+7:9:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Yellow)
+7:9:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_YellowScarred)
+7:9:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_YellowScarred_Test)
+7:9:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TankerHelmet)
+7:9:54 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TankerHelmet)
+7:9:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GorkaHelmet)
+7:9:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GorkaHelmet_Green)
+7:9:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GorkaHelmet_Black)
+7:9:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FirefightersHelmet_Red)
+7:9:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FirefightersHelmet_White)
+7:9:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FirefightersHelmet_Yellow)
+7:10:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkateHelmet_Black)
+7:10:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkateHelmet_Blue)
+7:10:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkateHelmet_Gray)
+7:10:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkateHelmet_Green)
+7:10:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkateHelmet_Red)
+7:10:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ssh68Helmet)
+7:10:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Green)
+7:10:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Chernarus)
+7:10:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Khaki)
+7:10:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Police)
+7:10:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Red)
+7:10:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Black)
+7:10:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Blue)
+7:10:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Visor)
+7:10:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Mouthguard)
+7:10:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HockeyHelmet_Black)
+7:10:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HockeyHelmet_Blue)
+7:10:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HockeyHelmet_Red)
+7:10:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HockeyHelmet_White)
+7:10:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_footballhelmet)
+7:10:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_helmetglasses)
+7:11:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (RidersJacket_Black)
+7:12:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BushlatPoliceJacket_Blue)
+7:12:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitPants_Black)
+7:12:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitPants_Blue)
+7:12:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitPants_Green)
+7:12:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitPants_Red)
+7:12:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitPants_LightBlue)
+7:12:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TrackSuitJacket_Black)
+7:13:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CargoPants_Black)
+7:13:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CargoPants_Blue)
+7:14:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Fingerless_Gloves_Wool_Black)
+7:15:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (WoolGlovesFingerless_Black)
+7:16:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_akito_shoes)
+7:18:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (JoggingShoes_Blue)
+7:19:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Puffervest_green)
+7:19:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ReflexVest)
+7:23:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_elliebag)
+7:23:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SledgeHammer)
+7:25:41 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:26:20 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:26:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (RidersJacket_Black)
+7:26:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HeavyRiders_Jacket_Black)
+7:26:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HeavyRiders_Jacket_Teal)
+7:26:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HeavyRiders_Jacket_Red)
+7:26:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HeavyRiders_Jacket_Green)
+7:26:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HeavyRiders_Jacket_RB)
+7:28:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OMNOGloves_Brown)
+7:28:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Jeans_Black)
+7:29:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kneepads_Jeans_Black)
+7:29:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Skinny_Jeans_Black)
+7:29:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kneepads_Jeans_Black)
+7:29:19 | [WeatherManager] Send Data Count is 0
+7:29:25 | [Time Manager] Setting Date to 2025/9/20 7:25
+7:29:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Kneepads_Jeans_Base)
+7:30:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AviatorGlasses)
+7:30:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AviatorGlasses)
+7:31:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Red)
+7:31:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DarkMotoHelmet_Black)
+7:31:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_Black)
+7:33:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MilitaryBoots_Redpunk)
+7:34:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_dixonvest_wings)
+7:34:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_dixonvest_mongrel)
+7:35:18 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:35:33 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:36:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_travelsbag_black)
+7:37:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SlingBag_Black)
+7:37:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SlingBag_Black)
+7:37:36 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (casebag_small_black)
+7:38:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_akito_bag_black)
+7:38:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DuffelBagSmall_Camo)
+7:40:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Pipe)
+7:40:35 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:40:52 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:41:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CrudeMachete)
+7:41:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OrientalMachete)
+7:43:32 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PaddedGloves_Brown)
+7:43:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_RugbyShirt_BLK)
+7:44:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_FieldPants_MC)
+7:44:36 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (JungleBoots_Black)
+7:45:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PlateCarrierVest_Black)
+7:45:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PlateCarrierPouches_Black)
+7:46:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PlateCarrierHolster_Black)
+7:46:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (STAG_Clothing_Cap)
+7:46:48 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BaseballCap_CMMG_Black)
+7:46:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BaseballCap_Camo)
+7:46:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BaseballCap_Black)
+7:49:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (R12)
+7:49:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:49:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+7:50:24 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:50:26 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3459.058350, 16.804577, 6421.223145>)
+7:50:26 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:52:9 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:52:12 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3446.173828, 38.645065, 6465.407715>)
+7:52:13 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:53:44 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Round_Glasses_Black)
+7:54:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TacticalGoggles)
+7:54:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkiGoggles_BlackYellow)
+7:54:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkiGoggles_WhiteDark)
+7:54:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SkiGoggles_WhiteClear)
+7:54:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TacticalGoggles)
+7:54:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3474.107666, 15.781847, 6585.610840>)
+7:54:41 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3471.349609, 15.591711, 6575.994629>)
+7:54:41 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3468.666748, 15.600397, 6567.842285>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3465.487793, 15.608133, 6560.745605>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3465.447510, 15.608399, 6560.638672>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3465.408691, 15.608646, 6560.539063>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3465.367676, 15.608911, 6560.433105>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3465.325928, 15.609182, 6560.326660>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3464.949707, 15.611250, 6559.505371>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3464.655029, 15.611618, 6558.903809>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3464.346680, 15.610848, 6558.229492>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3464.018799, 15.609992, 6557.564941>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3463.716309, 15.609286, 6556.949219>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3463.443115, 15.609070, 6556.376465>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3463.017578, 15.612725, 6555.455566>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3462.664307, 15.616346, 6554.731445>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3462.013428, 15.620061, 6553.385742>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3461.563232, 15.617824, 6552.456055>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3460.822754, 15.635723, 6550.901855>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3460.368164, 15.638647, 6549.960449>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3459.796143, 15.645692, 6548.773438>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3459.491699, 15.650327, 6548.149414>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3458.498291, 15.680687, 6546.103516>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3458.026855, 15.691666, 6545.135742>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3457.813477, 15.695236, 6544.696289>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3457.698242, 15.697322, 6544.447754>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3456.397217, 15.743237, 6541.775391>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3455.986816, 15.757038, 6540.933105>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3455.841309, 15.763396, 6540.625488>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3454.253906, 15.854898, 6537.382324>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3453.889160, 15.870307, 6536.636719>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3453.811768, 15.873624, 6536.476074>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3453.760498, 15.876181, 6536.359375>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.897705, 15.990021, 6532.560547>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.695557, 16.001434, 6532.146973>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.671387, 16.002335, 6532.095703>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.625977, 16.004499, 6531.989258>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.462891, 16.015724, 6531.620605>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.415283, 16.018482, 6531.524902>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3451.046875, 16.040096, 6530.778320>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3450.676025, 16.061861, 6530.026855>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3450.287354, 16.081877, 6529.226563>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3449.938477, 16.095570, 6528.507324>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3449.526367, 16.113461, 6527.661621>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3449.198242, 16.129910, 6526.988770>)
+7:54:42 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3448.938721, 16.140747, 6526.455566>)
+7:54:54 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:54:57 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3447.841797, 39.437191, 6469.776367>)
+7:54:58 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+7:55:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses_black)
+7:56:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Bag_DrawBridge_Black)
+7:56:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Bag_MRASAP_Black)
+7:58:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HalfMask_Black)
+7:59:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Helmet_Exfil_Black)
+7:59:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Helmet_MICH2000_Black)
+7:59:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Helmet_MICH2000_Grey)
+8:0:32 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Shemagh_Facemask_Black)
+8:1:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_skullbandanamask)
+8:1:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Leathermask_bl)
+8:1:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_bandanamask_bl)
+8:2:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_COMTAC3_Headset_CB)
+8:2:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_COMTAC3_Headset_RG)
+8:2:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_RG)
+8:2:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_Black)
+8:2:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Ghost_Headset_Tan)
+8:4:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_MTF_Pants_White)
+8:4:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_MTF_Shirt_White)
+8:4:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Jacket_White)
+8:4:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Pants_White)
+8:5:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_CPC_Black)
+8:5:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_FCPC_Black)
+8:5:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_TacTec_Black)
+8:6:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_DEFCONVans_Shoes_Black)
+8:6:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (JungleBoots_Black)
+8:6:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_WinterGloves_Black)
+8:7:18 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FlatCap_Black)
+8:7:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Tactical_Leg_Holster_Black)
+8:8:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AviatorGlasses)
+8:8:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AviatorGlasses)
+8:8:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ThinFramesGlasses)
+8:9:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UMP45)
+8:9:35 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MP5K)
+8:9:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PM73Rak)
+8:10:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_UMP_25Rnd)
+8:10:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_UMP_25Rnd)
+8:10:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_UMP_25Rnd)
+8:10:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_UMP_25Rnd)
+8:10:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_UMP_25Rnd)
+8:10:59 | "Thug Lee Vogue" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+8:11:16 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3517.529785, 15.666882, 6390.187012>)
+8:14:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Town_bag)
+8:15:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_hollybag_black)
+8:15:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HalfMask_White)
+8:17:36 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (KitchenKnife)
+8:21:20 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:21:24 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3636.770020, 34.800053, 6391.769531>)
+8:21:24 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:21:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (artillery_tractor_camo)
+8:23:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_G99_Pants_Black)
+8:23:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Pants_Crye_G3_Black)
+8:23:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_FieldPants_Black)
+8:23:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Pants_Black)
+8:23:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_MTF_Pants_Black)
+8:23:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_UFP_Pants_Black)
+8:24:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Cronen_Shirt_Black)
+8:24:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_511_Shirt_Flanel_BlackStriped)
+8:24:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Crye_G3_Shirt_Black)
+8:24:48 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3638.065430, 34.800053, 6392.355469>)
+8:25:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Jacket_SoftShell_Black)
+8:26:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Tactical_Hoodie_Black)
+8:26:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_UFJ_Shirt_Black)
+8:27:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_GunGloves_Black)
+8:28:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+8:28:7 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Arcteryx_Balaclava_Black)
+8:28:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_AVONM53_Black)
+8:28:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_SniperHood_Black)
+8:28:48 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Operator_Boots_Black)
+8:29:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_HalfMask_Black)
+8:29:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_LBT6094_Black)
+8:29:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_MMAC_Black)
+8:29:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_clothmask_black)
+8:29:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_clothmask_black)
+8:29:54 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_black)
+8:30:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_fabricscarf_blackstars)
+8:30:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_CHRSAT_mask_black)
+8:30:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (High_Knee_Sneakers_Black)
+8:31:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Glasses_ESS_Black)
+8:31:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Assaultbackpack_black)
+8:31:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_Black)
+8:31:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_Blackskull)
+8:32:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses_black)
+8:32:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Glasses_ESS_Black)
+8:32:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_helmetglasses)
+8:32:34 | [WeatherManager] Send Data Count is 0
+8:32:38 | [Time Manager] Setting Date to 2025/9/20 7:2
+8:32:47 | [Time Manager] Setting Date to 2025/9/20 7:2
+8:32:55 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:33:2 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<4771.542480, 58.471809, 7609.925781>)
+8:33:3 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:33:31 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:33:39 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:33:44 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses_black)
+8:34:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (NVGHeadstrap)
+8:34:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Ghost_Headset_Tan)
+8:34:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_Black)
+8:34:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_RG)
+8:34:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_COMTAC3_Headset_RG)
+8:34:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_COMTAC3_Headset_CB)
+8:34:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Watchcap_Black)
+8:36:14 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Belt_RTGFB_Black)
+8:37:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AKS74U_Black)
+8:37:30 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AKS74U)
+8:37:31 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AKS74U_Green)
+8:37:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (M16A2)
+8:37:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Saiga)
+8:37:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AugShort)
+8:38:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SV98)
+8:38:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CZ550)
+8:40:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_Saiga_Drum20Rnd)
+8:40:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Ki_Suppressor_Saiga)
+8:40:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Saiga_Bttstck)
+8:57:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PipeWrench)
+8:57:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PipeWrench)
+8:58:38 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+8:58:59 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+9:8:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Jacket_Green)
+9:9:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Pants_Black)
+9:9:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Gorka_Jacket_Black)
+9:9:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Gen4_Black)
+9:9:33 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (OMNOGloves_Gray)
+9:9:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (JungleBoots_Black)
+9:10:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Bag_Trizip_Black)
+9:10:34 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Bag_Trizip_Black)
+9:10:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Bag_SSO_Black)
+9:11:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Helmet_MICH2000_Black)
+9:11:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_Black)
+9:11:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_M32_Headset_RG)
+9:11:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_Black)
+9:11:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses_black)
+9:12:19 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (FOG_Shirt_Tactical_Coat_Black)
+9:13:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESPAR47)
+9:13:38 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESPAR22)
+9:13:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M14_Black)
+9:13:39 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M14)
+9:13:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M110_Green)
+9:13:40 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M110_Tan)
+9:13:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M110)
+9:13:41 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Angle_Grip_Black)
+9:13:42 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_G36C)
+9:13:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Angle_Grip_Green)
+9:13:43 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Angle_Grip_Tan)
+9:13:44 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_RedWood)
+9:13:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Green)
+9:13:45 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Tan)
+9:13:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:13:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_Stck_Black)
+9:13:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_Stck_Tan)
+9:13:47 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_Collapse_Stck_Tan)
+9:13:48 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Crane_Stock_Black)
+9:13:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_Collapse_Stck_Black)
+9:13:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Crane_Stock_Black)
+9:13:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Crane_Stock_Tan)
+9:13:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SNPR_Stck_Black)
+9:13:51 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M16_Stck_Black)
+9:13:52 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M16_Stck_Wood)
+9:13:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_RIS_HNDGRD_Black)
+9:13:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_URGI_HNDGRD_Black)
+9:13:55 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M16_HndGrd_Black)
+9:13:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M16_HndGrd_Black)
+9:13:57 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_SCAR_URGI_HNDGRD_Tan)
+9:13:58 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_M16_HndGrd_Wood)
+9:13:59 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Erg_HndGrd_Long_Tan)
+9:14:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Erg_HndGrd_Long_Black)
+9:14:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Erg_HndGrd_Long_Black)
+9:14:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Erg_HndGrd_Black)
+9:14:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Erg_HndGrd_Tan)
+9:14:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_PlatedRIS_HndGrd_Tan)
+9:14:2 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_PlatedRIS_HndGrd_Long_Tan)
+9:14:3 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Lightweight_HndGrd_Green)
+9:14:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_P90_UpgradeKit)
+9:14:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RedDot)
+9:14:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Spectre)
+9:14:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Short_Range)
+9:14:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Hunter)
+9:14:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Long_Range)
+9:14:11 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Tac_Craftsmen)
+9:14:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Wrapped_Suppressor_Black)
+9:14:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Wrapped_Suppressor_Green)
+9:14:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_Wrapped_Suppressor)
+9:14:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Adapter)
+9:15:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:15:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:15:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:15:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:15:46 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ESP_RIS_Cover_Black)
+9:16:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+9:16:49 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Mag_STANAGCoupled_30Rnd)
+9:19:13 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<4385.570801, 21.688950, 7618.644043>)
+9:19:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<4367.394531, 16.953205, 7636.354980>)
+9:21:41 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+9:22:12 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1672.061157, 97.937469, 6284.949707>)
+9:22:14 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+9:22:23 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1853.859985, 98.876755, 6506.620117>)
+9:22:23 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=1853.86,0,6506.62)
+9:30:38 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1749.569946, 98.050003, 6563.479980>)
+9:30:38 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=1749.57,0,6563.48)
+9:48:52 | [WeatherManager] Send Data Count is 0
+9:48:59 | [Time Manager] Setting Date to 2025/9/20 6:14
+9:49:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TerjeSleepingBag_Blue)
+9:49:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (TerjeSleepingBag_Woodland)
+9:49:44 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AliceBag_Green)
+9:50:21 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Nomadbackpack_v3_BaseColor)
+9:50:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Canvas_Backpack_Base)
+9:50:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Assaultbackpack_black)
+9:50:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_Assaultbackpack_steppe)
+9:51:1 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Loftd_reinabag_grey)
+9:51:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DrysackBag_Yellow)
+9:51:6 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CanvasBag_Medical)
+9:51:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DuffelBagSmall_Green)
+9:51:9 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SlingBag_Gray)
+9:51:15 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (CoyoteBag_Winter)
+9:51:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (AssaultBag_Black)
+9:51:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ChildBag_Green)
+9:51:20 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (SmershBag)
+9:51:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MountainBag_Green)
+9:51:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (HuntingBag)
+9:51:25 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (DryBag_Red)
+9:55:22 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+9:55:26 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1756.164185, 97.863930, 6609.244629>)
+9:55:26 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:6:13 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (artillery_tractor_kung_camo)
+10:6:16 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:6:18 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1708.412354, 96.679184, 6574.633301>)
+10:6:18 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:7:24 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+10:10:22 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2264.530029, 22.230284, 882.145996>)
+10:10:22 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=2264.53,0,882.146)
+10:11:26 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:11:58 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:12:13 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3025.760010, 33.509998, 1226.109985>)
+10:12:13 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=3025.76,0,1226.11)
+10:12:17 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3093.300049, 67.029770, 1202.800049>)
+10:12:17 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=3093.3,0,1202.8)
+10:12:20 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:12:54 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+10:13:21 | Player "Thug Lee Vogue" (steamId=76561198413928129) initiated disconnect process...
+10:13:23 | Player "Thug Lee Vogue" (steamId=76561198413928129) disconnected early from server (EXIT NOW).

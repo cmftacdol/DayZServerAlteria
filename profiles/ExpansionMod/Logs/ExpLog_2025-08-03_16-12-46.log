@@ -1,0 +1,311 @@
+16:12:46.880 [Spatial AI] Spatial AI Date: 3/6/2025 WC RC30.4
+16:14:03.484 [Spatial AI] Spatial AI Enabled
+16:14:03.484 [Spatial AI] points Enabled
+16:14:03.484 [Spatial AI] Trigger at point: <6840.000000, 1.000000, 1800.000000> - Radius: 500
+16:14:03.485 [Spatial AI] - Safe: true - Faction: Civilian - counts: 0:0
+16:14:03.485 [Spatial AI] - loadout added: HumanLoadout.json
+16:14:03.485 [Spatial AI] - loadout added: NBCLoadout.json
+16:14:03.485 [Spatial AI] Locations Enabled
+16:14:03.485 [Spatial AI] Trigger at location: <6257.560059, 18.410000, 14467.200195> - Radius: 800
+16:14:03.485 [Spatial AI] - Spawn location: <6344.420410, 30.040045, 14303.774414>
+16:14:03.486 [Spatial AI] - Spawn location: <5796.822266, 5.880013, 14490.708008>
+16:14:03.486 [Spatial AI] - Spawn location: <6305.322754, 41.860020, 14149.852539>
+16:14:03.486 [Spatial AI] - Notification covering location to Radius: 1600
+16:14:03.486 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 1:2
+16:14:03.486 [Spatial AI] Trigger at location: <6257.560059, 18.410000, 14467.200195> - Radius: 800
+16:14:03.486 [Spatial AI] - Spawn location: <6098.152344, 5.879946, 14940.519531>
+16:14:03.486 [Spatial AI] - Spawn location: <5983.264648, 10.213585, 14193.515625>
+16:14:03.487 [Spatial AI] - Spawn location: <6236.242676, 18.634785, 14679.194336>
+16:14:03.487 [Spatial AI] - Notification covering location to Radius: 1600
+16:14:03.487 [Spatial AI] - Faction: West - Loadout: EastLoadout.json - counts: 1:2
+16:14:03.487 [Spatial AI] Trigger at location: <10056.168945, 25.976318, 12530.000000> - Radius: 400
+16:14:03.487 [Spatial AI] - Spawn location: <9984.441406, 20.558519, 12347.441406>
+16:14:03.487 [Spatial AI] - Spawn location: <10017.425781, 37.736946, 12654.932617>
+16:14:03.487 [Spatial AI] - Spawn location: <10150.041992, 20.613497, 12503.152344>
+16:14:03.487 [Spatial AI] - Notification covering location to Radius: 800
+16:14:03.488 [Spatial AI] - Faction: West - Loadout: EastLoadout.json - counts: 1:2
+16:14:03.488 [Spatial AI] Trigger at location: <3393.530273, 21.440277, 6378.111328> - Radius: 500
+16:14:03.488 [Spatial AI] - Spawn location: <3597.679688, 21.725580, 6669.287109>
+16:14:03.488 [Spatial AI] - Spawn location: <3589.300049, 22.923489, 6198.284180>
+16:14:03.488 [Spatial AI] - Spawn location: <3336.210693, 29.181435, 5892.881836>
+16:14:03.488 [Spatial AI] - Notification covering location to Radius: 1000
+16:14:03.488 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 2:4
+16:14:03.488 [Spatial AI] Trigger at location: <1959.498657, 18.186495, 8979.322266> - Radius: 500
+16:14:03.489 [Spatial AI] - Spawn location: <1570.769653, 9.325001, 9056.298828>
+16:14:03.489 [Spatial AI] - Spawn location: <1961.140381, 10.229561, 8858.866211>
+16:14:03.489 [Spatial AI] - Notification covering location to Radius: 1000
+16:14:03.489 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 1:2
+16:14:03.489 [Spatial AI] Trigger at location: <1170.192261, 8.320038, 15320.155273> - Radius: 1200
+16:14:03.489 [Spatial AI] - Spawn location: <1525.062622, 8.401005, 15249.708008>
+16:14:03.489 [Spatial AI] - Spawn location: <1103.943115, 8.717572, 15480.782227>
+16:14:03.489 [Spatial AI] - Spawn location: <1463.688232, 8.911016, 15579.563477>
+16:14:03.490 [Spatial AI] - Notification covering location to Radius: 2400
+16:14:03.490 [Spatial AI] - Faction: West - Loadout: EastLoadout.json - counts: 2:4
+16:14:03.490 [Spatial AI] Trigger at location: <1170.192261, 8.320038, 15320.155273> - Radius: 1200
+16:14:03.490 [Spatial AI] - Spawn location: <493.689056, 8.449974, 15254.329102>
+16:14:03.490 [Spatial AI] - Spawn location: <493.689056, 8.449974, 15254.329102>
+16:14:03.490 [Spatial AI] - Spawn location: <1228.262573, 15.048648, 15653.280273>
+16:14:03.490 [Spatial AI] - Spawn location: <1019.519592, 21.300720, 15270.713867>
+16:14:03.491 [Spatial AI] - Spawn location: <1455.719360, 8.320001, 15599.702148>
+16:14:03.491 [Spatial AI] - Spawn location: <456.343231, 8.433776, 15308.247070>
+16:14:03.491 [Spatial AI] - Notification covering location to Radius: 2400
+16:14:03.491 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 1:1
+16:14:03.491 [Spatial AI] Trigger at location: <15750.000000, 1.000000, 4830.000000> - Radius: 300
+16:14:03.491 [Spatial AI] - Spawn location: <15770.000000, 0.000000, 5090.000000>
+16:14:03.491 [Spatial AI] - Spawn location: <15750.000000, 0.000000, 4495.000000>
+16:14:03.491 [Spatial AI] - Spawn location: <15900.000000, 0.000000, 4840.000000>
+16:14:03.492 [Spatial AI] - Notification covering location to Radius: 600
+16:14:03.492 [Spatial AI] - Faction: East - Loadout: EastLoadout.json - counts: 1:2
+16:14:03.492 [Spatial AI] Trigger at location: <9986.916992, 1.268293, 15950.156250> - Radius: 1500
+16:14:03.492 [Spatial AI] - Spawn location: <9775.257813, 58.978100, 15312.709961>
+16:14:03.492 [Spatial AI] - Spawn location: <8747.009766, 47.742729, 15550.625977>
+16:14:03.492 [Spatial AI] - Spawn location: <9284.742188, 30.157171, 14797.387695>
+16:14:03.492 [Spatial AI] - Spawn location: <9950.969727, 50.549671, 14424.354492>
+16:14:03.493 [Spatial AI] - Spawn location: <10225.027344, 48.892952, 14436.932617>
+16:14:03.493 [Spatial AI] - Notification covering location to Radius: 3000
+16:14:03.493 [Spatial AI] - Faction: East - Loadout: JuggernautLoadout.json - counts: 2:2
+16:14:03.493 [Spatial AI] Audio Sensitive Locations Disabled
+16:14:56.548 [AI Object Patrol 00009] Spawning 1 Raiders bots at <7065.119141, 2.913322, 1358.298218>
+16:14:56.718 [AI Object Patrol 00009] Global patrol count: 1
+16:18:17.301 [SpawnSelection] Player "Anderson" (id=FSJdpqxYU0tgRIT4SNPcZXMWFhGtwA1dOW_9qH9dGeU=) spawned at <6322.308594, 57.862259, 1705.795288>
+16:18:49.756 [AI Object Patrol 00010] Spawning 1 Raiders bots at <6162.452148, 21.509888, 1443.977051>
+16:18:49.781 [AI Object Patrol 00010] Global patrol count: 2
+16:25:04.441 [AI Object Patrol 00001] Spawning 1 West bots at <5925.284668, 146.455215, 5723.277344>
+16:25:04.461 [AI Object Patrol 00001] Global patrol count: 3
+16:25:04.461 [AI Object Patrol 00001] HelicopterWreck category patrol count: 1
+16:25:19.546 [AI Object Patrol 00001] Despawning 1 West bots (spawn position <5925.284668, 146.455215, 5723.277344>, 0/1 deceased)
+16:25:19.547 [AI Object Patrol 00001] Global patrol count: 2
+16:25:19.547 [AI Object Patrol 00001] HelicopterWreck category patrol count: 0
+16:27:52.870 [AI Object Patrol 00040] Spawning 2 East bots at <6410.374512, 18.816721, 6533.488281>
+16:27:52.894 [AI Object Patrol 00040] Global patrol count: 3
+16:27:52.895 [AI Object Patrol 00040] HelicopterWreck category patrol count: 1
+16:36:12.849 [AI Object Patrol 00040] East bots were wiped out (spawn position <6410.374512, 18.816721, 6533.488281>, 2/2 deceased)
+16:36:12.849 [AI Object Patrol 00040] Global patrol count: 2
+16:36:12.849 [AI Object Patrol 00040] HelicopterWreck category patrol count: 0
+16:39:48.116 [AI Object Patrol 00044] Spawning 4 West bots at <5485.853027, 10.390000, 6253.902832>
+16:39:48.138 [AI Object Patrol 00044] Global patrol count: 3
+16:39:48.138 [AI Object Patrol 00044] Convoy category patrol count: 1
+16:42:26.343 [Spatial AI] Player: Paul  Number: 6, Faction name: West, Loadout: EastLoadout.json
+16:42:26.343 [Spatial AI] Player: DnWings Number: 6, Faction name: West, Loadout: EastLoadout.json
+16:42:26.357 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <10017.425781, 28.820000, 12654.932617>
+16:42:27.187 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <10150.041992, 20.360001, 12503.152344>
+16:42:27.311 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <9984.441406, 20.362154, 12347.441406>
+16:43:00.196 [AI Object Patrol 00045] Spawning 3 West bots at <10718.518555, 10.310000, 10914.735352>
+16:43:00.223 [AI Object Patrol 00045] Global patrol count: 4
+16:43:00.223 [AI Object Patrol 00045] Convoy category patrol count: 2
+16:45:33.859 [AI Object Patrol 00036] Spawning 2 Raiders bots at <8429.930664, 5.130000, 8842.103516>
+16:45:33.871 [AI Object Patrol 00036] Global patrol count: 5
+16:46:47.062 [AI Patrol 00015] Spawning 3 West bots at <6970.446777, 8.582447, 8380.665039>
+16:46:47.087 [AI Patrol 00015] Global patrol count: 6
+16:46:47.087 [AI Patrol 00015] Patrol category patrol count: 1
+16:48:39.282 [AI Object Patrol 00044] Despawning 4 West bots (spawn position <5485.853027, 10.390000, 6253.902832>, 0/4 deceased)
+16:48:39.283 [AI Object Patrol 00044] Global patrol count: 5
+16:48:39.283 [AI Object Patrol 00044] Convoy category patrol count: 1
+16:48:39.283 [AI Object Patrol 00045] Despawning 3 West bots (spawn position <10718.518555, 10.310000, 10914.735352>, 0/3 deceased)
+16:48:39.283 [AI Object Patrol 00045] Global patrol count: 4
+16:48:39.283 [AI Object Patrol 00045] Convoy category patrol count: 0
+16:48:39.956 [AI Object Patrol 00046] Spawning 1 West bots at <6486.178711, 49.249752, 8699.974609>
+16:48:39.979 [AI Object Patrol 00046] Global patrol count: 5
+16:48:57.175 [AI Patrol 00017] Spawning 2 West bots at <4958.109863, 12.751772, 7406.941895>
+16:48:57.209 [AI Patrol 00017] Global patrol count: 6
+16:48:57.210 [AI Patrol 00017] Patrol category patrol count: 2
+16:55:50.031 [AI Object Patrol 00046] Despawning 1 West bots (spawn position <6486.178711, 49.249752, 8699.974609>, 0/1 deceased)
+16:55:50.032 [AI Object Patrol 00046] Global patrol count: 5
+16:55:50.136 [AI Object Patrol 00031] Spawning 3 West bots at <6507.777344, 31.549999, 2146.996582>
+16:55:50.160 [AI Object Patrol 00031] Global patrol count: 6
+16:56:12.566 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <5909.210449, 31.828844, 1987.187866>
+16:56:43.891 [AI Object Patrol 00040] Despawning 0 East bots (spawn position <6387.397949, 15.090000, 6258.770020>, 2/2 deceased)
+16:57:59.291 [AI Patrol 00015] Despawning 3 West bots (spawn position <6970.446777, 8.582447, 8380.665039>, 0/3 deceased)
+16:57:59.291 [AI Patrol 00015] Global patrol count: 5
+16:57:59.291 [AI Patrol 00015] Patrol category patrol count: 1
+17:04:08.415 [AI Patrol 00016] Spawning 1 East bots at <5783.291016, 75.133087, 3892.863770>
+17:04:08.434 [AI Patrol 00016] Global patrol count: 6
+17:04:08.435 [AI Patrol 00016] Patrol category patrol count: 2
+17:09:29.374 [AI Patrol 00017] Despawning 2 West bots (spawn position <4958.109863, 12.751772, 7406.941895>, 0/2 deceased)
+17:09:29.374 [AI Patrol 00017] Global patrol count: 5
+17:09:29.374 [AI Patrol 00017] Patrol category patrol count: 1
+17:09:29.664 [AI Object Patrol 00033] Spawning 1 West bots at <7456.012695, 26.469053, 3747.722900>
+17:09:29.684 [AI Object Patrol 00033] Global patrol count: 6
+17:18:14.783 [AI Patrol 00016] Despawning 1 East bots (spawn position <5783.291016, 75.133087, 3892.863770>, 0/1 deceased)
+17:18:14.783 [AI Patrol 00016] Global patrol count: 5
+17:18:14.783 [AI Patrol 00016] Patrol category patrol count: 0
+17:18:16.185 [AI Object Patrol 00059] Spawning 1 East bots at <8174.914551, 5.848242, 13135.296875>
+17:18:16.200 [AI Object Patrol 00059] Global patrol count: 6
+17:18:16.200 [AI Object Patrol 00059] HelicopterWreck category patrol count: 1
+17:25:02.454 [AI Object Patrol 00059] Despawning 1 East bots (spawn position <8174.914551, 5.848242, 13135.296875>, 0/1 deceased)
+17:25:02.454 [AI Object Patrol 00059] Global patrol count: 5
+17:25:02.454 [AI Object Patrol 00059] HelicopterWreck category patrol count: 0
+17:32:23.327 [Territory] Player "Lando" (id=HO6Z7qWdUi3YOFO4FP24wdZVB0Qq_tZrR4P4vuc-aGQ=) created territory "SOLO" at <7599.387695, 86.383682, 4545.478516>
+17:43:45.609 [Spatial AI] Next valid check in: 5283707ms
+17:47:06.405 [AI Object Patrol 00036] Despawning 2 Raiders bots (spawn position <8429.930664, 5.130000, 8842.103516>, 0/2 deceased)
+17:47:06.405 [AI Object Patrol 00036] Global patrol count: 4
+17:55:34.977 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <7838.982910, 118.118866, 1983.512817>
+17:55:35.012 [AI Patrol 00018] Spawning 2 West bots at <8243.244141, 0.416273, 2829.793213>
+17:55:35.029 [AI Patrol 00018] Global patrol count: 5
+17:55:35.029 [AI Patrol 00018] Patrol category patrol count: 1
+18:02:05.879 [Spatial AI] Player: Paul  Number: 10, Faction name: East, Loadout: JuggernautLoadout.json
+18:02:05.879 [Spatial AI] Player: DnWings Number: 10, Faction name: East, Loadout: JuggernautLoadout.json
+18:02:05.879 [Spatial AI] Player: owl Number: 10, Faction name: East, Loadout: JuggernautLoadout.json
+18:02:06.720 [Spatial AI] Spawning 2 Danger Zone Juggernauts bots at <9775.257813, 49.179668, 15312.709961>
+18:02:06.831 [Spatial AI] Spawning 2 Danger Zone Juggernauts bots at <8747.009766, 47.715614, 15550.625977>
+18:02:06.899 [Spatial AI] Spawning 2 Danger Zone Juggernauts bots at <9284.742188, 30.128584, 14797.387695>
+18:02:16.340 [Spatial AI] Spawning 2 Danger Zone Juggernauts bots at <9950.969727, 50.521126, 14424.354492>
+18:03:08.707 [Territory] Player "owl" (id=E8jmJkRnGR2C4NWixHbxoheokip4ZA-yqOPFSyqeP04= pos=<9215.964844, 36.552975, 14951.941406>) was invited to join the territory Danger Zone FOB. at <9217.415039, 36.527977, 14952.640625> by the player "Paul " (id=Su1qgGWozoZ9M44h0tdexxkIi1ERaD5yxH2upz4Ymlc=)
+18:05:27.260 [AI Object Patrol 00031] Despawning 2 West bots (spawn position <6507.777344, 31.549999, 2146.996582>, 1/3 deceased)
+18:05:27.260 [AI Object Patrol 00031] Global patrol count: 4
+18:08:59.500 [AI Patrol 00018] Despawning 2 West bots (spawn position <8243.244141, 0.416273, 2829.793213>, 0/2 deceased)
+18:08:59.500 [AI Patrol 00018] Global patrol count: 3
+18:08:59.500 [AI Patrol 00018] Patrol category patrol count: 0
+18:40:10.854 [AI Object Patrol 00033] Despawning 1 West bots (spawn position <7456.012695, 26.469053, 3747.722900>, 0/1 deceased)
+18:40:10.855 [AI Object Patrol 00033] Global patrol count: 2
+18:42:26.850 [Spatial AI] Spawning 2 Danger Zone Juggernauts bots at <10225.027344, 48.851395, 14436.932617>
+18:51:01.487 [SpawnSelection] Player "DnWings" (id=LjZ-lTSxzIX-TQaxtHa3VRbtEraO9NPddj2EnPWSy30=) spawned at <9218.415039, 36.527977, 14953.640625>
+18:55:26.045 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <8215.211914, 3.844002, 1663.671143>
+19:00:29.590 [AI Object Patrol 00117] Spawning 2 West bots at <6471.412598, 5.830172, 8618.687500>
+19:00:29.608 [AI Object Patrol 00117] Global patrol count: 3
+19:00:34.295 [AI Object Patrol 00009] Raiders bots were wiped out (spawn position <7065.119141, 2.913322, 1358.298218>, 1/1 deceased)
+19:00:34.296 [AI Object Patrol 00009] Global patrol count: 2
+19:11:49.333 [Spatial AI] Player: Paul  Number: 2, Faction name: East, Loadout: WestLoadout.json
+19:11:49.333 [Spatial AI] Next valid check in: 4288919ms
+19:11:50.078 [Spatial AI] Spawning 2 East bots at <9411.689453, 48.430141, 15505.708984>
+19:13:47.822 [SpawnSelection] Player "Paul " (id=Su1qgGWozoZ9M44h0tdexxkIi1ERaD5yxH2upz4Ymlc=) spawned at <9218.415039, 36.527977, 14953.640625>
+19:20:22.531 [AI Object Patrol 00117] Despawning 2 West bots (spawn position <6471.412598, 5.830172, 8618.687500>, 0/2 deceased)
+19:20:22.531 [AI Object Patrol 00117] Global patrol count: 1
+19:23:24.213 [AI Object Patrol 00131] Spawning 2 West bots at <5460.507324, 0.000000, 7467.372070>
+19:23:24.229 [AI Object Patrol 00131] Global patrol count: 2
+19:25:14.698 [SpawnSelection] Player "owl" (id=E8jmJkRnGR2C4NWixHbxoheokip4ZA-yqOPFSyqeP04=) spawned at <9218.415039, 36.527977, 14953.640625>
+19:26:44.343 [AI Object Patrol 00009] Despawning 0 Raiders bots (spawn position <7228.927246, 7.113041, 1442.902832>, 1/1 deceased)
+19:35:44.198 [AI Object Patrol 00131] Despawning 2 West bots (spawn position <5460.507324, 0.000000, 7467.372070>, 0/2 deceased)
+19:35:44.198 [AI Object Patrol 00131] Global patrol count: 1
+19:46:22.783 [AI Object Patrol 00144] Spawning 3 West bots at <6511.251953, 21.317093, 8578.303711>
+19:46:22.795 [AI Object Patrol 00144] Global patrol count: 2
+19:53:08.059 [AI Object Patrol 00150] Spawning 1 West bots at <9203.275391, 27.035070, 13126.840820>
+19:53:08.077 [AI Object Patrol 00150] Global patrol count: 3
+19:53:08.078 [AI Object Patrol 00150] Convoy category patrol count: 1
+19:53:08.709 [AI Object Patrol 00149] Spawning 1 West bots at <9191.929688, 6.290000, 13201.323242>
+19:53:08.727 [AI Object Patrol 00149] Global patrol count: 4
+19:53:08.727 [AI Object Patrol 00149] Convoy category patrol count: 2
+20:01:39.703 [AI Patrol 00022] Spawning 2 East bots at <9111.326172, 52.441811, 3967.834717>
+20:01:39.719 [AI Patrol 00022] Global patrol count: 5
+20:01:39.719 [AI Patrol 00022] Patrol category patrol count: 1
+20:01:58.531 [AI Patrol 00024] Spawning 2 East bots at <8992.484375, 48.439732, 3747.908447>
+20:01:58.550 [AI Patrol 00024] Global patrol count: 6
+20:01:58.550 [AI Patrol 00024] Patrol category patrol count: 2
+20:06:16.066 [AI Object Patrol 00144] Despawning 3 West bots (spawn position <6511.251953, 21.317093, 8578.303711>, 0/3 deceased)
+20:06:16.066 [AI Object Patrol 00144] Global patrol count: 5
+20:06:16.885 [AI Object Patrol 00034] Spawning 1 Raiders bots at <9629.537109, 4.312379, 4353.423340>
+20:06:16.903 [AI Object Patrol 00034] Global patrol count: 6
+20:09:43.707 [AI Object Patrol 00149] West bots were wiped out (spawn position <9191.929688, 6.290000, 13201.323242>, 1/1 deceased)
+20:09:43.707 [AI Object Patrol 00149] Global patrol count: 5
+20:09:43.707 [AI Object Patrol 00149] Convoy category patrol count: 1
+20:09:47.329 [AI Object Patrol 00153] Spawning 3 East bots at <10112.995117, 59.375271, 4861.981934>
+20:09:47.346 [AI Object Patrol 00153] Global patrol count: 6
+20:09:47.346 [AI Object Patrol 00153] HelicopterWreck category patrol count: 1
+20:10:08.013 [AI Object Patrol 00150] West bots were wiped out (spawn position <9203.275391, 27.035070, 13126.840820>, 1/1 deceased)
+20:10:08.013 [AI Object Patrol 00150] Global patrol count: 5
+20:10:08.013 [AI Object Patrol 00150] Convoy category patrol count: 0
+20:12:59.572 [AI Patrol 00024] Despawning 2 East bots (spawn position <8992.484375, 48.439732, 3747.908447>, 0/2 deceased)
+20:12:59.572 [AI Patrol 00024] Global patrol count: 4
+20:12:59.572 [AI Patrol 00024] Patrol category patrol count: 1
+20:13:26.782 [AI Object Patrol 00149] Despawning 0 West bots (spawn position <9093.136719, 7.121797, 13155.115234>, 1/1 deceased)
+20:13:26.782 [AI Object Patrol 00150] Despawning 0 West bots (spawn position <9172.606445, 4.211668, 13306.332031>, 1/1 deceased)
+20:16:00.158 [AI Object Patrol 00157] Spawning 2 West bots at <9953.049805, 33.341629, 5547.517578>
+20:16:00.180 [AI Object Patrol 00157] Global patrol count: 5
+20:16:00.180 [AI Object Patrol 00157] Convoy category patrol count: 1
+20:16:00.420 [AI Object Patrol 00158] Spawning 3 West bots at <9988.674805, 32.681793, 5558.655273>
+20:16:00.439 [AI Object Patrol 00158] Global patrol count: 6
+20:16:00.440 [AI Object Patrol 00158] Convoy category patrol count: 2
+20:17:22.840 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <6322.308594, 57.862259, 1705.795288>
+20:18:44.417 [AI Patrol 00022] Despawning 2 East bots (spawn position <9111.326172, 52.441811, 3967.834717>, 0/2 deceased)
+20:18:44.417 [AI Patrol 00022] Global patrol count: 5
+20:18:44.417 [AI Patrol 00022] Patrol category patrol count: 0
+20:18:44.545 [AI Object Patrol 00052] Spawning 1 Raiders bots at <4869.713379, 16.980598, 1446.920532>
+20:18:44.565 [AI Object Patrol 00052] Global patrol count: 6
+20:23:18.322 [Spatial AI] Player: KOG Number: 2, Faction name: Raiders, Loadout: TTSKOLoadout.json
+20:23:18.323 [Spatial AI] Player: Keidgos Number: 2, Faction name: East, Loadout: EastLoadout.json
+20:23:18.323 [Spatial AI] Next valid check in: 3750846ms
+20:23:19.006 [Spatial AI] Spawning 2 East bots at <5226.231934, 17.124256, 1113.034790>
+20:23:19.237 [Spatial AI] Spawning 2 Raiders bots at <4703.945313, 18.476372, 11252.107422>
+20:24:41.439 [AI Object Patrol 00153] Despawning 3 East bots (spawn position <10112.995117, 59.375271, 4861.981934>, 0/3 deceased)
+20:24:41.439 [AI Object Patrol 00153] Global patrol count: 5
+20:24:41.439 [AI Object Patrol 00153] HelicopterWreck category patrol count: 0
+20:27:08.708 [SpawnSelection] Player "Keidgos" (id=hBxlWi4XaiPmxnMcYfi_APygjl6-KfIkY1gkyrR_kyQ=) spawned at <5785.316895, 34.343693, 991.727478>
+20:35:46.448 [AI Object Patrol 00166] Spawning 3 East bots at <4788.014648, 32.809387, 11676.325195>
+20:35:46.463 [AI Object Patrol 00166] Global patrol count: 6
+20:35:46.463 [AI Object Patrol 00166] HelicopterWreck category patrol count: 1
+20:35:54.496 [AI Object Patrol 00157] Despawning 2 West bots (spawn position <9953.049805, 33.341629, 5547.517578>, 0/2 deceased)
+20:35:54.496 [AI Object Patrol 00157] Global patrol count: 5
+20:35:54.497 [AI Object Patrol 00157] Convoy category patrol count: 1
+20:35:54.497 [AI Object Patrol 00158] Despawning 3 West bots (spawn position <9988.674805, 32.681793, 5558.655273>, 0/3 deceased)
+20:35:54.497 [AI Object Patrol 00158] Global patrol count: 4
+20:35:54.497 [AI Object Patrol 00158] Convoy category patrol count: 0
+20:47:42.469 [AI Object Patrol 00173] Spawning 2 West bots at <5169.865234, 5.609419, 12530.046875>
+20:47:42.483 [AI Object Patrol 00173] Global patrol count: 5
+20:48:59.793 [AI Object Patrol 00174] Spawning 3 East bots at <9975.214844, 67.939384, 4876.617188>
+20:48:59.807 [AI Object Patrol 00174] Global patrol count: 6
+20:48:59.807 [AI Object Patrol 00174] HelicopterWreck category patrol count: 2
+20:54:56.522 [AI Object Patrol 00166] Despawning 3 East bots (spawn position <4788.014648, 32.809387, 11676.325195>, 0/3 deceased)
+20:54:56.522 [AI Object Patrol 00166] Global patrol count: 5
+20:54:56.522 [AI Object Patrol 00166] HelicopterWreck category patrol count: 1
+20:59:39.508 [AI Object Patrol 00173] Despawning 2 West bots (spawn position <5169.865234, 5.609419, 12530.046875>, 0/2 deceased)
+20:59:39.508 [AI Object Patrol 00173] Global patrol count: 4
+20:59:41.574 [AI Object Patrol 00036] Spawning 1 Raiders bots at <8429.930664, 5.130000, 8842.103516>
+20:59:41.588 [AI Object Patrol 00036] Global patrol count: 5
+21:00:50.376 [AI Object Patrol 00010] Despawning 1 Raiders bots (spawn position <6162.452148, 21.509888, 1443.977051>, 0/1 deceased)
+21:00:50.376 [AI Object Patrol 00010] Global patrol count: 4
+21:01:30.578 [AI Object Patrol 00174] Despawning 3 East bots (spawn position <9975.214844, 67.939384, 4876.617188>, 0/3 deceased)
+21:01:30.578 [AI Object Patrol 00174] Global patrol count: 3
+21:01:30.578 [AI Object Patrol 00174] HelicopterWreck category patrol count: 0
+21:11:41.512 [AI Object Patrol 00034] Despawning 1 Raiders bots (spawn position <9629.537109, 4.312379, 4353.423340>, 0/1 deceased)
+21:11:41.512 [AI Object Patrol 00034] Global patrol count: 2
+21:23:03.452 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <6226.744141, 31.550005, 2437.481689>
+21:25:05.491 [AI Object Patrol 00049] Spawning 2 West bots at <7941.928711, 21.500000, 9198.181641>
+21:25:05.507 [AI Object Patrol 00049] Global patrol count: 3
+21:25:49.370 [Spatial AI] Next valid check in: 4305508ms
+21:25:56.889 [AI Object Patrol 00185] Spawning 3 East bots at <9110.964844, 5.130000, 9082.361328>
+21:25:56.908 [AI Object Patrol 00185] Global patrol count: 4
+21:25:56.908 [AI Object Patrol 00185] HelicopterWreck category patrol count: 1
+21:28:03.177 [AI Object Patrol 00052] Despawning 1 Raiders bots (spawn position <4869.713379, 16.980598, 1446.920532>, 0/1 deceased)
+21:28:03.177 [AI Object Patrol 00052] Global patrol count: 3
+21:28:34.887 [AI Object Patrol 00191] Spawning 3 East bots at <10961.661133, 5.200000, 11415.128906>
+21:28:34.903 [AI Object Patrol 00191] Global patrol count: 4
+21:28:34.903 [AI Object Patrol 00191] HelicopterWreck category patrol count: 2
+21:29:38.204 [AI Object Patrol 00191] East bots were wiped out (spawn position <10961.661133, 5.200000, 11415.128906>, 3/3 deceased)
+21:29:38.204 [AI Object Patrol 00191] Global patrol count: 3
+21:29:38.204 [AI Object Patrol 00191] HelicopterWreck category patrol count: 1
+21:31:49.463 [AI Object Patrol 00009] Spawning 1 Raiders bots at <7228.927246, 7.113041, 1442.902832>
+21:31:49.483 [AI Object Patrol 00009] Global patrol count: 4
+21:33:04.815 [AI Object Patrol 00185] Despawning 3 East bots (spawn position <9110.964844, 5.130000, 9082.361328>, 0/3 deceased)
+21:33:04.815 [AI Object Patrol 00185] Global patrol count: 3
+21:33:04.815 [AI Object Patrol 00185] HelicopterWreck category patrol count: 0
+21:33:30.514 [AI Object Patrol 00192] Spawning 2 East bots at <9609.642578, 32.139309, 12384.700195>
+21:33:30.531 [AI Object Patrol 00192] Global patrol count: 4
+21:33:30.531 [AI Object Patrol 00192] HelicopterWreck category patrol count: 1
+21:33:53.445 [Spatial AI] Player: Paul  Number: 6, Faction name: West, Loadout: EastLoadout.json
+21:33:53.849 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <10017.425781, 28.820000, 12654.932617>
+21:33:54.079 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <9984.441406, 20.362154, 12347.441406>
+21:33:54.384 [Spatial AI] Spawning 2 Ghosts - Bayville bots at <10150.041992, 20.360001, 12503.152344>
+21:34:06.701 [AI Object Patrol 00190] Spawning 4 West bots at <9203.603516, 4.143437, 13272.390625>
+21:34:06.722 [AI Object Patrol 00190] Global patrol count: 5
+21:34:06.722 [AI Object Patrol 00190] Convoy category patrol count: 1
+21:34:30.132 [SpawnSelection] Player "rye" (id=E-E2pK5PU2j9WFjzF0vs80cUZBTgliNR8qOU3YhLLiU=) spawned at <6194.893066, 1.712646, 850.438416>
+21:37:45.791 [AI Object Patrol 00049] Despawning 2 West bots (spawn position <7941.928711, 21.500000, 9198.181641>, 0/2 deceased)
+21:37:45.791 [AI Object Patrol 00049] Global patrol count: 4
+21:46:05.607 [AI Object Patrol 00190] Despawning 2 West bots (spawn position <9203.603516, 4.143437, 13272.390625>, 2/4 deceased)
+21:46:05.608 [AI Object Patrol 00190] Global patrol count: 3
+21:46:05.608 [AI Object Patrol 00190] Convoy category patrol count: 0
+21:47:26.646 [AI Object Patrol 00191] Despawning 0 East bots (spawn position <11008.174805, 5.330528, 11301.431641>, 3/3 deceased)
+21:47:26.646 [AI Object Patrol 00192] Despawning 1 East bots (spawn position <9609.642578, 32.139309, 12384.700195>, 1/2 deceased)
+21:47:26.646 [AI Object Patrol 00192] Global patrol count: 2
+21:47:26.646 [AI Object Patrol 00192] HelicopterWreck category patrol count: 0
+21:56:29.088 [AI Object Patrol 00203] Spawning 1 West bots at <7820.208984, 6.300000, 13393.442383>
+21:56:29.108 [AI Object Patrol 00203] Global patrol count: 3
+21:56:29.108 [AI Object Patrol 00203] HelicopterWreck category patrol count: 1
+22:01:47.516 [AI Object Patrol 00036] Despawning 1 Raiders bots (spawn position <8429.930664, 5.130000, 8842.103516>, 0/1 deceased)
+22:01:47.516 [AI Object Patrol 00036] Global patrol count: 2
+22:08:05.244 [AI Object Patrol 00203] Despawning 1 West bots (spawn position <7820.208984, 6.300000, 13393.442383>, 0/1 deceased)
+22:08:05.244 [AI Object Patrol 00203] Global patrol count: 1
+22:08:05.244 [AI Object Patrol 00203] HelicopterWreck category patrol count: 0
+22:09:45.044 [AI Object Patrol 00209] Spawning 2 West bots at <9154.075195, 6.420632, 13225.485352>
+22:09:45.062 [AI Object Patrol 00209] Global patrol count: 2
+22:09:45.062 [AI Object Patrol 00209] Convoy category patrol count: 1

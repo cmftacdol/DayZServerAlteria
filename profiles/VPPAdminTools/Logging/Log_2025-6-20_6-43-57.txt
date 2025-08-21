@@ -1,0 +1,191 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-6-20_6-43-57
+====================================================================================
+6:43:57 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:43:57 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:43:57 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:43:57 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:43:57 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:43:57 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:43:57 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:43:57 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:43:57 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:43:57 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:43:57 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:43:57 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:43:57 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:43:57 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:43:57 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:43:57 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:43:57 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:43:57 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:43:57 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:43:58 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+6:43:58 | [PermissionManager] Adding Super Admin (76561198413928129)
+6:43:58 | [PermissionManager] Adding Super Admin (76561198061747392)
+6:43:58 | [PermissionManager] Loaded UserGroups.json
+6:43:58 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:43:58 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:43:58 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:43:58 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:43:58 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:43:58 | Building Sets Loaded: 2
+6:43:58 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:14:53 | Player "The Penguin Explorer" (steamId=76561198413928129) connected to server!
+7:15:2 | "The Penguin Explorer" (steamid=76561198413928129) gave godmode to (steamid=76561198413928129)
+7:15:2 | "The Penguin Explorer" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+7:16:13 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8914.739258, 0.825558, 13899.413086>)
+7:16:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8938.772461, 0.638959, 13924.911133>)
+7:16:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8961.286133, 0.570700, 13948.805664>)
+7:16:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8983.404297, 0.532975, 13972.281250>)
+7:16:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9005.349609, 0.507323, 13995.568359>)
+7:16:19 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9025.365234, 0.628976, 14016.795898>)
+7:16:20 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9046.007813, 0.702570, 14038.688477>)
+7:16:21 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9053.578125, 0.847440, 14053.133789>)
+7:16:21 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9061.557617, 0.909061, 14068.356445>)
+7:16:22 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9069.640625, 0.950200, 14083.779297>)
+7:16:22 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9069.588867, 0.960924, 14083.682617>)
+7:16:23 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9077.720703, 0.992860, 14099.220703>)
+7:16:23 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9085.998047, 0.995593, 14115.027344>)
+7:16:28 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9094.724609, 0.567474, 14154.515625>)
+7:16:28 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9101.796875, 0.530693, 14186.519531>)
+7:16:29 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9108.817383, 0.504924, 14218.305664>)
+7:16:30 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9115.720703, 0.511487, 14249.552734>)
+7:16:31 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9122.352539, 0.579445, 14279.572266>)
+7:16:32 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9128.901367, 0.667658, 14309.208984>)
+7:16:33 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9135.354492, 0.779230, 14338.416992>)
+7:16:36 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9138.086914, 0.999994, 14350.694336>)
+7:16:36 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9140.862305, 0.988283, 14362.671875>)
+7:16:37 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9146.272461, 0.955010, 14387.441406>)
+7:16:37 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9147.265625, 0.903200, 14390.787109>)
+7:16:38 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9148.707031, 0.837520, 14396.288086>)
+7:16:39 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9153.759766, 0.767090, 14419.303711>)
+7:16:39 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9157.878906, 0.689108, 14437.794922>)
+7:16:40 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9160.218750, 1.059566, 14447.676758>)
+7:20:6 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:21:43 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9247.852539, 65.637939, 15316.818359>)
+7:22:50 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:23:9 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:23:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9945.432617, 50.753326, 15085.245117>)
+7:23:18 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:24:50 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:26:31 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:26:39 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (M79)
+7:26:56 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:56 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:56 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:56 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:59 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:59 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:59 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:26:59 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_40mm_Explosive)
+7:27:16 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:27:35 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9373.351563, 13.277988, 14531.150391>)
+7:27:36 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:37:35 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:37:41 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9371.808594, 22.613754, 14605.466797>)
+7:37:42 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:39:36 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Vest_CPC_MCA)
+7:39:45 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Vest_CPC_AOR1)
+7:40:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Vest_TacTec_CB)
+7:40:27 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Vest_JPC_ALP)
+7:41:6 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Vest_AVS_ALP)
+7:41:17 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Mag_AVS_ALP)
+7:41:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Mag_Kangaroo_ALP)
+7:41:21 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Mag_BlueFor_ALP)
+7:41:23 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_FC_Panel_ALP_Flag_US)
+7:41:24 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Admin_Small_ALP)
+7:41:26 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Esstac_ALP)
+7:41:27 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Belt_RTGFB_ALP)
+7:41:28 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_RTGFB_Holster_ALP)
+7:41:57 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Pouch_Mag_Kangaroo_ALP)
+7:42:45 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:42:49 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9368.236328, 14.072798, 14534.760742>)
+7:42:50 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+7:44:39 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Bag_6ShBagT_EMR_White)
+7:44:48 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (FOG_Bag_DrawBridge_White)
+7:58:36 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8647.920898, 79.525726, 13708.841797>)
+7:58:39 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8702.574219, 13.263458, 13719.669922>)
+7:58:49 | Player "The Penguin Explorer" (steamId=76561198413928129) initiated disconnect process...
+7:58:52 | Player "The Penguin Explorer" (steamId=76561198413928129) disconnected from server.

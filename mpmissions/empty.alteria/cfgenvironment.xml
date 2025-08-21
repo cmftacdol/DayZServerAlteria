@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<env>
+
+	<!-- GENERAL Territories Section -->
+	<territories>
+
+		<file path="env/zombie_territories.xml" />
+		<file path="env/cattle_territories.xml" /> 
+		<file path="env/sheep_goat_territories.xml" /> 
+		<file path="env/red_deer_territories.xml" />
+		<file path="env/roe_deer_territories.xml" />
+		<file path="env/wild_boar_territories.xml" />
+		<file path="env/wolf_territories.xml" />
+		<file path="env/bear_territories.xml" /> 
+		<file path="env/hen_territories.xml" />		
+		<file path="env/pig_territories.xml" />
+				
+		<territory type="Herd" name="Wolf" behavior="DZWolfGroupBeh">
+			<file usable="wolf_territories" />
+		</territory>
+
+		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
+			<file usable="red_deer_territories" />
+		</territory>
+		<territory type="Herd" name="Cow" behavior="DZdomesticGroupBeh">
+			<file usable="cattle_territories" />
+		</territory>
+		<territory type="Herd" name="Goat" behavior="DZSheepGroupBeh">
+			<file usable="sheep_goat_territories" />
+		</territory>
+		<territory type="Herd" name="Sheep" behavior="DZSheepGroupBeh">
+			<file usable="sheep_goat_territories" />
+		</territory>
+		<territory type="Herd" name="RoeDeer" behavior="DZDeerGroupBeh">
+			<file usable="roe_deer_territories" />
+		</territory>
+		<territory type="Herd" name="Wolf" behavior="DZWolfGroupBeh">
+			<file usable="wolf_territories" />
+		</territory>
+		<territory type="Herd" name="WildBoar" behavior="DZDeerGroupBeh">
+			<file usable="wild_boar_territories" />
+		</territory>
+		<territory type="Herd" name="Pig" behavior="DZSheepGroupBeh">
+			<file usable="pig_territories" />
+		</territory>
+		<territory type="Herd" name="Bear" behavior="BlissBearGroupBeh">
+			<file usable="bear_territories"/>
+		</territory>
+	</territories>
+</env>

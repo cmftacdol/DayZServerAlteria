@@ -1,0 +1,190 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-5-9_11-0-22
+====================================================================================
+11:0:22 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+11:0:22 | [PermissionManager] Perm (FreeCamera) has been registered!
+11:0:22 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuServerManager) has been registered!
+11:0:22 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+11:0:22 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+11:0:22 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+11:0:22 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+11:0:22 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+11:0:22 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+11:0:22 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+11:0:22 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+11:0:22 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+11:0:22 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuBansManager) has been registered!
+11:0:22 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+11:0:22 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+11:0:22 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+11:0:22 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+11:0:22 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+11:0:22 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+11:0:22 | [PermissionManager] Adding Super Admin (76561198061747392)
+11:0:22 | [PermissionManager] Adding Super Admin (76561198413928129)
+11:0:22 | [PermissionManager] Loaded UserGroups.json
+11:0:22 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+11:0:22 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+11:0:22 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+11:0:22 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+11:0:22 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+11:0:22 | Building Sets Loaded: 1
+11:0:22 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+11:5:19 | Player "Mick" (steamId=76561198061747392) connected to server!
+11:6:33 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:34 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:34 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:34 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:34 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:35 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:35 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:35 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:35 | "Mick" (steamid=76561198061747392) Spawned Item: (Ammo_9x19)
+11:6:58 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:6:59 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:6:59 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:6:59 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:6:59 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:6:59 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:0 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:0 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:7 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:7 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:7 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:8 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:8 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:8 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:8 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:7:8 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+11:9:52 | "Mick" (steamid=76561198061747392) toggled freecam
+11:9:54 | "Mick" (steamid=76561198061747392) toggled freecam
+11:9:55 | "Mick" (steamid=76561198061747392) toggled godmode
+11:9:59 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<7342.770020, 606.253601, 11615.299805>)
+11:9:59 | "Mick": (steamid=76561198061747392) teleported to (pos=7342.77,0,11615.3)
+11:10:4 | "Mick" (steamid=76561198061747392) toggled freecam
+11:10:8 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7270.493652, 590.082397, 11648.975586>)
+11:10:9 | "Mick" (steamid=76561198061747392) toggled freecam
+11:10:14 | "Mick" (steamid=76561198061747392) toggled godmode
+11:10:26 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7198.956543, 587.832397, 11618.738281>)
+11:10:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7183.823242, 587.893127, 11616.460938>)
+11:10:28 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7170.701172, 587.895325, 11614.582031>)
+11:10:31 | "Mick" (steamid=76561198061747392) toggled freecam
+11:10:38 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7248.513672, 224.820007, 11621.086914>)
+11:10:39 | "Mick" (steamid=76561198061747392) toggled freecam
+11:10:49 | "Mick" (steamid=76561198061747392) toggled freecam
+11:10:58 | "Mick" (steamid=76561198061747392) toggled freecam
+11:11:1 | "Mick" (steamid=76561198061747392) toggled freecam
+11:11:10 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7165.522949, 427.217621, 11676.725586>)
+11:11:11 | "Mick" (steamid=76561198061747392) toggled freecam
+11:11:14 | "Mick" (steamid=76561198061747392) toggled godmode
+11:11:29 | "Mick" (steamid=76561198061747392) toggled freecam
+11:11:48 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7206.294434, 587.353638, 11619.635742>)
+11:11:56 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7190.998535, 344.291626, 11628.363281>)
+11:11:56 | "Mick" (steamid=76561198061747392) toggled freecam
+11:12:24 | "Mick" (steamid=76561198061747392) Spawned Item: (NVGoggles)
+11:12:24 | "Mick" (steamid=76561198061747392) Spawned Item: (NVGHeadstrap)
+11:12:30 | "Mick" (steamid=76561198061747392) Spawned Item: (Battery9V)
+11:13:3 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7191.139160, 344.291626, 11596.491211>)
+11:13:3 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7191.879883, 344.291626, 11581.598633>)
+11:13:6 | "Mick" (steamid=76561198061747392) toggled godmode
+11:13:18 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+11:15:3 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+11:15:4 | "Mick" (steamid=76561198061747392) toggled godmode
+11:16:41 | "Mick" (steamid=76561198061747392) toggled freecam
+11:21:2 | "Mick" (steamid=76561198061747392) toggled godmode
+11:21:3 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7549.546875, 618.553162, 11560.288086>)
+11:21:3 | "Mick" (steamid=76561198061747392) toggled godmode
+11:21:6 | "Mick" (steamid=76561198061747392) toggled freecam
+11:21:8 | "Mick" (steamid=76561198061747392) toggled freecam
+11:21:14 | "Mick" (steamid=76561198061747392) toggled freecam
+11:23:56 | [WeatherManager] Send Data Count is 0
+11:24:1 | [Time Manager] Setting Date to 2019/9/28 0:21
+11:24:4 | "Mick" (steamid=76561198061747392) toggled freecam
+11:24:10 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<8309.744141, 228.833923, 11438.058594>)
+11:24:15 | "Mick" (steamid=76561198061747392) toggled freecam
+11:24:17 | "Mick" (steamid=76561198061747392) toggled freecam
+11:24:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<8814.014648, 33.231079, 11326.962891>)
+11:24:21 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<8966.006836, 12.257080, 11464.316406>)
+11:24:23 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9103.094727, 36.127140, 11371.678711>)
+11:24:32 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9554.199219, 25.361118, 11724.832031>)
+11:24:37 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9825.732422, 18.198242, 11771.074219>)
+11:24:42 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9821.898438, 12.638748, 11529.318359>)
+11:24:43 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9936.678711, 14.085851, 11317.231445>)
+11:24:53 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9990.004883, 14.200544, 11100.104492>)
+11:25:13 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9784.315430, 15.312079, 10918.461914>)
+11:25:23 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9924.208008, 21.315508, 10780.890625>)
+11:28:40 | "Mick" (steamid=76561198061747392) toggled freecam
+11:28:44 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+11:28:47 | Player "Mick" (steamId=76561198061747392) disconnected from server.

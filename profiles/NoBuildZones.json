@@ -1,0 +1,49 @@
+{
+    "EnableMessages": 1,
+    "UseNotifications": 1,
+    "RefreshTimer": 1.0,
+    "IgnoredItems": [
+        "Fireplace",
+        "TerjeSleepingBag_Woodland",
+        "TerjeSleepingBag_Blue",
+        "rag_farmjack",
+        "rag_car_jack"
+    ],
+    "NoBuildZones": [
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 1 Non build zones",
+            "X": 1749.413818,
+            "Y": 6562.322754,
+            "Radius": 1879
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 3 Non build zones",
+            "X": 6399,
+            "Y": 4633,
+            "Radius": 577
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 3 Non build zones",
+            "X": 6988,
+            "Y": 3228,
+            "Radius": 1262
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 4 Non build zones",
+            "X": 3018,
+            "Y": 1224,
+            "Radius": 400
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 5 Non build zones",
+            "X": 7554,
+            "Y": 6762,
+            "Radius": 529
+        }
+    ]
+}

@@ -1,0 +1,212 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-5-4_14-18-16
+====================================================================================
+14:18:16 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+14:18:16 | [PermissionManager] Perm (FreeCamera) has been registered!
+14:18:16 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuServerManager) has been registered!
+14:18:16 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+14:18:16 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+14:18:16 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+14:18:16 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+14:18:16 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+14:18:16 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+14:18:16 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+14:18:16 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+14:18:16 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+14:18:16 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuBansManager) has been registered!
+14:18:16 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+14:18:16 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+14:18:16 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+14:18:16 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+14:18:16 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+14:18:16 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+14:18:16 | [PermissionManager] Adding Super Admin (76561198307149710)
+14:18:16 | [PermissionManager] Adding Super Admin (76561198061747392)
+14:18:16 | [PermissionManager] Loaded UserGroups.json
+14:18:16 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+14:18:16 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+14:18:16 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+14:18:16 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+14:18:16 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+14:18:16 | Building Sets Loaded: 0
+14:18:16 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+14:23:2 | Player "Mick" (steamId=76561198061747392) connected to server!
+14:23:14 | "Mick" (steamid=76561198061747392) toggled godmode
+14:23:14 | "Mick" (steamid=76561198061747392) toggled godmode
+14:23:15 | "Mick" (steamid=76561198061747392) toggled godmode
+14:25:26 | "Mick" (steamid=76561198061747392) Spawned Item: (Van_ModernMotorhome)
+14:26:14 | "Mick" (steamid=76561198061747392) toggled godmode
+14:26:28 | "Mick" (steamid=76561198061747392) toggled godmode
+14:26:29 | "Mick" (steamid=76561198061747392) toggled godmode
+14:26:51 | "Mick" (steamid=76561198061747392) toggled godmode
+14:26:51 | "Mick" (steamid=76561198061747392) toggled godmode
+14:26:52 | "Mick" (steamid=76561198061747392) toggled godmode
+14:27:7 | "Mick" (steamid=76561198061747392) Spawned Item: (Van_WaterContainer)
+14:28:58 | "Mick" (steamid=76561198061747392) deleted object "Van_WaterContainer" (pos=<5907.706543, 1.944461, 769.463196>)
+14:29:0 | "Mick" (steamid=76561198061747392) deleted object "Van_ModernMotorhome" (pos=<5902.270996, 2.239398, 761.380981>)
+14:29:30 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_derby_car)
+14:30:21 | "Mick" (steamid=76561198061747392) deleted object "rag_derby_car" (pos=<5974.433105, 2.352826, 811.212036>)
+14:30:26 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_baja)
+14:32:4 | "Mick" (steamid=76561198061747392) deleted object "rag_baja" (pos=<5912.168457, 2.137246, 782.256470>)
+14:32:9 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_atv_green)
+14:33:12 | "Mick" (steamid=76561198061747392) deleted object "rag_atv_green" (pos=<5896.684082, 2.207585, 770.055603>)
+14:33:25 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_mtvr)
+14:34:13 | "Mick" (steamid=76561198061747392) deleted object "rag_mtvr" (pos=<5897.746582, 2.210899, 768.929565>)
+14:34:16 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_landrover_110_un)
+14:34:24 | "Mick" (steamid=76561198061747392) deleted object "rag_landrover_110_un" (pos=<5898.323730, 2.191985, 772.398499>)
+14:34:41 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_hummer_anarchy_Armored)
+14:34:51 | "Mick" (steamid=76561198061747392) deleted object "rag_hummer_anarchy_Armored" (pos=<5900.284180, 2.176920, 769.763367>)
+14:34:58 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_gaz69)
+14:35:10 | "Mick" (steamid=76561198061747392) deleted object "rag_gaz69" (pos=<5907.755859, 2.136291, 778.800659>)
+14:35:21 | "Mick" (steamid=76561198061747392) Spawned Item: (rag_zil_130)
+14:35:34 | "Mick" (steamid=76561198061747392) deleted object "rag_zil_130" (pos=<5908.890625, 2.123108, 778.964111>)
+14:35:50 | "Mick" (steamid=76561198061747392) Spawned Item: (Van_CamperRV)
+14:36:7 | "Mick" (steamid=76561198061747392) deleted object "Van_CamperRV" (pos=<5908.818848, 2.233820, 780.959229>)
+14:36:13 | "Mick" (steamid=76561198061747392) Spawned Item: (Van_Cybertruck)
+14:38:12 | "Mick" (steamid=76561198061747392) Spawned Item: (CanisterGasoline)
+14:38:45 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+14:38:48 | "Mick" (steamid=76561198061747392) /refuel used on self.
+14:39:27 | "Mick" (steamid=76561198061747392) deleted object "Van_Cybertruck" (pos=<5908.813965, 2.240072, 787.927002>)
+14:39:29 | "Mick" (steamid=76561198061747392) deleted object "CanisterGasoline" (pos=<5910.597168, 2.414063, 792.331726>)
+14:40:10 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_militarysetpants_black)
+14:40:15 | "Mick" (steamid=76561198061747392) deleted object "Loftd_militarysetpants_black" (pos=<5910.564941, 2.264744, 787.551270>)
+14:40:16 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_tacticalpants_v6)
+14:40:23 | "Mick" (steamid=76561198061747392) deleted object "Loftd_tacticalpants_v6" (pos=<5910.774902, 2.238432, 787.526611>)
+14:40:25 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_tacticalpants_v8)
+14:40:33 | "Mick" (steamid=76561198061747392) deleted object "Loftd_tacticalpants_v8" (pos=<5910.749023, 2.244856, 787.461243>)
+14:40:35 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_dawnpants_black)
+14:40:38 | "Mick" (steamid=76561198061747392) deleted object "Loftd_dawnpants_black" (pos=<5910.661133, 2.248640, 787.577881>)
+14:40:41 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_dawnjacket_gray)
+14:40:41 | "Mick" (steamid=76561198061747392) Spawned Item: (Loftd_dawnjacket_gray)
+14:40:43 | "Mick" (steamid=76561198061747392) deleted object "Loftd_dawnjacket_gray" (pos=<5910.466309, 2.246220, 787.588013>)
+14:40:45 | "Mick" (steamid=76561198061747392) deleted object "Loftd_dawnjacket_gray" (pos=<5910.569336, 2.246458, 787.520081>)
+14:40:52 | "Mick" (steamid=76561198061747392) Spawned Item: (BomberJacket_Blue)
+14:40:56 | "Mick" (steamid=76561198061747392) deleted object "BomberJacket_Blue" (pos=<5910.735840, 2.237528, 787.441895>)
+14:42:16 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_Nailgun_UnCommon)
+14:42:21 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Ammo_Nail)
+14:42:31 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_Nailgun_UnCommon_Mag_30Rnd)
+14:43:5 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_Nailgun_UnCommon" (pos=<5917.048340, 2.306186, 790.424561>)
+14:43:9 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Ammo_Nail" (pos=<5915.565430, 2.310768, 789.440918>)
+14:43:16 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_SportingRifle)
+14:43:24 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_SportingRifle_Mag_20Rnd)
+14:44:10 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_HermitSkinny_Black)
+14:44:47 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_SportingRifle" (pos=<5914.669434, 2.290842, 794.774048>)
+14:45:35 | "Mick" (steamid=76561198061747392) Spawned Item: (SNAFUPPSKN)
+14:45:43 | "Mick" (steamid=76561198061747392) deleted object "SNAFUPPSKN" (pos=<5916.592773, 2.331849, 795.233276>)
+14:46:33 | "Mick" (steamid=76561198061747392) Spawned Item: (SNAFUASh12)
+14:46:38 | "Mick" (steamid=76561198061747392) deleted object "SNAFUASh12" (pos=<5916.672363, 2.382585, 795.141968>)
+14:46:46 | "Mick" (steamid=76561198061747392) Spawned Item: (SNAFUMarlin1895)
+14:47:0 | "Mick" (steamid=76561198061747392) deleted object "SNAFUMarlin1895" (pos=<5917.287109, 2.320161, 794.205444>)
+14:47:32 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_Saber)
+14:47:41 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_Saber" (pos=<5917.200195, 2.304113, 795.465210>)
+14:47:45 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_TacticalSword_Rare)
+14:48:4 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_TacticalSword_Rare" (pos=<5917.273438, 2.302768, 795.137695>)
+14:48:22 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_BBatMetal_Superior)
+14:48:40 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_BBatMetal_Superior" (pos=<5916.617188, 2.332819, 795.435974>)
+14:48:45 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_BladeStaff_Superior)
+14:49:0 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_BladeStaff_Superior" (pos=<5918.933594, 2.321496, 794.702637>)
+14:49:3 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_BoStaff)
+14:49:15 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_Muzzle_Acid_3)
+14:49:22 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_Muzzle_Acid_3" (pos=<5920.090332, 2.318264, 794.015076>)
+14:49:41 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_PartyStarter)
+14:49:49 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Grey)
+14:50:5 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Grey)
+14:50:43 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_BoStaff" (pos=<5928.235352, 2.069403, 793.922485>)
+14:50:44 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_PartyStarter" (pos=<5928.235352, 2.058550, 793.922485>)
+14:51:20 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_WreckageHammer)
+14:51:28 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_WreckageHammer" (pos=<5928.033203, 2.077473, 794.074280>)
+14:51:42 | "Mick" (steamid=76561198061747392) Spawned Item: (My_DeadIsland2_Weapons_Ripper)
+14:52:8 | "Mick" (steamid=76561198061747392) Spawned Item: (ZmbM_CitizenASkinny_Blue)
+14:52:19 | "Mick" (steamid=76561198061747392) deleted object "ZmbM_CitizenASkinny_Blue" (pos=<5930.825195, 2.107807, 800.656982>)
+14:52:21 | "Mick" (steamid=76561198061747392) deleted object "ZmbM_CitizenASkinny_Grey" (pos=<5929.739258, 2.076570, 796.841553>)
+14:52:25 | "Mick" (steamid=76561198061747392) deleted object "My_DeadIsland2_Weapons_Ripper" (pos=<5930.784180, 2.072049, 797.425232>)
+14:52:50 | "Mick" (steamid=76561198061747392) toggled freecam
+14:53:11 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7210.521973, 14.833968, 1594.986572>)
+14:53:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7213.732422, 8.634010, 1602.833496>)
+14:53:15 | "Mick" (steamid=76561198061747392) toggled freecam
+14:54:31 | "Mick" (steamid=76561198061747392) Spawned Item: (TruckBattery)
+14:55:20 | "Mick" (steamid=76561198061747392) Spawned Item: (LongWoodenStick)
+14:55:42 | "Mick" (steamid=76561198061747392) deleted object "WoodenStick" (pos=<7211.361328, 8.628357, 1592.415649>)
+14:55:43 | "Mick" (steamid=76561198061747392) Spawned Item: (LongWoodenStick)
+14:57:44 | "Mick" (steamid=76561198061747392) Spawned Item: (MetalWire)
+14:58:45 | "Mick" (steamid=76561198061747392) Spawned Item: (CanisterGasoline)
+14:59:46 | "Mick" (steamid=76561198061747392) toggled freecam
+15:0:37 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6616.169922, 15.090000, 6428.100098>)
+15:0:37 | "Mick": (steamid=76561198061747392) teleported to (pos=6616.17,0,6428.1)
+15:0:38 | "Mick" (steamid=76561198061747392) toggled freecam
+15:1:25 | "Mick" (steamid=76561198061747392) toggled godmode
+15:1:26 | "Mick" (steamid=76561198061747392) toggled godmode
+15:7:32 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+15:7:35 | Player "Mick" (steamId=76561198061747392) disconnected from server.

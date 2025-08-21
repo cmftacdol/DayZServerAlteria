@@ -1,0 +1,618 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-7_12-39-32
+====================================================================================
+12:39:32 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:39:32 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:39:32 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:39:32 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:39:32 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:39:32 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:39:32 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:39:32 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:39:32 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:39:32 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:39:32 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:39:32 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:39:32 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:39:32 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:39:32 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:39:32 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:39:32 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:39:32 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:39:32 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+12:39:32 | [PermissionManager] Adding Super Admin (76561198413928129)
+12:39:32 | [PermissionManager] Adding Super Admin (76561198061747392)
+12:39:32 | [PermissionManager] Adding Super Admin (76561198065207038)
+12:39:32 | [PermissionManager] Loaded UserGroups.json
+12:39:32 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:39:32 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:39:32 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:39:32 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:39:32 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:39:32 | Building Sets Loaded: 2
+12:39:32 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+12:39:32 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:42:40 | Player "Thug Lee Vogue" (steamId=76561198413928129) connected to server!
+12:45:32 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+12:45:38 | [WeatherManager] Send Data Count is 0
+12:45:48 | [Time Manager] Setting Date to 2025/9/20 7:24
+12:46:5 | "Thug Lee Vogue" (steamid=76561198413928129) /heal used on: "Thug Lee Vogue" (steamid=76561198413928129)
+12:47:18 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1728.360107, 70.343681, 2408.707520>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.436279, 70.569122, 2422.217529>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.388306, 70.571808, 2422.347900>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.343140, 70.574341, 2422.470703>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.301514, 70.576706, 2422.584473>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.259644, 70.579025, 2422.697021>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1723.219604, 70.581223, 2422.804688>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1720.413330, 70.761002, 2430.429443>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1719.483643, 70.829933, 2432.966309>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1719.176880, 70.854744, 2433.800537>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1719.063477, 70.863770, 2434.105713>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1718.990112, 70.869728, 2434.305420>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1718.975220, 70.871063, 2434.348145>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1717.136963, 71.218246, 2439.446289>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1717.128662, 71.383156, 2439.547119>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1715.143555, 71.274422, 2444.819336>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1715.051392, 71.287224, 2445.066650>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1715.016357, 71.291801, 2445.156982>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1714.301270, 71.393257, 2447.117188>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1717.688721, 71.034348, 2438.665283>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1717.051514, 71.486649, 2440.480225>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1712.168091, 71.769188, 2452.986084>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1712.381836, 71.757034, 2452.744873>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1712.488281, 71.750954, 2452.624512>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1712.958862, 71.695770, 2451.752930>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1713.175293, 71.673676, 2451.348145>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1710.752441, 72.165039, 2457.590576>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1709.872192, 72.379875, 2459.863525>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1709.570557, 72.474525, 2460.643799>)
+12:47:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1709.455933, 72.512245, 2460.940430>)
+12:47:21 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1703.693970, 75.050743, 2476.303711>)
+12:47:22 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1700.524902, 76.794136, 2484.748291>)
+12:47:22 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1698.485352, 78.965317, 2489.094238>)
+12:47:23 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1693.560059, 79.221313, 2498.584229>)
+12:47:25 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1691.709839, 79.361397, 2514.379395>)
+12:47:26 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1694.800659, 80.231346, 2523.460938>)
+12:47:26 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1698.049438, 81.024467, 2529.624023>)
+12:47:27 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1701.272461, 81.714027, 2535.649902>)
+12:47:27 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1704.698975, 82.358765, 2542.097412>)
+12:47:28 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1708.243896, 82.906624, 2548.789063>)
+12:47:28 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1709.515625, 83.545715, 2557.386230>)
+12:47:29 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<1709.089478, 84.193985, 2565.731689>)
+12:49:34 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+12:51:38 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:52:7 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+12:52:10 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<2149.942871, 60.689304, 3048.809082>)
+12:52:13 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:52:45 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<2169.131592, 54.799999, 3049.266357>)
+12:53:18 | "Thug Lee Vogue" (steamid=76561198413928129) gave godmode to (steamid=76561198413928129)
+12:53:34 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+12:53:38 | "Thug Lee Vogue" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+12:55:0 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+12:55:7 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<2045.271851, 1150.757568, 3017.773926>)
+12:55:17 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3082.359375, 913.597229, 2745.705566>)
+12:55:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<4116.178223, 659.435669, 2476.652832>)
+12:55:19 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5149.997070, 405.274109, 2207.600098>)
+12:55:20 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6183.816406, 151.112549, 1938.547241>)
+12:55:22 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6692.845703, 26.845848, 1806.229004>)
+12:55:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6644.648926, 26.125526, 1788.894531>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.430664, 26.130001, 1787.322144>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.610352, 26.129999, 1787.347412>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.769043, 26.130001, 1787.370361>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.768555, 26.129997, 1787.374512>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.729492, 26.130001, 1787.373779>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.608398, 26.130001, 1787.363403>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6631.484375, 26.129999, 1787.352783>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.885254, 26.129999, 1785.961304>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.848145, 26.129999, 1785.961060>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.694824, 26.129999, 1785.948120>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.683594, 26.129997, 1785.952026>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.671387, 26.129999, 1785.958984>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6619.670410, 26.130001, 1785.966675>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6617.161133, 26.129999, 1785.675781>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6614.958008, 26.130003, 1785.413330>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6613.075684, 26.129997, 1785.197021>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6611.582520, 26.129999, 1785.020874>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6608.895996, 26.129999, 1784.708740>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6606.949707, 26.129999, 1784.479492>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6605.513672, 26.129999, 1784.310425>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6604.559082, 26.130001, 1784.195679>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6603.925293, 26.130003, 1784.118042>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6599.106934, 26.129999, 1783.552124>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6596.386719, 26.130001, 1783.228638>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6594.945313, 26.129997, 1783.054932>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6594.198730, 26.130001, 1782.962769>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6592.847656, 26.130001, 1782.793701>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6592.235840, 26.130001, 1782.712769>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6591.964355, 26.129997, 1782.673828>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6591.792480, 26.130001, 1782.646362>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6584.074707, 26.129997, 1781.718994>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6581.687012, 26.129999, 1781.428711>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6581.043945, 26.129999, 1781.349487>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6580.862793, 26.129999, 1781.325562>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6580.820313, 26.129997, 1781.319702>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6580.069824, 26.129999, 1781.211914>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6580.029785, 26.129999, 1781.206055>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6580.036621, 26.129997, 1781.208008>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6578.816406, 26.129999, 1781.063477>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6577.638672, 26.129999, 1780.923950>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6576.177246, 26.129997, 1780.748413>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6574.733887, 26.129999, 1780.575073>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6573.354004, 26.129997, 1780.408936>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6572.124512, 26.129997, 1780.260986>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6570.717773, 26.130003, 1780.094238>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6569.585938, 26.129999, 1779.960815>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6567.339844, 26.129997, 1779.694092>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6565.682617, 26.130001, 1779.498413>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6564.514160, 26.129997, 1779.362061>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6563.708496, 26.129997, 1779.268921>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6561.462402, 26.129999, 1779.003906>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6560.123535, 26.129997, 1778.847656>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6556.875488, 26.129999, 1778.465698>)
+12:55:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6555.159180, 26.129999, 1778.265625>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6554.324219, 26.129999, 1778.169800>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6553.918945, 26.129999, 1778.124146>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6551.244629, 26.129999, 1777.811401>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6550.190918, 26.129999, 1777.688843>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6545.642090, 26.129999, 1777.155396>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6544.104004, 26.129999, 1776.974609>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6540.903809, 26.129999, 1776.600952>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6540.022461, 26.129999, 1776.496338>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6534.180664, 26.130003, 1775.809204>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6532.861816, 26.130003, 1775.652100>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6532.550293, 26.129999, 1775.611572>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6532.409180, 26.129999, 1775.590820>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6532.261230, 26.129999, 1775.567749>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6532.119629, 26.129999, 1775.545288>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6531.493164, 26.129999, 1775.463867>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6530.990723, 26.129999, 1775.398315>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6529.250000, 26.130001, 1775.184204>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6527.536621, 26.129995, 1774.973389>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6525.948242, 26.129999, 1774.779175>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6524.532227, 26.129995, 1774.605347>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6522.590820, 26.129999, 1774.365967>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6521.040527, 26.130001, 1774.174561>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6519.877930, 26.129999, 1774.031860>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6519.026367, 26.129997, 1773.927368>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6516.665527, 26.129999, 1773.639648>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6515.144043, 26.129999, 1773.454712>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6512.077637, 26.129999, 1773.080811>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6510.322266, 26.129999, 1772.868530>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6506.928223, 26.129999, 1772.457886>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6505.158203, 26.129999, 1772.245361>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6501.545410, 26.129999, 1771.808838>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6499.895020, 26.129999, 1771.610840>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6495.952637, 26.130003, 1771.138184>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6494.345215, 26.129997, 1770.947632>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6493.669922, 26.129999, 1770.869629>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6493.347656, 26.130001, 1770.834717>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6486.558594, 26.130001, 1770.022339>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6484.618652, 26.129999, 1769.793457>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6482.318359, 26.129999, 1769.526001>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6481.797363, 26.129999, 1769.468750>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6474.071289, 26.129997, 1768.554443>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6472.832031, 26.129999, 1768.411499>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6472.683105, 26.129999, 1768.397583>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6472.644043, 26.129999, 1768.396240>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6471.482910, 26.130005, 1768.260376>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6470.372559, 26.129982, 1768.130981>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6468.978027, 26.130001, 1767.968262>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6467.582520, 26.129999, 1767.805298>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6466.243164, 26.129997, 1767.648193>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6465.033691, 26.129997, 1767.505859>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6462.987305, 26.129999, 1767.264648>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6461.337891, 26.129999, 1767.069946>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6458.746582, 26.129997, 1766.763916>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6456.832520, 26.129999, 1766.536621>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6455.440918, 26.129997, 1766.369141>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6454.470215, 26.129999, 1766.250244>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6451.110840, 26.130001, 1765.848145>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6449.089355, 26.129997, 1765.604126>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6445.824707, 26.129997, 1765.208862>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6444.070313, 26.129999, 1764.994263>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6443.185059, 26.129999, 1764.884521>)
+12:55:32 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6442.738281, 26.129997, 1764.827026>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6442.530762, 26.129999, 1764.799927>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6442.430176, 26.129999, 1764.786011>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6436.756348, 26.129999, 1764.101929>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6434.802734, 26.129999, 1763.866211>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6431.991211, 26.129997, 1763.521484>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6431.218750, 26.129997, 1763.427856>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6426.488281, 26.129999, 1762.856323>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6425.417969, 26.129999, 1762.729370>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6420.511719, 26.130001, 1762.135254>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6419.739746, 26.129999, 1762.043945>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6419.584961, 26.129997, 1762.027832>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6419.486816, 26.129999, 1762.018799>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6408.078613, 26.129999, 1760.646973>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6408.022949, 26.129999, 1760.643921>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6407.849609, 26.129997, 1760.628174>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6407.767578, 26.129999, 1760.620972>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6396.169922, 26.130001, 1759.235962>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6396.141602, 26.129995, 1759.236328>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6396.060059, 26.129997, 1759.230469>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6396.000488, 26.129997, 1759.226685>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6384.183105, 26.129999, 1757.834351>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6384.211426, 26.129999, 1757.840942>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6384.188477, 26.129997, 1757.840942>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6384.176270, 26.129999, 1757.840576>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.386230, 26.129999, 1756.459717>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.443359, 26.129999, 1756.465942>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.388672, 26.130001, 1756.458862>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.448242, 26.129999, 1756.465332>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.494629, 26.129997, 1756.469971>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.491211, 26.129999, 1756.467529>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.462402, 26.130001, 1756.462036>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6372.399902, 26.129999, 1756.451416>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6369.232422, 26.130014, 1756.076172>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6366.666016, 26.129999, 1755.770020>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6364.647949, 26.129997, 1755.527588>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6363.149414, 26.129997, 1755.345215>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6362.059082, 26.129999, 1755.209839>)
+12:55:33 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6361.309570, 26.129999, 1755.115234>)
+12:55:35 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6348.232910, 26.129999, 1753.590698>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.898438, 26.129999, 1752.961304>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.771973, 26.129999, 1752.952026>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.666504, 26.129999, 1752.945190>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.584473, 26.129999, 1752.940063>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.511719, 26.129999, 1752.936157>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6341.453613, 26.129999, 1752.932983>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6338.134766, 26.129997, 1752.614380>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6336.774414, 26.130001, 1752.483887>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6336.162109, 26.129999, 1752.429199>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6335.967285, 26.130001, 1752.411133>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6335.880859, 26.129997, 1752.401611>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6335.828613, 26.129997, 1752.394287>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6335.791016, 26.130001, 1752.388062>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6335.729980, 26.130003, 1752.378784>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6331.307129, 26.129999, 1751.959351>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6330.519043, 26.130001, 1751.881348>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6330.228516, 26.130001, 1751.844116>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6330.162598, 26.130001, 1751.832031>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6329.482910, 26.130001, 1751.760010>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6328.857422, 26.129999, 1751.693237>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6328.178711, 26.129999, 1751.620728>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6327.510742, 26.129999, 1751.550293>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6326.865234, 26.129999, 1751.481934>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6326.292969, 26.129997, 1751.421631>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6325.560059, 26.129999, 1751.340576>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6324.985840, 26.129999, 1751.277710>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6323.900879, 26.129999, 1751.160767>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6323.126465, 26.129999, 1751.077881>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6321.889648, 26.129999, 1750.944946>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6321.088867, 26.129999, 1750.860596>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6320.572754, 26.130001, 1750.807251>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6320.244629, 26.129999, 1750.775269>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6320.037598, 26.129999, 1750.756470>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6319.891602, 26.130001, 1750.744507>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6318.532715, 26.129999, 1750.601929>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6317.894531, 26.129999, 1750.536255>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6315.705078, 26.129999, 1750.312378>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6314.801758, 26.130001, 1750.222900>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6314.406738, 26.130001, 1750.185669>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6314.200684, 26.129999, 1750.167969>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6314.062012, 26.129999, 1750.157593>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6313.961426, 26.129999, 1750.151123>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6310.735840, 26.129999, 1749.822754>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6309.996582, 26.129999, 1749.750977>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6309.793945, 26.129997, 1749.734253>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6309.707031, 26.130001, 1749.729492>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6308.457031, 26.129999, 1749.614990>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6308.336426, 26.130001, 1749.607300>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6305.052246, 26.129997, 1749.284180>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6304.904785, 26.129999, 1749.271240>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6304.717773, 26.129999, 1749.253906>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6304.644043, 26.129999, 1749.247559>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6304.553711, 26.129999, 1749.239014>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6303.597168, 26.129999, 1749.147095>)
+12:55:36 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6302.709961, 26.129999, 1749.061523>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6301.900391, 26.129999, 1748.982422>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6301.094727, 26.129997, 1748.904053>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6300.437500, 26.129999, 1748.839111>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6299.905762, 26.130001, 1748.785400>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6298.830566, 26.130001, 1748.678101>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6298.044434, 26.129999, 1748.596069>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6296.578125, 26.129999, 1748.448120>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6295.672852, 26.129999, 1748.354370>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6294.380371, 26.130028, 1748.221313>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6293.695313, 26.129995, 1748.146851>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6291.637695, 26.129999, 1747.932983>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6290.655273, 26.129999, 1747.829468>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6290.203613, 26.129999, 1747.781372>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6289.987793, 26.129997, 1747.757446>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6288.685547, 26.130001, 1747.620117>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6288.237793, 26.129999, 1747.572998>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6285.628418, 26.129999, 1747.300903>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6284.863770, 26.129997, 1747.222412>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6284.643066, 26.129997, 1747.201660>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6284.552246, 26.130001, 1747.194702>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6280.198242, 26.129999, 1746.741577>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6279.416016, 26.130001, 1746.662598>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6279.263184, 26.130001, 1746.649048>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6279.177734, 26.129999, 1746.642578>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6278.560547, 26.129999, 1746.582397>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6278.027344, 26.130001, 1746.531250>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6277.444336, 26.129997, 1746.474731>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6276.849609, 26.129999, 1746.417236>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6276.101074, 26.129999, 1746.345581>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6275.442871, 26.129999, 1746.282959>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6274.418457, 26.129999, 1746.185303>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6273.599609, 26.129999, 1746.108154>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6272.964355, 26.129997, 1746.048706>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6272.482910, 26.129999, 1746.004272>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6271.380859, 26.130001, 1745.900391>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6270.662109, 26.129999, 1745.832886>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6269.180664, 26.129999, 1745.692993>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6268.313965, 26.129999, 1745.610962>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6266.687500, 26.129999, 1745.457153>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6265.838379, 26.129999, 1745.376099>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6265.401855, 26.129999, 1745.333130>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6265.165527, 26.129999, 1745.308228>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6265.015137, 26.129997, 1745.290283>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6264.908203, 26.130001, 1745.276001>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6262.262207, 26.129999, 1745.022217>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6261.335449, 26.129999, 1744.930298>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.912598, 26.129999, 1744.786499>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.490723, 26.129999, 1744.739746>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.254883, 26.130001, 1744.704956>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.182617, 26.129999, 1744.689575>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.119629, 26.129999, 1744.676514>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6259.027344, 26.130001, 1744.659790>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6258.383789, 26.129999, 1744.590210>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6257.861816, 26.130001, 1744.536499>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6257.195801, 26.129999, 1744.466431>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6256.538086, 26.129999, 1744.398071>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6255.884277, 26.129999, 1744.328003>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6255.308105, 26.129999, 1744.267090>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6254.491211, 26.129999, 1744.180542>)
+12:55:37 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6253.827637, 26.130009, 1744.110718>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6253.294434, 26.130037, 1744.055786>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6252.875977, 26.129963, 1744.013916>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6251.664551, 26.129997, 1743.861084>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6250.596680, 26.130001, 1743.688110>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6248.605957, 26.129999, 1743.363647>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6246.794434, 26.130001, 1742.944214>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6245.092773, 26.130001, 1742.486572>)
+12:55:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6243.041992, 26.129997, 1741.854736>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6232.715820, 26.129999, 1740.415405>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6225.485840, 26.129984, 1740.066040>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6225.389160, 26.130005, 1740.061279>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6225.297852, 26.129999, 1740.055420>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6221.747070, 26.130001, 1739.902344>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6220.080566, 26.129999, 1739.830688>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6219.300293, 26.130001, 1739.792847>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6218.929199, 26.129997, 1739.771240>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6216.334961, 26.129999, 1739.651123>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6215.419922, 26.129997, 1739.605225>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6213.024414, 26.129999, 1739.484741>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6212.257324, 26.130001, 1739.436646>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6212.013184, 26.129999, 1739.413696>)
+12:55:39 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6211.920410, 26.129999, 1739.399292>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6207.049805, 26.129997, 1739.158325>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6206.256348, 26.129995, 1739.117798>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6205.169434, 26.129999, 1739.036011>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6205.052734, 26.129999, 1739.026855>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6204.987793, 26.129999, 1739.013062>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6204.862793, 26.129999, 1738.989380>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6203.914063, 26.129997, 1738.907227>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6202.959473, 26.129999, 1738.814453>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6201.829590, 26.129999, 1738.720947>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6200.516602, 26.130001, 1738.566284>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6198.740723, 26.129999, 1738.373291>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6196.964844, 26.129999, 1738.100098>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6193.250977, 26.129997, 1737.517700>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6188.005859, 26.130001, 1736.379883>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6173.563965, 26.130001, 1733.007202>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5955.568848, 26.799374, 1679.457642>)
+12:55:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5137.997559, 100.948883, 1453.940430>)
+12:57:38 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:57:45 | "Thug Lee Vogue" (steamid=76561198413928129) /heal used on: "Thug Lee Vogue" (steamid=76561198413928129)
+12:57:48 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<7447.956055, 30.866138, 2051.326172>)
+12:57:50 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:58:28 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:58:40 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6738.270020, 20.002657, 2577.602539>)
+12:58:40 | "Thug Lee Vogue" (steamid=76561198413928129) /heal used on: "Thug Lee Vogue" (steamid=76561198413928129)
+12:58:41 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:58:50 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+12:58:55 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<6597.340820, 41.202980, 2477.263428>)
+12:58:55 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:0:59 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7536.040039, 1.438802, 6816.089844>)
+13:0:59 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=7536.04,0,6816.09)
+13:4:13 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:4:20 | "Thug Lee Vogue" (steamid=76561198413928129) /heal used on: "Thug Lee Vogue" (steamid=76561198413928129)
+13:4:20 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5675.966309, 21.539036, 5232.383301>)
+13:4:22 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5658.275879, 20.401903, 5266.970215>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5650.546387, 20.064171, 5272.429199>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5650.481934, 20.061367, 5272.464355>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5650.411621, 20.058331, 5272.502441>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5650.329590, 20.054737, 5272.547852>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5646.106445, 19.824459, 5275.541504>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5644.335449, 19.720543, 5276.756348>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5643.511719, 19.669405, 5277.318848>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5643.217285, 19.651478, 5277.500488>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5638.583984, 19.346184, 5280.748047>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5637.259766, 19.254957, 5281.661621>)
+13:4:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5636.030273, 19.171045, 5282.495605>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5635.740234, 19.149958, 5282.682129>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5635.660645, 19.144043, 5282.734375>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5635.594238, 19.139076, 5282.778320>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5628.891602, 18.609312, 5287.426270>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5628.157227, 18.550270, 5287.930664>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.668945, 18.509821, 5288.251465>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.642578, 18.507698, 5288.267090>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.616211, 18.505463, 5288.284180>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.555664, 18.500422, 5288.323242>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.491699, 18.494995, 5288.364746>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5627.427734, 18.489637, 5288.406738>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5626.465332, 18.406816, 5289.063965>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5625.554688, 18.327908, 5289.692871>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5624.574707, 18.242918, 5290.371582>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5623.583496, 18.155764, 5291.060059>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5622.633301, 18.071009, 5291.717285>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5621.782715, 17.995205, 5292.304688>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5620.758301, 17.906490, 5292.973145>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5620.258301, 17.932220, 5293.293945>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5620.183594, 18.046501, 5293.340820>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5620.161133, 18.143211, 5293.355469>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5617.364746, 17.600605, 5295.271973>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5616.440430, 17.514290, 5295.934570>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5613.837891, 17.273142, 5297.850586>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5612.299316, 17.131527, 5298.980957>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5611.516602, 17.061022, 5299.568359>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5611.331055, 17.042080, 5299.745605>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5611.374512, 17.042986, 5299.756348>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5611.375488, 17.041550, 5299.777832>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5608.141113, 16.824789, 5301.894531>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5606.858398, 16.746771, 5302.732422>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5604.818848, 16.621023, 5304.223145>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5604.145508, 16.586828, 5304.717285>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5601.855469, 16.473333, 5306.279785>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5601.201172, 16.440739, 5306.725098>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5601.002441, 16.430748, 5306.859863>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5600.878906, 16.424606, 5306.940430>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5598.968750, 16.690582, 5308.377930>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5598.859863, 16.838047, 5308.482910>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5598.820801, 16.878124, 5308.512695>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5598.809082, 16.889410, 5308.520508>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5598.723145, 16.964544, 5308.587891>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5595.742188, 16.210709, 5310.524414>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5595.090332, 16.185280, 5310.991699>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5594.446777, 16.160267, 5311.452637>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5593.343750, 16.119223, 5312.215820>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5592.376465, 16.086855, 5312.886230>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5589.349609, 15.992195, 5314.983398>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5589.330566, 15.991606, 5314.996094>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5589.069824, 15.983548, 5315.171387>)
+13:4:31 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5588.596191, 15.968925, 5315.489746>)
+13:4:54 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6068.509766, 55.759998, 4668.220215>)
+13:4:54 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=6068.51,0,4668.22)
+13:5:7 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5929.580078, 55.759998, 4808.290039>)
+13:5:7 | "Thug Lee Vogue": (steamid=76561198413928129) teleported to (pos=5929.58,0,4808.29)
+13:5:33 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:5:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5587.454102, 34.830009, 5088.547363>)
+13:5:42 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:6:47 | "Thug Lee Vogue" (steamid=76561198413928129) toggled godmode
+13:7:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BTR_80_rust)
+13:9:50 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (dodge_power_wagonrus)
+13:9:53 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<5267.284668, 18.519276, 5030.876465>)
+13:10:10 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ_69_rus)
+13:11:0 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:11:20 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<2866.510742, 3.414484, 4929.844727>)
+13:11:21 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:11:27 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:13:44 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:13:54 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (kamaz_4310RUS)
+13:14:5 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_31519_Police_MCHS_rust)
+13:15:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (artillery_tractor)
+13:16:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BRDM2_RF)
+13:17:44 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:17:50 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3466.903076, 5.175453, 5986.293945>)
+13:17:54 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:18:3 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:18:45 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3740.217529, 4.639979, 5958.684082>)
+13:18:46 | "Thug Lee Vogue" (steamid=76561198413928129) toggled freecam
+13:19:53 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Niva2329)
+13:20:7 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:20:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (LUAZ_969_orang)
+13:20:36 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (MTLB_RF_camo2)
+13:21:30 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3634.414307, 12.430873, 5986.629395>)
+13:21:34 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3636.781494, 15.452677, 5982.780273>)
+13:21:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3607.067871, 3.826366, 5971.675293>)
+13:21:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3575.615479, 4.704386, 5961.888184>)
+13:21:38 | "Thug Lee Vogue" (steamid=76561198413928129) teleported to crosshair (pos=<3561.212891, 4.129745, 5956.612793>)
+13:23:29 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (URAL_375_1964)
+13:23:58 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:25:12 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (VBL)
+13:26:22 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZIL133_double)
+13:28:23 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (ZIL_130_ac40)
+13:29:4 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3962_green)
+13:29:9 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:29:28 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3163)
+13:29:56 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (PAZ_672)
+13:30:17 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (LIAZ_677RF_camo_Auto)
+13:30:33 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:30:52 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:33:0 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (GAZ_66_camo)
+13:33:16 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (Gaz_233002_Tiger_camo)
+13:33:37 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BTR_80_P_camo2)
+13:33:46 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:34:9 | "Thug Lee Vogue" (steamid=76561198413928129) /heal used on: "Thug Lee Vogue" (steamid=76561198413928129)
+13:35:8 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (BRDM2_RF_winter)
+13:35:24 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (artillery_tractor_kung_camo)
+13:36:26 | "Thug Lee Vogue" (steamid=76561198413928129) Spawned Item: (UAZ_3172)
+13:36:33 | "Thug Lee Vogue" (steamid=76561198413928129) /refuel used on self.
+13:38:43 | Player "Thug Lee Vogue" (steamId=76561198413928129) initiated disconnect process...
+13:38:46 | Player "Thug Lee Vogue" (steamId=76561198413928129) disconnected early from server (EXIT NOW).

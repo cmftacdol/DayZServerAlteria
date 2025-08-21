@@ -1,0 +1,15 @@
+20:12:47.938 [Spatial AI] Spatial AI Date: 3/6/2025 WC RC30.4
+20:14:26.597 [Spatial AI] Spatial AI Enabled
+20:14:26.597 [Spatial AI] points Enabled
+20:14:26.598 [Spatial AI] Trigger at point: <6840.000000, 1.000000, 1800.000000> - Radius: 500
+20:14:26.598 [Spatial AI] - Safe: true - Faction: Civilian - counts: 0:0
+20:14:26.598 [Spatial AI] - loadout added: HumanLoadout.json
+20:14:26.598 [Spatial AI] - loadout added: NBCLoadout.json
+20:14:26.598 [Spatial AI] Locations Enabled
+20:14:26.599 [Spatial AI] Trigger at location: <6257.560059, 18.410000, 14467.200195> - Radius: 800
+20:14:26.599 [Spatial AI] - Spawn location: <6344.420410, 30.040045, 14303.774414>
+20:14:26.599 [Spatial AI] - Spawn location: <5796.822266, 5.880013, 14490.708008>
+20:14:26.600 [Spatial AI] - Spawn location: <6305.322754, 41.860020, 14149.852539>
+20:14:26.600 [Spatial AI] - Notification covering location to Radius: 1600
+20:14:26.600 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 1:2
+20:14:26.600 [Spatial AI] Audio Sensitive Locations Disabled

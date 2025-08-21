@@ -1,0 +1,925 @@
+{
+	"m_CraftClasses": {
+		"m_CustomizationSetting" : {
+			"PathToMainBackgroundImg" : "my path to main img",
+			"PathTorepairpicImg" : "my path to repairpicImg",
+			"PathTopaintpicImg" : "my path to paintpicImg",
+			"PathToammopicImg" : "my path to ammopicImg",
+			"PathToweaponpicImg" : "my path to weaponpicImg",
+			"PathTotoolspicImg" : "my path to toolspicImg",
+			"PathTocraftpicImg" : "my path to craftpicImg",
+			"PathTosewingkitpicImg" : "my path to sewingkitpicImg",
+			"PathTobuildingpicImg" : "my path to buildingpicImg",
+			"PathTocarpicImg" : "my path to carpicImg",
+			"PathTofurniturepicImg" : "my path to furniturepicImg",
+			"PathTomedicpicImg" : "my path to medicpicImg",
+			"PathTobookpicImg" : "my path to bookpicImg",
+			"PathTohousepicImg" : "my path to housepicImg",
+			"PathTodonatepicImg" : "my path to donatepicImg",
+			"PathTovoltagepicImg" : "my path to voltagepicImg"
+		},
+		"WorkbenchesClassnames": [
+			"HP_Crafter"
+		],
+		"CraftCategories": [
+			{
+			    "CategoryName": "Інструменти",
+				"CraftItems": [
+					{
+						"Result": "Shovel",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "repairpic",
+						"RecipeName": "Лопата",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenLog",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "WoodenStick",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HandSaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Drill",
+			                "HP_Grinde"
+						]
+					},
+				    {
+						"Result": "SledgeHammer",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "paintpic",
+						"RecipeName": "Кувалда",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenLog",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Stone",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.4 
+						},
+						{
+							"Classname": "HandSaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						}						
+							],
+						"AttachmentsNeed": [
+						    "HP_Drill",
+							"HP_Vise",
+			                "HP_Grinde"
+						]
+					},
+				    {
+						"Result": "Hammer",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "ammopic",
+						"RecipeName": "Молоток",
+						"CraftComponents": [
+						{
+							"Classname": "Nail",
+							"Amount": 5,
+							"Destroy": 5,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "WoodenLog",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Stone",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hatchet",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						}
+							],
+						"AttachmentsNeed": [
+						     "HP_Drill",
+							 "HP_Vise",
+			                 "HP_Grinde"
+						]
+					},
+				    {
+						"Result": "Hacksaw",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "toolspic",
+						"RecipeName": "Пилка по металу",
+						"CraftComponents": [
+						{
+							"Classname": "MetalPlate",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Pipe",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Grinde",
+							"HP_Vise",  
+							"HP_Drill" 
+						]
+					},
+				    {
+						"Result": "Whetstone",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "sewingkitpic",
+						"RecipeName": "Точильний камінь",
+						"CraftComponents": [
+						{
+							"Classname": "Stone",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						}
+							],
+						"AttachmentsNeed": [
+						   "HP_Vise",   
+						   "HP_Grinde", 
+						   "HP_Anvil"
+						]
+					},
+				    {
+						"Result": "Pliers",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "toolspic",
+						"RecipeName": "Пласкогупці",
+						"CraftComponents": [
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "SledgeHammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.7
+						},
+						{
+							"Classname": "HP_Oiler",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Pipe",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.7
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill",
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					}
+				]
+			},
+			{
+				"CategoryName": "Електроніка",
+				"CraftItems": [
+					{
+						"Result": "NVGoggles",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "oltagepic",
+						"RecipeName": "ПНВ",
+						"CraftComponents": [
+						{
+							"Classname": "ElectronicRepairKit",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "DuctTape",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Binoculars",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Drill",
+							"HP_Vise", 
+							"HP_Payalnik"
+						]
+					},
+					{
+						"Result": "CodeLock",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "oltagepic",
+						"RecipeName": "Код-лок",
+						"CraftComponents": [
+						{
+							"Classname": "ElectronicRepairKit",
+							"Amount": 2,
+							"Destroy": 200,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "DuctTape",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HP_Plata",
+							"Amount": 3,
+							"Destroy": 3,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "HP_Tester",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "HP_Battery",
+							"Amount": 4,
+							"Destroy": 4,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Vise",
+							"HP_Grinde", 
+							"HP_Payalnik"
+						]
+					}
+				]
+			},
+			{
+				"CategoryName": "Фурнітура",
+				"CraftItems": [
+					{
+						"Result": "Msp_MilitaryCrate_Tan",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі скриня 300 слотів",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 5,
+							"Destroy": 5,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_Wardrobe_Green_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Шафа на 300 слотів",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 40,
+							"Destroy": 40,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.7
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 70,
+							"Destroy": 70,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_napilnik",
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_MilitaryLocker_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі шафа 80 слотів +",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_OldLocker_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі шафа 80 слотів +",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_Locker_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі шафа 60 слотів +",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_SoloLocker_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі шафа 60 слотів +",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_FourDoor_MilitaryLocker_Green_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Мілітарі шафа 60 слотів +>",
+						"CraftComponents": [
+						{
+							"Classname": "Hacksaw",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Screwdriver",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "MetalWire",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 4,
+							"Destroy": 4,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+						    "HP_Anvil",
+							"HP_Drill", 
+							"HP_Grinde",
+							"HP_Vise"
+						]
+					},
+					{
+						"Result": "Msp_WoodenGunRack_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Стенд для зброї",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 8,
+							"Destroy": 8,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 16,
+							"Destroy": 16,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_GunCabinet_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Шафа на 8 стволів",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 15,
+							"Destroy": 15,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.3
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 30,
+							"Destroy": 30,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_DoubleGunRack_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Шафа на 20 стволів",
+						"CraftComponents": [
+						{
+							"Classname": "MetalPlate",
+							"Amount": 10,
+							"Destroy": 10,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Pliers",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "HP_napilnik",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 30,
+							"Destroy": 30,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Payalnik",
+							"HP_Drill", 
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_Bookcase_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Шафа для книг",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 30,
+							"Destroy": 30,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 2,
+							"Destroy": 2,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.5
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 70,
+							"Destroy": 70,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_MedicalBox_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Аптечка на стіну",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 10,
+							"Destroy": 10,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "MetalPlate",
+							"Amount": 1,
+							"Destroy": 1,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.2
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 20,
+							"Destroy": 20,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+							"HP_Grinde"
+						]
+					},
+					{
+						"Result": "Msp_FishingRodsRack_Kit",
+						"ResultCount": 1,
+						"ComponentsDontAffectHealth": 1,
+						"CraftType": "furniturepic",
+						"RecipeName": "Стенд для вудок",
+						"CraftComponents": [
+						{
+							"Classname": "WoodenPlank",
+							"Amount": 6,
+							"Destroy": 6,
+							"Changehealth": 0
+						},
+						{
+							"Classname": "Hammer",
+							"Amount": 1,
+							"Destroy": 0,
+							"Changehealth": 0.1
+						},
+						{
+							"Classname": "Nail",
+							"Amount": 14,
+							"Destroy": 14,
+							"Changehealth": 0
+						}
+							],
+						"AttachmentsNeed": [
+		
+						]
+					}
+				]
+			}
+		]
+	}
+}

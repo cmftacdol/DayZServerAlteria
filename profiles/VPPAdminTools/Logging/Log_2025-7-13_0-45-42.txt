@@ -1,0 +1,259 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-13_0-45-42
+====================================================================================
+0:45:42 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:45:42 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:45:42 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:45:42 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:45:42 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:45:42 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:45:42 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:45:42 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:45:42 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:45:42 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:45:42 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:45:42 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:45:42 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:45:42 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:45:42 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:45:42 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:45:42 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:45:42 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:45:42 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:45:42 | [PermissionManager] Adding Super Admin (76561198413928129)
+0:45:42 | [PermissionManager] Adding Super Admin (76561198061747392)
+0:45:42 | [PermissionManager] Loaded UserGroups.json
+0:45:42 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:45:42 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:45:42 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:45:42 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:45:42 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:45:42 | Building Sets Loaded: 2
+0:45:42 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:50:45 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+1:1:42 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+1:1:45 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+1:10:1 | Player "Rassad" (steamId=76561197982802725) connected to server!
+1:25:12 | Player "Lordsparticus" (steamId=76561198280110263) connected to server!
+1:42:6 | Player "Penguin" (steamId=76561198413928129) connected to server!
+1:42:17 | "Penguin" (steamid=76561198413928129) toggled godmode
+1:42:52 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:42:58 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6469.037109, 67.615112, 1527.916138>)
+1:42:59 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:43:2 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:43:54 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5399.584961, 43.667786, 717.595154>)
+1:43:59 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:44:17 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:44:43 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6920.264648, 19.284403, 1524.681030>)
+1:45:26 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7316.140137, 45.776077, 2554.030029>)
+1:45:26 | "Penguin": (steamid=76561198413928129) teleported to (pos=7316.14,0,2554.03)
+1:45:30 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:45:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:46:9 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7123.549805, 45.845139, 1829.502197>)
+1:46:11 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:46:37 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7204.636719, 31.391134, 1871.977173>)
+1:46:45 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:47:58 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7291.175781, 52.855019, 2529.371094>)
+1:47:59 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:48:5 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:48:49 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:48:52 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7290.443359, 53.634754, 2534.849609>)
+1:49:10 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:49:26 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7285.846680, 56.561436, 2570.232910>)
+1:49:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:50:11 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:54:33 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+1:55:24 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6329.939941, 4.424800, 1360.209961>)
+1:55:24 | "Penguin": (steamid=76561198413928129) teleported to (pos=6329.94,0,1360.21)
+1:55:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:55:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:57:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5514.084473, 10.377447, 1095.093872>)
+1:57:38 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5442.478027, 15.461539, 1048.863892>)
+1:57:40 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:57:43 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:57:49 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5385.513184, 9.915868, 1047.070679>)
+1:57:51 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:57:53 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:58:49 | "Penguin" (steamid=76561198413928129) toggled freecam
+1:59:22 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<13575.599609, 12.940000, 9700.669922>)
+1:59:22 | "Penguin": (steamid=76561198413928129) teleported to (pos=13575.6,0,9700.67)
+1:59:47 | "Penguin" (steamid=76561198413928129) Spawned Item: (EngineOil)
+1:59:50 | "Penguin" (steamid=76561198413928129) Spawned Item: (EngineOil)
+1:59:52 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_Replacement_Engine)
+2:0:7 | "Penguin" (steamid=76561198413928129) deleted object "RFMosquito_Replacement_Engine" (pos=<13581.054688, 12.940000, 9700.298828>)
+2:0:19 | "Penguin" (steamid=76561198413928129) deleted object "EngineOil" (pos=<13578.297852, 12.948070, 9699.603516>)
+2:0:22 | "Penguin" (steamid=76561198413928129) deleted object "EngineOil" (pos=<13579.606445, 12.948070, 9699.601563>)
+2:0:26 | "Penguin" (steamid=76561198413928129) Spawned Item: (EngineOil)
+2:0:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (EngineOil)
+2:0:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (CanisterGasoline)
+2:2:2 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:2:3 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:2:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (CarBattery)
+2:2:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (CarBattery)
+2:4:27 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<476.833008, 7.000000, 12743.400391>)
+2:4:27 | "Penguin": (steamid=76561198413928129) teleported to (pos=476.833,0,12743.4)
+2:4:35 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:4:36 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:4:39 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:4:45 | Player "Rassad" (steamId=76561197982802725) initiated disconnect process...
+2:4:48 | Player "Rassad" (steamId=76561197982802725) disconnected from server.
+2:5:17 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:5:51 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:5:56 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:5:58 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:6:4 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<836.171997, 6.999999, 12812.377930>)
+2:6:6 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:6:49 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_DriveBelt)
+2:6:50 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_OilFilter)
+2:6:51 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_wiring_harness)
+2:6:55 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_aviation_toolbox)
+2:7:4 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:7:4 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:7:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:7:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (SparkPlug)
+2:7:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (CanisterGasoline)
+2:7:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (CanisterGasoline)
+2:13:9 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5538.959961, 46.331432, 1366.079956>)
+2:13:9 | "Penguin": (steamid=76561198413928129) teleported to (pos=5538.96,0,1366.08)
+2:13:12 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:14:32 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5455.888672, 17.506367, 1081.612671>)
+2:14:39 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5453.092773, 15.809400, 1081.592285>)
+2:14:44 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5448.492188, 15.809400, 1085.146973>)
+2:14:51 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5445.971191, 15.319407, 1058.237671>)
+2:14:53 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:14:57 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:20:34 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5358.385742, 33.517784, 1256.667969>)
+2:22:31 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<2484.413330, 34.880001, 4465.566406>)
+2:22:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:22:52 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito)
+2:23:4 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_wiring_harness)
+2:23:6 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_OilFilter)
+2:23:7 | "Penguin" (steamid=76561198413928129) Spawned Item: (RFMosquito_DriveBelt)
+2:23:34 | Player "Lordsparticus" (steamId=76561198280110263) initiated disconnect process...
+2:23:37 | Player "Lordsparticus" (steamId=76561198280110263) disconnected from server.
+2:27:39 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7153.509766, 587.359985, 11703.900391>)
+2:27:39 | "Penguin": (steamid=76561198413928129) teleported to (pos=7153.51,0,11703.9)
+2:28:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:29:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7168.714355, 503.845398, 11590.088867>)
+2:29:10 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:29:19 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:29:27 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6845.827148, 658.151245, 11499.721680>)
+2:29:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:29:32 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+2:29:34 | Player "Penguin" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+2:29:35 | Player "Penguin" (steamId=76561198413928129) disconnected from server.
+2:30:4 | Player "Penguin" (steamId=76561198413928129) connected to server!
+2:30:7 | "Penguin" (steamid=76561198413928129) toggled godmode
+2:30:25 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:25 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (EpoxyPutty)
+2:30:34 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:34 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:34 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:58 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:58 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:58 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:30:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:31:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:31:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:31:6 | "Penguin" (steamid=76561198413928129) Spawned Item: (ElectronicRepairKit)
+2:32:6 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+2:32:9 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+2:32:12 | Player "Penguin" (steamId=76561198413928129) disconnected from server.
+3:4:9 | Player "Lin" (steamId=76561198093636655) connected to server!
+3:24:8 | Player "Haztec13" (steamId=76561198057448528) connected to server!
+3:46:52 | Player "Haztec13" (steamId=76561198057448528) initiated disconnect process...
+3:46:54 | Player "Haztec13" (steamId=76561198057448528) disconnected early from server (EXIT NOW).
+3:46:55 | Player "Haztec13" (steamId=76561198057448528) disconnected from server.
+4:23:32 | Player "pembo71" (steamId=76561198017437103) connected to server!
+4:26:54 | Player "Lin" (steamId=76561198093636655) initiated disconnect process...
+4:26:56 | Player "Lin" (steamId=76561198093636655) disconnected early from server (EXIT NOW).
+4:26:57 | Player "Lin" (steamId=76561198093636655) disconnected from server.
+4:28:29 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+4:36:39 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+4:36:42 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+5:27:10 | Player "pembo71" (steamId=76561198017437103) initiated disconnect process...
+5:27:12 | Player "pembo71" (steamId=76561198017437103) disconnected early from server (EXIT NOW).
+5:27:13 | Player "pembo71" (steamId=76561198017437103) disconnected from server.
+6:51:39 | Player "PsychoGloom" (steamId=76561198079398684) connected to server!
+7:26:47 | Player "PsychoGloom" (steamId=76561198079398684) disconnected from server.
+7:26:47 | Player "PsychoGloom" (steamId=76561198079398684) initiated disconnect process...
+8:45:40 | Player "velva" (steamId=76561198012941737) connected to server!
+9:2:33 | Player "velva" (steamId=76561198012941737) initiated disconnect process...
+9:2:35 | Player "velva" (steamId=76561198012941737) disconnected early from server (EXIT NOW).
+9:2:36 | Player "velva" (steamId=76561198012941737) disconnected from server.

@@ -1,0 +1,251 @@
+12:10:38.917 [Spatial AI] Spatial AI Date: 3/6/2025 WC RC30.4
+12:12:35.144 [Spatial AI] Spatial AI Enabled
+12:12:35.144 [Spatial AI] points Enabled
+12:12:35.144 [Spatial AI] Trigger at point: <6840.000000, 1.000000, 1800.000000> - Radius: 500
+12:12:35.145 [Spatial AI] - Safe: true - Faction: Civilian - counts: 0:0
+12:12:35.145 [Spatial AI] - loadout added: HumanLoadout.json
+12:12:35.145 [Spatial AI] - loadout added: NBCLoadout.json
+12:12:35.145 [Spatial AI] Locations Enabled
+12:12:35.145 [Spatial AI] Trigger at location: <2565.784424, 43.939983, 5814.529785> - Radius: 400
+12:12:35.146 [Spatial AI] - Spawn location: <2626.491943, 49.868282, 5779.689941>
+12:12:35.146 [Spatial AI] - Spawn location: <2452.179688, 46.326439, 6031.136719>
+12:12:35.146 [Spatial AI] - Notification covering location to Radius: 800
+12:12:35.146 [Spatial AI] - Faction: East - Loadout: Tier1Loadout.json - counts: 1:2
+12:12:35.147 [Spatial AI] Trigger at location: <3405.232178, 32.491611, 5315.078613> - Radius: 400
+12:12:35.147 [Spatial AI] - Spawn location: <3405.232178, 32.491611, 5315.078613>
+12:12:35.147 [Spatial AI] - Spawn location: <3444.818848, 32.491611, 5315.233887>
+12:12:35.147 [Spatial AI] - Notification covering location to Radius: 800
+12:12:35.147 [Spatial AI] - Faction: East - Loadout: Knights.json - counts: 1:2
+12:12:35.148 [Spatial AI] Trigger at location: <2166.513428, 54.757469, 3129.311523> - Radius: 400
+12:12:35.148 [Spatial AI] - Spawn location: <2166.513428, 54.757469, 3129.311523>
+12:12:35.148 [Spatial AI] - Spawn location: <2107.288330, 55.818546, 2879.040039>
+12:12:35.148 [Spatial AI] - Spawn location: <2085.072021, 68.226509, 3253.361572>
+12:12:35.148 [Spatial AI] - Notification covering location to Radius: 800
+12:12:35.148 [Spatial AI] - Faction: East - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.149 [Spatial AI] Trigger at location: <2475.163818, 111.883186, 2439.177246> - Radius: 400
+12:12:35.149 [Spatial AI] - Spawn location: <2475.163818, 111.883186, 2439.177246>
+12:12:35.149 [Spatial AI] - Spawn location: <2582.363770, 118.270218, 2471.609619>
+12:12:35.149 [Spatial AI] - Spawn location: <2486.501221, 119.111588, 2146.257568>
+12:12:35.149 [Spatial AI] - Notification covering location to Radius: 800
+12:12:35.149 [Spatial AI] - Faction: East - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.150 [Spatial AI] Trigger at location: <1959.195068, -8.429230, 506.471832> - Radius: 400
+12:12:35.150 [Spatial AI] - Spawn location: <1730.281006, 19.528612, 530.052002>
+12:12:35.150 [Spatial AI] - Spawn location: <1783.012329, 15.604889, 650.511841>
+12:12:35.150 [Spatial AI] - Spawn location: <2059.458740, 8.011173, 243.491516>
+12:12:35.150 [Spatial AI] - Notification covering location to Radius: 800
+12:12:35.150 [Spatial AI] - Faction: East - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.151 [Spatial AI] Trigger at location: <1677.099121, 88.060776, 2633.979736> - Radius: 600
+12:12:35.151 [Spatial AI] - Spawn location: <1677.099121, 88.060776, 2633.979736>
+12:12:35.151 [Spatial AI] - Spawn location: <1636.204712, 72.465286, 2653.237549>
+12:12:35.151 [Spatial AI] - Spawn location: <1635.376099, 103.817673, 2677.718994>
+12:12:35.151 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.151 [Spatial AI] - Faction: West - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.152 [Spatial AI] Trigger at location: <4402.029297, 16.123341, 7551.852539> - Radius: 600
+12:12:35.152 [Spatial AI] - Spawn location: <4120.534668, 14.110159, 8082.556152>
+12:12:35.152 [Spatial AI] - Spawn location: <4497.582520, 18.200235, 7740.282715>
+12:12:35.152 [Spatial AI] - Spawn location: <4585.839355, 23.775570, 7618.369629>
+12:12:35.152 [Spatial AI] - Spawn location: <4737.706055, 17.641804, 7501.136230>
+12:12:35.152 [Spatial AI] - Spawn location: <4444.922363, 19.111290, 7257.527832>
+12:12:35.153 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.153 [Spatial AI] - Faction: West - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.153 [Spatial AI] Trigger at location: <6505.392090, 42.859245, 6801.648926> - Radius: 600
+12:12:35.153 [Spatial AI] - Spawn location: <6505.392090, 42.859245, 6801.648926>
+12:12:35.153 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.154 [Spatial AI] - Faction: West - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.154 [Spatial AI] Trigger at location: <6966.417480, 23.390711, 6824.765137> - Radius: 600
+12:12:35.154 [Spatial AI] - Spawn location: <7042.800781, 23.576939, 6695.874512>
+12:12:35.154 [Spatial AI] - Spawn location: <7006.037109, 20.349613, 7332.075684>
+12:12:35.155 [Spatial AI] - Spawn location: <7006.037109, 20.349613, 7332.075684>
+12:12:35.155 [Spatial AI] - Spawn location: <7374.560547, 33.467972, 6292.360840>
+12:12:35.155 [Spatial AI] - Spawn location: <7157.471191, 21.905560, 6264.816406>
+12:12:35.155 [Spatial AI] - Spawn location: <7346.476074, 16.172134, 6073.786133>
+12:12:35.155 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.156 [Spatial AI] - Faction: West - Loadout: Tier2Loadout.json - counts: 1:2
+12:12:35.156 [Spatial AI] Trigger at location: <1959.195068, -8.429230, 506.471832> - Radius: 600
+12:12:35.156 [Spatial AI] - Spawn location: <1609.511841, 13.478415, 281.901947>
+12:12:35.157 [Spatial AI] - Spawn location: <1670.609619, 6.011800, 401.923889>
+12:12:35.157 [Spatial AI] - Spawn location: <1826.618896, 23.622952, 282.571472>
+12:12:35.157 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.157 [Spatial AI] - Faction: West - Loadout: Tier3Loadout.json - counts: 1:2
+12:12:35.158 [Spatial AI] Trigger at location: <6266.466309, 182.130783, 4490.321289> - Radius: 600
+12:12:35.158 [Spatial AI] - Spawn location: <6350.617188, 103.332787, 4595.139160>
+12:12:35.158 [Spatial AI] - Spawn location: <6107.610352, 74.074570, 4623.680664>
+12:12:35.158 [Spatial AI] - Spawn location: <6029.886230, 55.759995, 4700.508301>
+12:12:35.158 [Spatial AI] - Spawn location: <6282.820313, 55.762596, 4416.390625>
+12:12:35.159 [Spatial AI] - Spawn location: <6274.583496, 130.089630, 4484.423340>
+12:12:35.159 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.159 [Spatial AI] - Faction: West - Loadout: Tier3Loadout.json - counts: 1:2
+12:12:35.160 [Spatial AI] Trigger at location: <6684.780762, 19.119965, 3683.819092> - Radius: 600
+12:12:35.160 [Spatial AI] - Spawn location: <6278.407715, 28.765034, 3447.545166>
+12:12:35.160 [Spatial AI] - Spawn location: <6755.675293, 36.151375, 4075.736328>
+12:12:35.160 [Spatial AI] - Spawn location: <7006.906738, 30.273605, 3865.234863>
+12:12:35.161 [Spatial AI] - Spawn location: <6949.021484, 21.095203, 3541.695313>
+12:12:35.161 [Spatial AI] - Spawn location: <6589.359863, 24.053549, 3834.674316>
+12:12:35.161 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.161 [Spatial AI] - Faction: West - Loadout: Tier3Loadout.json - counts: 1:2
+12:12:35.162 [Spatial AI] Trigger at location: <6964.149902, 26.154997, 2028.302246> - Radius: 800
+12:12:35.162 [Spatial AI] - Spawn location: <6572.328613, 31.953953, 1825.117310>
+12:12:35.162 [Spatial AI] - Spawn location: <6094.648438, 26.921272, 2077.852539>
+12:12:35.162 [Spatial AI] - Spawn location: <7669.805664, 28.631607, 2089.202393>
+12:12:35.162 [Spatial AI] - Spawn location: <7804.815430, 26.881310, 1902.841309>
+12:12:35.162 [Spatial AI] - Spawn location: <7648.477051, 29.634529, 1539.355957>
+12:12:35.162 [Spatial AI] - Notification covering location to Radius: 1600
+12:12:35.163 [Spatial AI] - Faction: West - Loadout: Tier3Loadout.json - counts: 1:2
+12:12:35.163 [Spatial AI] Trigger at location: <5967.166992, 100.969398, 1322.224121> - Radius: 600
+12:12:35.163 [Spatial AI] - Spawn location: <5950.854492, 96.240013, 1325.679077>
+12:12:35.163 [Spatial AI] - Spawn location: <5967.166992, 100.969398, 1322.224121>
+12:12:35.164 [Spatial AI] - Spawn location: <5963.168945, 141.015106, 1322.090576>
+12:12:35.164 [Spatial AI] - Spawn location: <5963.168945, 141.015106, 1322.090576>
+12:12:35.164 [Spatial AI] - Spawn location: <5950.975586, 130.265747, 1325.328979>
+12:12:35.164 [Spatial AI] - Notification covering location to Radius: 1200
+12:12:35.164 [Spatial AI] - Faction: West - Loadout: Tier3Loadout.json - counts: 1:2
+12:12:35.165 [Spatial AI] Trigger at location: <3023.516113, 33.652279, 1215.338867> - Radius: 30
+12:12:35.165 [Spatial AI] - Spawn location: <3023.704102, 33.671211, 1288.680908>
+12:12:35.165 [Spatial AI] - Spawn location: <3040.680664, 33.668671, 1270.301270>
+12:12:35.165 [Spatial AI] - Spawn location: <3038.244629, 57.325867, 1246.536743>
+12:12:35.166 [Spatial AI] - Spawn location: <3010.893555, 73.233322, 1261.371948>
+12:12:35.166 [Spatial AI] - Spawn location: <3040.803711, 73.551743, 1270.284912>
+12:12:35.166 [Spatial AI] - Notification covering location to Radius: 60
+12:12:35.166 [Spatial AI] - Faction: West - Loadout: Tier4Loadout.json - counts: 1:2
+12:12:35.166 [Spatial AI] Trigger at location: <2180.633057, 16.000935, 891.632202> - Radius: 30
+12:12:35.167 [Spatial AI] - Spawn location: <1865.483154, 2.010000, 1262.753052>
+12:12:35.167 [Spatial AI] - Spawn location: <1952.992920, 2.010000, 1218.104858>
+12:12:35.167 [Spatial AI] - Spawn location: <2110.861572, 2.458876, 1050.337524>
+12:12:35.167 [Spatial AI] - Spawn location: <2120.560547, 11.189816, 962.748413>
+12:12:35.167 [Spatial AI] - Spawn location: <1982.537598, 2.009901, 1186.655762>
+12:12:35.167 [Spatial AI] - Notification covering location to Radius: 60
+12:12:35.168 [Spatial AI] - Faction: West - Loadout: Tier5Loadout.json - counts: 1:2
+12:12:35.168 [Spatial AI] Audio Sensitive Locations Disabled
+12:15:40.512 [AI Object Patrol 00020] Spawning 1 East bots at <2501.368896, 44.050034, 5727.786621>
+12:15:40.770 [AI Object Patrol 00020] Global patrol count: 1
+12:15:40.771 [AI Object Patrol 00020] ObjectPatrol category patrol count: 1
+12:15:40.771 [AI Object Patrol 00044] Spawning 2 East bots at <2517.290527, 43.939999, 5702.249023>
+12:15:40.795 [AI Object Patrol 00044] Global patrol count: 2
+12:15:40.796 [AI Object Patrol 00044] ObjectPatrol category patrol count: 2
+12:15:40.796 [AI Object Patrol 00047] Spawning 1 East bots at <2281.978760, 64.379997, 7043.802734>
+12:15:40.858 [AI Object Patrol 00047] Global patrol count: 3
+12:15:40.858 [AI Object Patrol 00047] ObjectPatrol category patrol count: 3
+12:16:06.040 [Spatial AI] Player: ADMIN PENGUIN Number: 4, Faction name: East, Loadout: Tier1Loadout.json
+12:16:06.334 [Spatial AI] Spawning 2 Roblido Boys bots at <2626.491943, 43.939999, 5779.689941>
+12:16:06.981 [Spatial AI] Spawning 2 Roblido Boys bots at <2452.179688, 44.933994, 6031.136719>
+12:17:26.948 [AI Object Patrol 00017] Spawning 3 East bots at <3423.432617, 17.233526, 6304.166504>
+12:17:26.974 [AI Object Patrol 00017] Global patrol count: 4
+12:17:26.974 [AI Object Patrol 00017] ObjectPatrol category patrol count: 4
+12:17:26.974 [AI Object Patrol 00012] Spawning 1 East bots at <3738.013184, 4.640000, 5957.940430>
+12:17:26.999 [AI Object Patrol 00012] Global patrol count: 5
+12:17:27.000 [AI Object Patrol 00012] ObjectPatrol category patrol count: 5
+12:19:22.951 [AI Object Patrol 00020] East bots were wiped out (spawn position <2501.368896, 44.050034, 5727.786621>, 1/1 deceased)
+12:19:22.951 [AI Object Patrol 00020] Global patrol count: 4
+12:19:22.951 [AI Object Patrol 00020] ObjectPatrol category patrol count: 4
+12:21:12.937 [AI Object Patrol 00044] East bots were wiped out (spawn position <2517.290527, 43.939999, 5702.249023>, 2/2 deceased)
+12:21:12.937 [AI Object Patrol 00044] Global patrol count: 3
+12:21:12.937 [AI Object Patrol 00044] ObjectPatrol category patrol count: 3
+12:23:02.527 [AI Object Patrol 00009] Spawning 2 East bots at <3938.085205, 17.390539, 4637.702148>
+12:23:02.554 [AI Object Patrol 00009] Global patrol count: 4
+12:23:02.554 [AI Object Patrol 00009] ObjectPatrol category patrol count: 4
+12:23:02.555 [AI Object Patrol 00022] Spawning 3 East bots at <3968.912109, 19.087141, 4640.210938>
+12:23:02.584 [AI Object Patrol 00022] Global patrol count: 5
+12:23:02.584 [AI Object Patrol 00022] ObjectPatrol category patrol count: 5
+12:25:53.670 [AI Object Patrol 00012] East bots were wiped out (spawn position <3738.013184, 4.640000, 5957.940430>, 1/1 deceased)
+12:25:53.670 [AI Object Patrol 00012] Global patrol count: 4
+12:25:53.670 [AI Object Patrol 00012] ObjectPatrol category patrol count: 4
+12:26:01.371 [AI Object Patrol 00047] Despawning 1 East bots (spawn position <2281.978760, 64.379997, 7043.802734>, 0/1 deceased)
+12:26:01.372 [AI Object Patrol 00047] Global patrol count: 3
+12:26:01.372 [AI Object Patrol 00047] ObjectPatrol category patrol count: 3
+12:31:23.840 [Spatial AI] Player: ADMIN PENGUIN Number: 5, Faction name: West, Loadout: Tier3Loadout.json
+12:31:23.841 [AI Object Patrol 00007] Spawning 2 East bots at <5841.818848, 26.242891, 1941.156494>
+12:31:23.868 [AI Object Patrol 00007] Global patrol count: 4
+12:31:23.868 [AI Object Patrol 00007] ObjectPatrol category patrol count: 4
+12:31:24.371 [Spatial AI] Spawning 1 Tier 3 Airfield bots at <7669.805664, 26.129999, 2089.202393>
+12:31:24.482 [Spatial AI] Spawning 1 Tier 3 Airfield bots at <6094.648438, 26.129999, 2077.852539>
+12:31:28.842 [Spatial AI] Spawning 1 Tier 3 Airfield bots at <6572.328613, 29.434317, 1825.117310>
+12:32:49.168 [AI Object Patrol 00001] Spawning 2 West bots at <6732.645996, 65.813057, 1022.103149>
+12:32:49.200 [AI Object Patrol 00001] Global patrol count: 5
+12:32:49.201 [AI Object Patrol 00001] HelicopterWreck category patrol count: 1
+12:32:49.353 [AI Object Patrol 00030] Spawning 3 East bots at <6732.195801, 26.242748, 2336.795166>
+12:32:49.379 [AI Object Patrol 00030] Global patrol count: 6
+12:32:49.379 [AI Object Patrol 00030] ObjectPatrol category patrol count: 5
+12:32:57.977 [AI Object Patrol 00017] Despawning 3 East bots (spawn position <3423.432617, 17.233526, 6304.166504>, 0/3 deceased)
+12:32:57.977 [AI Object Patrol 00017] Global patrol count: 5
+12:32:57.977 [AI Object Patrol 00017] ObjectPatrol category patrol count: 4
+12:33:37.681 [AI Object Patrol 00009] Despawning 2 East bots (spawn position <3938.085205, 17.390539, 4637.702148>, 0/2 deceased)
+12:33:37.681 [AI Object Patrol 00009] Global patrol count: 4
+12:33:37.681 [AI Object Patrol 00009] ObjectPatrol category patrol count: 3
+12:33:42.978 [AI Object Patrol 00022] Despawning 3 East bots (spawn position <3968.912109, 19.087141, 4640.210938>, 0/3 deceased)
+12:33:42.979 [AI Object Patrol 00022] Global patrol count: 3
+12:33:42.979 [AI Object Patrol 00022] ObjectPatrol category patrol count: 2
+12:35:52.382 [AI Object Patrol 00002] Spawning 2 East bots at <6986.788086, 63.347488, 828.207031>
+12:35:52.455 [AI Object Patrol 00002] Global patrol count: 4
+12:35:52.455 [AI Object Patrol 00002] HelicopterWreck category patrol count: 2
+12:35:52.530 [Spatial AI] Player: ADMIN PENGUIN Number: 5, Faction name: West, Loadout: Tier3Loadout.json
+12:35:52.627 [Spatial AI] Spawning 1 Tier 3 Bunker bots at <5950.975586, 81.979980, 1325.328979>
+12:35:52.654 [Spatial AI] Spawning 1 Tier 3 Bunker bots at <5950.854492, 81.979980, 1325.679077>
+12:35:52.749 [Spatial AI] Spawning 1 Tier 3 Bunker bots at <5963.168945, 81.979980, 1322.090576>
+12:35:53.086 [Spatial AI] Spawning 1 Tier 3 Bunker bots at <5963.168945, 81.979980, 1322.090576>
+12:35:53.477 [Spatial AI] Spawning 1 Tier 3 Bunker bots at <5967.166992, 81.979980, 1322.224121>
+12:38:45.970 [AI Object Patrol 00039] Spawning 1 East bots at <2300.120117, 77.099998, 1726.308105>
+12:38:45.988 [AI Object Patrol 00039] Global patrol count: 5
+12:38:45.989 [AI Object Patrol 00039] ObjectPatrol category patrol count: 3
+12:38:46.095 [Spatial AI] Player: ADMIN PENGUIN Number: 10, Faction name: West, Loadout: Tier4Loadout.json
+12:38:46.635 [Spatial AI] Spawning 2 Tier 4 Bunker bots at <3010.893555, 33.509998, 1261.371948>
+12:38:46.735 [Spatial AI] Spawning 2 Tier 4 Bunker bots at <3023.704102, 33.509998, 1288.680908>
+12:38:46.774 [Spatial AI] Spawning 2 Tier 4 Bunker bots at <3038.244629, 33.509998, 1246.536743>
+12:38:51.052 [Spatial AI] Spawning 2 Tier 4 Bunker bots at <3040.680664, 33.509998, 1270.301270>
+12:38:51.310 [Spatial AI] Spawning 2 Tier 4 Bunker bots at <3040.803711, 33.509998, 1270.284912>
+12:44:08.189 [AI Object Patrol 00006] Spawning 2 East bots at <1600.486084, 13.889048, 593.935974>
+12:44:08.205 [AI Object Patrol 00006] Global patrol count: 6
+12:44:08.205 [AI Object Patrol 00006] ObjectPatrol category patrol count: 4
+12:44:08.206 [AI Object Patrol 00016] Spawning 3 East bots at <1852.253662, 15.570000, 578.030090>
+12:44:08.219 [AI Object Patrol 00016] Global patrol count: 7
+12:44:08.220 [AI Object Patrol 00016] ObjectPatrol category patrol count: 5
+12:44:08.271 [Spatial AI] Player: ADMIN PENGUIN Number: 3, Faction name: West, Loadout: Tier3Loadout.json
+12:44:08.672 [Spatial AI] Spawning 1 Tier 3 South Harbor bots at <1670.609619, 5.920000, 401.923889>
+12:44:08.842 [Spatial AI] Spawning 1 Tier 3 South Harbor bots at <1826.618896, -4.542468, 282.571472>
+12:44:09.024 [Spatial AI] Spawning 1 Tier 3 South Harbor bots at <1609.511841, -4.221058, 281.901947>
+12:44:29.091 [AI Object Patrol 00007] Despawning 2 East bots (spawn position <5841.818848, 26.242891, 1941.156494>, 0/2 deceased)
+12:44:29.092 [AI Object Patrol 00007] Global patrol count: 6
+12:44:29.092 [AI Object Patrol 00007] ObjectPatrol category patrol count: 4
+12:44:29.092 [AI Object Patrol 00002] Despawning 2 East bots (spawn position <6986.788086, 63.347488, 828.207031>, 0/2 deceased)
+12:44:29.093 [AI Object Patrol 00002] Global patrol count: 5
+12:44:29.093 [AI Object Patrol 00002] HelicopterWreck category patrol count: 1
+12:44:29.094 [AI Object Patrol 00006] Despawning 2 East bots (spawn position <1600.486084, 13.889048, 593.935974>, 0/2 deceased)
+12:44:29.094 [AI Object Patrol 00006] Global patrol count: 4
+12:44:29.094 [AI Object Patrol 00006] ObjectPatrol category patrol count: 3
+12:44:29.095 [AI Object Patrol 00001] Despawning 2 West bots (spawn position <6732.645996, 65.813057, 1022.103149>, 0/2 deceased)
+12:44:29.095 [AI Object Patrol 00001] Global patrol count: 3
+12:44:29.095 [AI Object Patrol 00001] HelicopterWreck category patrol count: 0
+12:44:29.136 [AI Object Patrol 00035] Spawning 3 East bots at <1854.542969, 15.570000, 598.061951>
+12:44:29.150 [AI Object Patrol 00035] Global patrol count: 4
+12:44:29.150 [AI Object Patrol 00035] ObjectPatrol category patrol count: 4
+12:44:29.216 [Spatial AI] Player: ADMIN PENGUIN Number: 10, Faction name: West, Loadout: Tier5Loadout.json
+12:44:29.300 [Spatial AI] Spawning 2 Tier 5 Bunker bots at <1982.537598, 2.010000, 1186.655762>
+12:44:29.716 [Spatial AI] Spawning 2 Tier 5 Bunker bots at <2110.861572, 2.010000, 1050.337524>
+12:44:29.901 [AI Object Patrol 00034] Spawning 3 East bots at <1706.361206, 15.570000, 473.067474>
+12:44:29.914 [AI Object Patrol 00034] Global patrol count: 5
+12:44:29.914 [AI Object Patrol 00034] ObjectPatrol category patrol count: 5
+12:44:29.962 [Spatial AI] Spawning 2 Tier 5 Bunker bots at <1865.483154, 2.010000, 1262.753052>
+12:44:29.996 [Spatial AI] Spawning 2 Tier 5 Bunker bots at <1952.992920, 2.010000, 1218.104858>
+12:44:30.169 [Spatial AI] Spawning 2 Tier 5 Bunker bots at <2120.560547, 2.010000, 962.748413>
+12:45:49.338 [AI Object Patrol 00030] Despawning 1 East bots (spawn position <6732.195801, 26.242748, 2336.795166>, 2/3 deceased)
+12:45:49.338 [AI Object Patrol 00030] Global patrol count: 4
+12:45:49.338 [AI Object Patrol 00030] ObjectPatrol category patrol count: 4
+12:52:57.133 [AI Object Patrol 00034] East bots were wiped out (spawn position <1706.361206, 15.570000, 473.067474>, 3/3 deceased)
+12:52:57.133 [AI Object Patrol 00034] Global patrol count: 3
+12:52:57.133 [AI Object Patrol 00034] ObjectPatrol category patrol count: 3
+12:53:07.563 [Spatial AI] Player: ADMIN PENGUIN Number: 6, Faction name: East, Loadout: Tier2Loadout.json
+12:53:07.978 [Spatial AI] Spawning 2 Tier 2 South Harbor bots at <1730.281006, 1.737391, 530.052002>
+12:53:08.315 [Spatial AI] Spawning 2 Tier 2 South Harbor bots at <2059.458740, 5.940000, 243.491516>
+12:53:08.494 [Spatial AI] Spawning 2 Tier 2 South Harbor bots at <1783.012329, 15.579877, 650.511841>
+12:55:40.172 [AI Object Patrol 00015] Spawning 2 East bots at <2180.334717, 54.799999, 3061.097900>
+12:55:40.189 [AI Object Patrol 00015] Global patrol count: 4
+12:55:40.190 [AI Object Patrol 00015] ObjectPatrol category patrol count: 4
+12:55:40.190 [AI Object Patrol 00021] Spawning 2 East bots at <1951.105347, 54.799999, 2946.397217>
+12:55:40.206 [AI Object Patrol 00021] Global patrol count: 5
+12:55:40.207 [AI Object Patrol 00021] ObjectPatrol category patrol count: 5
+12:55:40.442 [Spatial AI] Player: ADMIN PENGUIN Number: 6, Faction name: East, Loadout: Tier2Loadout.json
+12:55:40.493 [Spatial AI] Spawning 2 Tier 2 Quarry bots at <2475.163818, 104.219696, 2439.177246>
+12:55:40.652 [Spatial AI] Spawning 2 Tier 2 Quarry bots at <2486.501221, 104.940002, 2146.257568>
+12:55:41.460 [Spatial AI] Spawning 2 Tier 2 Quarry bots at <2582.363770, 108.048805, 2471.609619>
+12:55:52.959 [AI Object Patrol 00055] Spawning 3 West bots at <2765.651855, 51.969509, 3267.517822>
+12:55:52.979 [AI Object Patrol 00055] Global patrol count: 6
+12:55:52.979 [AI Object Patrol 00055] HelicopterWreck category patrol count: 1

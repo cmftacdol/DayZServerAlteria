@@ -1,0 +1,265 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-5-9_13-23-31
+====================================================================================
+13:23:31 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+13:23:31 | [PermissionManager] Perm (FreeCamera) has been registered!
+13:23:31 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuServerManager) has been registered!
+13:23:31 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+13:23:31 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+13:23:31 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+13:23:31 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+13:23:31 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+13:23:31 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+13:23:31 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+13:23:31 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+13:23:31 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+13:23:31 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuBansManager) has been registered!
+13:23:31 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+13:23:31 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+13:23:31 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+13:23:31 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+13:23:31 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+13:23:31 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+13:23:31 | [PermissionManager] Adding Super Admin (76561198061747392)
+13:23:31 | [PermissionManager] Adding Super Admin (76561198413928129)
+13:23:31 | [PermissionManager] Loaded UserGroups.json
+13:23:31 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+13:23:31 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+13:23:31 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+13:23:31 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+13:23:31 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+13:23:31 | Building Sets Loaded: 1
+13:23:31 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+13:41:36 | Player "Mick" (steamId=76561198061747392) connected to server!
+13:44:18 | "Mick" (steamid=76561198061747392) toggled freecam
+13:47:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5411.421387, 2.430298, 7594.512695>)
+13:47:28 | "Mick" (steamid=76561198061747392) toggled freecam
+13:47:53 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Mag)
+13:47:53 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+13:47:54 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+13:47:54 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+13:47:54 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+13:47:54 | "Mick" (steamid=76561198061747392) Spawned Item: (jmc_SnowOwl_Ammo)
+13:48:26 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5411.565430, 2.447761, 7589.765137>)
+13:48:28 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5408.324707, 2.440184, 7548.955566>)
+13:48:29 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5394.056641, 2.609998, 7513.309570>)
+13:48:30 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5390.312988, 2.609997, 7496.309570>)
+13:48:31 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5387.723145, 2.609998, 7478.572754>)
+13:48:32 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5388.035156, 2.641376, 7462.530762>)
+13:54:57 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<969.987000, 26.144258, 11572.299805>)
+13:54:57 | "Mick": (steamid=76561198061747392) teleported to (pos=969.987,0,11572.3)
+13:57:50 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<3664.030029, 6.630000, 13544.099609>)
+13:57:50 | "Mick": (steamid=76561198061747392) teleported to (pos=3664.03,0,13544.1)
+13:57:55 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3662.555908, 6.680828, 13543.948242>)
+14:6:36 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<1180.520020, -33.009998, 14149.700195>)
+14:6:36 | "Mick": (steamid=76561198061747392) teleported to (pos=1180.52,0,14149.7)
+14:6:50 | "Mick" (steamid=76561198061747392) toggled godmode
+14:7:0 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+14:7:15 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+14:8:39 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<10080.599609, 26.490000, 12639.200195>)
+14:8:39 | "Mick": (steamid=76561198061747392) teleported to (pos=10080.6,0,12639.2)
+14:8:39 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<10080.599609, 26.490000, 12639.200195>)
+14:8:39 | "Mick": (steamid=76561198061747392) teleported to (pos=10080.6,0,12639.2)
+14:9:2 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+14:9:4 | "Mick" (steamid=76561198061747392) toggled godmode
+14:9:5 | "Mick" (steamid=76561198061747392) /heal used on: "Mick" (steamid=76561198061747392)
+14:9:7 | "Mick" (steamid=76561198061747392) toggled godmode
+14:10:44 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10035.592773, 26.489992, 12537.429688>)
+14:10:44 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10029.766602, 26.489998, 12515.954102>)
+14:10:45 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10014.156250, 26.489998, 12509.456055>)
+14:14:13 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10027.166992, 26.491058, 12543.891602>)
+14:14:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10025.272461, 27.394800, 12578.141602>)
+14:14:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10023.244141, 28.811102, 12611.432617>)
+14:14:15 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10023.164063, 28.819998, 12630.584961>)
+14:14:16 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10025.817383, 28.819996, 12645.207031>)
+14:15:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10066.665039, 26.790871, 12622.992188>)
+14:16:1 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10136.074219, 20.360001, 12556.562500>)
+14:16:5 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10147.567383, 20.359993, 12554.677734>)
+14:16:7 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10167.661133, 20.359999, 12559.242188>)
+14:16:8 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10187.250000, 20.806786, 12553.118164>)
+14:16:9 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10195.806641, 20.360058, 12542.928711>)
+14:16:9 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10204.267578, 20.360004, 12531.191406>)
+14:16:13 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10212.567383, 20.360001, 12510.844727>)
+14:16:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10204.066406, 20.360006, 12492.743164>)
+14:16:15 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10184.725586, 20.359999, 12480.454102>)
+14:16:18 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10152.375977, 21.632160, 12489.689453>)
+14:16:20 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10101.888672, 21.240322, 12495.997070>)
+14:16:23 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10059.228516, 24.867815, 12495.937500>)
+14:16:24 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10012.427734, 21.625729, 12442.637695>)
+14:16:25 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10029.585938, 20.376026, 12457.624023>)
+14:16:26 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10021.302734, 20.359976, 12444.120117>)
+14:16:33 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10032.628906, 21.450291, 12466.692383>)
+14:16:35 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10030.990234, 24.670420, 12483.865234>)
+14:16:35 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10026.831055, 26.165165, 12495.701172>)
+14:16:36 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10025.842773, 26.490004, 12524.456055>)
+14:16:37 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10028.508789, 26.527187, 12552.167969>)
+14:16:37 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10026.737305, 27.214937, 12574.546875>)
+14:16:38 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10024.676758, 28.244204, 12594.896484>)
+14:16:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10021.088867, 28.820000, 12612.015625>)
+14:16:40 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10015.560547, 28.819998, 12628.059570>)
+14:16:41 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10003.787109, 28.819996, 12650.688477>)
+14:16:45 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10012.741211, 28.819998, 12680.513672>)
+14:19:47 | "Mick" (steamid=76561198061747392) Spawned Item: (SA58_DrumMag)
+14:20:5 | "Mick" (steamid=76561198061747392) toggled freecam
+14:20:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10033.533203, 32.030415, 12702.212891>)
+14:20:23 | "Mick" (steamid=76561198061747392) toggled freecam
+14:20:50 | "Mick" (steamid=76561198061747392) toggled freecam
+14:20:53 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10039.119141, 28.897921, 12710.245117>)
+14:20:59 | "Mick" (steamid=76561198061747392) toggled freecam
+14:21:4 | "Mick" (steamid=76561198061747392) toggled freecam
+14:21:24 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9769.583984, 28.998047, 12344.794922>)
+14:21:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9801.317383, 22.734028, 12234.141602>)
+14:21:38 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9218.109375, 43.251808, 12983.414063>)
+14:21:46 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<8616.721680, 6.300011, 13682.921875>)
+14:21:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7721.940918, 27.183872, 13482.498047>)
+14:22:9 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7366.693848, 25.336374, 13735.234375>)
+14:22:10 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7369.858398, 18.919399, 13961.239258>)
+14:22:11 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7122.441895, 36.149078, 13953.622070>)
+14:22:31 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6756.130859, 28.317036, 13979.312500>)
+14:22:33 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6707.480469, 28.845024, 14000.304688>)
+14:22:37 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6412.566895, 48.671200, 14205.416016>)
+14:26:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6439.513184, 40.137863, 14238.319336>)
+14:27:25 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5895.670410, 6.558311, 14392.608398>)
+14:27:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5873.381348, 5.880035, 14934.650391>)
+14:28:26 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6181.677246, 12.624944, 14707.287109>)
+14:29:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6191.691406, 41.863327, 13780.541992>)
+14:29:35 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6167.550293, 26.620951, 13975.105469>)
+14:41:56 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6344.420410, 30.040045, 14303.774414>)
+14:42:47 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5796.822266, 5.880013, 14490.708008>)
+14:43:32 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6296.587402, 41.948956, 14160.549805>)
+14:43:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6305.374512, 41.860023, 14149.861328>)
+14:43:35 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6305.322754, 41.860020, 14149.852539>)
+14:44:34 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6257.560059, 18.410000, 14467.200195>)
+14:44:34 | "Mick": (steamid=76561198061747392) teleported to (pos=6257.56,0,14467.2)
+14:44:37 | "Mick" (steamid=76561198061747392) toggled freecam
+14:44:38 | "Mick" (steamid=76561198061747392) toggled freecam
+14:46:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6099.569336, 5.880004, 14939.365234>)
+14:46:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6098.152344, 5.879946, 14940.519531>)
+14:47:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5983.264648, 10.213585, 14193.515625>)
+14:48:29 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6238.491699, 22.643028, 14684.988281>)
+14:48:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6236.242676, 18.634785, 14679.194336>)
+14:49:52 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<10049.599609, 23.662813, 12484.400391>)
+14:49:52 | "Mick": (steamid=76561198061747392) teleported to (pos=10049.6,0,12484.4)
+14:49:56 | "Mick" (steamid=76561198061747392) toggled freecam
+14:50:25 | "Mick" (steamid=76561198061747392) toggled freecam
+14:50:39 | "Mick" (steamid=76561198061747392) toggled freecam
+14:50:42 | "Mick" (steamid=76561198061747392) toggled freecam
+14:50:48 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10056.168945, 25.976318, 12535.517578>)
+14:52:15 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<9984.441406, 20.558519, 12347.441406>)
+14:52:18 | "Mick" (steamid=76561198061747392) toggled freecam
+14:52:18 | "Mick" (steamid=76561198061747392) toggled freecam
+14:52:55 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10017.425781, 37.736946, 12654.932617>)
+14:53:30 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<10150.041992, 20.613497, 12503.152344>)
+14:55:8 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<3421.699951, 20.430000, 6463.089844>)
+14:55:8 | "Mick": (steamid=76561198061747392) teleported to (pos=3421.7,0,6463.09)
+14:55:10 | "Mick" (steamid=76561198061747392) toggled freecam
+14:55:14 | "Mick" (steamid=76561198061747392) toggled freecam
+14:55:28 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3393.530273, 21.440277, 6378.111328>)
+14:56:2 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3597.679688, 21.685579, 6669.287109>)
+14:56:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3589.300049, 22.923489, 6198.284180>)
+14:57:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3336.210693, 29.181435, 5892.881836>)
+14:58:14 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<1941.670044, 9.190000, 8988.480469>)
+14:58:14 | "Mick": (steamid=76561198061747392) teleported to (pos=1941.67,0,8988.48)
+14:58:16 | "Mick" (steamid=76561198061747392) toggled freecam
+14:58:18 | "Mick" (steamid=76561198061747392) toggled freecam
+14:58:25 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1959.498657, 18.186495, 8979.322266>)
+14:59:26 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1570.769653, 9.325001, 9056.298828>)
+15:0:21 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1961.140381, 10.229561, 8858.866211>)
+15:1:20 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<1601.349976, 8.320000, 15063.799805>)
+15:1:20 | "Mick": (steamid=76561198061747392) teleported to (pos=1601.35,0,15063.8)
+15:1:21 | "Mick" (steamid=76561198061747392) toggled freecam
+15:1:23 | "Mick" (steamid=76561198061747392) toggled freecam
+15:1:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1397.703369, 2.112169, 14799.375977>)
+15:1:31 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1051.516602, 2.119999, 14784.680664>)
+15:1:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<429.088593, 5.323524, 15223.477539>)
+15:1:41 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<401.116241, 2.120005, 15458.185547>)
+15:1:43 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<673.417236, 2.119993, 15554.601563>)
+15:1:45 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<990.891846, 2.119999, 15676.007813>)
+15:1:47 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1262.635864, 2.120003, 15814.264648>)
+15:1:48 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1619.853149, 2.120008, 15902.789063>)
+15:1:52 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1799.027710, 1.763035, 15955.466797>)
+15:2:23 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1679.712158, 1.956753, 15268.957031>)
+15:2:34 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1471.404053, 8.319946, 15466.774414>)
+15:3:37 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1461.192261, 8.320038, 15449.155273>)
+15:4:27 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1525.062622, 8.401005, 15249.708008>)
+15:4:56 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1103.943115, 8.717572, 15480.782227>)
+15:5:31 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<1463.688232, 8.911016, 15579.563477>)
+15:6:4 | "Mick" (steamid=76561198061747392) toggled freecam
+15:6:5 | "Mick" (steamid=76561198061747392) toggled freecam
+15:6:56 | "Mick" (steamid=76561198061747392) toggled freecam
+15:7:3 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<5411.669922, 2.430549, 7594.220215>)
+15:7:3 | "Mick": (steamid=76561198061747392) teleported to (pos=5411.67,0,7594.22)
+15:7:24 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+15:7:27 | Player "Mick" (steamId=76561198061747392) disconnected from server.

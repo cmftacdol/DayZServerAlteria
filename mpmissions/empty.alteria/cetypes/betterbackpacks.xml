@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+    <type name="Nomadbackpack_v3_BaseColor">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Blue">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Teal">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Green">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Grey">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Red">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Yellow">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Black">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_AoR2">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Woodland">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Nomadbackpack_v3_Winter">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_ArmyGreen">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_Black">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_Brown">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_Teal">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_Weed">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_White">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="Kits_Bottle_v3_Yellow">
+        <nominal>2</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="containers" />
+        <usage name="Village" />
+        <usage name="Hunting" />
+        <usage name="Town" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+    </type>
+    <type name="casebag">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <usage name="Military" />
+        <usage name="Underground" />
+    </type>
+    <type name="casebag_green">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <usage name="Military" />
+        <usage name="Underground" />
+    </type>
+    <type name="casebag_winter">
+        <nominal>1</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <value name="Tier4" />
+        <value name="Tier5" />
+        <usage name="Military" />
+        <usage name="Underground" />
+    </type>
+</types>

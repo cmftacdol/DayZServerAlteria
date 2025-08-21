@@ -1,0 +1,244 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-8_0-12-55
+====================================================================================
+0:12:55 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:12:55 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:12:55 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:12:55 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:12:55 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:12:55 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:12:55 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:12:55 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:12:55 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:12:55 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:12:55 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:12:55 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:12:55 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:12:55 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:12:55 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:12:55 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:12:55 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:12:55 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:12:55 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:12:56 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:12:56 | [PermissionManager] Adding Super Admin (76561198413928129)
+0:12:56 | [PermissionManager] Adding Super Admin (76561198061747392)
+0:12:56 | [PermissionManager] Loaded UserGroups.json
+0:12:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:12:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:12:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:12:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:12:56 | Building Sets Loaded: 2
+0:12:56 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:19:25 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+0:29:11 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+0:29:14 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+0:33:7 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+0:37:59 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+0:38:2 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+0:42:15 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+1:4:19 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+1:4:22 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+1:16:44 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+1:36:7 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+1:36:10 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+1:36:55 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+1:49:57 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+1:50:0 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+2:1:27 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+2:1:41 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+2:1:42 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected early from server (EXIT NOW).
+2:1:44 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+2:7:41 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+2:20:59 | Player "Penguin" (steamId=76561198413928129) connected to server!
+2:21:11 | "Penguin" (steamid=76561198413928129) toggled godmode
+2:21:41 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:22:28 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+2:22:31 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+2:23:16 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:24:1 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:24:3 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:24:20 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_BearPeltGhillieWhite)
+2:24:29 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_BearPeltGhillieBrown_m)
+2:24:48 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:25:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6545.123535, 2.833228, 1397.611938>)
+2:25:21 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:25:31 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:25:32 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:26:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (HunterPants_Winter)
+2:26:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (HuntingJacket_Winter)
+2:27:1 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_kronboots_whitepixel)
+2:27:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Skirt_White)
+2:27:16 | "Penguin" (steamid=76561198413928129) toggled godmode
+2:27:18 | "Penguin" (steamid=76561198413928129) toggled godmode
+2:27:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_White)
+2:28:0 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsighthelmettactic_chrome)
+2:28:25 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_cloak_winter)
+2:28:35 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho)
+2:28:35 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho)
+2:28:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_scarf_knitted)
+2:29:2 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+2:29:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoolGloves_White)
+2:29:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Thor_Black)
+2:29:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_SniperHood_Black)
+2:29:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_SniperHood_Black)
+2:30:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (SkiGoggles_WhiteClear)
+2:30:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (SkiGoggles_WhiteDark)
+2:30:53 | "Penguin" (steamid=76561198413928129) toggled freecam
+2:31:4 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6159.607422, 16.010002, 1188.257080>)
+2:31:8 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+2:31:11 | Player "Penguin" (steamId=76561198413928129) disconnected from server.
+3:50:17 | Player "GodZe" (steamId=76561197976058820) connected to server!
+4:2:0 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) connected to server!
+4:27:38 | Player "Penguin" (steamId=76561198413928129) connected to server!
+4:27:47 | "Penguin" (steamid=76561198413928129) toggled godmode
+4:28:5 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:28:57 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:29:3 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:29:11 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6462.525879, 64.380005, 1525.216064>)
+4:29:15 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:29:20 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:31:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:32:31 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:33:13 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+4:33:16 | Player "Penguin" (steamId=76561198413928129) disconnected from server.
+5:23:14 | Player "GodZe" (steamId=76561197976058820) disconnected from server.
+5:23:14 | Player "GodZe" (steamId=76561197976058820) initiated disconnect process...
+5:36:6 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+5:36:7 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+5:36:9 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+6:14:2 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) initiated disconnect process...
+6:14:5 | Player "[GOB] Old Timer:):)" (steamId=76561198044480151) disconnected from server.
+7:44:20 | Player "Solitary" (steamId=76561199440110542) connected to server!
+7:47:45 | Player "Reg" (steamId=76561198062069505) connected to server!
+7:54:15 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+7:54:15 | Player "Reg" (steamId=76561198062069505) disconnected early from server (EXIT NOW).
+7:54:18 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+8:11:20 | Player "Oni" (steamId=76561198054790066) connected to server!
+8:12:21 | Player "Reg" (steamId=76561198062069505) connected to server!
+8:42:45 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+8:43:49 | Player "Reg" (steamId=76561198062069505) connected to server!
+9:21:18 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+9:21:21 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+10:8:52 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+10:9:44 | Player "Reg" (steamId=76561198062069505) connected to server!
+10:17:23 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+10:17:24 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+10:17:26 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+10:20:37 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+10:21:11 | Player "Reg" (steamId=76561198062069505) connected to server!
+10:37:13 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+10:37:16 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+10:37:47 | Player "Reg" (steamId=76561198062069505) connected to server!
+10:47:57 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+10:48:0 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+10:48:27 | Player "Reg" (steamId=76561198062069505) connected to server!
+10:51:39 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+10:51:42 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+10:52:10 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:0:6 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:0:9 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+11:0:36 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:3:9 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+11:11:22 | Player "Oni" (steamId=76561198054790066) initiated disconnect process...
+11:15:15 | Player "Oni" (steamId=76561198054790066) connected to server!
+11:19:44 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:19:47 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+11:21:10 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:43:35 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:44:16 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:45:3 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:46:6 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:46:43 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:48:46 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:49:53 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:51:17 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:51:57 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:52:0 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+11:52:59 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:54:6 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:56:10 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:56:20 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:58:2 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:59:56 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+12:1:18 | Player "Reg" (steamId=76561198062069505) connected to server!
+12:9:45 | Player "Solitary" (steamId=76561199440110542) initiated disconnect process...
+12:9:49 | Player "Solitary" (steamId=76561199440110542) disconnected from server.
+12:9:49 | Player "Oni" (steamId=76561198054790066) initiated disconnect process...
+12:9:52 | Player "Oni" (steamId=76561198054790066) disconnected from server.
+12:10:7 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+12:10:8 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+12:10:10 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+12:10:48 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...

@@ -1,0 +1,40 @@
+{
+    "Version": 2,
+    "notification": [
+        {
+            "Spatial_Name": "Guard",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 4.5,
+            "MessageType": 5,
+            "MessageTitle": "Guard AI",
+            "MessageText": [
+                "Guards detected",
+                "Friendlies in the area, guns down."
+            ]
+        },
+        {
+            "Spatial_Name": "Danger Zone Juggernauts",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 1.5,
+            "MessageType": 3,
+            "MessageTitle": "Danger Zone Juggernauts Deployed",
+            "MessageText": [
+                "Juggernauts detected",
+                "What are you doing here anyway?"
+            ]
+        },
+        {
+            "Spatial_Name": "Disabled",
+            "StartTime": 0.0,
+            "StopTime": 24.0,
+            "AgeTime": 10.0,
+            "MessageType": 0,
+            "MessageTitle": "Disabled",
+            "MessageText": [
+                "Disabled"
+            ]
+        }
+    ]
+}

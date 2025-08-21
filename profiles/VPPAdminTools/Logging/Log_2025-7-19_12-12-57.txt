@@ -1,0 +1,385 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-19_12-12-57
+====================================================================================
+12:12:57 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:12:57 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:12:57 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:12:57 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:12:57 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:12:57 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:12:57 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:12:57 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:12:57 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:12:57 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:12:57 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:12:57 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:12:57 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:12:57 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:12:57 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:12:57 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:12:57 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:12:57 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:12:57 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+12:12:57 | [PermissionManager] Adding Super Admin (76561198413928129)
+12:12:57 | [PermissionManager] Adding Super Admin (76561198061747392)
+12:12:57 | [PermissionManager] Adding Super Admin (76561198065207038)
+12:12:57 | [PermissionManager] Loaded UserGroups.json
+12:12:57 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:12:57 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:12:57 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:12:57 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:12:57 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:12:57 | Building Sets Loaded: 2
+12:12:57 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:17:42 | Player "Reg" (steamId=76561198062069505) connected to server!
+12:17:48 | Player "Scarecrow2530" (steamId=76561198089743539) connected to server!
+12:17:53 | Player "DnWings" (steamId=76561198090803986) connected to server!
+12:17:55 | Player "Paul " (steamId=76561198121111197) connected to server!
+12:18:2 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:20:36 | Player "Aerym" (steamId=76561198019941737) connected to server!
+12:34:56 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+12:34:57 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+12:34:59 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+12:35:59 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+12:36:52 | Player "Reg" (steamId=76561198062069505) connected to server!
+12:58:17 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+12:58:20 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+13:11:0 | Player "Toddau" (steamId=76561198102948919) connected to server!
+13:11:5 | Player "Toddau" (steamId=76561198102948919) initiated disconnect process...
+13:11:7 | Player "Toddau" (steamId=76561198102948919) disconnected early from server (EXIT NOW).
+13:11:8 | Player "Toddau" (steamId=76561198102948919) disconnected from server.
+13:32:9 | Player "Scarecrow2530" (steamId=76561198089743539) initiated disconnect process...
+13:32:12 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected from server.
+13:34:10 | Player "Scarecrow2530" (steamId=76561198089743539) connected to server!
+13:53:19 | Player "owl" (steamId=76561198143985310) connected to server!
+13:55:6 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+14:2:8 | Player "owl" (steamId=76561198143985310) connected to server!
+14:3:22 | Player "Kurtxes" (steamId=76561198314329371) connected to server!
+14:3:55 | Player "DnWings" (steamId=76561198090803986) connected to server!
+14:27:19 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+14:27:22 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+14:27:54 | Player "Reg" (steamId=76561198062069505) connected to server!
+14:33:36 | Player "Kurtxes" (steamId=76561198314329371) disconnected from server.
+14:33:36 | Player "Kurtxes" (steamId=76561198314329371) initiated disconnect process...
+14:41:33 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+14:41:34 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+14:41:36 | Player "owl" (steamId=76561198143985310) disconnected from server.
+14:42:16 | Player "owl" (steamId=76561198143985310) connected to server!
+15:1:40 | Player "Scarecrow2530" (steamId=76561198089743539) initiated disconnect process...
+15:1:41 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected early from server (EXIT NOW).
+15:1:43 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected from server.
+15:8:7 | Player "KOG" (steamId=76561198104966670) connected to server!
+15:8:9 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+15:8:12 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+15:11:47 | Player "Reg" (steamId=76561198062069505) connected to server!
+15:18:27 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+15:18:30 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+16:0:15 | Player "Aerym" (steamId=76561198019941737) initiated disconnect process...
+16:0:17 | Player "Aerym" (steamId=76561198019941737) disconnected early from server (EXIT NOW).
+16:0:18 | Player "Aerym" (steamId=76561198019941737) disconnected from server.
+16:12:0 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+16:12:3 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+16:12:3 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+16:19:53 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+16:19:55 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+16:19:56 | Player "owl" (steamId=76561198143985310) disconnected from server.
+16:25:15 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+16:25:18 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+16:25:35 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+16:25:38 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+16:25:38 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+17:17:36 | Player "Reg" (steamId=76561198062069505) connected to server!
+17:38:11 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+17:38:14 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+17:38:43 | Player "Reg" (steamId=76561198062069505) connected to server!
+17:39:4 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+17:39:5 | Player "Reg" (steamId=76561198062069505) disconnected early from server (EXIT NOW).
+17:39:7 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+17:41:1 | Player "Reg" (steamId=76561198062069505) connected to server!
+18:41:21 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+18:41:23 | Player "Reg" (steamId=76561198062069505) disconnected early from server (EXIT NOW).
+18:41:24 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+18:46:45 | Player "owl" (steamId=76561198143985310) connected to server!
+19:11:57 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+19:11:58 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+19:12:0 | Player "owl" (steamId=76561198143985310) disconnected from server.
+21:27:10 | Player "ralph wiggum" (steamId=76561199365795662) connected to server!
+22:15:54 | Player "Penguin" (steamId=76561198413928129) connected to server!
+22:16:2 | "Penguin" (steamid=76561198413928129) toggled godmode
+22:16:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:16:59 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:17:35 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7556.378418, 75.570786, 4715.899414>)
+22:17:52 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7411.285156, 46.327332, 4950.169434>)
+22:17:58 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7682.945313, 44.704559, 4877.978027>)
+22:18:14 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.638672, 22.256310, 4785.719238>)
+22:18:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8383.270508, 25.626133, 5162.954590>)
+22:18:55 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9701.158203, 39.959412, 5530.592285>)
+22:19:44 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.417969, 0.835834, 5978.394531>)
+22:19:46 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:22:55 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:25:10 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8235.159180, -31.858583, 6585.135742>)
+22:25:35 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7479.923340, 1.687331, 6429.515625>)
+22:25:37 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:25:38 | "Penguin" (steamid=76561198413928129) toggled godmode
+22:25:40 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:25:42 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:25:42 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:25:42 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:25:42 | "Penguin" (steamid=76561198413928129) /heal used on: "Penguin" (steamid=76561198413928129)
+22:25:43 | "Penguin" (steamid=76561198413928129) toggled godmode
+22:26:17 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6167.000000, 30.546726, 6872.790039>)
+22:26:17 | "Penguin": (steamid=76561198413928129) teleported to (pos=6167,0,6872.79)
+22:26:30 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:26:55 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5102.743652, 15.136726, 7586.326660>)
+22:27:10 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5603.351074, 18.645538, 8286.617188>)
+22:27:24 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5328.086914, 14.056381, 8460.990234>)
+22:27:30 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:30:29 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:31:5 | Player "Survivor" (steamId=76561198339031792) connected to server!
+22:31:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6146.404297, 438.055695, 10734.927734>)
+22:31:23 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:32:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (Plague_Mask)
+22:33:0 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_plaguemask)
+22:33:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (WitchHood_Black)
+22:34:35 | "Penguin" (steamid=76561198413928129) Spawned Item: (Wool_GreatCoat_Grey)
+22:37:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (GorkaHelmet_Black)
+22:37:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (CargoPants_Black)
+22:38:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (SkullMask)
+22:38:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoolGlovesFingerless_Black)
+22:39:3 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants)
+22:39:6 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_shoes_dark)
+22:39:7 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_jacket)
+22:39:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_bag)
+22:39:10 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_bag_black)
+22:39:12 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_jacket_black)
+22:39:12 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_jacket_green)
+22:39:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_jacket)
+22:39:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_shoes_dark)
+22:39:14 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_shoes)
+22:39:14 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants_black)
+22:39:17 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants_green)
+22:39:17 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants_green)
+22:40:12 | "Penguin" (steamid=76561198413928129) Spawned Item: (MedievalBoots)
+22:40:43 | "Penguin" (steamid=76561198413928129) Spawned Item: (SlacksPants_Black)
+22:41:6 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:41:11 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6390.559570, 185.893494, 11057.391602>)
+22:41:18 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:45:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (My_DeadIsland2_Weapons_Ripper)
+22:49:17 | Player "choppa" (steamId=76561198283763534) connected to server!
+22:53:27 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5919.240234, 60.959377, 3161.479980>)
+22:53:27 | "Penguin": (steamid=76561198413928129) teleported to (pos=5919.24,0,3161.48)
+22:53:33 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:54:25 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7482.839844, 14.493825, 1724.280029>)
+22:54:25 | "Penguin": (steamid=76561198413928129) teleported to (pos=7482.84,0,1724.28)
+22:54:29 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:54:32 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:54:39 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:54:54 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:55:26 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8594.617188, 85.697922, 2095.246826>)
+22:57:39 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6911.908203, 89.239021, 1976.159058>)
+22:57:43 | "Penguin" (steamid=76561198413928129) toggled freecam
+22:57:57 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:2:25 | Player "choppa" (steamId=76561198283763534) initiated disconnect process...
+23:2:27 | Player "choppa" (steamId=76561198283763534) disconnected early from server (EXIT NOW).
+23:2:28 | Player "choppa" (steamId=76561198283763534) disconnected from server.
+23:6:15 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5719.459961, 17.924000, 5106.979980>)
+23:6:15 | "Penguin": (steamid=76561198413928129) teleported to (pos=5719.46,0,5106.98)
+23:6:19 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:6:30 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5781.751465, 15.067416, 5044.198730>)
+23:6:31 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:8:19 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7373.680176, 44.201328, 2449.709961>)
+23:8:19 | "Penguin": (steamid=76561198413928129) teleported to (pos=7373.68,0,2449.71)
+23:8:22 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:8:29 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:8:44 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6954.340332, 70.308128, 3527.987549>)
+23:8:46 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:9:10 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:9:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8652.655273, 42.540226, 3737.884766>)
+23:9:27 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8840.511719, 35.917107, 4242.875488>)
+23:9:31 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9450.501953, 39.519867, 4671.651855>)
+23:9:33 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9822.349609, 7.520828, 4444.404297>)
+23:9:36 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9526.680664, 37.874298, 5300.841309>)
+23:9:39 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9744.333008, 38.606903, 5520.073242>)
+23:9:42 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<10404.168945, 22.910355, 5328.966797>)
+23:9:49 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<10290.051758, 48.567036, 7927.772949>)
+23:9:51 | Player "ralph wiggum" (steamId=76561199365795662) initiated disconnect process...
+23:9:54 | Player "ralph wiggum" (steamId=76561199365795662) disconnected from server.
+23:9:56 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8907.269531, 5.130013, 8739.102539>)
+23:10:3 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9234.379883, 5.651625, 9275.299805>)
+23:10:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<10003.823242, 23.267160, 10790.666016>)
+23:10:12 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9893.793945, 18.483826, 10771.995117>)
+23:10:22 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<11219.582031, 15.460276, 10185.600586>)
+23:10:26 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<11454.557617, 5.380051, 10103.347656>)
+23:10:27 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<11454.840820, 5.380157, 10103.161133>)
+23:10:39 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<11410.591797, 5.380013, 9904.208984>)
+23:10:43 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<13256.794922, 12.989929, 9989.808594>)
+23:10:49 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<13473.594727, 16.501926, 9941.063477>)
+23:10:57 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<13241.747070, 31.900755, 9839.058594>)
+23:10:59 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:12:5 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:12:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<12948.309570, 57.289127, 9809.161133>)
+23:12:20 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:12:42 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:13:23 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<3717.417236, 9.080116, 3344.315674>)
+23:13:36 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<5707.329590, 15.742393, 1142.477051>)
+23:14:13 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7313.376953, 38.474472, 2408.822021>)
+23:14:14 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:14:46 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:15:3 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6271.222168, 32.092491, 1909.056152>)
+23:15:4 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:15:16 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:15:27 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<6087.289551, 11.060034, 1281.437256>)
+23:15:28 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:15:43 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:16:2 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7648.136230, 2.892051, 1585.142090>)
+23:16:3 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:16:11 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:17:34 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:17:36 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:17:54 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7238.530273, 29.658539, 2072.593750>)
+23:18:1 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:18:7 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:18:51 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<305.217010, 47.070000, 835.825012>)
+23:18:51 | "Penguin": (steamid=76561198413928129) teleported to (pos=305.217,0,835.825)
+23:18:55 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:19:5 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:19:33 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<487.815826, 97.570816, 1114.574951>)
+23:19:34 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:20:3 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:20:16 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<342.714966, 52.602448, 1223.288574>)
+23:20:16 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:20:23 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:20:46 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:20:56 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<14981.799805, 196.670120, 15438.700195>)
+23:20:56 | "Penguin": (steamid=76561198413928129) teleported to (pos=14981.8,0,15438.7)
+23:21:0 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:21:26 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:21:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (HunterPants_Winter)
+23:21:44 | "Penguin" (steamid=76561198413928129) Spawned Item: (HuntingJacket_Winter)
+23:21:50 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_rag)
+23:21:54 | "Penguin" (steamid=76561198413928129) Spawned Item: (Poncho_White)
+23:22:0 | "Penguin" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_White)
+23:22:48 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Gen4_Black)
+23:23:12 | "Penguin" (steamid=76561198413928129) Spawned Item: (STAG_Clothing_TacticalGloves_PT)
+23:23:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_kronboots_whitepixel)
+23:23:49 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_SniperHood_MCAL)
+23:23:51 | Player "ralph wiggum" (steamId=76561199365795662) connected to server!
+23:24:2 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_arafatka_gray)
+23:24:20 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_BearPeltGhillieBrown_m)
+23:24:48 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:25:1 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15512.505859, 37.226261, 15231.841797>)
+23:25:1 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:25:9 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoodAxe)
+23:25:35 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:26:18 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<14436.578125, 281.356293, 15683.077148>)
+23:26:19 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:28:12 | "Penguin" (steamid=76561198413928129) Spawned Item: (Paper)
+23:28:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (PetrolLighter)
+23:28:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (PetrolLighter)
+23:28:23 | "Penguin" (steamid=76561198413928129) Spawned Item: (PetrolLighter)
+23:28:33 | "Penguin" (steamid=76561198413928129) Spawned Item: (Roadflare)
+23:33:24 | Player "ComeFeedTheDucks" (steamId=76561199203728828) connected to server!
+23:35:7 | "Penguin" (steamid=76561198413928129) Spawned Item: (TerjeSleepingBag_Blue)
+23:40:36 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:40:54 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15628.817383, 228.878387, 14867.945313>)
+23:40:57 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:41:6 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:41:8 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15622.919922, 231.095932, 14850.965820>)
+23:41:8 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:41:57 | Player "ComeFeedTheDucks" (steamId=76561199203728828) initiated disconnect process...
+23:42:0 | Player "ComeFeedTheDucks" (steamId=76561199203728828) disconnected from server.
+23:42:30 | "Penguin" (steamid=76561198413928129) Spawned Item: (Headtorch_Grey)
+23:42:36 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+23:42:36 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+23:42:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+23:42:40 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+23:42:45 | "Penguin" (steamid=76561198413928129) Spawned Item: (Battery9V)
+23:43:10 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_Prototype_Blue)
+23:43:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_Prototype_Mag)
+23:43:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_Prototype_Mag)
+23:43:17 | "Penguin" (steamid=76561198413928129) Spawned Item: (JMC_Book_PROTOTYPE)
+23:43:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (jmc_Prototype_Optic_Blue)
+23:44:15 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:44:32 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15601.228516, 216.097031, 14749.235352>)
+23:44:32 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:44:55 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:45:0 | "Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15602.004883, 216.835983, 14750.653320>)
+23:45:1 | "Penguin" (steamid=76561198413928129) toggled freecam
+23:46:25 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+23:46:27 | Player "Penguin" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+23:46:29 | Player "Penguin" (steamId=76561198413928129) disconnected from server.
+0:9:5 | Player "ralph wiggum" (steamId=76561199365795662) initiated disconnect process...
+0:9:8 | Player "ralph wiggum" (steamId=76561199365795662) disconnected from server.
+0:10:48 | Player "Survivor" (steamId=76561198339031792) initiated disconnect process...

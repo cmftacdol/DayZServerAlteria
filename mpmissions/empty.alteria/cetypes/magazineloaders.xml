@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+
+    <!-- Mag Types -->
+
+    <type name="Hel_MagazineLoading">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_Case">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_AdminCase">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepBlue">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepMagenta">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepRed">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepYellow">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepBlueCamo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepGreenCamo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepMagentaCamo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepRedCamo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_DeepYellowCamo">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_BlueCase">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_MagentaCase">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_RedCase">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+    <type name="Hel_MagazineLoading_YellowCase">
+        <nominal>1</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>3600</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="1" />
+        <category name="weapons" />
+        <usage name="Military" />
+        <value name="Tier4" />
+
+    </type>
+
+
+</types>

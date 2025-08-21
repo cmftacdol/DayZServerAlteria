@@ -1,0 +1,675 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-26_0-14-1
+====================================================================================
+0:14:1 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:14:1 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:14:1 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:14:1 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:14:1 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:14:1 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:14:1 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:14:1 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:14:1 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:14:1 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:14:1 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:14:1 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:14:1 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:14:1 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:14:1 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:14:1 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:14:1 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:14:1 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:14:1 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:14:1 | [PermissionManager] Adding Super Admin (76561198413928129)
+0:14:1 | [PermissionManager] Adding Super Admin (76561198061747392)
+0:14:1 | [PermissionManager] Adding Super Admin (76561198065207038)
+0:14:1 | [PermissionManager] Loaded UserGroups.json
+0:14:1 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:14:1 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:14:1 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:14:1 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:14:1 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:14:1 | Building Sets Loaded: 2
+0:14:1 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:16:7 | Player "Paul " (steamId=76561198121111197) connected to server!
+0:23:43 | Player "ralph wiggum" (steamId=76561199365795662) connected to server!
+0:41:21 | Player "IRON WARRIOR 316" (steamId=76561199665695201) connected to server!
+0:49:28 | Player "IRON WARRIOR 316" (steamId=76561199665695201) initiated disconnect process...
+0:49:30 | Player "IRON WARRIOR 316" (steamId=76561199665695201) disconnected early from server (EXIT NOW).
+0:49:31 | Player "IRON WARRIOR 316" (steamId=76561199665695201) disconnected from server.
+0:50:45 | Player "Keidgos" (steamId=76561198144300120) connected to server!
+1:16:5 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+1:16:8 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+1:28:28 | Player "Paul " (steamId=76561198121111197) connected to server!
+1:45:52 | Player "KOG" (steamId=76561198104966670) connected to server!
+1:49:58 | Player "Too Tough Terry" (steamId=76561199095128927) connected to server!
+1:59:30 | Player "Fibjam." (steamId=76561198144833647) connected to server!
+2:10:39 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+2:10:41 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+2:10:42 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+2:23:57 | Player "KOG" (steamId=76561198104966670) connected to server!
+2:25:28 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+2:25:30 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+2:25:31 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+2:26:51 | Player "KOG" (steamId=76561198104966670) connected to server!
+3:12:55 | Player "Too Tough Terry" (steamId=76561199095128927) disconnected from server.
+3:12:55 | Player "Too Tough Terry" (steamId=76561199095128927) initiated disconnect process...
+3:13:8 | Player "DnWings" (steamId=76561198090803986) connected to server!
+3:28:47 | Player "exact" (steamId=76561199718636855) connected to server!
+3:35:37 | Player "ralph wiggum" (steamId=76561199365795662) initiated disconnect process...
+3:35:40 | Player "ralph wiggum" (steamId=76561199365795662) disconnected from server.
+3:40:55 | Player "Fibjam." (steamId=76561198144833647) initiated disconnect process...
+3:40:56 | Player "Fibjam." (steamId=76561198144833647) disconnected early from server (EXIT NOW).
+3:40:58 | Player "Fibjam." (steamId=76561198144833647) disconnected from server.
+3:50:16 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+3:58:50 | Player "Too Tough Terry" (steamId=76561199095128927) connected to server!
+4:8:55 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+4:8:57 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+4:8:58 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+4:9:0 | Player "exact" (steamId=76561199718636855) disconnected from server.
+4:14:34 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+4:14:37 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+4:16:50 | Player "Paul " (steamId=76561198121111197) connected to server!
+4:17:8 | Player "Miko" (steamId=76561198413928129) connected to server!
+4:17:24 | "Miko" (steamid=76561198413928129) toggled godmode
+4:19:18 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+4:20:55 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano2)
+4:21:1 | Player "exact" (steamId=76561199718636855) connected to server!
+4:21:3 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano1)
+4:21:5 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano2)
+4:21:18 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Boar1)
+4:21:20 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Boar2)
+4:21:31 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+4:21:33 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+4:21:34 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+4:22:35 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Cat_Bayn1)
+4:22:37 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Cat_Bayn2)
+4:22:38 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Cat_Bayn3)
+4:22:52 | Player "KOG" (steamId=76561198104966670) connected to server!
+4:23:19 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera_Kogot)
+4:23:22 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_Red)
+4:23:24 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_White)
+4:23:25 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_Fur)
+4:23:27 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_Brown)
+4:23:48 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_White)
+4:23:50 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Dog_Fur)
+4:24:19 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Fresh1)
+4:24:20 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Fresh2)
+4:24:22 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Fresh3)
+4:24:45 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Izlom1)
+4:24:50 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos1)
+4:25:21 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos1)
+4:25:23 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos2)
+4:25:25 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos3)
+4:25:50 | "Miko" (steamid=76561198413928129) Spawned Item: (Snafu_PKP_250RND_Mag)
+4:25:51 | "Miko" (steamid=76561198413928129) Spawned Item: (Snafu_PKP_Black_GUN)
+4:25:53 | "Miko" (steamid=76561198413928129) Spawned Item: (SNAFU_NPKPBIPOD)
+4:26:8 | "Miko" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+4:28:27 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Pse_Dog2)
+4:28:57 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3_Super)
+4:31:42 | "Miko" (steamid=76561198413928129) Spawned Item: (Zombi_XZ_Monolith_Zorya)
+4:32:36 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+4:41:32 | Player "Too Tough Terry" (steamId=76561199095128927) initiated disconnect process...
+4:41:33 | Player "Too Tough Terry" (steamId=76561199095128927) aborted logout process [canceledLogout]
+4:41:42 | Player "Too Tough Terry" (steamId=76561199095128927) disconnected from server.
+4:41:42 | Player "Too Tough Terry" (steamId=76561199095128927) initiated disconnect process...
+4:42:49 | Player "Kame" (steamId=76561199372146202) connected to server!
+4:43:58 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+4:44:1 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+4:44:1 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+4:46:4 | Player "Miko" (steamId=76561198413928129) connected to server!
+4:46:19 | "Miko" (steamid=76561198413928129) toggled godmode
+4:46:56 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<724.771973, 37.709999, 12471.299805>)
+4:46:56 | "Miko": (steamid=76561198413928129) teleported to (pos=724.772,0,12471.3)
+4:47:43 | "Miko" (steamid=76561198413928129) toggled freecam
+4:48:3 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<1049.634399, 17.766573, 12968.353516>)
+4:48:10 | "Miko" (steamid=76561198413928129) toggled freecam
+4:48:49 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6011.640137, 318.115753, 12669.700195>)
+4:48:49 | "Miko": (steamid=76561198413928129) teleported to (pos=6011.64,0,12669.7)
+4:49:9 | "Miko" (steamid=76561198413928129) toggled freecam
+4:49:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<6538.235352, 19.479019, 13626.239258>)
+4:52:23 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<6206.739258, 24.170576, 13666.062500>)
+4:52:27 | "Miko" (steamid=76561198413928129) toggled freecam
+4:53:3 | "Miko" (steamid=76561198413928129) toggled freecam
+4:53:16 | "Miko" (steamid=76561198413928129) toggled freecam
+4:53:26 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6328.040039, 36.600571, 1884.939941>)
+4:53:26 | "Miko": (steamid=76561198413928129) teleported to (pos=6328.04,0,1884.94)
+4:53:36 | "Miko" (steamid=76561198413928129) toggled freecam
+4:53:58 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<6825.043945, 16.381113, 1539.180054>)
+4:55:3 | "Miko" (steamid=76561198413928129) toggled freecam
+4:55:13 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3960.229980, 11.837997, 3351.229980>)
+4:55:13 | "Miko": (steamid=76561198413928129) teleported to (pos=3960.23,0,3351.23)
+4:55:23 | "Miko" (steamid=76561198413928129) toggled freecam
+4:55:56 | "Miko" (steamid=76561198413928129) toggled freecam
+4:56:11 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7341.439941, 6.650000, 8545.969727>)
+4:56:11 | "Miko": (steamid=76561198413928129) teleported to (pos=7341.44,0,8545.97)
+4:56:22 | "Miko" (steamid=76561198413928129) toggled freecam
+4:59:38 | "Miko" (steamid=76561198413928129) toggled freecam
+5:0:27 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<12194.000000, -35.000000, 12461.799805>)
+5:0:27 | "Miko": (steamid=76561198413928129) teleported to (pos=12194,0,12461.8)
+5:0:33 | "Miko" (steamid=76561198413928129) toggled freecam
+5:0:39 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<12313.169922, 0.580688, 12500.396484>)
+5:0:40 | "Miko" (steamid=76561198413928129) toggled freecam
+5:1:15 | "Miko" (steamid=76561198413928129) Spawned Item: (FirefightersPants_Black)
+5:1:48 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<14815.200195, 212.766052, 13687.700195>)
+5:1:48 | "Miko": (steamid=76561198413928129) teleported to (pos=14815.2,0,13687.7)
+5:2:26 | "Miko" (steamid=76561198413928129) deleted objects using ESP
+5:2:32 | "Miko" (steamid=76561198413928129) deleted objects using ESP
+5:2:53 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+5:2:56 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+5:4:21 | "Miko" (steamid=76561198413928129) Spawned Item: (HunterPants_Winter)
+5:4:23 | "Miko" (steamid=76561198413928129) Spawned Item: (HuntingJacket_Winter)
+5:4:23 | "Miko" (steamid=76561198413928129) Spawned Item: (HuntingJacket_Winter)
+5:4:46 | "Miko" (steamid=76561198413928129) Spawned Item: (jmc_BearPeltGhillieBrown_m)
+5:5:14 | Player "Grinkle Toegrabber" (steamId=76561198189458879) connected to server!
+5:5:20 | "Miko" (steamid=76561198413928129) Spawned Item: (Loftd_kronboots_whitepixel)
+5:5:43 | "Miko" (steamid=76561198413928129) Spawned Item: (Loftd_ushanka)
+5:5:45 | "Miko" (steamid=76561198413928129) Spawned Item: (Ushanka_Black)
+5:5:45 | "Miko" (steamid=76561198413928129) Spawned Item: (Ushanka_Black)
+5:6:8 | "Miko" (steamid=76561198413928129) Spawned Item: (Balaclava3Holes_White)
+5:6:14 | Player "Paul " (steamId=76561198121111197) connected to server!
+5:6:26 | "Miko" (steamid=76561198413928129) Spawned Item: (WoolGloves_White)
+5:6:41 | "Miko" (steamid=76561198413928129) Spawned Item: (FOG_Shirt_Tactical_Coat_Black)
+5:6:41 | "Miko" (steamid=76561198413928129) Spawned Item: (FOG_Shirt_Tactical_Coat_Black)
+5:6:59 | "Miko" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_rag)
+5:7:4 | Player "Plop" (steamId=76561199442911657) connected to server!
+5:7:17 | "Miko" (steamid=76561198413928129) Spawned Item: (Loftd_arafatka_gray)
+5:7:54 | "Miko" (steamid=76561198413928129) toggled freecam
+5:8:45 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15621.735352, 231.486282, 14836.044922>)
+5:8:47 | "Miko" (steamid=76561198413928129) toggled freecam
+5:9:37 | "Miko" (steamid=76561198413928129) toggled freecam
+5:9:45 | "Miko" (steamid=76561198413928129) toggled freecam
+5:10:3 | "Miko" (steamid=76561198413928129) Spawned Item: (WoodenLog)
+5:10:7 | "Miko" (steamid=76561198413928129) Spawned Item: (Roadflare)
+5:10:8 | "Miko" (steamid=76561198413928129) Spawned Item: (Roadflare)
+5:10:12 | "Miko" (steamid=76561198413928129) Spawned Item: (Paper)
+5:10:13 | "Miko" (steamid=76561198413928129) Spawned Item: (Paper)
+5:10:18 | "Miko" (steamid=76561198413928129) Spawned Item: (WoodAxe)
+5:11:23 | Player "Grinkle Toegrabber" (steamId=76561198189458879) initiated disconnect process...
+5:11:26 | Player "Grinkle Toegrabber" (steamId=76561198189458879) disconnected from server.
+5:11:44 | "Miko" (steamid=76561198413928129) toggled godmode
+5:12:52 | Player "furgin" (steamId=76561197988925224) connected to server!
+5:13:58 | Player "ralph wiggum" (steamId=76561199365795662) connected to server!
+5:14:38 | "Miko" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Thor_Black)
+5:14:53 | "Miko" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Thor_Black)
+5:15:14 | Player "Grinkle Toegrabber" (steamId=76561198189458879) connected to server!
+5:20:46 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+5:20:49 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+5:21:11 | Player "Paul " (steamId=76561198121111197) connected to server!
+5:21:12 | "Miko" (steamid=76561198413928129) toggled freecam
+5:21:12 | Player "Sledgee" (steamId=76561198094166332) connected to server!
+5:21:32 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15625.145508, 229.250015, 14858.668945>)
+5:21:33 | "Miko" (steamid=76561198413928129) toggled freecam
+5:21:40 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15625.064453, 229.250000, 14861.236328>)
+5:21:44 | "Miko" (steamid=76561198413928129) toggled freecam
+5:21:47 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15621.231445, 229.263840, 14861.966797>)
+5:21:47 | "Miko" (steamid=76561198413928129) toggled freecam
+5:21:50 | "Miko" (steamid=76561198413928129) toggled freecam
+5:21:52 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15622.951172, 227.642593, 14871.249023>)
+5:21:53 | "Miko" (steamid=76561198413928129) toggled freecam
+5:22:19 | "Miko" (steamid=76561198413928129) Spawned Item: (jmc_mjolnir)
+5:22:46 | Player "Sledgee" (steamId=76561198094166332) initiated disconnect process...
+5:22:48 | Player "Sledgee" (steamId=76561198094166332) disconnected early from server (EXIT NOW).
+5:22:50 | Player "Sledgee" (steamId=76561198094166332) disconnected from server.
+5:22:51 | "Miko" (steamid=76561198413928129) toggled freecam
+5:22:59 | "Miko" (steamid=76561198413928129) toggled freecam
+5:23:1 | "Miko" (steamid=76561198413928129) toggled godmode
+5:23:4 | "Miko" (steamid=76561198413928129) toggled freecam
+5:23:16 | "Miko" (steamid=76561198413928129) toggled freecam
+5:23:30 | "Miko" (steamid=76561198413928129) toggled freecam
+5:25:58 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+5:26:1 | Player "exact" (steamId=76561199718636855) disconnected from server.
+5:26:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15640.387695, 176.828476, 14746.074219>)
+5:26:30 | "Miko" (steamid=76561198413928129) toggled freecam
+5:26:37 | "Miko" (steamid=76561198413928129) toggled freecam
+5:26:47 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15642.609375, 314.526733, 14714.288086>)
+5:26:48 | "Miko" (steamid=76561198413928129) toggled freecam
+5:26:51 | "Miko" (steamid=76561198413928129) toggled freecam
+5:30:54 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+5:30:57 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+5:31:20 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15586.481445, 222.308975, 14752.396484>)
+5:31:25 | "Miko" (steamid=76561198413928129) toggled freecam
+5:31:26 | "Miko" (steamid=76561198413928129) toggled freecam
+5:31:41 | Player "Plop" (steamId=76561199442911657) disconnected from server.
+5:31:41 | Player "Plop" (steamId=76561199442911657) initiated disconnect process...
+5:32:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15615.488281, 303.648621, 14765.496094>)
+5:33:29 | Player "Plop" (steamId=76561199442911657) connected to server!
+5:35:17 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15601.409180, 238.075409, 14881.070313>)
+5:35:19 | "Miko" (steamid=76561198413928129) toggled freecam
+5:35:19 | Player "KOG" (steamId=76561198104966670) connected to server!
+5:35:31 | "Miko" (steamid=76561198413928129) toggled freecam
+5:35:32 | "Miko" (steamid=76561198413928129) toggled freecam
+5:35:44 | "Miko" (steamid=76561198413928129) Spawned Item: (Headtorch_Grey)
+5:35:49 | "Miko" (steamid=76561198413928129) Spawned Item: (Battery9V)
+5:35:50 | "Miko" (steamid=76561198413928129) Spawned Item: (Battery9V)
+5:35:50 | "Miko" (steamid=76561198413928129) Spawned Item: (Battery9V)
+5:35:58 | "Miko" (steamid=76561198413928129) Spawned Item: (Battery9V)
+5:36:35 | "Miko" (steamid=76561198413928129) Spawned Item: (LongTorch)
+5:36:36 | "Miko" (steamid=76561198413928129) Spawned Item: (LongTorch)
+5:37:23 | "Miko" (steamid=76561198413928129) toggled freecam
+5:37:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15606.708984, 238.056976, 14828.599609>)
+5:37:27 | "Miko" (steamid=76561198413928129) toggled freecam
+5:38:53 | "Miko" (steamid=76561198413928129) Spawned Item: (Battery9V)
+5:39:48 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+5:39:51 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+5:40:52 | Player "furgin" (steamId=76561197988925224) initiated disconnect process...
+5:40:54 | Player "furgin" (steamId=76561197988925224) disconnected early from server (EXIT NOW).
+5:40:55 | Player "furgin" (steamId=76561197988925224) disconnected from server.
+5:47:0 | Player "Plop" (steamId=76561199442911657) initiated disconnect process...
+5:47:18 | Player "Linchpin" (steamId=76561198032051130) connected to server!
+5:47:42 | Player "Plop" (steamId=76561199442911657) connected to server!
+5:48:12 | "Miko" (steamid=76561198413928129) toggled freecam
+5:48:30 | "Miko" (steamid=76561198413928129) toggled freecam
+5:49:35 | "Miko" (steamid=76561198413928129) Spawned Item: (Snafu_PKP_250RND_Mag)
+5:49:43 | "Miko" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+5:52:15 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15642.059570, 210.982605, 14769.310547>)
+5:56:18 | "Miko" (steamid=76561198413928129) toggled freecam
+5:56:34 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15645.106445, 170.490204, 14751.628906>)
+5:56:35 | "Miko" (steamid=76561198413928129) toggled freecam
+6:1:5 | "Miko" (steamid=76561198413928129) toggled freecam
+6:1:25 | "Miko" (steamid=76561198413928129) toggled freecam
+6:1:51 | "Miko" (steamid=76561198413928129) toggled freecam
+6:1:56 | "Miko" (steamid=76561198413928129) toggled freecam
+6:2:1 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+6:2:34 | "Miko" (steamid=76561198413928129) Spawned Item: (rag_baseitems_gazebo_kit)
+6:2:35 | Player "Ocelot66" (steamId=76561198131933108) connected to server!
+6:2:37 | "Miko" (steamid=76561198413928129) Spawned Item: (rag_baseitems_gazebo_kit)
+6:3:8 | "Miko" (steamid=76561198413928129) deleted object "rag_baseitems_gazebo" (pos=<15637.904297, 170.564560, 14790.831055>)
+6:4:6 | Player "Linchpin" (steamId=76561198032051130) initiated disconnect process...
+6:4:8 | Player "Linchpin" (steamId=76561198032051130) disconnected early from server (EXIT NOW).
+6:4:9 | Player "Linchpin" (steamId=76561198032051130) disconnected from server.
+6:6:12 | "Miko" (steamid=76561198413928129) toggled freecam
+6:6:22 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<15640.534180, 176.828476, 14746.235352>)
+6:6:23 | "Miko" (steamid=76561198413928129) toggled freecam
+6:6:40 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+6:11:59 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7087.049805, 45.048649, 1948.609985>)
+6:11:59 | "Miko": (steamid=76561198413928129) teleported to (pos=7087.05,0,1948.61)
+6:12:26 | "Miko" (steamid=76561198413928129) toggled freecam
+6:13:23 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8377.594727, 6.323593, 1862.327271>)
+6:13:55 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<6846.534180, 89.907440, 1975.688721>)
+6:16:6 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+6:16:9 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+6:16:15 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9241.790039, 4.086348, 13351.799805>)
+6:16:15 | "Miko": (steamid=76561198413928129) teleported to (pos=9241.79,0,13351.8)
+6:16:20 | "Miko" (steamid=76561198413928129) toggled freecam
+6:16:26 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+6:17:13 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8145.149902, 5.372144, 13942.200195>)
+6:17:13 | "Miko": (steamid=76561198413928129) teleported to (pos=8145.15,0,13942.2)
+6:17:17 | "Miko" (steamid=76561198413928129) toggled freecam
+6:20:47 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8240.388672, 29.695438, 13621.036133>)
+6:23:53 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9388.107422, 15.253663, 14547.158203>)
+6:30:6 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+6:30:6 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+6:30:41 | Player "KOG" (steamId=76561198104966670) connected to server!
+6:33:39 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+6:33:41 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+6:33:42 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+6:35:30 | Player "KOG" (steamId=76561198104966670) connected to server!
+6:43:46 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+6:43:49 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+6:48:24 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+6:52:35 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9158.392578, 0.804234, 14439.281250>)
+6:55:3 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9172.118164, 21.523666, 14705.064453>)
+6:56:25 | Player "exact" (steamId=76561199718636855) connected to server!
+6:58:29 | Player "Kame" (steamId=76561199372146202) connected to server!
+7:1:16 | Player "Plop" (steamId=76561199442911657) initiated disconnect process...
+7:1:19 | Player "Grinkle Toegrabber" (steamId=76561198189458879) initiated disconnect process...
+7:1:19 | Player "Plop" (steamId=76561199442911657) disconnected from server.
+7:1:20 | Player "Grinkle Toegrabber" (steamId=76561198189458879) disconnected early from server (EXIT NOW).
+7:1:22 | Player "Grinkle Toegrabber" (steamId=76561198189458879) disconnected from server.
+7:4:21 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+7:4:24 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+7:13:21 | Player "ralph wiggum" (steamId=76561199365795662) initiated disconnect process...
+7:13:24 | Player "ralph wiggum" (steamId=76561199365795662) disconnected from server.
+7:14:32 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8373.195313, 18.486517, 13463.082031>)
+7:14:33 | "Miko" (steamid=76561198413928129) toggled freecam
+7:16:3 | "Miko" (steamid=76561198413928129) toggled freecam
+7:16:11 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9157.440430, 14.027687, 14657.381836>)
+7:16:45 | Player "Kame" (steamId=76561199372146202) connected to server!
+7:20:22 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+7:20:25 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+7:39:3 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+7:39:6 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+7:39:37 | Player "DnWings" (steamId=76561198090803986) connected to server!
+7:39:44 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+7:39:46 | Player "DnWings" (steamId=76561198090803986) disconnected early from server (EXIT NOW).
+7:39:47 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+7:42:25 | Player "DnWings" (steamId=76561198090803986) connected to server!
+7:49:29 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+7:49:32 | Player "exact" (steamId=76561199718636855) disconnected from server.
+7:50:39 | Player "exact" (steamId=76561199718636855) connected to server!
+8:2:18 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<10030.251953, 49.996281, 14554.639648>)
+8:2:19 | "Miko" (steamid=76561198413928129) toggled freecam
+8:2:34 | "Miko" (steamid=76561198413928129) Spawned Item: (AK_Suppressor)
+8:2:41 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+8:3:16 | "Miko" (steamid=76561198413928129) Spawned Item: (MKII)
+8:3:17 | "Miko" (steamid=76561198413928129) Spawned Item: (Mag_MKII_10Rnd)
+8:3:25 | "Miko" (steamid=76561198413928129) toggled freecam
+8:3:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9593.751953, 31.290718, 14614.827148>)
+8:3:32 | "Miko" (steamid=76561198413928129) toggled freecam
+8:3:41 | "Miko" (steamid=76561198413928129) toggled freecam
+8:3:44 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9856.755859, 47.053982, 14581.626953>)
+8:3:44 | "Miko" (steamid=76561198413928129) toggled freecam
+8:5:2 | "Miko" (steamid=76561198413928129) toggled freecam
+8:5:14 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9373.955078, 6.397190, 14560.570313>)
+8:5:18 | "Miko" (steamid=76561198413928129) toggled freecam
+8:6:5 | "Miko" (steamid=76561198413928129) Spawned Item: (InfectedSoldierHardJMC)
+8:6:13 | "Miko" (steamid=76561198413928129) Spawned Item: (InfectedSoldierHardJMC)
+8:6:14 | "Miko" (steamid=76561198413928129) Spawned Item: (InfectedSoldierHardJMC)
+8:6:15 | "Miko" (steamid=76561198413928129) Spawned Item: (InfectedSoldierHardJMC)
+8:6:16 | "Miko" (steamid=76561198413928129) Spawned Item: (InfectedSoldierHardJMC)
+8:6:25 | "Miko" (steamid=76561198413928129) toggled freecam
+8:6:33 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9367.201172, 14.378605, 14541.115234>)
+8:6:33 | "Miko" (steamid=76561198413928129) toggled freecam
+8:6:44 | "Miko" (steamid=76561198413928129) toggled freecam
+8:7:59 | "Miko" (steamid=76561198413928129) deleted objects using ESP
+8:8:3 | "Miko" (steamid=76561198413928129) deleted objects using ESP
+8:19:41 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9559.151367, 49.142998, 15240.606445>)
+8:23:28 | Player "Reg" (steamId=76561198062069505) connected to server!
+8:29:46 | Player "Kame" (steamId=76561199372146202) connected to server!
+8:30:33 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9321.131836, 21.670219, 14663.669922>)
+8:31:18 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9719.658203, 62.751411, 15203.262695>)
+8:31:20 | "Miko" (steamid=76561198413928129) toggled freecam
+8:31:48 | "Miko" (steamid=76561198413928129) toggled freecam
+8:32:58 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9365.308594, 7.109324, 14606.708008>)
+8:33:3 | "Miko" (steamid=76561198413928129) toggled freecam
+8:33:16 | Player "ralph wiggum" (steamId=76561199365795662) connected to server!
+8:33:23 | "Miko" (steamid=76561198413928129) toggled freecam
+8:33:47 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<10065.870117, 56.689362, 14419.411133>)
+8:33:48 | "Miko" (steamid=76561198413928129) toggled freecam
+8:34:38 | "Miko" (steamid=76561198413928129) toggled freecam
+8:40:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9711.244141, 41.225166, 14754.481445>)
+8:40:29 | "Miko" (steamid=76561198413928129) toggled freecam
+8:41:3 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3_Super)
+8:41:10 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_PGigant)
+8:41:17 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3_Super)
+8:41:24 | "Miko" (steamid=76561198413928129) toggled freecam
+8:42:18 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9086.854492, 1.782107, 14375.349609>)
+8:42:18 | "Miko" (steamid=76561198413928129) toggled freecam
+8:43:3 | "Miko" (steamid=76561198413928129) toggled freecam
+8:43:5 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+8:43:8 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+8:43:19 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9326.091797, 21.675884, 14666.817383>)
+8:43:20 | "Miko" (steamid=76561198413928129) toggled freecam
+8:44:14 | "Miko" (steamid=76561198413928129) toggled freecam
+8:44:22 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9661.590820, 43.360367, 14749.539063>)
+8:44:22 | "Miko" (steamid=76561198413928129) toggled freecam
+8:44:39 | Player "Kame" (steamId=76561199372146202) connected to server!
+8:45:13 | "Miko" (steamid=76561198413928129) toggled freecam
+8:45:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9515.960938, 64.158798, 15058.850586>)
+8:45:28 | "Miko" (steamid=76561198413928129) toggled freecam
+8:45:36 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3_Super)
+8:45:39 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_PGigant)
+8:45:45 | "Miko" (steamid=76561198413928129) toggled freecam
+8:45:48 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+8:47:11 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9327.771484, 50.329998, 15486.154297>)
+8:47:12 | "Miko" (steamid=76561198413928129) toggled freecam
+8:47:15 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_PGigant)
+8:47:16 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3_Super)
+8:47:22 | "Miko" (steamid=76561198413928129) toggled freecam
+8:47:37 | "Miko" (steamid=76561198413928129) toggled freecam
+8:47:38 | Player "BarryMckonckiner" (steamId=76561199125682121) connected to server!
+8:47:42 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera3)
+8:47:44 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera2)
+8:47:44 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Himera1)
+8:47:47 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano3)
+8:47:49 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano3)
+8:47:51 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Tushkano3)
+8:47:52 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos3)
+8:47:52 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos3)
+8:47:52 | "Miko" (steamid=76561198413928129) Spawned Item: (Mutant_XZ_Krovosos3)
+8:48:1 | "Miko" (steamid=76561198413928129) toggled freecam
+8:53:51 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+8:53:53 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+8:53:54 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+8:54:20 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+8:54:23 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+8:56:4 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+8:56:7 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+8:57:48 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<10147.713867, 0.893448, 15710.093750>)
+8:58:15 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8409.009766, 5.130000, 8664.250000>)
+8:58:15 | "Miko": (steamid=76561198413928129) teleported to (pos=8409.01,0,8664.25)
+8:58:27 | "Miko" (steamid=76561198413928129) toggled freecam
+8:58:47 | "Miko" (steamid=76561198413928129) toggled freecam
+8:58:55 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8357.275391, 5.163595, 8805.391602>)
+8:58:56 | "Miko" (steamid=76561198413928129) toggled freecam
+8:59:36 | "Miko" (steamid=76561198413928129) toggled freecam
+8:59:39 | "Miko" (steamid=76561198413928129) toggled freecam
+9:0:29 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9341.580078, 5.130000, 9197.299805>)
+9:0:29 | "Miko": (steamid=76561198413928129) teleported to (pos=9341.58,0,9197.3)
+9:0:33 | "Miko" (steamid=76561198413928129) toggled freecam
+9:3:28 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+9:3:31 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+9:3:49 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+9:4:13 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8527.280273, 293.116974, 10091.224609>)
+9:4:14 | "Miko" (steamid=76561198413928129) toggled freecam
+9:4:25 | "Miko" (steamid=76561198413928129) toggled freecam
+9:4:59 | Player "DnWings" (steamId=76561198090803986) connected to server!
+9:5:6 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+9:5:9 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+9:5:24 | "Miko" (steamid=76561198413928129) toggled freecam
+9:5:46 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6823.560059, 38.820000, 1925.260010>)
+9:5:46 | "Miko": (steamid=76561198413928129) teleported to (pos=6823.56,0,1925.26)
+9:6:4 | "Miko" (steamid=76561198413928129) toggled freecam
+9:6:25 | Player "Keidgos" (steamId=76561198144300120) initiated disconnect process...
+9:7:22 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+9:7:25 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+9:8:36 | Player "Kame" (steamId=76561199372146202) connected to server!
+9:9:53 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9967.331055, 31.439865, 11019.208008>)
+9:10:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8561.832031, 6.291473, 13355.371094>)
+9:10:38 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3254.760010, 25.742439, 4554.930176>)
+9:10:38 | "Miko": (steamid=76561198413928129) teleported to (pos=3254.76,0,4554.93)
+9:10:41 | "Miko" (steamid=76561198413928129) toggled freecam
+9:10:47 | "Miko" (steamid=76561198413928129) toggled freecam
+9:12:34 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<3146.085938, 29.259665, 4138.202637>)
+9:13:8 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<3022.008057, 23.339996, 5265.410645>)
+9:13:9 | "Miko" (steamid=76561198413928129) toggled freecam
+9:13:12 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+9:13:15 | Player "Miko" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+9:13:15 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+9:23:48 | Player "Scarecrow2530" (steamId=76561198089743539) connected to server!
+9:23:57 | Player "Aerym" (steamId=76561198019941737) connected to server!
+9:27:0 | Player "Plop" (steamId=76561199442911657) connected to server!
+9:27:8 | Player "Grinkle Toegrabber" (steamId=76561198189458879) connected to server!
+9:31:34 | Player "Paul " (steamId=76561198121111197) connected to server!
+9:31:49 | Player "DnWings" (steamId=76561198090803986) connected to server!
+9:32:18 | Player "KOG" (steamId=76561198104966670) connected to server!
+9:36:34 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+9:36:36 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+9:36:37 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+9:37:9 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+9:37:12 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+9:37:14 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+9:37:17 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+9:49:5 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+9:49:8 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+9:50:3 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+9:50:6 | Player "exact" (steamId=76561199718636855) disconnected from server.
+10:7:24 | Player "BarryMckonckiner" (steamId=76561199125682121) initiated disconnect process...
+10:7:26 | Player "BarryMckonckiner" (steamId=76561199125682121) disconnected early from server (EXIT NOW).
+10:7:27 | Player "BarryMckonckiner" (steamId=76561199125682121) disconnected from server.
+10:8:55 | Player "Grinkle Toegrabber" (steamId=76561198189458879) initiated disconnect process...
+10:8:56 | Player "Grinkle Toegrabber" (steamId=76561198189458879) disconnected early from server (EXIT NOW).
+10:8:58 | Player "Grinkle Toegrabber" (steamId=76561198189458879) disconnected from server.
+10:9:31 | Player "Plop" (steamId=76561199442911657) initiated disconnect process...
+10:9:32 | Player "Plop" (steamId=76561199442911657) disconnected early from server (EXIT NOW).
+10:9:34 | Player "Plop" (steamId=76561199442911657) disconnected from server.
+10:10:41 | Player "ralph wiggum" (steamId=76561199365795662) initiated disconnect process...
+10:10:44 | Player "ralph wiggum" (steamId=76561199365795662) disconnected from server.
+10:16:51 | Player "exact" (steamId=76561199718636855) connected to server!
+10:16:58 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+10:17:16 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+10:17:19 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+10:18:38 | Player "Mick" (steamId=76561198061747392) connected to server!
+10:23:36 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+10:33:9 | Player "Miko" (steamId=76561198413928129) connected to server!
+10:33:18 | Player "DnWings" (steamId=76561198090803986) connected to server!
+10:33:22 | "Miko" (steamid=76561198413928129) toggled godmode
+10:33:26 | Player "Paul " (steamId=76561198121111197) connected to server!
+10:33:40 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9335.750000, 47.334610, 15606.700195>)
+10:33:40 | "Miko": (steamid=76561198413928129) teleported to (pos=9335.75,0,15606.7)
+10:34:2 | "Miko" (steamid=76561198413928129) toggled freecam
+10:34:23 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+10:34:26 | Player "exact" (steamId=76561199718636855) disconnected from server.
+10:35:51 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+10:35:54 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+10:39:51 | Player "Aerym" (steamId=76561198019941737) initiated disconnect process...
+10:39:53 | Player "Aerym" (steamId=76561198019941737) disconnected early from server (EXIT NOW).
+10:39:54 | Player "Aerym" (steamId=76561198019941737) disconnected from server.
+10:39:57 | Player "Scarecrow2530" (steamId=76561198089743539) initiated disconnect process...
+10:40:0 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected from server.
+10:40:59 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9365.887695, 22.894335, 14597.492188>)
+10:41:1 | "Miko" (steamid=76561198413928129) toggled freecam
+10:41:15 | "Miko" (steamid=76561198413928129) toggled freecam
+10:42:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9378.120117, 60.353149, 15190.388672>)
+10:44:49 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+10:44:51 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+10:44:52 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+10:45:29 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+10:45:32 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+10:45:54 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+10:45:57 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+10:46:24 | Player "Reg" (steamId=76561198062069505) connected to server!
+10:47:6 | "Miko" (steamid=76561198413928129) toggled freecam
+10:47:18 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8967.450195, 6.300000, 12633.000000>)
+10:47:18 | "Miko": (steamid=76561198413928129) teleported to (pos=8967.45,0,12633)
+10:48:44 | "Miko" (steamid=76561198413928129) toggled freecam
+10:48:46 | "Miko" (steamid=76561198413928129) toggled freecam
+10:50:48 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+10:50:51 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+10:50:51 | "Miko" (steamid=76561198413928129) Spawned Item: (TerjeInjectorNovichek)
+10:51:2 | "Miko" (steamid=76561198413928129) toggled godmode
+10:51:37 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+10:51:37 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+10:51:45 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+10:51:48 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+10:56:28 | Player "Miko" (steamId=76561198413928129) connected to server!
+10:57:52 | "Miko" (steamid=76561198413928129) toggled godmode
+10:57:55 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:57:58 | "Miko" (steamid=76561198413928129) toggled godmode
+10:57:59 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:57:59 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:58:0 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:58:0 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:58:0 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+10:58:3 | "Miko" (steamid=76561198413928129) toggled godmode
+11:0:26 | "Miko" (steamid=76561198413928129) toggled freecam
+11:1:40 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9365.280273, 6.397189, 14609.069336>)
+11:1:47 | "Miko" (steamid=76561198413928129) toggled freecam
+11:2:19 | "Miko" (steamid=76561198413928129) toggled freecam
+11:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8390.655273, 8.344297, 13365.372070>)
+11:2:30 | "Miko" (steamid=76561198413928129) toggled freecam
+11:3:38 | "Miko" (steamid=76561198413928129) toggled freecam
+11:3:48 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<9116.419922, 70.163589, 12848.091797>)
+11:3:49 | "Miko" (steamid=76561198413928129) toggled freecam
+11:3:56 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+11:3:59 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+11:4:4 | Player "DnWings" (steamId=76561198090803986) connected to server!
+11:4:7 | Player "exact" (steamId=76561199718636855) connected to server!
+11:4:47 | Player "Paul " (steamId=76561198121111197) connected to server!
+11:7:40 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+11:11:56 | Player "KOG" (steamId=76561198104966670) connected to server!
+11:23:17 | Player "Miko" (steamId=76561199380565467) connected to server!
+11:23:31 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+11:23:34 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+11:26:4 | Player "Reg" (steamId=76561198062069505) connected to server!
+11:35:13 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+11:35:16 | Player "exact" (steamId=76561199718636855) disconnected from server.
+11:35:42 | Player "exact" (steamId=76561199718636855) connected to server!
+11:44:41 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+11:44:44 | Player "exact" (steamId=76561199718636855) disconnected from server.
+11:45:48 | Player "exact" (steamId=76561199718636855) connected to server!
+11:52:43 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+11:52:47 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+11:56:0 | Player "Waistband Tucker" (steamId=76561198128229822) connected to server!
+11:59:38 | Player "Miko" (steamId=76561199380565467) initiated disconnect process...
+12:0:58 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+12:1:1 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+12:1:1 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+12:5:7 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+12:5:9 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+12:5:10 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+12:6:42 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:7:48 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+12:7:50 | Player "Reg" (steamId=76561198062069505) disconnected early from server (EXIT NOW).
+12:7:51 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+12:9:51 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+12:9:54 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+12:10:1 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+12:10:4 | Player "exact" (steamId=76561199718636855) disconnected from server.
+12:10:9 | Player "Waistband Tucker" (steamId=76561198128229822) initiated disconnect process...
+12:10:12 | Player "Waistband Tucker" (steamId=76561198128229822) disconnected from server.
+12:10:41 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+12:10:45 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...

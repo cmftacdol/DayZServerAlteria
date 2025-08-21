@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+	<!-- begin simple loot chests -->
+	<type name="SA_Loot_Chest_Green">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<value name="Tier5" />
+		<usage name="Police" />
+		<usage name="Prison" />
+	</type>
+	<type name="SA_Loot_Chest_Blue">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<value name="Tier4" />
+		<usage name="Firefighter" />
+	</type>
+	<type name="SA_Loot_Chest_Yellow">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<value name="Tier6" />
+		<usage name="Military" />
+	</type>
+	<type name="SA_Loot_Chest_Red">
+		<nominal>5</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<value name="Tier7" />
+		<usage name="Military" />
+	</type>
+	<type name="SA_Loot_Chest_Break">
+		<nominal>12</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>6</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<usage name="Industrial" />
+		<usage name="Farm" />
+	</type>
+	<type name="SA_Loot_Case">
+		<nominal>2</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<type name="SA_Loot_Key_Green">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<type name="SA_Loot_Key_Blue">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<type name="SA_Loot_Key_Yellow">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<type name="SA_Loot_Key_Red">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<type name="SA_Loot_Key_Gun">
+		<nominal>0</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+	</type>
+	<!-- end simple loot chests -->
+</types>

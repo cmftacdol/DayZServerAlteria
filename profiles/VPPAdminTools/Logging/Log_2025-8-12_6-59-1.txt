@@ -1,0 +1,300 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-12_6-59-1
+====================================================================================
+6:59:1 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:59:1 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:59:1 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:59:1 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:59:1 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:59:1 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:59:1 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:59:1 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:59:1 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:59:1 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:59:1 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:59:1 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:59:1 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:59:1 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:59:1 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:59:1 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:59:1 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:59:1 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:59:1 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+6:59:1 | [PermissionManager] Adding Super Admin (76561198413928129)
+6:59:1 | [PermissionManager] Adding Super Admin (76561198061747392)
+6:59:1 | [PermissionManager] Adding Super Admin (76561198065207038)
+6:59:1 | [PermissionManager] Loaded UserGroups.json
+6:59:1 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:59:1 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:59:1 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:59:1 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:59:1 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:59:1 | Building Sets Loaded: 2
+6:59:1 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+6:59:1 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+7:6:38 | Player "Admin" (steamId=76561198413928129) connected to server!
+7:8:11 | "Admin" (steamid=76561198413928129) toggled godmode
+7:8:15 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1124.030029, 49.090691, 7097.950195>)
+7:8:15 | "Admin": (steamid=76561198413928129) teleported to (pos=1124.03,0,7097.95)
+7:8:24 | "Admin" (steamid=76561198413928129) /heal used on: "Admin" (steamid=76561198413928129)
+7:8:24 | "Admin" (steamid=76561198413928129) /heal used on: "Admin" (steamid=76561198413928129)
+7:8:24 | "Admin" (steamid=76561198413928129) /heal used on: "Admin" (steamid=76561198413928129)
+7:8:57 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1949.719971, 4.002285, 7904.680176>)
+7:8:57 | "Admin": (steamid=76561198413928129) teleported to (pos=1949.72,0,7904.68)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1970.686523, 1.729998, 7924.468750>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.449707, 1.730407, 7923.945313>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.586060, 1.730472, 7923.937500>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.718140, 1.730516, 7923.930176>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.846558, 1.730576, 7923.923340>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1977.968262, 1.730652, 7923.913086>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1978.090454, 1.730739, 7923.901367>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1981.417725, 1.734708, 7923.371582>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1982.598022, 1.736434, 7923.142090>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1983.042358, 1.737336, 7923.021484>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1983.269165, 1.738050, 7922.926758>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1983.482910, 1.738602, 7922.851563>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1983.530151, 1.739151, 7922.779297>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1986.411011, 1.742897, 7922.279785>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1986.892090, 1.743894, 7922.147461>)
+7:10:40 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1988.605347, 1.747159, 7921.712891>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1988.792847, 1.747705, 7921.639648>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1988.878906, 1.747872, 7921.616699>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1988.991577, 1.748018, 7921.598145>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1989.233643, 1.748387, 7921.549316>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1989.212036, 1.748469, 7921.536621>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1989.995972, 1.749575, 7921.390137>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1990.761108, 1.750978, 7921.203125>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1991.575928, 1.752318, 7921.024902>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1992.286743, 1.753700, 7920.839355>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1993.114136, 1.755143, 7920.647949>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1993.766724, 1.756429, 7920.476074>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1994.294312, 1.757426, 7920.343750>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1994.719849, 1.758193, 7920.241699>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1995.902954, 1.763148, 7919.959473>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1996.648804, 1.777899, 7919.769043>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1997.869141, 1.801926, 7919.458984>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1998.591064, 1.816677, 7919.269043>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1999.035522, 1.825326, 7919.156738>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1999.328735, 1.830812, 7919.086426>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2000.793335, 1.852340, 7918.731934>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2001.483398, 1.860548, 7918.562500>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2003.115479, 1.890297, 7918.138672>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2003.775757, 1.902386, 7917.965820>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2004.098267, 1.906885, 7917.886719>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2004.276367, 1.907909, 7917.847168>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2005.997437, 1.920317, 7917.423828>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2006.491455, 1.923913, 7917.302246>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2008.425781, 1.950000, 7916.799805>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2008.858276, 1.957025, 7916.687500>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2010.762939, 1.986235, 7916.220215>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2011.083008, 1.991141, 7916.141602>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2013.498413, 2.093616, 7915.508301>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2013.756836, 2.106790, 7915.439941>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2013.848633, 2.110732, 7915.420410>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2013.947266, 2.114679, 7915.401855>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2014.595337, 2.145345, 7915.248047>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2015.056885, 2.169069, 7915.126953>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2015.624023, 2.197948, 7914.980469>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2016.178833, 2.227985, 7914.836426>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2016.710327, 2.260385, 7914.698730>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2017.206665, 2.290370, 7914.571777>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2018.033936, 2.337520, 7914.359375>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2018.699341, 2.374142, 7914.187988>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2019.738892, 2.431254, 7913.920410>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2020.481079, 2.478256, 7913.728516>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2021.021240, 2.514704, 7913.590820>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2021.421021, 2.540889, 7913.491699>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2022.679199, 2.626850, 7913.162598>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2023.439575, 2.673407, 7912.964844>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2024.723877, 2.749748, 7912.636719>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2025.402832, 2.790691, 7912.462891>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2025.785767, 2.813548, 7912.367188>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2026.028442, 2.827215, 7912.310547>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2028.021362, 2.959087, 7911.789551>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2028.836670, 3.011700, 7911.576172>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2029.197021, 3.032608, 7911.485352>)
+7:10:41 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2029.401367, 3.043203, 7911.438965>)
+7:12:7 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<296.950989, 5.291083, 6300.790039>)
+7:12:7 | "Admin": (steamid=76561198413928129) teleported to (pos=296.951,0,6300.79)
+7:12:47 | "Admin" (steamid=76561198413928129) toggled freecam
+7:12:50 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<326.604553, 1.405072, 6235.533203>)
+7:12:51 | "Admin" (steamid=76561198413928129) toggled freecam
+7:13:49 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1101.959961, 47.464993, 7133.680176>)
+7:13:49 | "Admin": (steamid=76561198413928129) teleported to (pos=1101.96,0,7133.68)
+7:14:5 | "Admin" (steamid=76561198413928129) toggled freecam
+7:14:17 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1099.393555, 47.616196, 7128.359863>)
+7:14:17 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:8 | [WeatherManager] Send Data Count is 0
+7:21:12 | [Time Manager] Setting Date to 2025/9/20 6:53
+7:21:28 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:30 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:37 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:37 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:37 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:37 | "Admin" (steamid=76561198413928129) toggled freecam
+7:21:44 | "Admin" (steamid=76561198413928129) toggled freecam
+7:22:8 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2434.549316, 44.986099, 5872.674805>)
+7:22:16 | "Admin" (steamid=76561198413928129) toggled freecam
+7:23:17 | "Admin" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+7:27:8 | "Admin" (steamid=76561198413928129) toggled freecam
+7:27:19 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<5934.085449, 131.728348, 1171.620117>)
+7:27:24 | "Admin" (steamid=76561198413928129) toggled freecam
+7:27:43 | "Admin" (steamid=76561198413928129) toggled freecam
+7:28:1 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<5965.562988, 129.381760, 1268.537720>)
+7:28:2 | "Admin" (steamid=76561198413928129) toggled freecam
+7:30:7 | "Admin" (steamid=76561198413928129) toggled freecam
+7:30:12 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<5970.955566, 81.979988, 1315.747437>)
+7:30:12 | "Admin" (steamid=76561198413928129) toggled freecam
+7:30:39 | "Admin" (steamid=76561198413928129) Spawned Item: (RGD5Grenade)
+7:30:39 | "Admin" (steamid=76561198413928129) Spawned Item: (RGD5Grenade)
+7:30:39 | "Admin" (steamid=76561198413928129) Spawned Item: (RGD5Grenade)
+7:30:40 | "Admin" (steamid=76561198413928129) Spawned Item: (RGD5Grenade)
+7:30:40 | "Admin" (steamid=76561198413928129) Spawned Item: (RGD5Grenade)
+7:33:5 | "Admin" (steamid=76561198413928129) toggled freecam
+7:33:31 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6722.169434, 40.087738, 2271.012451>)
+7:33:36 | "Admin" (steamid=76561198413928129) toggled freecam
+7:33:51 | "Admin" (steamid=76561198413928129) toggled freecam
+7:33:53 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6716.026367, 26.130005, 2298.459717>)
+7:33:54 | "Admin" (steamid=76561198413928129) toggled freecam
+7:34:20 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6715.152832, 26.129995, 2294.293701>)
+7:34:36 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6714.624512, 26.232498, 2310.815186>)
+7:35:36 | "Admin" (steamid=76561198413928129) toggled freecam
+7:35:43 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6640.404785, 42.230011, 2329.555908>)
+7:35:43 | "Admin" (steamid=76561198413928129) toggled freecam
+7:39:5 | "Admin" (steamid=76561198413928129) toggled freecam
+7:39:11 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6728.033203, 26.129990, 2327.952148>)
+7:39:11 | "Admin" (steamid=76561198413928129) toggled freecam
+7:39:46 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6780.363770, 26.534548, 2370.424805>)
+7:39:46 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6789.856445, 25.868111, 2391.449707>)
+7:42:25 | "Admin" (steamid=76561198413928129) Spawned Item: (HuntingOptic)
+7:43:27 | "Admin" (steamid=76561198413928129) toggled freecam
+7:43:29 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6792.038574, 40.087738, 2264.575439>)
+7:43:30 | "Admin" (steamid=76561198413928129) toggled freecam
+7:45:14 | "Admin" (steamid=76561198413928129) Spawned Item: (SV98)
+7:45:14 | "Admin" (steamid=76561198413928129) Spawned Item: (SV98)
+7:45:14 | "Admin" (steamid=76561198413928129) Spawned Item: (SV98)
+7:45:15 | "Admin" (steamid=76561198413928129) Spawned Item: (Mag_SV98_10Rnd)
+7:45:15 | "Admin" (steamid=76561198413928129) Spawned Item: (Mag_SV98_10Rnd)
+7:45:15 | "Admin" (steamid=76561198413928129) Spawned Item: (Mag_SV98_10Rnd)
+7:45:23 | "Admin" (steamid=76561198413928129) Spawned Item: (MK4Optic_Black)
+7:47:19 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_black)
+7:47:21 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_winter)
+7:47:22 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_black)
+7:47:23 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetjacket_black)
+7:47:26 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_black)
+7:48:13 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_darkcloak_dark)
+7:48:26 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_CHRSAT_gloves)
+7:49:43 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_kronboots_dark)
+7:54:35 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_IronsightHat_alligator)
+7:54:36 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpants_alligator)
+7:54:38 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpants_alligatorgr)
+7:54:39 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightshirt_alligator)
+7:54:40 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightshirt_alligatorgr)
+8:2:23 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_IronsightHat_snake)
+8:2:26 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpants_snakegr)
+8:2:35 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightshirt_snakegr)
+8:7:26 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_winter)
+8:15:50 | "Admin" (steamid=76561198413928129) Spawned Item: (M18SmokeGrenade_Red_Contaminated)
+8:16:0 | "Admin" (steamid=76561198413928129) toggled freecam
+8:16:7 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6639.937500, 51.230038, 2356.925049>)
+8:16:7 | "Admin" (steamid=76561198413928129) toggled freecam
+8:17:7 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6655.659668, 32.847282, 2244.292725>)
+8:17:11 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6654.410156, 26.129999, 2256.877686>)
+8:17:37 | "Admin" (steamid=76561198413928129) toggled freecam
+8:17:47 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<6729.691895, 40.087738, 2271.061279>)
+8:17:48 | "Admin" (steamid=76561198413928129) toggled freecam
+8:20:6 | "Admin" (steamid=76561198413928129) toggled freecam
+8:20:23 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1928.396362, 7.878914, 1180.544922>)
+8:20:36 | "Admin" (steamid=76561198413928129) toggled freecam
+8:20:55 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1971.540039, 2.010000, 1168.680054>)
+8:20:55 | "Admin": (steamid=76561198413928129) teleported to (pos=1971.54,0,1168.68)
+8:21:5 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<1969.785645, 3.760756, 1167.603149>)
+8:21:26 | [WeatherManager] Send Data Count is 0
+8:21:29 | [Time Manager] Setting Date to 2025/9/20 6:55
+8:21:40 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1041.510010, 32.930840, 7017.029785>)
+8:21:40 | "Admin": (steamid=76561198413928129) teleported to (pos=1041.51,0,7017.03)
+8:22:5 | "Admin" (steamid=76561198413928129) Spawned Item: (FOG_511_Shirt_Flanel_Black)
+8:22:48 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_dawnpants)
+8:23:5 | "Admin" (steamid=76561198413928129) Spawned Item: (Loftd_tacticalpants_v2)
+8:23:15 | "Admin" (steamid=76561198413928129) Spawned Item: (FOG_BDU_Pants_Black)
+8:23:57 | "Admin" (steamid=76561198413928129) Spawned Item: (BDUPants)
+8:24:8 | "Admin" (steamid=76561198413928129) Spawned Item: (FOG_FieldPants_M81)
+8:24:32 | "Admin" (steamid=76561198413928129) Spawned Item: (FOG_Maritime_Shoes_Grey)
+8:29:48 | "Admin" (steamid=76561198413928129) toggled freecam
+8:30:8 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2856.396973, 166.255554, 2669.814453>)
+8:30:8 | "Admin" (steamid=76561198413928129) toggled freecam
+8:32:20 | "Admin" (steamid=76561198413928129) teleported to crosshair (pos=<2931.368896, 161.765137, 2666.244873>)
+8:36:46 | Player "Admin" (steamId=76561198413928129) initiated disconnect process...
+8:36:49 | Player "Admin" (steamId=76561198413928129) disconnected early from server (EXIT NOW).

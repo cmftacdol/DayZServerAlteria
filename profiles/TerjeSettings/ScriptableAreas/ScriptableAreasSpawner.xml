@@ -1,0 +1,16 @@
+<!--  Read README.md in the same folder for more details  -->
+<Areas>
+	<Area>
+		<Active>0</Active>
+		<Classname>TerjePsionicScriptableArea</Classname>
+		<Position>7225.000000 0.000000 11620.000000</Position>
+		<SpawnChance>1</SpawnChance>
+		<Data>
+			<OuterRadius>250</OuterRadius>
+			<InnerRadius>50</InnerRadius>
+			<HeightMin>-200</HeightMin>
+			<HeightMax>200</HeightMax>
+			<Power>1</Power>
+		</Data>
+	</Area>
+</Areas>

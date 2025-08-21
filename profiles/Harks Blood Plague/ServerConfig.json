@@ -1,0 +1,43 @@
+{
+    "DefaultConfig": {
+        "RewardItems": [
+            "PlagueCure",
+            "Epinephrine",
+            "Morphine",
+            "SalineBagIV",
+            "SalineBagIV",
+            "Epinephrine",
+            "Morphine",
+            "SalineBagIV",
+            "SalineBagIV",
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_556x45_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x54_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_308Win_20Rnd",
+            "AmmoBox_308Win_20Rnd",
+            "AmmoBox_308Win_20Rnd",
+            "AmmoBox_308Win_20Rnd",
+            "AmmoBox_308Win_20Rnd",
+            "AmmoBox_308Win_20Rnd"
+        ]
+    }
+}

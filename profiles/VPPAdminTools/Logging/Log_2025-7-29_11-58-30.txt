@@ -1,0 +1,626 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-29_11-58-30
+====================================================================================
+11:58:30 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+11:58:30 | [PermissionManager] Perm (FreeCamera) has been registered!
+11:58:30 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuServerManager) has been registered!
+11:58:30 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+11:58:30 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+11:58:30 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+11:58:30 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+11:58:30 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+11:58:30 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+11:58:30 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+11:58:30 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+11:58:30 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+11:58:30 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuBansManager) has been registered!
+11:58:30 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+11:58:30 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+11:58:30 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+11:58:30 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+11:58:30 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+11:58:30 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+11:58:30 | [PermissionManager] Adding Super Admin (76561198413928129)
+11:58:30 | [PermissionManager] Adding Super Admin (76561198061747392)
+11:58:30 | [PermissionManager] Adding Super Admin (76561198065207038)
+11:58:30 | [PermissionManager] Loaded UserGroups.json
+11:58:30 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+11:58:30 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+11:58:30 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+11:58:30 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+11:58:30 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+11:58:30 | Building Sets Loaded: 2
+11:58:30 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:0:24 | Player "Miko" (steamId=76561198413928129) connected to server!
+12:0:30 | "Miko" (steamid=76561198413928129) toggled godmode
+12:0:42 | "Miko" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+12:1:13 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8342.259766, 6.257642, 13342.400391>)
+12:1:13 | "Miko": (steamid=76561198413928129) teleported to (pos=8342.26,0,13342.4)
+12:1:17 | Player "Mick" (steamId=76561198061747392) connected to server!
+12:1:57 | "Mick" (steamid=76561198061747392) toggled godmode
+12:2:12 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6578.529785, 15.090000, 6312.450195>)
+12:2:12 | "Mick": (steamid=76561198061747392) teleported to (pos=6578.53,0,6312.45)
+12:2:14 | "Mick" (steamid=76561198061747392) toggled freecam
+12:2:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6562.074707, 61.295166, 6342.929199>)
+12:2:20 | "Mick" (steamid=76561198061747392) toggled freecam
+12:2:20 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:2:20 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:2:21 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:2:21 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:2:21 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8484.512695, 6.287043, 13338.053711>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8488.636719, 6.307497, 13338.408203>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8489.363281, 6.328810, 13338.593750>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8490.132813, 6.325413, 13338.845703>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8490.742188, 6.320270, 13339.109375>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8491.241211, 6.314262, 13339.407227>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8491.643555, 6.312922, 13339.493164>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8491.958984, 6.311809, 13339.563477>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.172852, 6.321256, 13339.573242>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.334961, 6.330063, 13339.580078>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.472656, 6.333690, 13339.596680>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.598633, 6.332006, 13339.621094>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.712891, 6.329676, 13339.651367>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.824219, 6.328422, 13339.669922>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8492.930664, 6.326172, 13339.703125>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8495.269531, 6.307660, 13339.996094>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8496.190430, 6.308564, 13340.151367>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8497.777344, 6.308167, 13340.737305>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8498.331055, 6.308030, 13340.972656>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8498.544922, 6.307974, 13341.056641>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8498.661133, 6.307955, 13341.097656>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.306641, 6.307883, 13341.231445>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.454102, 6.307892, 13341.274414>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.826172, 6.307851, 13341.325195>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.890625, 6.307899, 13341.339844>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.966797, 6.307870, 13341.363281>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8499.976563, 6.307885, 13341.371094>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8500.299805, 6.318191, 13341.423828>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8500.539063, 6.326381, 13341.448242>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8501.224609, 6.349977, 13341.603516>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8501.897461, 6.373149, 13341.770508>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8502.602539, 6.377769, 13341.945313>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8503.282227, 6.370675, 13342.113281>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8504.088867, 6.368402, 13342.316406>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8504.611328, 6.399311, 13342.453125>)
+12:2:24 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8505.028320, 6.423977, 13342.561523>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8505.356445, 6.443335, 13342.646484>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8505.887695, 6.428876, 13342.776367>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8506.241211, 6.417747, 13342.875977>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8506.685547, 6.404849, 13342.993164>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8506.949219, 6.395636, 13343.078125>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8508.025391, 6.369732, 13343.332031>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8508.442383, 6.398360, 13343.427734>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8508.729492, 6.396985, 13343.496094>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8508.935547, 6.386301, 13343.547852>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8510.702148, 6.293889, 13344.005859>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8511.285156, 6.293420, 13344.157227>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8512.179688, 6.305161, 13344.384766>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8512.426758, 6.321177, 13344.450195>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8512.534180, 6.328219, 13344.478516>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8513.266602, 6.375636, 13344.661133>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8513.431641, 6.386395, 13344.705078>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.586914, 6.461279, 13344.987305>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.778320, 6.473625, 13345.035156>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.832031, 6.477195, 13345.047852>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.873047, 6.479837, 13345.059570>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.917969, 6.482764, 13345.072266>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8514.966797, 6.482857, 13345.085938>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8515.019531, 6.482263, 13345.101563>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8515.073242, 6.481714, 13345.117188>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8515.487305, 6.477819, 13345.224609>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8515.813477, 6.475058, 13345.305664>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8516.332031, 6.487384, 13345.434570>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8516.807617, 6.507584, 13345.551758>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8517.453125, 6.534849, 13345.711914>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8518.020508, 6.558785, 13345.853516>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8519.012695, 6.548924, 13346.107422>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8519.824219, 6.536001, 13346.316406>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8520.471680, 6.523530, 13346.484375>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8520.962891, 6.513366, 13346.612305>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8521.375000, 6.505187, 13346.717773>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8521.644531, 6.499795, 13346.787109>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8521.884766, 6.494806, 13346.851563>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8522.025391, 6.491902, 13346.888672>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8522.388672, 6.484203, 13346.985352>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8522.580078, 6.480227, 13347.036133>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8523.255859, 6.466494, 13347.212891>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8523.569336, 6.459949, 13347.294922>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8524.883789, 6.433162, 13347.629883>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8525.419922, 6.420624, 13347.767578>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8525.651367, 6.415189, 13347.827148>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8525.782227, 6.411765, 13347.863281>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8527.959961, 6.404132, 13348.412109>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8528.538086, 6.413026, 13348.555664>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8528.712891, 6.415916, 13348.601563>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8528.797852, 6.417288, 13348.625000>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8529.308594, 6.425714, 13348.757813>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8529.392578, 6.427111, 13348.780273>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.268555, 6.441561, 13349.002930>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.369141, 6.443212, 13349.027344>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.406250, 6.443831, 13349.038086>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.461914, 6.444741, 13349.054688>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.765625, 6.449765, 13349.136719>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8530.964844, 6.450756, 13349.184570>)
+12:2:25 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8531.600586, 6.449129, 13349.344727>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8532.209961, 6.452147, 13349.497070>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8532.935547, 6.466127, 13349.677734>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8533.577148, 6.478498, 13349.837891>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8534.143555, 6.486335, 13349.980469>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8534.663086, 6.480006, 13350.114258>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8535.554688, 6.469201, 13350.343750>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8536.175781, 6.469366, 13350.501953>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8536.628906, 6.483624, 13350.616211>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8536.927734, 6.492942, 13350.691406>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8537.130859, 6.499372, 13350.744141>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8537.291992, 6.500520, 13350.787109>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8538.022461, 6.482961, 13350.961914>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8538.465820, 6.473462, 13351.051758>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8538.758789, 6.468611, 13351.099609>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8538.983398, 6.465018, 13351.128906>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8540.400391, 6.452753, 13351.444336>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8541.065430, 6.446134, 13351.547852>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8542.874023, 6.390921, 13351.957031>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8543.493164, 6.384766, 13352.029297>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8543.742188, 6.384649, 13352.048828>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8543.912109, 6.384612, 13352.047852>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8545.032227, 6.385218, 13352.278320>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8545.339844, 6.385354, 13352.283203>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8546.293945, 6.385791, 13352.477539>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8546.509766, 6.385894, 13352.468750>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8546.631836, 6.385936, 13352.401367>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8546.742188, 6.385969, 13352.320313>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8546.946289, 6.386047, 13352.277344>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8547.034180, 6.386073, 13352.195313>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8547.693359, 6.386431, 13352.378906>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8548.351563, 6.385783, 13352.458008>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8549.158203, 6.383613, 13352.665039>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8549.870117, 6.381635, 13352.756836>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8550.918945, 6.378757, 13352.965820>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8551.755859, 6.376615, 13353.057617>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8552.433594, 6.373223, 13353.159180>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8552.945313, 6.369949, 13353.234375>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8553.774414, 6.364615, 13353.334961>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8554.318359, 6.361067, 13353.356445>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8554.802734, 6.357962, 13353.338867>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8555.089844, 6.356138, 13353.297852>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8556.057617, 6.350171, 13353.387695>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8556.563477, 6.345276, 13353.428711>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8556.849609, 6.342510, 13353.453125>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8557.061523, 6.340458, 13353.467773>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8560.642578, 6.303781, 13353.987305>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8561.368164, 6.297331, 13354.094727>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.017578, 6.280964, 13354.161133>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.016602, 6.281024, 13354.110352>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.903320, 6.271917, 13354.070313>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.804688, 6.273023, 13354.011719>)
+12:2:26 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.730469, 6.273860, 13353.974609>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.718750, 6.273992, 13353.956055>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.722656, 6.273979, 13353.942383>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.740234, 6.273805, 13353.932617>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.725586, 6.273980, 13353.916992>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.696289, 6.274315, 13353.896484>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.809570, 6.273145, 13353.892578>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.771484, 6.273585, 13353.871094>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.749023, 6.273820, 13353.863281>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8563.736328, 6.273966, 13353.861328>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8564.642578, 6.268089, 13354.005859>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8565.458984, 6.264215, 13354.109375>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8566.844727, 6.258327, 13354.205078>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8567.965820, 6.253764, 13354.264648>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8568.756836, 6.253605, 13354.289063>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8569.341797, 6.253601, 13354.293945>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8569.753906, 6.253784, 13354.301758>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.052734, 6.254843, 13354.311523>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.195313, 6.255274, 13354.291992>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.279297, 6.255511, 13354.272461>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.360352, 6.255731, 13354.245117>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.403320, 6.255822, 13354.225586>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.373047, 6.255650, 13354.198242>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8570.346680, 6.255523, 13354.181641>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8572.000977, 6.289059, 13354.360352>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8572.687500, 6.289059, 13354.433594>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8572.961914, 6.289059, 13354.465820>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8573.094727, 6.289059, 13354.486328>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8573.184570, 6.289059, 13354.496094>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8573.260742, 6.289059, 13354.503906>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8575.804688, 6.289059, 13354.561523>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8576.377930, 6.289059, 13354.573242>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8576.527344, 6.289059, 13354.581055>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8576.607422, 6.289059, 13354.586914>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8576.707031, 6.289059, 13354.517578>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8576.718750, 6.289059, 13354.509766>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8577.003906, 6.289059, 13354.536133>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8577.175781, 6.289059, 13354.549805>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8577.362305, 6.289059, 13354.565430>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8577.559570, 6.289059, 13354.582031>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8577.965820, 6.289059, 13354.622070>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8578.315430, 6.289059, 13354.659180>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8579.355469, 6.289059, 13354.709961>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8580.188477, 6.289059, 13354.750977>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8580.835938, 6.289059, 13354.783203>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8581.335938, 6.289059, 13354.809570>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8581.962891, 6.289059, 13354.833984>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8582.358398, 6.289059, 13354.849609>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8582.787109, 6.289059, 13354.836914>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8583.036133, 6.289059, 13354.829102>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8583.200195, 6.289059, 13354.826172>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8583.320313, 6.289059, 13354.829102>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8583.628906, 6.289059, 13354.849609>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8583.771484, 6.289059, 13354.859375>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8584.943359, 6.289059, 13354.942383>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8585.407227, 6.289059, 13354.975586>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8586.578125, 6.289059, 13355.037109>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8586.976563, 6.289059, 13355.058594>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8588.208008, 6.289059, 13355.113281>)
+12:2:27 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8588.556641, 6.289059, 13355.128906>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8588.681641, 6.289059, 13355.135742>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8588.765625, 6.289059, 13355.142578>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8589.257813, 6.289060, 13355.118164>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8589.338867, 6.289060, 13355.114258>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8589.880859, 6.289060, 13355.131836>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8589.943359, 6.289060, 13355.133789>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8590.200195, 6.289060, 13355.155273>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8590.335938, 6.289060, 13355.163086>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8590.746094, 6.289059, 13355.188477>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8591.142578, 6.289059, 13355.212891>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8591.528320, 6.289059, 13355.237305>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8591.882813, 6.289059, 13355.259766>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8592.702148, 6.289060, 13355.301758>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8593.348633, 6.289060, 13355.334961>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8594.080078, 6.289059, 13355.357422>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8594.610352, 6.289059, 13355.373047>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8594.997070, 6.289060, 13355.384766>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8595.279297, 6.289060, 13355.396484>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8595.710938, 6.289060, 13355.406250>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8595.967773, 6.289060, 13355.412109>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8596.512695, 6.289060, 13355.442383>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8596.800781, 6.289060, 13355.458008>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8596.967773, 6.289060, 13355.468750>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8597.087891, 6.289060, 13355.477539>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8597.767578, 6.289060, 13355.518555>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8598.041016, 6.289060, 13355.534180>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8599.616211, 6.289060, 13355.606445>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8600.158203, 6.289060, 13355.630859>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8600.360352, 6.289060, 13355.641602>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8600.467773, 6.289060, 13355.649414>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8601.347656, 6.289060, 13355.673828>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8601.546875, 6.289060, 13355.679688>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8601.620117, 6.289060, 13355.683594>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8601.693359, 6.289060, 13355.690430>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.115234, 6.289060, 13355.747070>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.270508, 6.289060, 13355.750977>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.324219, 6.289060, 13355.755859>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.393555, 6.289060, 13355.763672>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.458984, 6.289060, 13355.770508>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.529297, 6.289060, 13355.776367>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.771484, 6.289060, 13355.794922>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8603.864258, 6.289060, 13355.799805>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8604.259766, 6.302474, 13355.816406>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8604.688477, 6.302475, 13355.835938>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8605.352539, 6.302510, 13355.864258>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8605.935547, 6.302547, 13355.889648>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8606.529297, 6.302399, 13355.915039>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8607.000000, 6.302519, 13355.935547>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8607.375977, 6.302603, 13355.952148>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8607.674805, 6.302501, 13355.966797>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8608.486328, 6.302531, 13356.009766>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8609.014648, 6.302312, 13356.038086>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8609.416992, 6.302143, 13356.066406>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8609.652344, 6.302047, 13356.083008>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8610.066406, 6.301871, 13356.119141>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8610.284180, 6.301782, 13356.137695>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8610.411133, 6.301728, 13356.149414>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8610.503906, 6.301689, 13356.158203>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8611.646484, 6.301221, 13356.168945>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8612.108398, 6.301063, 13356.172852>)
+12:2:28 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8612.310547, 6.301023, 13356.177734>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8612.428711, 6.301001, 13356.183594>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8613.440430, 6.300803, 13356.230469>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8613.730469, 6.300747, 13356.245117>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8614.671875, 6.300563, 13356.291992>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8614.884766, 6.300521, 13356.302734>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.320313, 6.300284, 13356.403320>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.557617, 6.300261, 13356.417969>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.787109, 6.300240, 13356.438477>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.814453, 6.300237, 13356.442383>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.857422, 6.300233, 13356.445313>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8616.922852, 6.300227, 13356.451172>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8617.243164, 6.300198, 13356.465820>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8617.420898, 6.300182, 13356.464844>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8617.790039, 6.300149, 13356.472656>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8618.154297, 6.300114, 13356.480469>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8618.808594, 6.300055, 13356.502930>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8619.390625, 6.300001, 13356.523438>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8619.895508, 6.299957, 13356.542969>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8620.317383, 6.299921, 13356.558594>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8621.229492, 6.299839, 13356.612305>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8621.892578, 6.299782, 13356.651367>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8622.408203, 6.299736, 13356.683594>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8622.747070, 6.299706, 13356.704102>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8622.979492, 6.299686, 13356.718750>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8623.150391, 6.299671, 13356.731445>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8623.623047, 6.299627, 13356.743164>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8623.874023, 6.299601, 13356.750000>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8624.564453, 6.299497, 13356.771484>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8624.887695, 6.299443, 13356.779297>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8625.954102, 6.299266, 13356.817383>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8626.384766, 6.299196, 13356.833008>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8626.574219, 6.299164, 13356.842773>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8626.687500, 6.299146, 13356.850586>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8627.786133, 6.298943, 13356.911133>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8628.098633, 6.298867, 13356.928711>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8628.948242, 6.298585, 13357.053711>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8629.024414, 6.298553, 13357.177734>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8629.550781, 6.298377, 13357.332031>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8629.625977, 6.298351, 13357.521484>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8630.526367, 6.298033, 13357.711914>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8630.695313, 6.297946, 13357.904297>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8631.078125, 6.297788, 13358.068359>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8631.348633, 6.297657, 13358.184570>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8631.657227, 6.297560, 13358.125000>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8631.902344, 6.297489, 13358.167969>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8632.154297, 6.297341, 13358.169922>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8632.393555, 6.297211, 13358.159180>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8633.195313, 6.296767, 13358.156250>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8633.809570, 6.296395, 13358.270508>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8634.495117, 6.295904, 13358.386719>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8634.978516, 6.295552, 13358.543945>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8635.337891, 6.295298, 13358.640625>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8635.599609, 6.295151, 13358.707031>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8636.225586, 6.294621, 13358.983398>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8636.583984, 6.294247, 13359.196289>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8636.807617, 6.294047, 13359.313477>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8636.963867, 6.293832, 13359.379883>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8637.604492, 6.293068, 13359.540039>)
+12:2:29 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8637.910156, 6.292814, 13359.638672>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8638.097656, 6.292579, 13359.678711>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8638.248047, 6.292346, 13359.697266>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8638.723633, 6.291986, 13359.709961>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8638.885742, 6.291768, 13359.706055>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8640.464844, 6.289933, 13359.856445>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8640.922852, 6.289345, 13359.878906>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8641.121094, 6.289088, 13359.873047>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8641.282227, 6.288845, 13359.865234>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8642.221680, 6.287416, 13360.066406>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8642.463867, 6.287087, 13360.026367>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8643.671875, 6.285300, 13360.507813>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8643.893555, 6.284954, 13360.491211>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8644.085938, 6.284666, 13360.428711>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8644.320313, 6.284239, 13360.363281>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8644.724609, 6.283479, 13360.346680>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8645.001953, 6.282978, 13360.282227>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8645.375977, 6.282253, 13360.348633>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8645.730469, 6.281593, 13360.281250>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8646.449219, 6.280204, 13360.378906>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8647.113281, 6.278975, 13360.330078>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8647.852539, 6.277506, 13360.420898>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8648.457031, 6.276111, 13360.364258>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8649.325195, 6.273924, 13360.482422>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8649.931641, 6.272441, 13360.460938>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8650.369141, 6.271355, 13360.476563>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8650.685547, 6.270564, 13360.502930>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8651.557617, 6.268285, 13360.708984>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8652.078125, 6.266878, 13360.747070>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8652.392578, 6.265931, 13360.787109>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8652.595703, 6.265310, 13360.818359>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8653.881836, 6.261541, 13360.781250>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8654.482422, 6.259808, 13360.719727>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8654.771484, 6.258965, 13360.702148>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8654.932617, 6.258492, 13360.704102>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8656.267578, 6.254539, 13360.677734>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8656.729492, 6.253380, 13360.649414>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8657.945313, 6.250198, 13360.712891>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8658.293945, 6.249300, 13360.719727>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8659.656250, 6.245588, 13360.916992>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8659.960938, 6.244737, 13360.954102>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8660.718750, 6.243166, 13361.025391>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8660.845703, 6.242912, 13361.034180>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8662.723633, 6.239276, 13360.972656>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8662.928711, 6.238880, 13360.963867>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8662.994141, 6.238752, 13360.965820>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8663.055664, 6.238625, 13360.969727>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8663.371094, 6.237979, 13360.973633>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8663.544922, 6.237633, 13360.965820>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8663.738281, 6.237246, 13360.959961>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8663.941406, 6.236841, 13360.955078>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8664.541016, 6.236077, 13360.958008>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8665.074219, 6.235456, 13360.957031>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8666.182617, 6.234075, 13361.041016>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8667.067383, 6.232974, 13361.104492>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8668.414063, 6.231663, 13361.137695>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8669.385742, 6.231270, 13361.160156>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8670.076172, 6.230991, 13361.177734>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8670.558594, 6.230791, 13361.191406>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8670.959961, 6.230637, 13361.194336>)
+12:2:30 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8671.197266, 6.230540, 13361.195313>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8671.671875, 6.230367, 13361.191406>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8671.921875, 6.230289, 13361.188477>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8672.069336, 6.230238, 13361.189453>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8672.177734, 6.230218, 13361.192383>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8672.973633, 6.230080, 13361.187500>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8673.293945, 6.230023, 13361.184570>)
+12:2:31 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8675.644531, 6.229499, 13361.304688>)
+12:3:13 | "Miko" (steamid=76561198413928129) toggled freecam
+12:3:14 | "Miko" (steamid=76561198413928129) toggled freecam
+12:3:29 | "Mick" (steamid=76561198061747392) toggled freecam
+12:3:44 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7155.446777, 87.874481, 4770.724609>)
+12:3:44 | "Mick" (steamid=76561198061747392) toggled freecam
+12:4:45 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7164.428711, 41.881603, 4808.343750>)
+12:4:47 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7165.134766, 41.828377, 4792.540527>)
+12:5:4 | "Mick" (steamid=76561198061747392) toggled freecam
+12:5:12 | Player "Paul " (steamId=76561198121111197) connected to server!
+12:5:31 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198413928129)
+12:5:31 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198413928129)
+12:5:31 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198413928129)
+12:5:32 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198413928129)
+12:5:32 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198413928129)
+12:5:36 | "Miko" (steamid=76561198413928129) just updated a health stat on (steamid=76561198413928129)
+12:5:48 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:6:30 | "Miko" (steamid=76561198413928129) gave godmode to (steamid=76561198104966670)
+12:6:38 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<2915.105713, 65.420059, 3721.187256>)
+12:6:43 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<2920.332764, 68.042747, 3725.955566>)
+12:6:44 | "Mick" (steamid=76561198061747392) toggled freecam
+12:6:45 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:45 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:45 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:46 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:46 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:47 | "Mick" (steamid=76561198061747392) toggled freecam
+12:6:49 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:49 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:49 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:49 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:49 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:50 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:50 | "Miko" (steamid=76561198413928129) Spawned Item: (FenceKit)
+12:6:50 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<2920.402344, 65.488144, 3727.671387>)
+12:6:50 | "Mick" (steamid=76561198061747392) toggled freecam
+12:6:53 | "Miko" (steamid=76561198413928129) toggled godmode
+12:6:55 | "Mick" (steamid=76561198061747392) toggled freecam
+12:6:57 | "Miko" (steamid=76561198413928129) toggled godmode
+12:6:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<2914.053223, 65.420052, 3721.110596>)
+12:7:0 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:0 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:0 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:0 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:1 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:1 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:1 | "Miko" (steamid=76561198413928129) Spawned Item: (WatchtowerKit)
+12:7:5 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:5 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:5 | "Mick" (steamid=76561198061747392) toggled freecam
+12:7:6 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:6 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:6 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:6 | "Miko" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+12:7:25 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<6561.990234, 15.090000, 6342.680176>)
+12:7:25 | "Mick": (steamid=76561198061747392) teleported to (pos=6561.99,0,6342.68)
+12:7:26 | "Mick" (steamid=76561198061747392) toggled freecam
+12:7:29 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6579.756348, 15.089960, 6337.727051>)
+12:7:30 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8735.676758, 6.613616, 13351.490234>
+12:7:30 | "Mick" (steamid=76561198061747392) toggled freecam
+12:7:32 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8735.676758, 6.613616, 13351.490234>
+12:7:33 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8735.676758, 6.613616, 13351.490234>
+12:7:34 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8735.676758, 6.613616, 13351.490234>
+12:7:35 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8735.676758, 6.613616, 13351.490234>
+12:7:36 | "Mick" (steamid=76561198061747392) toggled freecam
+12:7:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6566.326660, 58.060051, 6344.869141>)
+12:7:39 | "Mick" (steamid=76561198061747392) toggled freecam
+12:7:48 | "Mick" (steamid=76561198061747392) toggled freecam
+12:8:5 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8741.432617, 6.613616, 13349.837891>
+12:8:6 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7155.919434, 87.874481, 4772.114258>)
+12:8:6 | "Mick" (steamid=76561198061747392) toggled freecam
+12:8:7 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8741.432617, 6.613616, 13349.837891>
+12:8:8 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8741.432617, 6.613616, 13349.837891>
+12:8:9 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8741.432617, 6.613616, 13349.837891>
+12:8:10 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8741.432617, 6.613616, 13349.837891>
+12:8:30 | Admin "Miko" (steamId=76561198413928129) built part level_1_base at position: <8747.808594, 6.299990, 13350.338867>
+12:8:31 | Admin "Miko" (steamId=76561198413928129) built part level_1_roof at position: <8747.808594, 6.299990, 13350.338867>
+12:8:31 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+12:8:33 | Admin "Miko" (steamId=76561198413928129) built part level_1_stairs at position: <8747.808594, 6.299990, 13350.338867>
+12:8:34 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+12:8:35 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_down at position: <8747.808594, 6.299990, 13350.338867>
+12:8:50 | "Miko" (steamid=76561198413928129) deleted objects using ESP
+12:9:11 | Admin "Miko" (steamId=76561198413928129) built part level_1_base at position: <8747.801758, 6.321880, 13350.479492>
+12:9:13 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_up at position: <8747.801758, 6.321880, 13350.479492>
+12:9:14 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_up at position: <8747.801758, 6.321880, 13350.479492>
+12:9:15 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_down at position: <8747.801758, 6.321880, 13350.479492>
+12:9:17 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_down at position: <8747.801758, 6.321880, 13350.479492>
+12:9:19 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_down at position: <8747.801758, 6.321880, 13350.479492>
+12:9:20 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_up at position: <8747.801758, 6.321880, 13350.479492>
+12:9:22 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_up at position: <8747.801758, 6.321880, 13350.479492>
+12:9:23 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_down at position: <8747.801758, 6.321880, 13350.479492>
+12:9:29 | Admin "Miko" (steamId=76561198413928129) built part level_1_roof at position: <8747.801758, 6.321880, 13350.479492>
+12:9:49 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8748.339844, 6.340388, 13352.510742>
+12:9:51 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8748.339844, 6.340388, 13352.510742>
+12:9:52 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8748.339844, 6.340388, 13352.510742>
+12:9:53 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8748.339844, 6.340388, 13352.510742>
+12:9:54 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8748.339844, 6.340388, 13352.510742>
+12:9:55 | Admin "Miko" (steamId=76561198413928129) built part wall_gate at position: <8748.339844, 6.340388, 13352.510742>
+12:9:59 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+12:10:2 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+12:10:4 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8752.992188, 6.613616, 13346.550781>
+12:10:5 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8752.992188, 6.613616, 13346.550781>
+12:10:6 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8752.992188, 6.613616, 13346.550781>
+12:10:7 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8752.992188, 6.613616, 13346.550781>
+12:10:8 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8752.992188, 6.613616, 13346.550781>
+12:10:30 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8730.984375, 6.613616, 13340.459961>
+12:10:31 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8730.984375, 6.613616, 13340.459961>
+12:10:33 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8730.984375, 6.613616, 13340.459961>
+12:10:33 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8730.984375, 6.613616, 13340.459961>
+12:10:35 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8730.984375, 6.613616, 13340.459961>
+12:10:41 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+12:10:41 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...

@@ -1,0 +1,264 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-14_0-13-5
+====================================================================================
+0:13:5 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:13:5 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:13:5 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:13:5 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:13:5 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:13:5 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:13:5 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:13:5 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:13:5 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:13:5 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:13:5 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:13:5 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:13:5 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:13:5 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:13:5 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:13:5 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:13:5 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:13:5 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:13:5 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:13:5 | [PermissionManager] Adding Super Admin (76561198413928129)
+0:13:5 | [PermissionManager] Adding Super Admin (76561198061747392)
+0:13:5 | [PermissionManager] Loaded UserGroups.json
+0:13:5 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:13:5 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:13:5 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:13:5 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:13:5 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:13:5 | Building Sets Loaded: 2
+0:13:5 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:18:18 | Player "Lin" (steamId=76561198093636655) connected to server!
+0:57:1 | Player "Lin" (steamId=76561198093636655) initiated disconnect process...
+0:57:3 | Player "Lin" (steamId=76561198093636655) disconnected early from server (EXIT NOW).
+0:57:4 | Player "Lin" (steamId=76561198093636655) disconnected from server.
+2:10:42 | Player "Paul " (steamId=76561198121111197) connected to server!
+2:17:19 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+2:17:21 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+2:17:22 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+3:40:51 | Player "Paul " (steamId=76561198121111197) connected to server!
+3:46:44 | Player "Penguin" (steamId=76561198413928129) connected to server!
+3:46:57 | "Penguin" (steamid=76561198413928129) toggled godmode
+3:49:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_burlap)
+3:49:21 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_maher)
+3:49:22 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_rag)
+3:49:23 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_blackcage)
+3:49:24 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_colored)
+3:49:26 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_colored)
+3:49:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho)
+3:52:7 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:9 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:9 | "Penguin" (steamid=76561198413928129) Spawned Item: (Firewood)
+3:52:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoodenStick)
+3:52:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoodenStick)
+3:52:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoodenStick)
+3:52:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoodenStick)
+3:53:10 | "Penguin" (steamid=76561198413928129) Spawned Item: (Paper)
+3:53:10 | "Penguin" (steamid=76561198413928129) Spawned Item: (Paper)
+3:53:10 | "Penguin" (steamid=76561198413928129) Spawned Item: (Paper)
+3:53:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Paper)
+3:53:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (Roadflare)
+3:53:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (Roadflare)
+3:58:39 | "Penguin" (steamid=76561198413928129) toggled freecam
+3:59:44 | "Penguin" (steamid=76561198413928129) toggled freecam
+4:2:46 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_arafatka_black)
+4:4:14 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<14431.599609, 278.079559, 15657.000000>)
+4:4:14 | "Penguin": (steamid=76561198413928129) teleported to (pos=14431.6,0,15657)
+4:14:20 | "Penguin" (steamid=76561198413928129) Spawned Item: (Shemagh_Bandit_White)
+4:20:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (Defender_Vest_Green)
+4:21:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Winchester70_Green)
+4:21:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Winchester70_Green)
+4:21:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:18 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ammo_308Win)
+4:21:55 | "Penguin" (steamid=76561198413928129) Spawned Item: (Defender_Vest_Green)
+4:22:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (P1)
+4:22:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (MP5K)
+4:22:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (MP5K)
+4:22:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (MP5K)
+4:22:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (MP5K)
+4:22:55 | "Penguin" (steamid=76561198413928129) Spawned Item: (Mag_MP5_30Rnd)
+4:22:56 | "Penguin" (steamid=76561198413928129) Spawned Item: (Mag_MP5_30Rnd)
+4:22:56 | "Penguin" (steamid=76561198413928129) Spawned Item: (Mag_MP5_30Rnd)
+4:22:56 | "Penguin" (steamid=76561198413928129) Spawned Item: (Mag_MP5_30Rnd)
+4:27:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (LeatherBelt_Beige)
+4:27:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (LeatherBelt_Beige)
+4:30:2 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_ArcticPants_White)
+4:30:15 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_kneepadspants_green)
+4:30:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_carharttpants)
+4:30:41 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_blackpants)
+4:30:42 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_roadiessuit_pants)
+4:30:58 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_gaptopsuit_pants)
+4:31:15 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_bakedpants)
+4:31:36 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_cargopants)
+4:31:36 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_cargopants)
+4:31:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_cargopants_camo)
+4:31:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_cyberpants)
+4:31:39 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_ririteopants)
+4:32:0 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_westpants_black)
+4:32:1 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_westpants_grey)
+4:32:1 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_westpants_green)
+4:32:2 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_westpants_winter)
+4:33:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_blackpants)
+4:33:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_jeanspants2)
+4:33:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants)
+4:33:38 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_akito_pants_black)
+4:34:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_urbanpants_black)
+4:34:26 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+4:34:28 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+4:34:28 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+4:35:22 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_Michonnepants)
+4:35:32 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpants_alligator)
+4:35:43 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpants_digitalgr)
+4:35:52 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_Ironsightpantsv2_metalblood)
+4:36:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_winter)
+4:36:6 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_winter)
+4:39:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_winter)
+4:39:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_winter)
+4:39:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_winter)
+4:40:20 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetgloves)
+4:40:21 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask)
+4:40:22 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_winter)
+4:40:23 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_winter_camo)
+4:40:25 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_winter)
+4:40:28 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetjacket_winter)
+4:40:30 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_winter)
+4:48:24 | "Penguin" (steamid=76561198413928129) Spawned Item: (Ruger1022)
+4:50:36 | "Penguin" (steamid=76561198413928129) Spawned Item: (RPG7)
+4:50:51 | "Penguin" (steamid=76561198413928129) Spawned Item: (PVCBow)
+4:51:4 | "Penguin" (steamid=76561198413928129) Spawned Item: (AugShort)
+4:51:5 | "Penguin" (steamid=76561198413928129) Spawned Item: (B95)
+4:51:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (CZ527)
+4:52:37 | "Penguin" (steamid=76561198413928129) Spawned Item: (Izh43Shotgun)
+4:55:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_bloodvest)
+4:56:1 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_bloodvest_camo)
+4:56:4 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_civilvest_black)
+4:59:46 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_black)
+4:59:48 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_black)
+4:59:52 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetjacket_black)
+4:59:54 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_black)
+5:0:41 | "Penguin" (steamid=76561198413928129) Spawned Item: (TacticalGloves_Black)
+5:1:14 | "Penguin" (steamid=76561198413928129) Spawned Item: (JungleBoots_Black)
+5:1:25 | "Penguin" (steamid=76561198413928129) Spawned Item: (STAG_Clothing_Beret)
+5:1:29 | "Penguin" (steamid=76561198413928129) Spawned Item: (MilitaryBeret_ChDKZ)
+5:2:16 | "Penguin" (steamid=76561198413928129) Spawned Item: (SkiGoggles_BlackYellow)
+5:2:34 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses_black)
+5:4:6 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetmask_winter)
+5:4:8 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetpants_winter)
+5:4:11 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetjacket_winter)
+5:4:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_militarysetvest_winter)
+5:4:50 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_ironsighttacticalglasses)
+5:5:15 | "Penguin" (steamid=76561198413928129) Spawned Item: (BalaclavaMask_White)
+5:5:17 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Arcteryx_Balaclava_White)
+5:6:13 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_kronboots_whitepixel)
+5:6:35 | "Penguin" (steamid=76561198413928129) Spawned Item: (WoolGlovesFingerless_White)
+5:7:14 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_SniperHood_MCAL)
+5:7:49 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_poncho_rag)
+5:8:42 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Bag_DrawBridge_MCAL)
+5:18:3 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Bag_BlackJack_MCAL)
+5:18:9 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Shirt_ArcticJacket_MCAL)
+5:18:16 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_WinterGloves_MCAL)
+5:18:19 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_DEFCONVans_Shoes_MCAL)
+5:18:22 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Helmet_FASTMT_MCAL)
+5:18:27 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Vest_Osprey_MCAL)
+5:18:51 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_ArcticPants_MCAL)
+5:18:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Pants_Crye_G3_MCAL)
+5:18:57 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_Pants_Crye_G3_MCAL)
+5:37:55 | "Penguin" (steamid=76561198413928129) Spawned Item: (Loftd_IronsightHat_pub)
+5:40:9 | "Penguin" (steamid=76561198413928129) toggled freecam
+5:40:17 | "Penguin" (steamid=76561198413928129) toggled freecam
+5:52:9 | "Penguin" (steamid=76561198413928129) Spawned Item: (BushlatPoliceJacket_Blue)
+5:52:30 | "Penguin" (steamid=76561198413928129) Spawned Item: (PolicePants)
+5:52:31 | "Penguin" (steamid=76561198413928129) Spawned Item: (DirtBikeHelmet_Police)
+5:58:50 | "Penguin" (steamid=76561198413928129) Spawned Item: (GhillieHood_Winter)
+6:3:42 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieBushrag_Snow)
+6:3:48 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieTop_Snow)
+6:3:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieSuit_Snow)
+6:3:53 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieSuit_Snow)
+6:4:59 | "Penguin" (steamid=76561198413928129) Spawned Item: (GhillieSuit_Winter)
+6:6:3 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieSuit_Snow)
+6:6:7 | "Penguin" (steamid=76561198413928129) Spawned Item: (FOG_GhillieHood_Snow)
+6:12:23 | Player "Penguin" (steamId=76561198413928129) initiated disconnect process...
+6:12:26 | Player "Penguin" (steamId=76561198413928129) disconnected from server.

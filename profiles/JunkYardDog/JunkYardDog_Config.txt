@@ -1,0 +1,83 @@
+//	------------------------------------------------------------------------------------------------------------------------------------------------------
+//	[Server_Config_JunkYardDog]- 	Auto Generated JunkYardDog_Config.txt, Created OnDate=2025/05/03 | Time=16:56:03
+//	<You MUST restart the server TWICE for chances to take effect. VERY IMPORTANT **ONLY CHANGE VARIABLES** >
+
+//Use this to create a NEW config from default
+//Warning: TRUE will create a NEW config file
+
+<NewConfig>	false
+
+//Use this to enable the DebugServerLogs
+//Disabled By Default
+
+<EnableDebugLogs>	false
+
+//Use this to enable the DebugJunkYardLogs
+//Disabled By Default
+
+<EnableJunkYardLogs>	false
+
+//Use this to enable the refueling at Pumps and Large Tanks with Ladders
+//Enabled By Default
+
+<EnableFuelPumps>	true
+
+
+//Truck Array - You can use up to 10 objects, use only class names
+
+<TruckArray>	TruckBattery	// Truck Array - use class names such as TruckBattery 
+<TruckArray>	CarRadiator
+<TruckArray>	SparkPlug
+<TruckArray>	HeadlightH7
+<TruckArray>	Truck5
+<TruckArray>	
+<TruckArray>	
+<TruckArray>	
+<TruckArray>	
+<TruckArray>	
+
+//Car Array - You can use up to 10 objects, use only class names
+
+<CarArray>	CarBattery	// Car Array - use class names such as CarBattery 
+<CarArray>	CarRadiator
+<CarArray>	SparkPlug
+<CarArray>	HeadlightH7
+<CarArray>	Car5
+<CarArray>	
+<CarArray>	
+<CarArray>	
+<CarArray>	
+<CarArray>	
+
+//Air Array - You can use up to 10 objects, use only class names
+
+<AirArray>	CarBattery	// Air Array - use class names such as AirStuff*FIX 
+<AirArray>	CarRadiator
+<AirArray>	SparkPlug
+<AirArray>	HeadlightH7
+<AirArray>	Air5
+<AirArray>	
+<AirArray>	
+<AirArray>	
+<AirArray>	
+<AirArray>	
+
+//Boat Array - You can use up to 10 objects, use only class names
+
+<BoatArray>	CarBattery	// Boat Array - use class names such as BoatStuff*FIX 
+<BoatArray>	CarRadiator
+<BoatArray>	SparkPlug
+<BoatArray>	HeadlightH7
+<BoatArray>	Boat5
+<BoatArray>	
+<BoatArray>	
+<BoatArray>	
+<BoatArray>	
+<BoatArray>	
+
+<EndOFArray>	//End Of Arrays
+
+
+<FileEnd>
+//	----------------------------------------------------------------------------------------------------
+

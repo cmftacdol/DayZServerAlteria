@@ -1,0 +1,107 @@
+<types>
+	<type name="Ki_Suppressor_FaL">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_FaL_covered">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_SkS">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_SkS_covered">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_Mosin">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_Mosin_covered">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons"/>
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+	<type name="Ki_Suppressor_Saiga">
+		 <nominal>2</nominal>
+        <lifetime>9800</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tool4" />
+		<usage name="Military"/>
+		<tag name="floor" />
+		<value name="Tier4" />
+		<value name="Tier5" />
+	</type>
+</types>

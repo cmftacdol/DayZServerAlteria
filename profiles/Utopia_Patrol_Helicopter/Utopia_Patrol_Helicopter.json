@@ -1,0 +1,59 @@
+{
+    "MinPlayersForEvent": 1,
+    "MaxEventOnMap": 3,
+    "MinCheckTimer": 90.0,
+    "MaxCheckTimer": 100.0,
+    "HeliCrashList": [
+        {
+            "LocationName": "Airfield",
+            "LocationCords": "7015.994141 26.129997 1913.295288",
+            "LocationCordsStart": "7848.243652 32.987541 1991.976074",
+            "FlyHight": 250.0,
+            "FlySpeed": 30.0,
+            "FallSpeed": 20.0,
+            "HeliClassName": "Utopia_Apache_AH_64D",
+            "HeliClassCrash": "Utopia_Apache_AH_64D_Wreck",
+            "LocationRadius": 10.0,
+            "TriggerRadius": 50.0,
+            "DeleteTimer": 50.0,
+            "DeleteTimerActivated": 30.0,
+            "MinZmb": 2,
+            "MaxZmb": 3,
+            "ZmbList": [
+                "ZmbF_ShortSkirt_beige",
+                "ZmbF_VillagerOld_Green"
+            ],
+            "ZmbSpawnRadiusMin": 5.0,
+            "ZmbSpawnRadiusMax": 10.0,
+            "LootSpawnRadiusMin": 3.0,
+            "LootSpawnRadiusMax": 5.0,
+            "NotifyText": "Warning!|Possible helicopter crash in location: |Utopia_Patrol_Helicopter_Public/Datasets/images/Apache.paa",
+            "RandomPresets": [
+                "Preset1"
+            ]
+        }
+    ],
+    "HeliPresetList": [
+        {
+            "PresetName": "Preset1",
+            "HeliPresetCfgList": [
+                {
+                    "ItemName": "AKM",
+                    "SpawnChance": 10.0,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": [
+                        {
+                            "ItemList": [
+                                "Mag_AKM_30Rnd"
+                            ],
+                            "SpawnChance": 100.0,
+                            "ItemQuantity": 25.0,
+                            "ItemHealth": 500.0
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

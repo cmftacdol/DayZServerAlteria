@@ -1,0 +1,1003 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-1_6-12-54
+====================================================================================
+6:12:54 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+6:12:54 | [PermissionManager] Perm (FreeCamera) has been registered!
+6:12:54 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuServerManager) has been registered!
+6:12:54 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+6:12:54 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+6:12:54 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+6:12:54 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+6:12:54 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+6:12:54 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+6:12:54 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+6:12:54 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+6:12:54 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+6:12:54 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuBansManager) has been registered!
+6:12:54 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+6:12:54 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+6:12:54 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+6:12:54 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+6:12:54 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+6:12:54 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+6:12:54 | [PermissionManager] Adding Super Admin (76561198413928129)
+6:12:54 | [PermissionManager] Adding Super Admin (76561198061747392)
+6:12:54 | [PermissionManager] Adding Super Admin (76561198065207038)
+6:12:54 | [PermissionManager] Loaded UserGroups.json
+6:12:54 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+6:12:54 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+6:12:54 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+6:12:54 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+6:12:54 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+6:12:54 | Building Sets Loaded: 2
+6:12:54 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+6:14:51 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+6:14:54 | Player "Lee Vogue" (steamId=76561199380565467) connected to server!
+6:15:4 | Player "Paul " (steamId=76561198121111197) connected to server!
+6:15:10 | Player "KOG" (steamId=76561198104966670) connected to server!
+6:16:9 | Player "Lando" (steamId=76561199365795662) connected to server!
+6:36:16 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+6:36:19 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+6:40:25 | Player "Kame" (steamId=76561199372146202) connected to server!
+7:2:43 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+7:2:46 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+7:3:13 | Player "Lando" (steamId=76561199365795662) initiated disconnect process...
+7:3:16 | Player "Lando" (steamId=76561199365795662) disconnected from server.
+7:11:26 | Player "Lee Vogue" (steamId=76561199380565467) initiated disconnect process...
+7:11:29 | Player "Lee Vogue" (steamId=76561199380565467) disconnected from server.
+7:16:57 | Player "Admin Penguin" (steamId=76561198413928129) connected to server!
+7:17:9 | "Admin Penguin" (steamid=76561198413928129) toggled godmode
+7:17:27 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8238.559570, 5.639311, 9294.110352>)
+7:17:27 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=8238.56,0,9294.11)
+7:18:41 | "Admin Penguin" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8255.076172, 5.425012, 9288.769531>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8260.627930, 5.389381, 9290.972656>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8260.954102, 5.386087, 9291.103516>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.207031, 5.383537, 9291.205078>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.403320, 5.381558, 9291.287109>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.555664, 5.380027, 9291.349609>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.673828, 5.378832, 9291.400391>)
+7:18:47 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.769531, 5.377870, 9291.441406>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.853516, 5.377023, 9291.478516>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.925781, 5.376299, 9291.509766>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8261.993164, 5.375617, 9291.540039>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8262.063477, 5.374912, 9291.571289>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8262.125977, 5.374285, 9291.599609>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8262.187500, 5.373666, 9291.626953>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8265.350586, 5.348469, 9292.856445>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8266.393555, 5.344093, 9293.258789>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8266.757813, 5.342567, 9293.402344>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8267.709961, 5.338562, 9293.790039>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8267.916016, 5.337695, 9293.874023>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8268.000000, 5.337340, 9293.911133>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8268.080078, 5.337004, 9293.945313>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8268.133789, 5.336774, 9293.969727>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8268.287109, 5.336126, 9294.038086>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8268.275391, 5.336176, 9294.033203>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8270.925781, 5.325062, 9295.060547>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8272.763672, 5.317341, 9295.794922>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8273.684570, 5.313471, 9296.164063>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.112305, 5.312017, 9296.338867>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.319336, 5.311912, 9296.422852>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.437500, 5.311855, 9296.473633>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.519531, 5.311817, 9296.509766>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.781250, 5.311697, 9296.625977>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.853516, 5.311665, 9296.658203>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.893555, 5.311646, 9296.675781>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8274.951172, 5.311618, 9296.701172>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8275.573242, 5.311292, 9296.947266>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8276.105469, 5.311004, 9297.152344>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8276.766602, 5.310649, 9297.409180>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8277.415039, 5.310298, 9297.659180>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8278.037109, 5.309962, 9297.899414>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8278.609375, 5.309654, 9298.120117>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8279.123047, 5.309382, 9298.323242>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8279.520508, 5.309169, 9298.476563>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8280.008789, 5.308817, 9298.602539>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8280.378906, 5.308501, 9298.663086>)
+7:18:48 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8280.536133, 5.307991, 9298.420898>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8299.599609, 5.130060, 9305.835938>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8301.666016, 5.129998, 9306.728516>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8302.470703, 5.130000, 9307.082031>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8303.213867, 5.130027, 9307.399414>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8303.920898, 5.130059, 9307.715820>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8304.539063, 5.129848, 9307.993164>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8305.050781, 5.130002, 9308.224609>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8305.467773, 5.130017, 9308.413086>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8305.813477, 5.130004, 9308.571289>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8306.078125, 5.129975, 9308.693359>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8306.289063, 5.129984, 9308.791016>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8306.471680, 5.129981, 9308.801758>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8306.572266, 5.129976, 9308.805664>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8307.344727, 5.130024, 9309.113281>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8307.722656, 5.130011, 9309.262695>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8308.679688, 5.130011, 9309.683594>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8309.089844, 5.129991, 9309.862305>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8309.284180, 5.129981, 9309.948242>)
+7:18:52 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8309.424805, 5.129981, 9310.013672>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8310.166016, 5.129986, 9310.348633>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8310.393555, 5.130044, 9310.452148>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8310.493164, 5.130041, 9310.497070>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8310.599609, 5.130045, 9310.548828>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8311.171875, 5.130061, 9310.809570>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8311.278320, 5.130048, 9310.857422>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8312.230469, 5.130017, 9311.151367>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8312.343750, 5.130006, 9311.185547>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.002930, 5.130057, 9311.896484>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.101563, 5.129884, 9311.939453>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.199219, 5.129877, 9311.986328>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.302734, 5.130001, 9312.035156>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.498047, 5.130005, 9312.127930>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8314.673828, 5.129982, 9312.207031>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8315.021484, 5.130032, 9312.363281>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8315.326172, 5.130030, 9312.500977>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8315.877930, 5.130033, 9312.708008>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8316.320313, 5.130005, 9312.874023>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8316.694336, 5.130011, 9313.017578>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8316.999023, 5.130016, 9313.137695>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8317.814453, 5.130029, 9313.476563>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8318.358398, 5.130035, 9313.702148>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8318.741211, 5.130040, 9313.864258>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8319.205078, 5.130047, 9314.073242>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8319.461914, 5.130050, 9314.188477>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8319.617188, 5.130051, 9314.258789>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8319.751953, 5.130053, 9314.321289>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8320.428711, 5.129984, 9314.597656>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8320.714844, 5.130025, 9314.712891>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8321.360352, 5.130050, 9314.960938>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8321.595703, 5.130046, 9315.050781>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8321.705078, 5.129994, 9315.096680>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8321.837891, 5.130020, 9315.157227>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8325.040039, 5.129982, 9316.494141>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8325.370117, 5.129978, 9316.640625>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.320313, 5.130034, 9317.016602>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.370117, 5.129960, 9317.037109>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.415039, 5.129959, 9317.058594>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.512695, 5.129961, 9317.105469>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.616211, 5.129956, 9317.155273>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.719727, 5.129954, 9317.205078>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.817383, 5.129956, 9317.251953>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.920898, 5.129950, 9317.301758>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8327.024414, 5.129949, 9317.351563>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8327.133789, 5.129946, 9317.404297>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8327.695313, 5.130019, 9317.647461>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8328.047852, 5.130001, 9317.788086>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8328.577148, 5.130008, 9317.999023>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8329.099609, 5.130015, 9318.207031>)
+7:18:53 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8329.612305, 5.130022, 9318.412109>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8330.086914, 5.130029, 9318.604492>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8330.508789, 5.130034, 9318.776367>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8330.843750, 5.130039, 9318.913086>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.207031, 5.130044, 9319.068359>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.549805, 5.130049, 9319.218750>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.780273, 5.130053, 9319.320313>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.932617, 5.130054, 9319.386719>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8332.434570, 5.129982, 9319.600586>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8332.737305, 5.130036, 9319.728516>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8332.952148, 5.129980, 9319.823242>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.842773, 5.130007, 9320.176758>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8334.280273, 5.130015, 9320.350586>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8334.486328, 5.129972, 9320.433594>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8334.637695, 5.130019, 9320.499023>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8335.559570, 5.130042, 9320.879883>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8335.895508, 5.130033, 9321.019531>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.634766, 5.130009, 9321.332031>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.860352, 5.130013, 9321.426758>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8337.381836, 5.130020, 9321.639648>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8337.509766, 5.130021, 9321.692383>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.444336, 5.130033, 9322.071289>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.618164, 5.130036, 9322.141602>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.664063, 5.130036, 9322.161133>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.767578, 5.130038, 9322.210938>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.871094, 5.130040, 9322.260742>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.974609, 5.130042, 9322.310547>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8339.078125, 5.130043, 9322.360352>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8339.175781, 5.130044, 9322.407227>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8339.630859, 5.130050, 9322.611328>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8339.848633, 5.130054, 9322.697266>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8340.487305, 5.129997, 9322.952148>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8341.096680, 5.130002, 9323.193359>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8341.667969, 5.129957, 9323.423828>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8342.179688, 5.129991, 9323.630859>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8342.588867, 5.129890, 9323.794922>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8342.902344, 5.129877, 9323.920898>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.209961, 5.130008, 9324.048828>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.424805, 5.129974, 9324.139648>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.606445, 5.130032, 9324.216797>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.765625, 5.129952, 9324.289063>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.927734, 5.130033, 9324.362305>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8344.059570, 5.130001, 9324.423828>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8344.184570, 5.130002, 9324.482422>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8345.855469, 5.130026, 9325.163086>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8346.629883, 5.130036, 9325.478516>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8347.417969, 5.130048, 9325.796875>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8347.761719, 5.130052, 9325.936523>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8347.952148, 5.130055, 9326.018555>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.436523, 5.130006, 9326.217773>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.572266, 5.130008, 9326.273438>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.858398, 5.130012, 9326.402344>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.922852, 5.130013, 9326.430664>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.151367, 5.130016, 9326.538086>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.194336, 5.130016, 9326.557617>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.628906, 5.130023, 9326.748047>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.887695, 5.130026, 9326.851563>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8350.168945, 5.130030, 9326.963867>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8350.463867, 5.130034, 9327.083984>)
+7:18:54 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8350.766602, 5.130039, 9327.208984>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8351.059570, 5.130043, 9327.332031>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8351.781250, 5.130053, 9327.622070>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8352.359375, 5.130006, 9327.854492>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8352.911133, 5.130003, 9328.083008>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8353.311523, 5.130011, 9328.249023>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8353.625000, 5.130006, 9328.381836>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8353.868164, 5.130007, 9328.487305>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8354.378906, 5.129972, 9328.698242>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8354.669922, 5.130038, 9328.816406>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8355.137695, 5.130034, 9329.007813>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8355.375000, 5.130057, 9329.105469>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8355.541992, 5.130039, 9329.177734>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8355.682617, 5.130068, 9329.241211>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.384766, 5.130006, 9329.530273>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.652344, 5.130009, 9329.640625>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.816406, 5.130012, 9329.712891>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.944336, 5.130013, 9329.771484>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8357.095703, 5.130004, 9329.811523>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8359.258789, 5.129944, 9330.683594>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8359.780273, 5.129993, 9330.845703>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8359.923828, 5.129933, 9330.848633>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.109375, 5.130001, 9330.808594>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.805664, 5.130030, 9330.958008>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.907227, 5.129966, 9330.926758>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.942383, 5.129992, 9330.881836>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8361.060547, 5.130004, 9330.928711>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8361.446289, 5.130010, 9331.086914>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8361.541016, 5.130016, 9331.134766>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8361.649414, 5.129962, 9331.197266>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8362.204102, 5.130013, 9331.462891>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8362.728516, 5.130114, 9331.645508>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8363.207031, 5.129994, 9331.820313>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8363.635742, 5.129877, 9331.984375>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8364.014648, 5.130000, 9332.125977>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8364.337891, 5.129999, 9332.242188>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.056641, 5.130012, 9332.343750>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.717773, 5.130007, 9332.427734>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.148438, 5.130024, 9332.487305>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.627930, 5.130030, 9332.630859>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.874023, 5.130020, 9332.696289>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8367.890625, 5.130047, 9333.085938>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8368.341797, 5.130002, 9333.254883>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8368.538086, 5.130007, 9333.328125>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8368.680664, 5.129994, 9333.379883>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8369.580078, 5.129995, 9333.710938>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8369.870117, 5.129999, 9333.814453>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8370.334961, 5.130015, 9333.861328>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8370.457031, 5.130032, 9333.873047>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8370.500977, 5.130022, 9333.881836>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8370.600586, 5.130032, 9333.913086>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8371.861328, 5.129961, 9334.125000>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8372.041016, 5.130001, 9334.155273>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.635742, 5.130015, 9334.731445>)
+7:18:55 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.777344, 5.130012, 9334.782227>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.802734, 5.130012, 9334.791016>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.911133, 5.130013, 9334.828125>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.287109, 5.130015, 9334.958984>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.381836, 5.130016, 9334.995117>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.602539, 5.129972, 9335.057617>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.820313, 5.129965, 9335.120117>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.063477, 5.129977, 9335.181641>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.277344, 5.129964, 9335.237305>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.465820, 5.129955, 9335.287109>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.649414, 5.129952, 9335.337891>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8376.823242, 5.130052, 9335.657227>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8377.676758, 5.129932, 9335.888672>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8378.285156, 5.130003, 9336.055664>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8378.729492, 5.130008, 9336.180664>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8379.172852, 5.130022, 9336.316406>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8379.433594, 5.130014, 9336.395508>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8379.599609, 5.130010, 9336.447266>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8379.745117, 5.130037, 9336.494141>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.290039, 5.130001, 9336.646484>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.539063, 5.129998, 9336.720703>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.674805, 5.130004, 9336.766602>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.795898, 5.130008, 9336.815430>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.782227, 5.130024, 9337.083984>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8382.110352, 5.130011, 9337.182617>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8383.278320, 5.129968, 9337.512695>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8383.565430, 5.130001, 9337.604492>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.337891, 5.129998, 9337.846680>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.483398, 5.130005, 9337.908203>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.582031, 5.130003, 9337.948242>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.680664, 5.129995, 9337.991211>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8385.523438, 5.130020, 9338.250977>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8385.607422, 5.130020, 9338.294922>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8385.715820, 5.130022, 9338.333008>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8386.164063, 5.129985, 9338.482422>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8386.324219, 5.130013, 9338.531250>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8386.733398, 5.129966, 9338.640625>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8387.128906, 5.130017, 9338.756836>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8387.505859, 5.130045, 9338.867188>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8387.865234, 5.130024, 9338.969727>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8388.418945, 5.130013, 9339.136719>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8388.847656, 5.129954, 9339.277344>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8389.175781, 5.130067, 9339.385742>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8389.445313, 5.130024, 9339.491211>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8390.117188, 5.129956, 9339.725586>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8390.553711, 5.129908, 9339.882813>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8390.833984, 5.130066, 9339.983398>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8391.074219, 5.130009, 9340.067383>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8391.556641, 5.129972, 9340.212891>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8392.317383, 5.130005, 9340.432617>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8392.652344, 5.130002, 9340.533203>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8393.623047, 5.129974, 9340.838867>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8393.993164, 5.129996, 9340.957031>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8394.776367, 5.130009, 9341.235352>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.025391, 5.129962, 9341.325195>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.162109, 5.129959, 9341.375977>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.285156, 5.129951, 9341.422852>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.394531, 5.129964, 9341.467773>)
+7:18:56 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.503906, 5.130052, 9341.515625>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8396.166016, 5.130002, 9341.758789>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8396.249023, 5.130002, 9341.796875>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.387695, 5.129977, 9342.143555>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.476563, 5.129991, 9342.181641>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.553711, 5.130021, 9342.225586>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.646484, 5.130002, 9342.275391>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8398.087891, 5.129984, 9342.448242>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8398.338867, 5.130036, 9342.545898>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8398.648438, 5.129965, 9342.653320>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8398.944336, 5.129997, 9342.769531>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8399.273438, 5.130002, 9342.887695>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8399.552734, 5.130020, 9343.008789>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8400.750000, 5.129970, 9343.466797>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8402.039063, 5.129882, 9343.977539>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8402.836914, 5.130010, 9344.301758>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.310547, 5.130042, 9344.500977>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.612305, 5.129987, 9344.629883>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.817383, 5.130012, 9344.719727>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.972656, 5.129999, 9344.789063>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8404.097656, 5.130001, 9344.848633>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8404.215820, 5.130002, 9344.904297>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8404.323242, 5.129999, 9344.957031>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8404.689453, 5.129991, 9345.111328>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8404.795898, 5.129998, 9345.162109>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8405.422852, 5.130008, 9345.396484>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8405.561523, 5.130017, 9345.453125>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8407.702148, 5.129935, 9346.328125>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.067383, 5.130002, 9346.488281>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.563477, 5.129997, 9346.713867>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.626953, 5.129980, 9346.746094>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.668945, 5.130029, 9346.768555>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.772461, 5.130035, 9346.818359>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.057617, 5.130052, 9346.955078>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.087891, 5.130056, 9346.967773>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.128906, 5.129999, 9346.983398>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.188477, 5.130016, 9347.006836>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.264648, 5.130022, 9347.040039>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.356445, 5.129975, 9347.082031>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.692383, 5.130073, 9347.219727>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8410.138672, 5.129973, 9347.411133>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8412.187500, 5.129996, 9348.275391>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8413.239258, 5.130024, 9348.729492>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8413.776367, 5.130026, 9348.964844>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.074219, 5.130020, 9349.098633>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.249023, 5.129967, 9349.180664>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.383789, 5.129983, 9349.245117>)
+7:18:57 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.500977, 5.129991, 9349.303711>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.612305, 5.129997, 9349.358398>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.721680, 5.130000, 9349.413086>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.825195, 5.130004, 9349.463867>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.925781, 5.130006, 9349.515625>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.937500, 5.130012, 9349.466797>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.937500, 5.130012, 9349.466797>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8415.437500, 5.130025, 9349.692383>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8415.774414, 5.130044, 9349.833008>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.307617, 5.130000, 9350.061523>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.817383, 5.130000, 9350.280273>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8417.319336, 5.129999, 9350.497070>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8417.785156, 5.129998, 9350.699219>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8418.200195, 5.129994, 9350.879883>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8418.528320, 5.129999, 9351.023438>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8418.890625, 5.129999, 9351.187500>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8419.151367, 5.130003, 9351.305664>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8419.377930, 5.130004, 9351.389648>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8419.525391, 5.130008, 9351.444336>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8419.990234, 5.130009, 9351.640625>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.263672, 5.129998, 9351.756836>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.465820, 5.130013, 9351.845703>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.623047, 5.130032, 9351.917969>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8421.457031, 5.129997, 9352.271484>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8421.841797, 5.130000, 9352.434570>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8422.755859, 5.130022, 9352.831055>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.122070, 5.130038, 9352.990234>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.326172, 5.129984, 9353.083984>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.463867, 5.129984, 9353.149414>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.983398, 5.130008, 9353.365234>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.128906, 5.130001, 9353.425781>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.647461, 5.130003, 9353.638672>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.764648, 5.130003, 9353.687500>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.873047, 5.130004, 9353.740234>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.974609, 5.130004, 9353.790039>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8425.075195, 5.130005, 9353.839844>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8425.189453, 5.130005, 9353.897461>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8425.539063, 5.130006, 9354.058594>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8425.707031, 5.130007, 9354.126953>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8426.061523, 5.130008, 9354.274414>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8426.405273, 5.130009, 9354.416992>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8426.752930, 5.130011, 9354.563477>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8427.084961, 5.130012, 9354.705078>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8427.736328, 5.130014, 9354.978516>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8428.256836, 5.130017, 9355.197266>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8428.688477, 5.129957, 9355.380859>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8429.078125, 5.129974, 9355.548828>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8429.346680, 5.130000, 9355.664063>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8429.759766, 5.130037, 9355.851563>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.015625, 5.130072, 9355.967773>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.578125, 5.129995, 9356.208008>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.889648, 5.129997, 9356.340820>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.416016, 5.130012, 9356.564453>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.674805, 5.130024, 9356.673828>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.799805, 5.130033, 9356.726563>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.916992, 5.130037, 9356.780273>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8432.656250, 5.130002, 9357.087891>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8432.925781, 5.130004, 9357.200195>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8433.035156, 5.130004, 9357.246094>)
+7:18:58 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8433.143555, 5.130004, 9357.297852>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8433.906250, 5.130008, 9357.620117>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8434.092773, 5.130008, 9357.699219>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8434.681641, 5.130011, 9357.965820>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8434.791016, 5.130011, 9358.014648>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8436.035156, 5.130000, 9358.544922>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8436.193359, 5.129995, 9358.613281>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8436.678711, 5.130003, 9358.821289>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8436.712891, 5.130005, 9358.835938>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8436.997070, 5.130013, 9358.969727>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.092773, 5.130023, 9359.007813>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.198242, 5.130036, 9359.048828>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.319336, 5.130051, 9359.099609>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.454102, 5.130070, 9359.154297>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.573242, 5.129927, 9359.203125>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.093750, 5.129964, 9359.426758>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.507813, 5.130015, 9359.604492>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8439.325195, 5.129841, 9359.955078>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8439.916016, 5.130001, 9360.208984>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8440.342773, 5.130002, 9360.392578>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8440.661133, 5.130003, 9360.532227>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8441.164063, 5.130005, 9360.750977>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8441.461914, 5.130005, 9360.880859>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8441.723633, 5.130006, 9360.981445>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8441.951172, 5.130008, 9361.082031>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8442.541992, 5.130010, 9361.333984>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8442.770508, 5.130011, 9361.431641>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8444.102539, 5.130001, 9362.003906>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8444.583008, 5.130003, 9362.212891>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8444.793945, 5.130003, 9362.309570>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8444.922852, 5.130004, 9362.371094>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8445.041016, 5.130004, 9362.428711>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8445.986328, 5.130008, 9362.833008>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8446.136719, 5.130009, 9362.897461>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8446.481445, 5.130010, 9363.022461>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8446.518555, 5.130010, 9363.036133>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8446.922852, 5.130012, 9363.220703>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8447.152344, 5.130013, 9363.316406>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8447.403320, 5.130013, 9363.421875>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8447.668945, 5.130014, 9363.534180>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8447.944336, 5.130014, 9363.653320>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8448.210938, 5.129965, 9363.769531>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8448.620117, 5.129962, 9363.948242>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8448.950195, 5.130001, 9364.091797>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8449.218750, 5.130004, 9364.208984>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8449.448242, 5.130007, 9364.311523>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8450.018555, 5.129992, 9364.558594>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8450.420898, 5.129998, 9364.732422>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8451.151367, 5.130027, 9365.029297>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8451.576172, 5.129984, 9365.204102>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8451.858398, 5.129995, 9365.325195>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8452.340820, 5.130001, 9365.535156>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8452.570313, 5.130002, 9365.634766>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.081055, 5.130004, 9365.857422>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.292969, 5.130005, 9365.950195>)
+7:18:59 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.392578, 5.130006, 9365.994141>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.494141, 5.130006, 9366.042969>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.601563, 5.130006, 9366.095703>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8453.705078, 5.130006, 9366.147461>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8454.875000, 5.130011, 9366.642578>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8455.149414, 5.130013, 9366.758789>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8455.222656, 5.130013, 9366.791016>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8455.324219, 5.130013, 9366.840820>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8456.503906, 5.130036, 9367.318359>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8456.641602, 5.129945, 9367.375000>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8457.807617, 5.130025, 9367.882813>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8457.876953, 5.130035, 9367.912109>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.089844, 5.130000, 9368.017578>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.102539, 5.130000, 9368.021484>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.120117, 5.130001, 9368.027344>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.155273, 5.130001, 9368.042969>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.229492, 5.130003, 9368.077148>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.294922, 5.130004, 9368.107422>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.358398, 5.130005, 9368.136719>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8458.441406, 5.130007, 9368.176758>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8460.238281, 5.130002, 9368.922852>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8461.453125, 5.130005, 9369.444336>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8462.150391, 5.130008, 9369.748047>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8462.683594, 5.130011, 9369.988281>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8462.934570, 5.130012, 9370.100586>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.112305, 5.130013, 9370.181641>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.186523, 5.130013, 9370.214844>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.264648, 5.130013, 9370.252930>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.377930, 5.130013, 9370.308594>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.511719, 5.130013, 9370.372070>)
+7:19:0 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8463.546875, 5.130013, 9370.388672>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8446.865234, 5.129997, 9362.681641>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8439.710938, 5.130013, 9360.164063>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8439.398438, 5.130020, 9360.038086>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8439.130859, 5.130003, 9359.937500>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.915039, 5.130000, 9359.860352>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.729492, 5.129997, 9359.824219>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.566406, 5.129994, 9359.797852>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.377930, 5.129991, 9359.744141>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.201172, 5.130000, 9359.700195>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8438.052734, 5.130012, 9359.673828>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.905273, 5.129996, 9359.645508>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8437.774414, 5.129996, 9359.599609>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8434.134766, 5.129993, 9358.375977>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8432.870117, 5.130030, 9357.965820>)
+7:20:27 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8432.055664, 5.129972, 9357.668945>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.824219, 5.130002, 9357.593750>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.470703, 5.130005, 9357.491211>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.389648, 5.129996, 9357.473633>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.318359, 5.130004, 9357.447266>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.243164, 5.130002, 9357.418945>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.078125, 5.129992, 9357.413086>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8431.058594, 5.129995, 9357.416016>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.884766, 5.129995, 9357.358398>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.846680, 5.129999, 9357.354492>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.798828, 5.130007, 9357.337891>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8430.027344, 5.129985, 9357.067383>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8429.302734, 5.129986, 9356.837891>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8428.146484, 5.130009, 9356.450195>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8427.171875, 5.129932, 9356.134766>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8426.216797, 5.129997, 9355.823242>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8425.499023, 5.130001, 9355.596680>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.924805, 5.129993, 9355.413086>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.528320, 5.129998, 9355.291016>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8424.163086, 5.129972, 9355.197266>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.937500, 5.130000, 9355.144531>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.773438, 5.130001, 9355.107422>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.678711, 5.130000, 9355.088867>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8423.200195, 5.129992, 9354.928711>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8422.963867, 5.130000, 9354.851563>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8422.846680, 5.130010, 9354.813477>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8422.754883, 5.129991, 9354.781250>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.922852, 5.130026, 9354.183594>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8420.255859, 5.130023, 9353.968750>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8418.450195, 5.129987, 9353.388672>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8417.894531, 5.129999, 9353.211914>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.985352, 5.130014, 9352.957031>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.766602, 5.129992, 9352.896484>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.559570, 5.129991, 9352.759766>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.276367, 5.130000, 9352.548828>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8416.074219, 5.129979, 9352.392578>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8415.976563, 5.129999, 9352.218750>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8415.549805, 5.130094, 9352.005859>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8415.207031, 5.130002, 9351.824219>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.885742, 5.130008, 9351.706055>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8414.061523, 5.129997, 9351.460938>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8413.284180, 5.130004, 9351.161133>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8412.221680, 5.129977, 9350.836914>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8411.376953, 5.129995, 9350.546875>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8410.555664, 5.130012, 9350.287109>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.958984, 5.130018, 9350.056641>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8409.336914, 5.129977, 9349.784180>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.924805, 5.130025, 9349.564453>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.412109, 5.130017, 9349.272461>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8408.113281, 5.130007, 9349.070313>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8407.611328, 5.129985, 9348.827148>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8407.347656, 5.130020, 9348.672852>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8406.334961, 5.129951, 9348.311523>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8405.859375, 5.129956, 9348.122070>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8405.619141, 5.130085, 9348.029297>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8405.476563, 5.130000, 9347.974609>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.698242, 5.130000, 9347.407227>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8403.061523, 5.129992, 9347.192383>)
+7:20:28 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8401.981445, 5.130011, 9346.764648>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8401.667969, 5.130011, 9346.634766>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8400.866211, 5.130017, 9346.204102>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8400.682617, 5.129994, 9346.098633>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8400.590820, 5.129964, 9346.054688>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8399.690430, 5.129996, 9345.538086>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8399.587891, 5.129991, 9345.475586>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.945313, 5.130046, 9344.860352>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.849609, 5.129961, 9344.823242>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.541016, 5.129976, 9344.708984>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8397.327148, 5.129974, 9344.641602>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8396.817383, 5.129996, 9344.471680>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8396.100586, 5.130014, 9344.193359>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8395.440430, 5.129999, 9343.929688>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8394.846680, 5.130004, 9343.693359>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8394.333984, 5.129999, 9343.489258>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8393.860352, 5.130015, 9343.291016>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8393.499023, 5.130011, 9343.134766>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8392.178711, 5.129973, 9342.546875>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8391.315430, 5.130003, 9342.161133>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8390.540039, 5.130003, 9341.837891>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8390.077148, 5.130012, 9341.642578>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8389.788086, 5.130023, 9341.520508>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8389.600586, 5.129982, 9341.440430>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8389.468750, 5.129990, 9341.381836>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8388.725586, 5.129971, 9341.109375>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8388.409180, 5.130015, 9340.992188>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8386.904297, 5.129953, 9340.395508>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8386.356445, 5.129947, 9340.177734>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.973633, 5.130014, 9339.574219>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8384.558594, 5.130018, 9339.392578>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8382.683594, 5.130012, 9338.588867>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8382.253906, 5.129982, 9338.405273>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.900391, 5.130022, 9338.251953>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.841797, 5.129979, 9338.226563>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.776367, 5.129979, 9338.197266>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.686523, 5.129978, 9338.156250>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.601563, 5.129977, 9338.117188>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.376953, 5.129975, 9338.024414>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8381.283203, 5.129973, 9337.992188>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.851563, 5.130027, 9337.827148>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8380.426758, 5.130033, 9337.664063>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8379.629883, 5.130007, 9337.336914>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8378.930664, 5.129979, 9337.050781>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8377.556641, 5.130050, 9336.472656>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8376.467773, 5.129962, 9336.014648>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.635742, 5.130003, 9335.664063>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8375.011719, 5.130010, 9335.400391>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.563477, 5.130015, 9335.209961>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.240234, 5.130017, 9335.071289>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8374.041016, 5.130022, 9334.986328>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.774414, 5.129975, 9334.872070>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.629883, 5.129976, 9334.810547>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.269531, 5.129972, 9334.671875>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8373.093750, 5.129972, 9334.603516>)
+7:20:29 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8372.273438, 5.129963, 9334.275391>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8371.938477, 5.129999, 9334.141602>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8369.235352, 5.129972, 9333.014648>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8368.291016, 5.129964, 9332.621094>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8367.959961, 5.129996, 9332.482422>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8367.819336, 5.130010, 9332.421875>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.771484, 5.129999, 9331.978516>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.536133, 5.130003, 9331.878906>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.097656, 5.129994, 9331.692383>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8366.025391, 5.130010, 9331.661133>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.563477, 5.129982, 9331.477539>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.508789, 5.130015, 9331.456055>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.293945, 5.129979, 9331.364258>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8365.194336, 5.129980, 9331.325195>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8364.603516, 5.130024, 9331.083008>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8364.007813, 5.130042, 9330.838867>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8363.445313, 5.129994, 9330.607422>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8362.936523, 5.129990, 9330.397461>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8361.800781, 5.129979, 9329.923828>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.896484, 5.129971, 9329.546875>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8360.181641, 5.129962, 9329.248047>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8359.641602, 5.129992, 9329.021484>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8358.929688, 5.129980, 9328.727539>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8358.464844, 5.129968, 9328.535156>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8358.007813, 5.130067, 9328.346680>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8357.738281, 5.129989, 9328.235352>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8357.559570, 5.130010, 9328.160156>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8357.429688, 5.129967, 9328.104492>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.769531, 5.129992, 9327.835938>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8356.461914, 5.129983, 9327.710938>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8354.963867, 5.129991, 9327.090820>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8352.951172, 5.129971, 9326.251953>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8352.219727, 5.129963, 9325.947266>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8351.965820, 5.130000, 9325.840820>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8351.843750, 5.129999, 9325.787109>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8350.609375, 5.129987, 9325.280273>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8350.321289, 5.129984, 9325.161133>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.883789, 5.129980, 9324.979492>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.810547, 5.129980, 9324.949219>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.748047, 5.129979, 9324.920898>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.684570, 5.129977, 9324.892578>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.462891, 5.129976, 9324.796875>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8349.364258, 5.129974, 9324.757813>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.694336, 5.129968, 9324.481445>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8348.033203, 5.129962, 9324.208984>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8347.401367, 5.130001, 9323.948242>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8346.831055, 5.129995, 9323.711914>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8345.642578, 5.129983, 9323.219727>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8344.705078, 5.129971, 9322.832031>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.973633, 5.130000, 9322.528320>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.424805, 5.129994, 9322.299805>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8343.018555, 5.129992, 9322.129883>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8342.717773, 5.129988, 9322.002930>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8342.492188, 5.129986, 9321.906250>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8341.711914, 5.129978, 9321.584961>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8341.303711, 5.129974, 9321.416992>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8341.072266, 5.129972, 9321.321289>)
+7:20:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8340.929688, 5.129971, 9321.260742>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8338.485352, 5.130020, 9320.251953>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8337.500977, 5.130007, 9319.845703>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8337.095703, 5.130013, 9319.676758>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.915039, 5.129980, 9319.600586>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.812500, 5.129982, 9319.554688>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.735352, 5.129985, 9319.520508>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.668945, 5.129985, 9319.490234>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8336.602539, 5.129983, 9319.459961>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8334.032227, 5.129981, 9318.402344>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.607422, 5.129977, 9318.227539>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.213867, 5.129973, 9318.063477>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.168945, 5.129972, 9318.044922>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.119141, 5.129972, 9318.022461>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8333.055664, 5.129972, 9317.993164>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8332.550781, 5.129967, 9317.779297>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8332.134766, 5.129963, 9317.608398>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.625000, 5.130000, 9317.398438>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8331.077148, 5.130017, 9317.170898>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8330.580078, 5.130038, 9316.964844>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8330.138672, 5.130025, 9316.782227>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8329.756836, 5.130009, 9316.623047>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8328.537109, 5.129936, 9316.120117>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8327.629883, 5.129997, 9315.746094>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.973633, 5.129990, 9315.475586>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8326.502930, 5.129986, 9315.280273>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8325.964844, 5.129980, 9315.055664>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8325.635742, 5.129977, 9314.917969>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8324.577148, 5.130031, 9314.481445>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8323.996094, 5.130000, 9314.241211>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8323.682617, 5.129997, 9314.111328>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8323.497070, 5.129996, 9314.033203>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8322.824219, 5.129989, 9313.752930>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8322.543945, 5.129986, 9313.635742>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8321.376953, 5.129974, 9313.153320>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8320.958984, 5.129971, 9312.980469>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8318.809570, 5.129989, 9312.093750>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8318.199219, 5.129997, 9311.841797>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8316.755859, 5.129987, 9311.246094>)
+7:20:31 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8316.429688, 5.129978, 9311.111328>)
+7:22:0 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:22:3 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8247.710938, 8.254052, 9290.737305>)
+7:22:17 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8247.047852, 5.414599, 9293.380859>)
+7:22:18 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:22:40 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:22:42 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8259.141602, 5.405007, 9292.379883>)
+7:22:42 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:22:55 | "Admin Penguin" (steamid=76561198413928129) deleted objects using ESP
+7:23:47 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_car_jack)
+7:26:36 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (Van_DodgePhoenix_blue)
+7:26:39 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (Van_DodgePhoenix_blue)
+7:27:23 | "Admin Penguin" (steamid=76561198413928129) /refuel used on self.
+7:31:45 | "Admin Penguin" (steamid=76561198413928129) deleted object "Van_DodgePhoenix_blue" (pos=<9936.057617, 21.721884, 10911.176758>)
+7:33:24 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Red)
+7:33:35 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (MotoHelmet_Black)
+7:33:59 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (FOG_MTF_Pants_Black)
+7:34:3 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (FOG_MTF_Shirt_Black)
+7:34:39 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (Hatchback_02_Black)
+7:34:54 | "Admin Penguin" (steamid=76561198413928129) /refuel used on self.
+7:43:56 | "Admin Penguin" (steamid=76561198413928129) deleted object "Hatchback_02_Black" (pos=<10250.898438, 15.665195, 11404.188477>)
+7:44:59 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_baja_green)
+7:45:48 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_baja_green" (pos=<9805.185547, 18.252249, 11794.388672>)
+7:45:53 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_derby_car)
+7:45:54 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_derby_car)
+7:45:58 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_derby_car" (pos=<9803.799805, 18.304876, 11795.293945>)
+7:46:2 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_derby_car" (pos=<9807.578125, 19.879246, 11794.606445>)
+7:46:7 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_derby_car_green)
+7:46:57 | "Admin Penguin" (steamid=76561198413928129) /refuel used on self.
+7:48:0 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_derby_car_green" (pos=<9506.047852, 31.061436, 11283.782227>)
+7:48:9 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_jeep_willys)
+7:48:55 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_jeep_willys" (pos=<9399.981445, 28.295118, 11230.408203>)
+7:49:0 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_landrover_110)
+7:49:45 | "Admin Penguin" (steamid=76561198413928129) deleted object "WoodenCrate" (pos=<9606.313477, 15.203318, 11020.203125>)
+7:49:50 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_landrover_110" (pos=<9649.599609, 11.980762, 10975.377930>)
+7:50:4 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_mtvr_snow)
+7:50:43 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_mtvr_snow" (pos=<9650.813477, 11.920837, 10970.206055>)
+7:50:56 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (Van_DodgePhoenix_red)
+7:52:11 | "Admin Penguin" (steamid=76561198413928129) deleted object "Van_DodgePhoenix_red" (pos=<9638.430664, 30.328566, 12362.117188>)
+7:52:25 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_zil_130_olive)
+7:52:34 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_zil_130_olive" (pos=<9646.928711, 30.257370, 12365.791016>)
+7:53:3 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_hummer_winter_Armored)
+7:53:30 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9948.469727, 23.047256, 12364.099609>)
+7:53:30 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=9948.47,0,12364.1)
+7:53:41 | "Admin Penguin" (steamid=76561198413928129) toggled godmode
+7:53:46 | "Admin Penguin" (steamid=76561198413928129) /heal used on: "Admin Penguin" (steamid=76561198413928129)
+7:54:18 | "Admin Penguin" (steamid=76561198413928129) /heal used on: "Admin Penguin" (steamid=76561198413928129)
+7:54:21 | "Admin Penguin" (steamid=76561198413928129) toggled godmode
+7:54:44 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_hummer_winter_Armored" (pos=<9838.029297, 27.363634, 12466.847656>)
+7:55:4 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<15579.799805, 68.722488, 15266.700195>)
+7:55:4 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=15579.8,0,15266.7)
+7:55:11 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:55:23 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15640.126953, 170.142395, 14794.957031>)
+7:55:25 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:55:47 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_baseitems_gazebo_kit)
+7:55:53 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_baseitems_sofa_brown_leather_kit)
+7:55:54 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (rag_baseitems_sofa_brown_leather_kit)
+7:58:10 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (jmc_mjolnir)
+7:58:20 | "Admin Penguin" (steamid=76561198413928129) Spawned Item: (jmc_mjolnir)
+7:58:26 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:58:37 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15627.574219, 227.814804, 14870.069336>)
+7:58:39 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:59:9 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+7:59:30 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15639.089844, 176.262451, 14802.770508>)
+7:59:31 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:0:8 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_baseitems_sofa_brown_leather" (pos=<15637.908203, 175.016159, 14793.395508>)
+8:0:11 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_baseitems_gazebo" (pos=<15637.968750, 170.500031, 14791.065430>)
+8:0:16 | "Admin Penguin" (steamid=76561198413928129) deleted object "rag_baseitems_sofa_brown_leather" (pos=<15640.187500, 170.571533, 14790.815430>)
+8:0:47 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:1:2 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15636.812500, 222.305740, 14729.786133>)
+8:1:2 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:1:11 | "Admin Penguin" (steamid=76561198413928129) /heal used on: "Admin Penguin" (steamid=76561198413928129)
+8:1:12 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15624.630859, 212.514954, 14734.019531>)
+8:1:55 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:2:7 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:3:21 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:3:39 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<15641.879883, 175.654190, 14735.721680>)
+8:3:39 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:4:12 | Player "Mick" (steamId=76561198061747392) connected to server!
+8:8:36 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+8:11:19 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1043.560059, 7.000000, 13078.099609>)
+8:11:19 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=1043.56,0,13078.1)
+8:11:36 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:12:27 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8431.790039, 6.294568, 13339.299805>)
+8:12:27 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=8431.79,0,13339.3)
+8:12:43 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:12:52 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:15 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<9085.745117, 1.782107, 14375.467773>)
+8:13:17 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:22 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:30 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:32 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:42 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:51 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:13:51 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+8:13:53 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+8:13:54 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+8:14:14 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:14:16 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:15:6 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<8284.605469, 373.731140, 12616.763672>)
+8:15:50 | "Admin Penguin" (steamid=76561198413928129) teleported to crosshair (pos=<7251.166016, 224.820007, 11614.786133>)
+8:15:52 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:16:28 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<13468.700195, 34.682610, 15513.000000>)
+8:16:28 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=13468.7,0,15513)
+8:16:49 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:17:25 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<11013.200195, 46.730000, 2250.679932>)
+8:17:25 | "Admin Penguin": (steamid=76561198413928129) teleported to (pos=11013.2,0,2250.68)
+8:17:29 | "Admin Penguin" (steamid=76561198413928129) toggled freecam
+8:19:29 | Player "Admin Penguin" (steamId=76561198413928129) initiated disconnect process...
+8:19:31 | Player "Admin Penguin" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+8:19:32 | Player "Admin Penguin" (steamId=76561198413928129) disconnected from server.
+8:25:32 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+8:25:35 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+8:32:46 | Player "Mick" (steamId=76561198061747392) connected to server!
+8:42:20 | Player "Lando" (steamId=76561199365795662) connected to server!
+9:14:31 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+9:23:38 | Player "Mick" (steamId=76561198061747392) connected to server!
+9:26:49 | Player "Paul " (steamId=76561198121111197) connected to server!
+9:33:19 | Player "owl" (steamId=76561198143985310) connected to server!
+9:33:45 | Player "KOG" (steamId=76561198104966670) connected to server!
+9:36:0 | Player "Mooooo" (steamId=76561198138025653) connected to server!
+9:44:33 | Player "DnWings" (steamId=76561198090803986) connected to server!
+10:0:37 | Player "Kame" (steamId=76561199372146202) connected to server!
+10:1:56 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+10:4:20 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+10:4:21 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+10:4:23 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+10:9:4 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+10:9:12 | "Mick" (steamid=76561198061747392) toggled freecam
+10:9:32 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<6560.040039, 58.060051, 6342.771973>)
+10:9:33 | "Mick" (steamid=76561198061747392) toggled freecam
+10:9:58 | "Mick" (steamid=76561198061747392) toggled freecam
+10:10:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7484.150879, 45.551231, 3395.881836>)
+10:10:20 | "Mick" (steamid=76561198061747392) toggled freecam
+10:22:22 | Player "Mooooo" (steamId=76561198138025653) initiated disconnect process...
+10:22:25 | Player "Mooooo" (steamId=76561198138025653) disconnected from server.
+10:24:17 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+10:24:19 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+10:24:20 | Player "owl" (steamId=76561198143985310) disconnected from server.
+10:24:48 | Player "owl" (steamId=76561198143985310) connected to server!
+10:33:53 | "Mick" (steamid=76561198061747392) /refuel used on self.
+10:35:24 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+10:35:27 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+10:36:8 | Player "Mick" (steamId=76561198061747392) connected to server!
+10:36:19 | "Mick" (steamid=76561198061747392) toggled godmode
+10:40:16 | "Mick" (steamid=76561198061747392) toggled godmode
+11:4:41 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+11:4:44 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+11:10:44 | Player "exact" (steamId=76561199718636855) connected to server!
+11:25:9 | "Mick" (steamid=76561198061747392) toggled godmode
+11:26:49 | "Mick" (steamid=76561198061747392) toggled godmode
+11:31:37 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+11:31:40 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+11:32:21 | Player "Mick" (steamId=76561198061747392) connected to server!
+11:32:58 | Player "Lando" (steamId=76561199365795662) initiated disconnect process...
+11:33:1 | Player "Lando" (steamId=76561199365795662) disconnected from server.
+11:33:20 | Player "Lando" (steamId=76561199365795662) connected to server!
+11:33:38 | Player "Lando" (steamId=76561199365795662) initiated disconnect process...
+11:33:41 | Player "Lando" (steamId=76561199365795662) disconnected from server.
+11:33:49 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+11:34:1 | Player "exact" (steamId=76561199718636855) initiated disconnect process...
+11:36:46 | Player "owl" (steamId=76561198143985310) connected to server!
+11:53:53 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+11:54:13 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+11:54:16 | Player "Mick" (steamId=76561198061747392) disconnected from server.
+11:54:58 | Player "owl" (steamId=76561198143985310) connected to server!
+11:55:9 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+11:55:12 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+11:56:16 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+11:56:19 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+11:56:48 | Player "owl" (steamId=76561198143985310) initiated disconnect process...
+11:56:50 | Player "owl" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+11:56:51 | Player "owl" (steamId=76561198143985310) disconnected from server.
+12:5:46 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+12:5:47 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+12:5:47 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+12:5:49 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+12:5:49 | Player "DnWings" (steamId=76561198090803986) disconnected early from server (EXIT NOW).
+12:5:50 | Player "DnWings" (steamId=76561198090803986) disconnected from server.

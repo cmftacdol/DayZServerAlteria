@@ -1,0 +1,357 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-7-29_12-12-42
+====================================================================================
+12:12:42 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+12:12:42 | [PermissionManager] Perm (FreeCamera) has been registered!
+12:12:42 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuServerManager) has been registered!
+12:12:42 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+12:12:42 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+12:12:42 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+12:12:42 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+12:12:42 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+12:12:42 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+12:12:42 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+12:12:42 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+12:12:42 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+12:12:42 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuBansManager) has been registered!
+12:12:42 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+12:12:42 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+12:12:42 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+12:12:42 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+12:12:42 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+12:12:42 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+12:12:42 | [PermissionManager] Adding Super Admin (76561198413928129)
+12:12:42 | [PermissionManager] Adding Super Admin (76561198061747392)
+12:12:42 | [PermissionManager] Adding Super Admin (76561198065207038)
+12:12:42 | [PermissionManager] Loaded UserGroups.json
+12:12:42 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+12:12:42 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+12:12:42 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+12:12:42 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+12:12:42 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+12:12:42 | Building Sets Loaded: 2
+12:12:42 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+12:14:36 | Player "Miko" (steamId=76561198413928129) connected to server!
+12:14:37 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:15:1 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8734.497070, 8.949007, 13339.403320>
+12:15:2 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8734.497070, 8.949007, 13339.403320>
+12:15:3 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8734.497070, 8.949007, 13339.403320>
+12:15:4 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8734.497070, 8.949007, 13339.403320>
+12:15:6 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8734.497070, 8.949007, 13339.403320>
+12:15:14 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8739.168945, 7.692680, 13337.963867>
+12:15:15 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8739.168945, 7.692680, 13337.963867>
+12:15:17 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8739.168945, 7.692680, 13337.963867>
+12:15:23 | "Miko" (steamid=76561198413928129) gave godmode to (steamid=76561198104966670)
+12:15:25 | "Miko" (steamid=76561198413928129) healed player (steamid=76561198104966670)
+12:15:28 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8739.168945, 7.692680, 13337.963867>
+12:15:29 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8739.168945, 7.692680, 13337.963867>
+12:15:33 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8743.084961, 7.693784, 13336.834961>
+12:15:34 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8743.084961, 7.693784, 13336.834961>
+12:15:35 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8743.084961, 7.693784, 13336.834961>
+12:15:36 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8743.084961, 7.693784, 13336.834961>
+12:15:37 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8743.084961, 7.693784, 13336.834961>
+12:15:42 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8748.078125, 8.883737, 13335.536133>
+12:15:43 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8748.078125, 8.883737, 13335.536133>
+12:15:44 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8748.078125, 8.883737, 13335.536133>
+12:15:45 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8748.078125, 8.883737, 13335.536133>
+12:15:46 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8748.078125, 8.883737, 13335.536133>
+12:16:7 | "Miko" (steamid=76561198413928129) toggled godmode
+12:16:8 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:16:9 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:16:19 | Admin "Miko" (steamId=76561198413928129) built part level_1_base at position: <8746.166992, 6.300012, 13333.278320>
+12:16:21 | Player "DnWings" (steamId=76561198090803986) connected to server!
+12:16:26 | Admin "Miko" (steamId=76561198413928129) built part level_1_roof at position: <8746.166992, 6.300012, 13333.278320>
+12:16:53 | Admin "Miko" (steamId=76561198413928129) built part level_1_base at position: <8750.132813, 6.299995, 13332.139648>
+12:16:55 | Admin "Miko" (steamId=76561198413928129) built part level_1_roof at position: <8750.132813, 6.299995, 13332.139648>
+12:17:12 | Admin "Miko" (steamId=76561198413928129) built part level_1_stairs at position: <8746.166992, 6.300012, 13333.278320>
+12:17:23 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_base_down at position: <8746.166992, 6.300012, 13333.278320>
+12:17:24 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_metal_down at position: <8746.166992, 6.300012, 13333.278320>
+12:17:25 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_base_up at position: <8746.166992, 6.300012, 13333.278320>
+12:17:26 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_wood_up at position: <8746.166992, 6.300012, 13333.278320>
+12:17:28 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_up at position: <8746.166992, 6.300012, 13333.278320>
+12:17:29 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_up at position: <8746.166992, 6.300012, 13333.278320>
+12:17:29 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_down at position: <8746.166992, 6.300012, 13333.278320>
+12:17:30 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_down at position: <8746.166992, 6.300012, 13333.278320>
+12:17:34 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_down at position: <8750.132813, 6.299995, 13332.139648>
+12:17:35 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_up at position: <8750.132813, 6.299995, 13332.139648>
+12:17:36 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_up at position: <8750.132813, 6.299995, 13332.139648>
+12:17:37 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_down at position: <8750.132813, 6.299995, 13332.139648>
+12:17:39 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_base_down at position: <8750.132813, 6.299995, 13332.139648>
+12:17:40 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_metal_down at position: <8750.132813, 6.299995, 13332.139648>
+12:17:41 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_base_up at position: <8750.132813, 6.299995, 13332.139648>
+12:17:42 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_wood_up at position: <8750.132813, 6.299995, 13332.139648>
+12:17:50 | Admin "Miko" (steamId=76561198413928129) built part level_2_base at position: <8750.132813, 6.299995, 13332.139648>
+12:17:56 | Admin "Miko" (steamId=76561198413928129) built part level_2_base at position: <8746.166992, 6.300012, 13333.278320>
+12:17:59 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_base_down at position: <8746.166992, 6.300012, 13333.278320>
+12:18:0 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_metal_down at position: <8746.166992, 6.300012, 13333.278320>
+12:18:2 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_base_up at position: <8746.166992, 6.300012, 13333.278320>
+12:18:3 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_metal_up at position: <8746.166992, 6.300012, 13333.278320>
+12:18:5 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_base_down at position: <8746.166992, 6.300012, 13333.278320>
+12:18:6 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_wood_down at position: <8746.166992, 6.300012, 13333.278320>
+12:18:12 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_base_down at position: <8750.132813, 6.299995, 13332.139648>
+12:18:13 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_metal_down at position: <8750.132813, 6.299995, 13332.139648>
+12:18:15 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_1_base_down at position: <8750.132813, 6.299995, 13332.139648>
+12:18:16 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_1_wood_down at position: <8750.132813, 6.299995, 13332.139648>
+12:18:23 | Admin "Miko" (steamId=76561198413928129) built part level_2_roof at position: <8746.166992, 6.300012, 13333.278320>
+12:18:27 | Admin "Miko" (steamId=76561198413928129) built part level_2_stairs at position: <8746.166992, 6.300012, 13333.278320>
+12:18:35 | "Miko" (steamid=76561198413928129) toggled freecam
+12:18:39 | "Miko" (steamid=76561198413928129) teleported to crosshair (pos=<8746.412109, 11.771436, 13332.480469>)
+12:18:39 | "Miko" (steamid=76561198413928129) toggled freecam
+12:18:49 | Admin "Miko" (steamId=76561198413928129) built part level_1_base at position: <8746.173828, 11.771436, 13333.292969>
+12:18:52 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_up at position: <8746.173828, 11.771436, 13333.292969>
+12:18:52 | Player "Paul " (steamId=76561198121111197) connected to server!
+12:18:53 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_up at position: <8746.173828, 11.771436, 13333.292969>
+12:18:56 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:18:57 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_2_metal_down at position: <8746.173828, 11.771436, 13333.292969>
+12:18:58 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:18:59 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_3_wood_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:2 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:3 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_base_up at position: <8746.173828, 11.771436, 13333.292969>
+12:19:5 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_up at position: <8746.173828, 11.771436, 13333.292969>
+12:19:6 | Admin "Miko" (steamId=76561198413928129) built part level_1_wall_1_wood_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:10 | Admin "Miko" (steamId=76561198413928129) built part level_1_roof at position: <8746.173828, 11.771436, 13333.292969>
+12:19:13 | Admin "Miko" (steamId=76561198413928129) built part level_1_stairs at position: <8746.173828, 11.771436, 13333.292969>
+12:19:18 | Admin "Miko" (steamId=76561198413928129) built part level_2_base at position: <8746.173828, 11.771436, 13333.292969>
+12:19:20 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_base_up at position: <8746.173828, 11.771436, 13333.292969>
+12:19:25 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:27 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_1_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:28 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_1_wood_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:29 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_2_metal_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:31 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_metal_up at position: <8746.173828, 11.771436, 13333.292969>
+12:19:32 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_base_down at position: <8746.173828, 11.771436, 13333.292969>
+12:19:33 | Admin "Miko" (steamId=76561198413928129) built part level_2_wall_3_wood_down at position: <8746.173828, 11.771436, 13333.292969>
+12:20:55 | "Miko" (steamid=76561198413928129) Spawned Item: (Flag_DayZ)
+12:22:30 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8735.643555, 8.956210, 13351.407227>
+12:22:31 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8735.643555, 8.956210, 13351.407227>
+12:22:32 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8735.643555, 8.956210, 13351.407227>
+12:22:34 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8735.643555, 8.956210, 13351.407227>
+12:22:37 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8735.643555, 8.956210, 13351.407227>
+12:22:41 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8741.404297, 8.840174, 13349.752930>
+12:22:42 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8741.404297, 8.840174, 13349.752930>
+12:22:42 | Player "Keidgos" (steamId=76561198144300120) connected to server!
+12:22:43 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8741.404297, 8.840174, 13349.752930>
+12:22:44 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8741.404297, 8.840174, 13349.752930>
+12:22:45 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8741.404297, 8.840174, 13349.752930>
+12:22:53 | Admin "Miko" (steamId=76561198413928129) built part base at position: <8752.980469, 9.032249, 13346.460938>
+12:22:55 | Admin "Miko" (steamId=76561198413928129) built part wall_base_up at position: <8752.980469, 9.032249, 13346.460938>
+12:22:56 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_up at position: <8752.980469, 9.032249, 13346.460938>
+12:22:57 | Admin "Miko" (steamId=76561198413928129) built part wall_base_down at position: <8752.980469, 9.032249, 13346.460938>
+12:22:58 | Admin "Miko" (steamId=76561198413928129) built part wall_wood_down at position: <8752.980469, 9.032249, 13346.460938>
+12:22:59 | Admin "Miko" (steamId=76561198413928129) built part wall_gate at position: <8752.980469, 9.032249, 13346.460938>
+12:23:25 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6855.310059, 19.956400, 8461.330078>)
+12:23:25 | "Miko": (steamid=76561198413928129) teleported to (pos=6855.31,0,8461.33)
+12:23:52 | "Miko" (steamid=76561198413928129) gave godmode to (steamid=76561198104966670)
+12:24:47 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+12:24:49 | Player "Miko" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+12:24:50 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+12:25:46 | Player "Aerym" (steamId=76561198019941737) connected to server!
+12:26:55 | Player "Scarecrow2530" (steamId=76561198089743539) connected to server!
+12:27:48 | Player "misterbull" (steamId=76561198334497487) connected to server!
+12:27:56 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+12:27:59 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+12:28:23 | Player "Paul " (steamId=76561198121111197) connected to server!
+12:32:26 | Player "Miko" (steamId=76561198413928129) connected to server!
+12:32:50 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7825.810059, 43.521496, 8079.470215>)
+12:32:50 | "Miko": (steamid=76561198413928129) teleported to (pos=7825.81,0,8079.47)
+12:34:50 | "Miko" (steamid=76561198413928129) /heal used on: "Miko" (steamid=76561198413928129)
+12:34:51 | "Miko" (steamid=76561198413928129) toggled godmode
+12:35:43 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+12:35:46 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+12:36:10 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+12:37:56 | Player "Kame" (steamId=76561199372146202) connected to server!
+12:39:53 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+12:39:56 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+12:46:7 | Player "Miko" (steamId=76561198413928129) connected to server!
+12:46:44 | "Miko" (steamid=76561198413928129) Spawned Item: (rag_baseitems_mesh_locker_kit)
+12:46:55 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+12:47:20 | "Miko" (steamid=76561198413928129) toggled godmode
+12:47:30 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8536.990234, 143.502060, 11390.099609>)
+12:47:30 | "Miko": (steamid=76561198413928129) teleported to (pos=8536.99,0,11390.1)
+12:47:45 | Player "Miko" (steamId=76561198413928129) initiated disconnect process...
+12:47:47 | Player "Miko" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+12:47:48 | Player "Miko" (steamId=76561198413928129) disconnected from server.
+12:48:42 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+12:50:5 | Player "KOG" (steamId=76561198104966670) connected to server!
+12:52:27 | Player "Miko" (steamId=76561199380565467) connected to server!
+12:53:39 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+12:53:40 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+12:53:42 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+12:55:4 | Player "Kame" (steamId=76561199372146202) connected to server!
+12:55:4 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+12:55:23 | Player "Aerym" (steamId=76561198019941737) initiated disconnect process...
+12:55:25 | Player "Aerym" (steamId=76561198019941737) disconnected early from server (EXIT NOW).
+12:55:26 | Player "Aerym" (steamId=76561198019941737) disconnected from server.
+13:1:12 | Player "Miko" (steamId=76561199380565467) initiated disconnect process...
+13:1:15 | Player "Miko" (steamId=76561199380565467) disconnected from server.
+13:6:4 | Player "Miko" (steamId=76561199380565467) connected to server!
+13:6:56 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+13:6:58 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+13:6:59 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+13:7:24 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+13:19:52 | Player "Scarecrow2530" (steamId=76561198089743539) initiated disconnect process...
+13:19:54 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected early from server (EXIT NOW).
+13:19:55 | Player "Scarecrow2530" (steamId=76561198089743539) disconnected from server.
+13:21:54 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+13:21:57 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+13:22:19 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:31:47 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+13:31:50 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+13:32:19 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:33:44 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+13:33:47 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+13:34:7 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+13:46:57 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+13:47:0 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+13:47:0 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+13:47:19 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+13:47:22 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+13:47:25 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+13:47:55 | Player "Kame" (steamId=76561199372146202) connected to server!
+13:52:36 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+13:52:38 | Player "Nouvo" (steamId=76561198826221661) disconnected early from server (EXIT NOW).
+13:52:39 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+13:53:2 | Player "Nouvo" (steamId=76561198826221661) connected to server!
+14:10:16 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+14:10:19 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+14:10:19 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+14:10:46 | Player "KOG" (steamId=76561198104966670) connected to server!
+14:19:19 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+14:19:22 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+14:23:34 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+14:23:37 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+14:25:49 | Player "Kame" (steamId=76561199372146202) connected to server!
+14:29:23 | Player "Survivor" (steamId=76561198143985310) connected to server!
+14:30:29 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+14:30:32 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+14:32:7 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+14:35:31 | Player "Kame" (steamId=76561199372146202) connected to server!
+14:37:46 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+14:37:47 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+14:37:49 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+14:38:13 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+14:43:49 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+14:43:50 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+14:43:52 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+14:45:7 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+14:52:15 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+14:52:17 | Player "KOG" (steamId=76561198104966670) disconnected early from server (EXIT NOW).
+14:52:18 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+14:54:2 | Player "KOG" (steamId=76561198104966670) connected to server!
+15:11:19 | Player "misterbull" (steamId=76561198334497487) initiated disconnect process...
+15:11:22 | Player "misterbull" (steamId=76561198334497487) disconnected early from server (EXIT NOW).
+15:11:22 | Player "misterbull" (steamId=76561198334497487) disconnected from server.
+15:18:32 | Player "Survivor" (steamId=76561198143985310) initiated disconnect process...
+15:25:17 | Player "Survivor" (steamId=76561198143985310) connected to server!
+15:28:0 | Player "Gecko" (steamId=76561198169894211) connected to server!
+15:35:13 | Player "Cj" (steamId=76561198108661462) connected to server!
+15:40:56 | Player "Paul " (steamId=76561198121111197) initiated disconnect process...
+15:40:59 | Player "Paul " (steamId=76561198121111197) disconnected early from server (EXIT NOW).
+15:40:59 | Player "Paul " (steamId=76561198121111197) disconnected from server.
+16:21:23 | Player "Reg" (steamId=76561198062069505) connected to server!
+16:28:58 | Player "Cj" (steamId=76561198108661462) initiated disconnect process...
+16:29:1 | Player "Cj" (steamId=76561198108661462) disconnected from server.
+16:40:37 | Player "DnWings" (steamId=76561198090803986) initiated disconnect process...
+16:40:40 | Player "DnWings" (steamId=76561198090803986) disconnected from server.
+16:48:0 | Player "Kame" (steamId=76561199372146202) initiated disconnect process...
+16:48:3 | Player "Kame" (steamId=76561199372146202) disconnected from server.
+16:48:56 | Player "Nouvo" (steamId=76561198826221661) initiated disconnect process...
+16:48:59 | Player "Nouvo" (steamId=76561198826221661) disconnected from server.
+16:50:11 | Player "KOG" (steamId=76561198104966670) initiated disconnect process...
+16:50:14 | Player "KOG" (steamId=76561198104966670) disconnected from server.
+16:51:51 | Player "Survivor" (steamId=76561198143985310) initiated disconnect process...
+16:51:52 | Player "Survivor" (steamId=76561198143985310) disconnected early from server (EXIT NOW).
+16:51:54 | Player "Survivor" (steamId=76561198143985310) disconnected from server.
+17:5:21 | Player "Miko" (steamId=76561199380565467) initiated disconnect process...
+17:5:24 | Player "Miko" (steamId=76561199380565467) disconnected early from server (EXIT NOW).
+17:5:24 | Player "Miko" (steamId=76561199380565467) disconnected from server.
+17:5:33 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+17:5:36 | Player "Reg" (steamId=76561198062069505) disconnected from server.
+17:5:58 | Player "Miko" (steamId=76561199380565467) connected to server!
+17:6:57 | Player "Reg" (steamId=76561198062069505) connected to server!
+17:47:49 | Player "Gecko" (steamId=76561198169894211) disconnected from server.
+17:47:49 | Player "Gecko" (steamId=76561198169894211) initiated disconnect process...
+17:48:14 | Player "Gecko" (steamId=76561198169894211) connected to server!
+17:50:7 | Player "Gecko" (steamId=76561198169894211) disconnected from server.
+17:50:7 | Player "Gecko" (steamId=76561198169894211) initiated disconnect process...
+17:50:29 | Player "Gecko" (steamId=76561198169894211) connected to server!
+18:3:49 | Player "Keidgos" (steamId=76561198144300120) initiated disconnect process...
+18:3:52 | Player "Keidgos" (steamId=76561198144300120) disconnected from server.
+18:8:58 | Player "Gecko" (steamId=76561198169894211) initiated disconnect process...
+18:9:1 | Player "Gecko" (steamId=76561198169894211) disconnected from server.
+18:9:53 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+18:9:56 | Player "Miko" (steamId=76561199380565467) initiated disconnect process...
+18:9:59 | Player "Reg" (steamId=76561198062069505) initiated disconnect process...
+18:9:59 | Player "Miko" (steamId=76561199380565467) disconnected from server.
+18:10:2 | Player "Reg" (steamId=76561198062069505) disconnected from server.

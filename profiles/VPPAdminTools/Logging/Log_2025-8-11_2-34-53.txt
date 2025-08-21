@@ -1,0 +1,453 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-11_2-34-53
+====================================================================================
+2:34:53 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+2:34:53 | [PermissionManager] Perm (FreeCamera) has been registered!
+2:34:53 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuServerManager) has been registered!
+2:34:53 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+2:34:53 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+2:34:53 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+2:34:53 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+2:34:53 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+2:34:53 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+2:34:53 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+2:34:53 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+2:34:53 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+2:34:53 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuBansManager) has been registered!
+2:34:53 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+2:34:53 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+2:34:53 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+2:34:53 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+2:34:53 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+2:34:53 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+2:34:53 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+2:34:53 | [PermissionManager] Adding Super Admin (76561198413928129)
+2:34:53 | [PermissionManager] Adding Super Admin (76561198061747392)
+2:34:53 | [PermissionManager] Adding Super Admin (76561198065207038)
+2:34:53 | [PermissionManager] Loaded UserGroups.json
+2:34:53 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+2:34:54 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+2:34:54 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+2:34:54 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+2:34:54 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+2:34:54 | Building Sets Loaded: 2
+2:34:54 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+2:34:54 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+2:39:40 | Player "ADMIN PENGUIN" (steamId=76561198413928129) connected to server!
+2:40:22 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled godmode
+2:40:26 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1036.280029, 27.666670, 6924.069824>)
+2:40:26 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=1036.28,0,6924.07)
+2:41:24 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2541.300049, 43.939999, 5786.189941>)
+2:41:24 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=2541.3,0,5786.19)
+2:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:7 | "ADMIN PENGUIN" (steamid=76561198413928129) /heal used on: "ADMIN PENGUIN" (steamid=76561198413928129)
+2:42:16 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:42:32 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2641.109619, 51.143131, 5790.649902>)
+2:42:32 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:43:11 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2566.360107, 43.939999, 5816.140137>)
+2:43:11 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=2566.36,0,5816.14)
+2:43:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:44:1 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2566.315186, 43.939999, 5720.394043>)
+2:44:1 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:44:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:44:19 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2452.588623, 44.921070, 6030.515625>)
+2:44:21 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:45:15 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3432.389893, 30.700001, 5295.810059>)
+2:45:15 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=3432.39,0,5295.81)
+2:46:56 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2137.610107, 54.799999, 3018.139893>)
+2:46:56 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=2137.61,0,3018.14)
+2:47:10 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:47:18 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2374.494141, 61.448044, 3304.353516>)
+2:47:19 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:48:44 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:48:49 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2170.341309, 54.855049, 3131.528320>)
+2:48:51 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:49:12 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (FOG_M50_Gasmask_Black)
+2:49:18 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:49:36 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2107.273193, 56.950493, 2880.967529>)
+2:49:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:50:30 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:50:40 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2081.035645, 59.649296, 3250.474121>)
+2:50:41 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:51:1 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:51:40 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2478.854980, 111.842934, 2446.778320>)
+2:51:43 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:52:26 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:52:38 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2581.677979, 109.780426, 2472.576172>)
+2:52:39 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:52:58 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:53:20 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2485.906494, 117.795982, 2151.768311>)
+2:53:20 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:53:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:54:8 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1740.812134, 19.251713, 550.509827>)
+2:54:11 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:54:12 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:54:14 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:55:0 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:55:27 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1780.929810, 15.605343, 652.109314>)
+2:55:27 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:55:42 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:55:54 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2060.661865, 5.940000, 241.238098>)
+2:55:55 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:56:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:56:47 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1942.510132, 15.558014, 507.616425>)
+2:56:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:57:9 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:57:23 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1592.961670, 6.028540, 289.724091>)
+2:57:25 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:57:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:57:53 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1670.508911, 6.020831, 402.390106>)
+2:57:54 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:58:11 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:58:33 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1829.787720, 17.477139, 287.061310>)
+2:58:33 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:59:29 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1646.800049, 87.389999, 2611.129883>)
+2:59:29 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=1646.8,0,2611.13)
+2:59:39 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+2:59:49 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1675.324097, 88.970474, 2634.378662>)
+2:59:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:0:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:0:58 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1635.768188, 72.478065, 2663.270752>)
+3:0:58 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:2:12 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:2:14 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1683.016113, 73.881508, 2716.004150>)
+3:2:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:2:16 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:2:41 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1634.730469, 96.030006, 2681.007568>)
+3:2:41 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:3:13 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:3:30 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4029.249023, 28.699997, 1721.186157>)
+3:3:34 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4033.029541, 28.878622, 1705.197144>)
+3:3:45 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4056.557861, 32.921055, 1679.342407>)
+3:3:46 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:5:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:5:17 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4001.120850, 37.357044, 1710.670532>)
+3:5:17 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:5:32 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:6:25 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<4402.029785, 16.083015, 7551.850098>)
+3:6:25 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=4402.03,0,7551.85)
+3:6:31 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:6:56 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:7:29 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4114.425781, 4.917329, 8081.006348>)
+3:7:29 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:7:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:7:55 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4499.884766, 15.699907, 7740.730957>)
+3:7:56 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:8:9 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:8:17 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4588.569824, 15.708571, 7611.601074>)
+3:8:17 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:8:33 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:8:50 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4739.120605, 16.203356, 7499.190918>)
+3:8:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:9:7 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:9:21 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<4439.311035, 17.211445, 7258.793945>)
+3:9:21 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:12:1 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:12:48 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6495.780762, 39.652256, 6811.985840>)
+3:12:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:12:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:12:54 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:13:33 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:13:44 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6511.780762, 41.838997, 6805.240234>)
+3:13:44 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:13:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:14:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:14:19 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:14:49 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6960.303223, 20.593498, 6827.339355>)
+3:14:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:14:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:15:1 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:15:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:15:50 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7019.504395, 23.753693, 6735.607910>)
+3:15:51 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:16:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:16:7 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7039.434570, 23.551907, 6712.477051>)
+3:16:7 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:16:32 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:16:58 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7002.356934, 12.625392, 7333.142090>)
+3:16:59 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:17:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:17:27 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7376.844727, 28.049286, 6293.848145>)
+3:17:27 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:17:42 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:17:51 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7157.939453, 12.522333, 6267.551270>)
+3:17:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:18:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:18:18 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7342.793945, 14.942760, 6069.367188>)
+3:18:19 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:18:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:19:40 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6507.778809, 116.942307, 4795.289551>)
+3:19:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:19:43 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:19:48 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6485.773926, 203.856918, 4740.969727>)
+3:19:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:19:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:20:5 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6272.950195, 182.806366, 4489.392090>)
+3:20:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:20:45 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:20:55 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6313.735352, 103.406784, 4545.534668>)
+3:20:55 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:21:17 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Chemlight_NearBubble)
+3:21:17 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Chemlight_NearBubble)
+3:22:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:22:4 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:22:17 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (NVGoggles)
+3:22:19 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (NVGHeadstrap)
+3:22:29 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Battery9V)
+3:22:29 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Battery9V)
+3:22:29 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Battery9V)
+3:22:29 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Battery9V)
+3:22:30 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (Battery9V)
+3:22:46 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:23:30 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6111.122070, 71.571571, 4619.687988>)
+3:23:31 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:23:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:24:1 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6029.886230, 55.759995, 4700.508301>)
+3:24:1 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:24:23 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:24:37 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6254.427734, 48.810928, 4474.991699>)
+3:24:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:24:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:24:45 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:25:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:25:47 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6238.151367, 146.961273, 4485.008301>)
+3:25:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:25:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:25:52 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6235.066895, 142.988632, 4477.996582>)
+3:25:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:25:58 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6252.933105, 134.570068, 4480.916504>)
+3:26:3 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:26:5 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6274.109863, 130.102417, 4484.405273>)
+3:26:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:26:34 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:26:37 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6092.471680, 144.665253, 4592.304688>)
+3:26:37 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:26:44 | [WeatherManager] Send Data Count is 0
+3:26:50 | [Time Manager] Setting Date to 2025/9/20 6:9
+3:27:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:27:3 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:27:4 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:27:7 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:27:13 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:27:44 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6684.780762, 19.119965, 3683.819092>)
+3:27:52 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:28:27 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:28:37 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6280.178223, 24.021633, 3449.735840>)
+3:28:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:28:47 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:28:53 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6752.740234, 42.421398, 4075.677002>)
+3:28:54 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:29:9 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:29:13 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7004.103027, 21.952847, 3874.939697>)
+3:29:14 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:29:26 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:29:38 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6952.880859, 9.238037, 3541.177002>)
+3:29:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:30:1 | "ADMIN PENGUIN" (steamid=76561198413928129) Spawned Item: (MediumTent)
+3:30:34 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:30:52 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6587.927246, 22.711790, 3836.206055>)
+3:30:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:31:16 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:31:36 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6964.482910, 26.130066, 2029.059448>)
+3:31:37 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:31:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:32:2 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6585.225098, 29.552637, 1826.511475>)
+3:32:3 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:32:22 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:32:34 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6075.357910, 26.138037, 2060.507813>)
+3:32:34 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:33:16 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:33:40 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7670.701660, 26.129999, 2085.031006>)
+3:33:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:33:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:34:5 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7803.670898, 26.129995, 1895.322510>)
+3:34:6 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:34:18 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:34:27 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7651.846191, 28.071983, 1537.208496>)
+3:34:27 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:34:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:35:3 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<5959.746582, 135.635834, 1302.657715>)
+3:35:3 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:35:30 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:35:44 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<5961.872070, 100.982178, 1321.505493>)
+3:35:45 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:37:31 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:37:36 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<5967.209961, 140.793625, 1319.451294>)
+3:37:37 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:39:20 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:39:59 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3029.694336, 38.019218, 1149.824097>)
+3:40:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:40:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:40:17 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3022.920410, 33.617405, 1213.909058>)
+3:40:18 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:41:8 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:41:14 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3022.865967, 33.677776, 1293.955688>)
+3:41:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:41:55 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:42:5 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3033.056641, 56.211334, 1244.471924>)
+3:42:6 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:42:57 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:43:11 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3015.059326, 73.712669, 1261.794434>)
+3:43:11 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:43:23 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:43:30 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3000.020020, 99.515083, 1263.508545>)
+3:43:30 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:43:33 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:43:49 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3042.694580, 73.564522, 1272.282227>)
+3:43:49 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:44:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:44:37 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<3057.161865, 115.566406, 1390.031616>)
+3:44:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:46:54 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1945.109985, 24.468575, 1290.349976>)
+3:46:54 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=1945.11,0,1290.35)
+3:47:4 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:47:19 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1864.039429, 2.021790, 1268.615356>)
+3:47:20 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:47:55 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:2 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1896.503296, 7.988938, 1250.382080>)
+3:48:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:8 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1906.035767, 16.853662, 1270.489014>)
+3:48:8 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:14 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:35 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1944.533447, 2.019372, 1228.492188>)
+3:48:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:50 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:52 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1900.782227, 35.314754, 1071.444336>)
+3:48:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:55 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:48:59 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2103.470947, 2.564410, 1052.570801>)
+3:49:0 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:11 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:15 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2180.517578, 17.127819, 973.875671>)
+3:49:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:17 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:24 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2136.993408, 2.858305, 960.042358>)
+3:49:25 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:38 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2136.485352, 17.143822, 947.656311>)
+3:49:38 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:49:41 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:50:26 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:50:28 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:50:40 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2088.341553, 6.224298, 1032.209106>)
+3:50:41 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:50:42 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:50:45 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2092.355469, 17.194336, 1035.822998>)
+3:50:53 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<1987.700562, 2.016468, 1186.728027>)
+3:50:53 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:51:11 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:51:13 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2026.412842, 17.199268, 1155.231445>)
+3:51:21 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2186.017822, 15.385712, 893.878296>)
+3:51:23 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:52:28 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<2721.000000, 21.750000, 4295.169922>)
+3:52:28 | "ADMIN PENGUIN": (steamid=76561198413928129) teleported to (pos=2721,0,4295.17)
+3:52:31 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:55:24 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2767.015381, 21.742455, 4348.077148>)
+3:55:24 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:58:7 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:58:20 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2901.390869, 20.077322, 4341.678711>)
+3:58:21 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:58:40 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+3:59:4 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2698.988037, 21.765007, 4405.740234>)
+3:59:5 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:0:17 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:0:36 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2666.365967, 21.843287, 4230.172363>)
+4:0:36 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:0:59 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:1:6 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<2667.715332, 27.286318, 4236.562500>)
+4:1:6 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:1:43 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:2:3 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<7399.837402, 53.080025, 2017.815552>)
+4:2:3 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:2:35 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:3:0 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6641.045410, 77.830116, 2326.749756>)
+4:3:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:3:48 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:4:0 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6639.700195, 27.229969, 2338.018311>)
+4:4:0 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:4:21 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:4:28 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6858.522949, 26.163652, 2318.051270>)
+4:4:28 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:6:2 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:7:0 | "ADMIN PENGUIN" (steamid=76561198413928129) teleported to crosshair (pos=<6796.279297, 26.130016, 1748.408936>)
+4:7:0 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:7:4 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:7:15 | "ADMIN PENGUIN" (steamid=76561198413928129) toggled freecam
+4:7:30 | Player "ADMIN PENGUIN" (steamId=76561198413928129) initiated disconnect process...
+4:7:33 | Player "ADMIN PENGUIN" (steamId=76561198413928129) disconnected early from server (EXIT NOW).

@@ -1,0 +1,502 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-6-23_0-12-56
+====================================================================================
+0:12:56 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+0:12:56 | [PermissionManager] Perm (FreeCamera) has been registered!
+0:12:56 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuServerManager) has been registered!
+0:12:56 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+0:12:56 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+0:12:56 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+0:12:56 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+0:12:56 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+0:12:56 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+0:12:56 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+0:12:56 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+0:12:56 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+0:12:56 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuBansManager) has been registered!
+0:12:56 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+0:12:56 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+0:12:56 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+0:12:56 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+0:12:56 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+0:12:56 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+0:12:56 | [PermissionManager] Adding Super Admin (76561198413928129)
+0:12:56 | [PermissionManager] Adding Super Admin (76561198061747392)
+0:12:56 | [PermissionManager] Loaded UserGroups.json
+0:12:56 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+0:12:56 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+0:12:56 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+0:12:56 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+0:12:56 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+0:12:56 | Building Sets Loaded: 2
+0:12:56 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+0:37:30 | Player "Rebor" (steamId=76561198088716885) connected to server!
+0:41:28 | Player "Rebor" (steamId=76561198088716885) initiated disconnect process...
+0:41:31 | Player "Rebor" (steamId=76561198088716885) disconnected early from server (EXIT NOW).
+0:41:31 | Player "Rebor" (steamId=76561198088716885) disconnected from server.
+2:33:26 | Player "The Penguin Explorer" (steamId=76561198413928129) connected to server!
+2:33:52 | "The Penguin Explorer" (steamid=76561198413928129) gave godmode to (steamid=76561198413928129)
+2:33:52 | "The Penguin Explorer" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+2:34:46 | Player "bajing" (steamId=76561198413172261) connected to server!
+2:35:41 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<15106.099609, 20.637262, 15167.500000>)
+2:35:41 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=15106.1,0,15167.5)
+2:35:50 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<15123.419922, 10.801317, 15139.840820>)
+2:36:26 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:36:36 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<15321.803711, 293.022308, 14955.877930>)
+2:38:16 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:38:53 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<9611.250000, 49.143002, 15283.900391>)
+2:38:53 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=9611.25,0,15283.9)
+2:38:58 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9624.239258, 49.143002, 15270.317383>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9627.120117, 49.142994, 15267.821289>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9628.115234, 49.143002, 15266.942383>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9629.092773, 49.142982, 15266.079102>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9630.039063, 49.142986, 15265.245117>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9630.900391, 49.143024, 15264.486328>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9631.665039, 49.142998, 15263.813477>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9632.293945, 49.143005, 15263.262695>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9632.811523, 49.143005, 15262.808594>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9633.218750, 49.143013, 15262.453125>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9633.534180, 49.143005, 15262.178711>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9633.775391, 49.143002, 15261.969727>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9633.963867, 49.143005, 15261.807617>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9634.117188, 49.143017, 15261.676758>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9635.613281, 49.143013, 15260.334961>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9636.400391, 49.142998, 15259.628906>)
+2:39:6 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9637.798828, 49.143009, 15258.390625>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9638.446289, 49.143013, 15257.817383>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9638.762695, 49.143005, 15257.539063>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9639.037109, 49.143009, 15257.299805>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9646.956055, 49.143032, 15252.013672>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9647.849609, 49.143024, 15251.413086>)
+2:39:7 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9648.001953, 49.142994, 15251.319336>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9648.814453, 49.143009, 15250.796875>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9648.882813, 49.143013, 15250.753906>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9650.087891, 49.143021, 15249.943359>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9651.179688, 49.143021, 15249.205078>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9652.339844, 49.142982, 15248.422852>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9653.478516, 49.142998, 15247.655273>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9654.571289, 49.143009, 15246.918945>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9655.541016, 49.143024, 15246.267578>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9656.383789, 49.143002, 15245.700195>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9657.075195, 49.143017, 15245.236328>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9657.633789, 49.142990, 15244.863281>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9658.065430, 49.142960, 15244.575195>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9658.291016, 49.143021, 15244.416992>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9658.437500, 49.142948, 15244.313477>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9658.528320, 49.142967, 15244.250000>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9659.285156, 49.143013, 15243.722656>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9660.869141, 49.143017, 15242.645508>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9661.693359, 49.143024, 15242.084961>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9662.098633, 49.143028, 15241.809570>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9662.341797, 49.143032, 15241.647461>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9662.501953, 49.143028, 15241.541016>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9664.328125, 49.143021, 15240.308594>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9666.135742, 49.143013, 15239.094727>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9666.743164, 49.142990, 15238.687500>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9666.931641, 49.143028, 15238.561523>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9667.061523, 49.143024, 15238.476563>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9667.528320, 49.142975, 15238.155273>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9667.627930, 49.143028, 15238.085938>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9667.654297, 49.143028, 15238.068359>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9667.745117, 49.142979, 15238.009766>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9668.228516, 49.143002, 15237.689453>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9668.454102, 49.143013, 15237.533203>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9668.695313, 49.143021, 15237.365234>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9668.954102, 49.142979, 15237.186523>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9669.217773, 49.143013, 15237.005859>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9669.474609, 49.143028, 15236.830078>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9669.951172, 49.142963, 15236.507813>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9670.944336, 49.142994, 15235.862305>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9671.395508, 49.143013, 15235.570313>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9671.622070, 49.143013, 15235.423828>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9671.762695, 49.143013, 15235.333984>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9671.876953, 49.142971, 15235.260742>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9671.981445, 49.142971, 15235.193359>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.080078, 49.143002, 15235.130859>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.181641, 49.143002, 15235.066406>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.281250, 49.143002, 15235.002930>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.375977, 49.143009, 15234.941406>)
+2:39:8 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.475586, 49.143009, 15234.877930>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.583008, 49.143002, 15234.809570>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.673828, 49.143013, 15234.750977>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9672.770508, 49.143017, 15234.689453>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9673.753906, 49.143021, 15234.027344>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9674.584961, 49.143028, 15233.458008>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9675.548828, 49.143040, 15232.798828>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9676.511719, 49.143044, 15232.140625>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9677.489258, 49.142998, 15231.473633>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9678.343750, 49.142982, 15230.890625>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9679.148438, 49.142971, 15230.345703>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9679.792969, 49.143013, 15229.909180>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9680.302734, 49.142998, 15229.564453>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9680.704102, 49.142990, 15229.294922>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.048828, 49.143028, 15229.064453>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.274414, 49.143024, 15228.914063>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.546875, 49.142963, 15228.735352>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.709961, 49.143044, 15228.628906>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.817383, 49.143028, 15228.559570>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9681.924805, 49.143040, 15228.490234>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9684.417969, 49.143009, 15226.785156>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9685.591797, 49.143017, 15225.982422>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9687.506836, 49.143044, 15224.679688>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9688.286133, 49.143013, 15224.149414>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9688.602539, 49.142998, 15223.934570>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9688.778320, 49.143002, 15223.819336>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9689.655273, 49.142990, 15223.226563>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9689.921875, 49.143013, 15223.046875>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9690.056641, 49.143005, 15222.958008>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9690.544922, 49.142971, 15222.634766>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9690.628906, 49.143028, 15222.579102>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9693.049805, 49.143021, 15220.930664>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9693.326172, 49.142971, 15220.743164>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9693.367188, 49.143032, 15220.715820>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9693.458984, 49.143032, 15220.657227>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9694.083008, 49.143044, 15220.242188>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9694.483398, 49.143002, 15219.967773>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9695.128906, 49.143009, 15219.527344>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9695.765625, 49.143017, 15219.092773>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9696.373047, 49.143002, 15218.678711>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9696.931641, 49.143017, 15218.298828>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9697.620117, 49.143021, 15217.833008>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9698.173828, 49.143028, 15217.458008>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9699.421875, 49.143044, 15216.610352>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9700.333984, 49.143005, 15215.991211>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9701.129883, 49.142994, 15215.452148>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9701.651367, 49.143013, 15215.099609>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9701.984375, 49.142982, 15214.875000>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9702.230469, 49.143017, 15214.709961>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9702.412109, 49.142986, 15214.589844>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9702.558594, 49.142986, 15214.494141>)
+2:39:9 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9703.497070, 49.143021, 15213.858398>)
+2:39:23 | "The Penguin Explorer" (steamid=76561198413928129) /heal used on: "The Penguin Explorer" (steamid=76561198413928129)
+2:41:46 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:41:48 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:42:31 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:44:17 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:45:47 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:45:59 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9371.781250, 22.655439, 14598.225586>)
+2:46:1 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:46:25 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_AEK545_Gun)
+2:46:34 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:46:34 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:46:35 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:46:35 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:46:35 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:46:35 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SNAFU_RPK16_Black_Mag)
+2:47:24 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Mosin9130_Black)
+2:47:33 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Akol_MosinMount_RailHuntingOpticExp)
+2:47:48 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:47:50 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:48:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:4 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:5 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:5 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:5 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+2:48:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (PUScopeOptic)
+2:48:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (PUScopeOptic)
+2:50:47 | "The Penguin Explorer" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+2:52:54 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9351.035156, 8.985897, 14619.391602>)
+2:54:29 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:54:30 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+2:55:20 | Player "bajing" (steamId=76561198413172261) initiated disconnect process...
+2:55:23 | Player "bajing" (steamId=76561198413172261) disconnected from server.
+2:56:54 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:57:4 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10067.064453, 56.294498, 14426.290039>)
+2:57:6 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+2:59:53 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10057.296875, 48.117809, 14462.353516>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10118.026367, 49.224316, 14508.123047>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10113.241211, 49.224316, 14514.594727>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.910156, 49.210041, 14515.040039>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.712891, 49.224316, 14515.307617>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.521484, 49.224316, 14515.561523>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.300781, 49.198029, 14515.846680>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.302734, 49.246086, 14515.849609>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.223633, 49.255985, 14515.953125>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.127930, 49.255985, 14516.074219>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10112.038086, 49.255985, 14516.189453>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10111.949219, 49.255985, 14516.303711>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10109.607422, 49.255985, 14519.523438>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10108.397461, 49.155029, 14521.163086>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10107.992188, 49.154350, 14521.712891>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10107.773438, 49.153950, 14522.000977>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10107.306641, 49.152988, 14522.630859>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.971680, 49.152344, 14523.078125>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.895508, 49.152195, 14523.180664>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.813477, 49.152000, 14523.291992>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.797852, 49.151978, 14523.312500>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.653320, 49.151730, 14523.495117>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.647461, 49.151718, 14523.501953>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10106.258789, 49.150879, 14524.037109>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10105.870117, 49.150215, 14524.569336>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10105.205078, 49.149048, 14525.480469>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10104.585938, 49.148060, 14526.327148>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10104.060547, 49.147224, 14527.043945>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10103.309570, 49.143875, 14528.061523>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10102.740234, 49.143658, 14528.791992>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10102.264648, 49.143616, 14529.299805>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10101.683594, 49.144222, 14529.436523>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10101.228516, 49.144455, 14529.738281>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10100.870117, 49.144794, 14529.819336>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10100.423828, 49.144733, 14530.339844>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10100.154297, 49.144730, 14530.568359>)
+3:1:15 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10100.008789, 49.144699, 14530.744141>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10099.896484, 49.144573, 14530.878906>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10099.794922, 49.144413, 14530.996094>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10098.265625, 49.143005, 14533.306641>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10097.688477, 49.143032, 14534.090820>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10096.746094, 49.143040, 14535.253906>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10096.472656, 49.142986, 14535.557617>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10096.343750, 49.143066, 14535.708984>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10095.387695, 49.143002, 14536.158203>)
+3:1:16 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10086.602539, 49.143036, 14547.301758>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.946289, 49.197735, 14555.183594>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.694336, 49.202301, 14555.537109>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.492188, 49.205860, 14555.818359>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.336914, 49.209923, 14556.032227>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.232422, 49.217701, 14556.177734>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.143555, 49.224121, 14556.297852>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10080.066406, 49.229637, 14556.401367>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.996094, 49.234829, 14556.496094>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.934570, 49.240871, 14556.578125>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.875000, 49.246658, 14556.657227>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.814453, 49.252441, 14556.737305>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.753906, 49.258293, 14556.816406>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10079.694336, 49.264072, 14556.895508>)
+3:1:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<10076.973633, 49.566101, 14560.813477>)
+3:1:44 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+3:1:56 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9872.188477, 61.423004, 14831.046875>)
+3:1:57 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+3:2:49 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9861.905273, 55.845032, 14915.862305>)
+3:3:33 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9860.385742, 50.013618, 14932.262695>)
+3:6:1 | Player "The Penguin Explorer" (steamId=76561198413928129) initiated disconnect process...
+3:6:4 | Player "The Penguin Explorer" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+3:6:4 | Player "The Penguin Explorer" (steamId=76561198413928129) disconnected from server.
+3:34:27 | Player "bajing" (steamId=76561198413172261) connected to server!
+3:57:27 | Player "bajing" (steamId=76561198413172261) initiated disconnect process...
+3:57:30 | Player "bajing" (steamId=76561198413172261) disconnected from server.
+4:38:56 | Player "bajing" (steamId=76561198413172261) connected to server!
+5:4:34 | Player "bajing" (steamId=76561198413172261) initiated disconnect process...
+5:4:37 | Player "bajing" (steamId=76561198413172261) disconnected from server.
+6:6:54 | Player "The Penguin Explorer" (steamId=76561198413928129) connected to server!
+6:7:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Defibrillator)
+6:12:1 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (BaseRadio)
+6:12:7 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (CarBattery)
+6:12:9 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (CarBattery)
+6:15:21 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:15:28 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8913.718750, 33.298363, 3584.114258>)
+6:15:32 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8860.854492, 14.939644, 3523.085693>)
+6:15:34 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:15:46 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8831.714844, 10.681368, 3512.064941>)
+6:15:49 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+6:15:52 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<8808.541992, 8.622560, 3503.359131>)
+6:15:57 | "The Penguin Explorer" (steamid=76561198413928129) /heal used on: "The Penguin Explorer" (steamid=76561198413928129)
+6:16:31 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:16:44 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9370.636719, 58.946587, 3554.410156>)
+6:16:46 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:16:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Battery9V)
+6:16:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Battery9V)
+6:16:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (Battery9V)
+6:17:14 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (SledgeHammer)
+6:23:58 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (bl_tincan_lamp)
+6:26:16 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (PetrolLighter)
+6:28:37 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:29:24 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9504.412109, 40.872410, 7590.698730>)
+6:29:27 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:29:40 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:29:51 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<9257.948242, 10.117283, 7279.192871>)
+6:29:53 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:31:31 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5957.580078, 37.135128, 5217.330078>)
+6:31:31 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=5957.58,0,5217.33)
+6:32:12 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<317.243011, -4.732453, 11278.400391>)
+6:32:12 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=317.243,0,11278.4)
+6:32:19 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<326.657013, 0.564960, 11303.306641>)
+6:33:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:33:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:33:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:33:18 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:33:19 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:33:19 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ScientificBriefcaseKeys)
+6:34:37 | "The Penguin Explorer" (steamid=76561198413928129) deleted objects using ESP
+6:34:39 | "The Penguin Explorer" (steamid=76561198413928129) deleted objects using ESP
+6:34:41 | "The Penguin Explorer" (steamid=76561198413928129) deleted objects using ESP
+6:34:43 | "The Penguin Explorer" (steamid=76561198413928129) deleted objects using ESP
+6:34:44 | "The Penguin Explorer" (steamid=76561198413928129) deleted objects using ESP
+6:34:56 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:35:17 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1155.036377, 2.119942, 14773.281250>)
+6:35:19 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:35:21 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:35:23 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:35:31 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:35:43 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:36:1 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:36:12 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<695.045349, 11.670280, 15311.213867>)
+6:36:29 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1433.105469, 17.692616, 15525.300781>)
+6:36:34 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:37:17 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+6:37:19 | "The Penguin Explorer" (steamid=76561198413928129) toggled godmode
+6:37:19 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:37:24 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1733.115723, 2.122757, 15912.981445>)
+6:37:37 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1390.268311, 2.120041, 15845.117188>)
+6:37:51 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1077.434937, 2.119934, 15723.772461>)
+6:38:26 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1516.459961, 8.320000, 15320.900391>)
+6:38:26 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=1516.46,0,15320.9)
+6:38:29 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:39:57 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:40:1 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1487.056030, 15.800106, 15591.774414>)
+6:40:2 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:40:32 | "The Penguin Explorer" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+6:41:14 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ReflexOptic)
+6:41:20 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ReflexOptic)
+6:41:21 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ReflexOptic)
+6:41:21 | "The Penguin Explorer" (steamid=76561198413928129) Spawned Item: (ReflexOptic)
+6:44:1 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1502.630981, 9.002735, 15549.617188>)
+6:44:17 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:44:22 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<542.585815, 11.797835, 15207.539063>)
+6:44:23 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:44:50 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:45:2 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<1301.681274, 15.011963, 14970.453125>)
+6:45:3 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:45:24 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:45:29 | "The Penguin Explorer" (steamid=76561198413928129) teleported to crosshair (pos=<530.232239, 11.589540, 15170.930664>)
+6:45:30 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:46:28 | Player "{RISK} Bowds" (steamId=76561198004159044) connected to server!
+6:46:37 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:46:59 | "The Penguin Explorer" (steamid=76561198413928129) toggled freecam
+6:47:34 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<8092.209961, 2.708510, 13517.500000>)
+6:47:34 | "The Penguin Explorer": (steamid=76561198413928129) teleported to (pos=8092.21,0,13517.5)
+6:49:53 | Player "The Penguin Explorer" (steamId=76561198413928129) initiated disconnect process...
+6:49:54 | Player "The Penguin Explorer" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+6:49:56 | Player "The Penguin Explorer" (steamId=76561198413928129) disconnected from server.
+6:56:46 | Player "{RISK} Bowds" (steamId=76561198004159044) initiated disconnect process...
+6:56:48 | Player "{RISK} Bowds" (steamId=76561198004159044) disconnected early from server (EXIT NOW).
+6:56:49 | Player "{RISK} Bowds" (steamId=76561198004159044) disconnected from server.
+8:57:18 | Player "bajing" (steamId=76561198413172261) connected to server!
+9:29:35 | Player "The Penguin Explorer" (steamId=76561199380565467) connected to server!
+9:31:31 | Player "bajing" (steamId=76561198413172261) initiated disconnect process...
+9:31:34 | Player "bajing" (steamId=76561198413172261) disconnected from server.
+9:43:57 | Player "The Penguin Explorer" (steamId=76561199380565467) initiated disconnect process...
+9:44:0 | Player "The Penguin Explorer" (steamId=76561199380565467) disconnected from server.
+9:55:29 | Player "The Penguin Explorer" (steamId=76561199380565467) connected to server!
+10:17:37 | Player "The Penguin Explorer" (steamId=76561199380565467) initiated disconnect process...
+10:17:40 | Player "The Penguin Explorer" (steamId=76561199380565467) disconnected from server.
+10:28:1 | Player "The Penguin Explorer" (steamId=76561199380565467) connected to server!
+10:58:22 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+11:21:47 | Player "francishall533" (steamId=76561199572474870) connected to server!
+11:53:4 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+11:53:4 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+11:53:7 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+11:55:28 | Player "Mick" (steamId=76561198061747392) connected to server!
+12:7:53 | Player "Kyrie" (steamId=76561198892824085) connected to server!
+12:20:53 | Player "Prague" (steamId=76561198065207038) connected to server!
+13:17:28 | "Mick" (steamid=76561198061747392) toggled freecam
+13:17:33 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<2922.274170, 65.420052, 3724.836914>)
+13:17:39 | "Mick" (steamid=76561198061747392) toggled freecam
+13:17:43 | "Mick" (steamid=76561198061747392) toggled freecam
+13:17:51 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<3058.167236, 22.450010, 3915.373535>)
+13:17:51 | "Mick" (steamid=76561198061747392) toggled freecam
+13:47:26 | Player "Prague" (steamId=76561198065207038) initiated disconnect process...
+13:47:29 | Player "Prague" (steamId=76561198065207038) disconnected from server.
+14:49:16 | "Mick" (steamid=76561198061747392) toggled freecam
+14:49:19 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<7121.834961, 5.036842, 13666.640625>)
+14:49:20 | "Mick" (steamid=76561198061747392) toggled freecam
+14:49:47 | Player "francishall533" (steamId=76561199572474870) initiated disconnect process...
+14:49:49 | Player "francishall533" (steamId=76561199572474870) disconnected early from server (EXIT NOW).
+14:49:50 | Player "francishall533" (steamId=76561199572474870) disconnected from server.
+15:2:39 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5308.024902, 4.770000, 12428.202148>)
+15:2:40 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5321.769043, 4.769997, 12431.379883>)
+15:2:41 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5334.571777, 4.770010, 12434.825195>)
+15:13:46 | Player "The Penguin Explorer" (steamId=76561199380565467) initiated disconnect process...
+15:13:49 | Player "The Penguin Explorer" (steamId=76561199380565467) disconnected from server.
+15:17:8 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<5259.589844, 4.770000, 12491.500000>)
+15:17:8 | "Mick": (steamid=76561198061747392) teleported to (pos=5259.59,0,12491.5)
+15:17:14 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<5274.336426, 4.948353, 12485.330078>)
+15:17:49 | "76561198061747392" (steamid=76561198061747392) teleported to (pos=<4835.410156, 31.396238, 11370.299805>)
+15:17:49 | "Mick": (steamid=76561198061747392) teleported to (pos=4835.41,0,11370.3)
+15:17:55 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4833.916016, 32.384106, 11354.897461>)
+15:17:56 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4834.397949, 33.177956, 11340.267578>)
+15:17:56 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4833.967285, 33.704147, 11325.637695>)
+15:17:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4833.361328, 33.832962, 11308.764648>)
+15:17:57 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4832.639160, 33.247261, 11287.013672>)
+15:17:58 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4831.824219, 30.803408, 11252.722656>)
+15:17:59 | "Mick" (steamid=76561198061747392) teleported to crosshair (pos=<4826.913086, 23.997219, 11116.946289>)
+15:18:41 | Player "Kyrie" (steamId=76561198892824085) initiated disconnect process...
+15:18:42 | Player "Kyrie" (steamId=76561198892824085) disconnected early from server (EXIT NOW).
+15:18:44 | Player "Kyrie" (steamId=76561198892824085) disconnected from server.
+15:51:49 | Player "Mick" (steamId=76561198061747392) initiated disconnect process...
+15:51:52 | Player "Mick" (steamId=76561198061747392) disconnected from server.

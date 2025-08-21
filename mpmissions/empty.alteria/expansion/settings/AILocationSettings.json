@@ -1,0 +1,261 @@
+{
+    "m_Version": 2,
+    "RoamingLocations": [
+        {
+            "Name": "KP_CampAlpha (Deadmens Rock)",
+            "Position": [
+                1502.5699462890626,
+                0.0,
+                6404.93017578125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "kp_Toxizone (Toxiczone)",
+            "Position": [
+                7528.7001953125,
+                0.0,
+                6804.7001953125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "kp_cassandra (Cassandra)",
+            "Position": [
+                4404.740234375,
+                0.0,
+                7615.080078125
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint1 (Roblido)",
+            "Position": [
+                2581.080078125,
+                0.0,
+                5841.91015625
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint2 (Ares)",
+            "Position": [
+                2140.14990234375,
+                0.0,
+                2994.489990234375
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint3 (Kefka)",
+            "Position": [
+                6654.669921875,
+                0.0,
+                3668.780029296875
+            ],
+            "Radius": 500.0,
+            "Type": "NameCity",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint4 (Airfield)",
+            "Position": [
+                6874.43994140625,
+                0.0,
+                2035.7900390625
+            ],
+            "Radius": 100.0,
+            "Type": "Airport",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint5 (Radiostation)",
+            "Position": [
+                5541.14013671875,
+                0.0,
+                4096.60009765625
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint6 (South Harbour)",
+            "Position": [
+                1969.47998046875,
+                0.0,
+                421.989990234375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint7 (Reservoir)",
+            "Position": [
+                2089.27001953125,
+                0.0,
+                1105.2900390625
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint8 (Mine)",
+            "Position": [
+                3011.0400390625,
+                0.0,
+                1226.550048828125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint9 (Mt. Lapithas)",
+            "Position": [
+                5442.06982421875,
+                0.0,
+                4030.969970703125
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint10 (Old Castle)",
+            "Position": [
+                3454.429931640625,
+                0.0,
+                5287.31005859375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint11 (Weatherstation)",
+            "Position": [
+                2263.489990234375,
+                0.0,
+                6326.259765625
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint12 (Fort Yuma)",
+            "Position": [
+                1794.6300048828126,
+                0.0,
+                6518.93017578125
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint13 (Apple orchard)",
+            "Position": [
+                4736.68994140625,
+                0.0,
+                1398.010009765625
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint14 (Military transmitting station)",
+            "Position": [
+                6328.22021484375,
+                0.0,
+                980.8400268554688
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint18 (Mt. Helikon)",
+            "Position": [
+                6617.93994140625,
+                0.0,
+                4738.64013671875
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint19 (Fort Miden)",
+            "Position": [
+                1654.719970703125,
+                0.0,
+                2618.39990234375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint24 (Marshes)",
+            "Position": [
+                7011.0,
+                0.0,
+                3226.97998046875
+            ],
+            "Radius": 100.0,
+            "Type": "Hill",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint27 (Fishers Island)",
+            "Position": [
+                4876.7099609375,
+                0.0,
+                2304.409912109375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        },
+        {
+            "Name": "DefaultKeyPoint28 (Fort Eagle)",
+            "Position": [
+                6492.0498046875,
+                0.0,
+                6812.83984375
+            ],
+            "Radius": 100.0,
+            "Type": "NameLocal",
+            "Enabled": 1
+        }
+    ],
+    "ExcludedRoamingBuildings": [
+        "Land_CementWorks_Hall2_Grey",
+        "Land_Factory_Small",
+        "Land_House_1W09",
+        "Land_House_2W03",
+        "Land_HouseBlock_1F4",
+        "Land_Boathouse",
+        "Land_Mine_Building",
+        "Land_Shed_W2",
+        "Land_Tenement_Big",
+        "Land_Misc_Toilet_Mobile",
+        "Land_Ship_Medium2"
+    ],
+    "NoGoAreas": []
+}
