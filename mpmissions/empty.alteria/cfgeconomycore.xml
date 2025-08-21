@@ -41,7 +41,6 @@
 		<file name="spawnabletypes.xml" type="spawnabletypes" />
 		<file name="fortification.xml" type="types" />
 		<file name="boomlay.xml" type="types" />
-		<file name="betterbackpacks.xml" type="types" />
 		<file name="coupledmags.xml" type="types" />
 		<file name="magazineloaders.xml" type="types" />
 		<file name="rag.xml" type="types" />
@@ -54,9 +53,15 @@
 		<file name="Loftd.xml" type="types" />
 		<file name="boxes_types.xml" type="types" />
 		<file name="windstrider.xml" type="types" />
-		<file name="plague.xml" type="types" />		
-		<file name="realworldballstics.xml" type="types" />	
+		<file name="plague.xml" type="types" />
 		<file name="crafter.xml" type="types" />	
+		<file name="betterbackpacks.xml" type="types" />
+
+
+		<file name="fishequips.xml" type="types" />
+		<file name="ammomaking.xml" type="types" />
+		<file name="cbdlootrooms.xml" type="types" />
+		<file name="cookz_types.xml" type="types" />
 	</ce>
 
 </economycore>

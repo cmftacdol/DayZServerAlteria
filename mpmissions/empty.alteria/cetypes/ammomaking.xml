@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="Tips40mm">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="Tips40mmRedSmoke">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="Tips40mmGreenSmoke">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="Tips40mmWhiteSmoke">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="Tips40mmBlackSmoke">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="RDXCompound">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="TipsRubberSlug">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="FilledCraftedShotgunShell">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="CasingCraftedShotgunShells">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="AM_Improvised_Grenade">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="AM_Smoke_Improvised_Grenade_Red">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+
+    </type>
+
+    <type name="AM_Smoke_Improvised_Grenade_Green">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+
+    <type name="AM_Smoke_Improvised_Grenade_White">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <type name="AM_Smoke_Improvised_Grenade_Black">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <!-- END update Impact Grenades 10/09/2022 -->
+    <type name="PressCasingholder">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="PressBody">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="PressMountPlate">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="PressHandle">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="PressMechanism">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="PressMechaismhandle">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="Scale">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="Funnel">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="Tips545x39">
+        <nominal>0</nominal>
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing545x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing545x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep545x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips556x45">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing556x45">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing556x45">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep556x45">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips762x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing762x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing762x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep762x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips308Win">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing308Win">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing308Win">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep308Win">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips762x54">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing762x54">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing762x54">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep762x54">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips9x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing9x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing9x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep9x39">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips22LR">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing22LR">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing22LR">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep22LR">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Tips380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="TipsSlug">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="CasingSlug">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasingSlug">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PrepSlug">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="TipsBuckshot">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="CasingBuckshot">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasingBuckshot">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PrepBuckshot">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="TipsRubber45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PrepRubber45ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="TipsRubber9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PrepRubber9X19">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="TipsRubber380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PrepRubber380ACP">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Gunpowder">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="RubberBox_380ACP">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="RubberBox_45ACP">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="RubberBox_9x19">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Ammo_45ACPRubber">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Ammo_9x19Rubber">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Ammo_380Rubber">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="ScrapRubber">
+        <lifetime>14400</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchlegs">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchEmpty">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkBenchPressAttached">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkBenchScalePressAttached">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchScale">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchFunnel">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchScaleFunnel">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkbenchPressFunnel">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="AmmoWorkBenchCompleted">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="UnMoveableammoWorkbenchCompleted">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PressCompleted">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PressWdie">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PressWdieWattachmentplate">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Presswdiemechismhandle">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PresswithAttachmentplate">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PresswithMechanism">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="PresswithMechanismhandle">
+        <lifetime>3888000</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <!-- New Editions to types 5/14/2020 -->
+    <type name="StandAloneSmelter">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+    </type>
+    <type name="Sulfur20LbBag">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="Potassium_Nitrate">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+        <tag name="shelves" />
+    </type>
+    <type name="Potassium_Nitrate_Charcoal">
+        <lifetime>14400</lifetime>
+    </type>
+    <type name="StrongRifleCasingMold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <tag name="shelves" />
+    </type>
+    <type name="StrongRifleTipsMold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <tag name="shelves" />
+    </type>
+    <type name="StrongPistolCasingMold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+    </type>
+    <type name="StrongPistolTipsMold">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <tag name="shelves" />
+    </type>
+    <type name="EmptyCrucible">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>21600</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1"
+            crafted="0" deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <tag name="shelves" />
+    </type>
+    <type name="CrucibleOreLead">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="CrucibleMoltenBrass">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="CrucibleFilledCasing">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="CrucibleFilledTips">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+
+    <!-- New Editions 10/25/2020 -->
+    <type name="Tips357">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Casing357">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="FilledCasing357">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+    <type name="Prep357Magnum">
+        <lifetime>7200</lifetime>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="1" deloot="0" />
+    </type>
+</types>

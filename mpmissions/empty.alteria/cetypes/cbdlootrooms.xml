@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+    <type name="CBD_LootRoomKey_Red">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Green">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Yellow">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Black">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_White">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Blue">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Gold">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Silver">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootRoomKey_Bronze">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_UnlockingSledge">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+    <type name="CBD_LootroomC4">
+        <nominal>10</nominal>
+        <lifetime>10800</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0" deloot="0" />
+        <category name="weapons" />
+        <usage name="Office" />
+        <usage name="School" />
+        <usage name="Town" />
+        <usage name="Village" />
+    </type>
+</types>
