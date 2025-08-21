@@ -1,0 +1,14 @@
+{
+    "CanCraftCookBook": 1,
+    "CanCraftEmptyCans": 1,
+    "CanCraftEmptyBoxes": 1,
+    "MinIngredientQuantityPercent": 50,
+    "TemperaturOfCreatedDish": 80.0,
+    "ChanceToRemoveBrainAgent": 0,
+    "ChanceToRemoveHeavyMetalAgent": 0,
+    "ChanceToRemoveSalmonellaAgent": 0,
+    "EnableCheeseDecay": 0,
+    "EnableSausageDecay": 0,
+    "EnableBoxAndCanDecay": 1,
+    "InstantCook": 0
+}

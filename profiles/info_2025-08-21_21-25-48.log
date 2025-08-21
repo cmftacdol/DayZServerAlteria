@@ -1,0 +1,67 @@
+---------------------------------------------
+Log info_2025-08-21_21-25-48.log started at 2025-08-21 21:31:06
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 21:31:06
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:15871 (owner eAI_SurvivorF_Maria<c00485f0>) - MagazineRepair - BAREM_CLO_BUF_MA0<c0112b70> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 21:33:30
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:7211 (owner eAI_SurvivorM_Cyril<ec9f4010>) - MagazineRepair - BAREM_CLO_BUF_MA0<ee854410> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 21:38:09
+
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ550:15587 (owner SurvivorBase<1a3b33c0>) - ChamberFiredRepair - BAREM_CLO_BUF_MA1<b51383d0> - state: 1 != weapon: 0
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:497
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+scripts/4_World/entities\firearms\weapon_base.c:306
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:403
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+scripts/4_World/entities\dayzplayerimplement.c:987
+AimSounds/Scripts/4_World/entities\dayzplayerimplement.c:59
+scripts/4_World/entities\dayzplayerimplement.c:2290
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875

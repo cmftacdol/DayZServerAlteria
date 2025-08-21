@@ -1,0 +1,904 @@
+{
+    "PrimaryWeapons": [
+        {
+            "chance": 1.0,
+            "className": "M4A1",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.800000011920929,
+            "className": "AKM",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.6000000238418579,
+            "className": "SKS",
+            "quantity": 1,
+            "attachments": []
+        }
+    ],
+    "Explosives": [
+        {
+            "chance": 0.5,
+            "className": "M67Grenade",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ClaymoreMine",
+            "quantity": 1,
+            "attachments": []
+        }
+    ],
+    "Tools": [
+        {
+            "chance": 0.30000001192092898,
+            "className": "SVD",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "FAL",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M4A1",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M14",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_308WinTracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_308Win_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_357_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_380_35rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_45ACP_25rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_545x39Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_545x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_556x45Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_556x45_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x39Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x54Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x54_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x19_25rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x39AP_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_308WinTracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_308Win_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_357_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_380_35rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_45ACP_25rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_545x39Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_545x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_556x45Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_556x45_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x39Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x54Tracer_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_762x54_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x19_25rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x39AP_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AmmoBox_9x39_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Ammo_40mm_Chemgas",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Ammo_40mm_Explosive",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ClaymoreMine",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Grenade_ChemGas",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M67Grenade",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "RGD5Grenade",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ACOGOptic_6x",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "FNP45_MRDSOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "HuntingOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "KashtanOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "KazuarOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "KobraOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M4_T3NRDSOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M68Optic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PSO11Optic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PSO1Optic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PUScopeOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ReflexOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "StarlightOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_VSS_10Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_VAL_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_SVD_10Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_STANAG_60Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_SSG82_5rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_FAL_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_CMAG_40Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_Aug_30Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_AKM_Drum75Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_VSS_10Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_VAL_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_SVD_10Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_STANAG_60Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_SSG82_5rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_FAL_20Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_CMAG_40Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_Aug_30Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Mag_AKM_Drum75Rnd",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ASVAL",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Aug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Deagle_Gold",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Longhorn",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "VSS",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ttsok94",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "junkak",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Canteen",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "BakedBeansCan",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PowderedMilk",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Rice",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "SardinesCan",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "SpaghettiCan",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TunaCan",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AntiChemInjector",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AntiPestsSpray",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Battery9V",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "CanOpener",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "CharcoalTablets",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "CombatKnife",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "DisinfectantAlcohol",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "DisinfectantSpray",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "DuctTape",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Epinephrine",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "EpoxyPutty",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "IodineTincture",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Lockpick",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Matchbox",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Morphine",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "NVGHeadstrap",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "NailBox",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PetrolLighter",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PainkillerTablets",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PurificationTablets",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "Rangefinder",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "RemoteDetonator",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "RemoteDetonatorReceiver",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "RemoteDetonatorTrigger",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "SewingKit",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TetracyclineAntibiotics",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "VitaminBottle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "WeaponCleaningKit",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "BDUJacket",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "BDUPants",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "BallisticHelmet_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "BallisticHelmet_Green",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "CombatBoots_Green",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "CombatBoots_Grey",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GasMask_Filter",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GasMask",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GorkaEJacket_Autumn",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GorkaEJacket_PautRev",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GorkaPants_Autumn",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "GorkaPants_PautRev",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "M65Jacket_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "MilitaryBelt",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PlateCarrierHolster",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PlateCarrierPouches",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "PlateCarrierVest",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TTSKOBoots",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TTSKOPants",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TTsKOJacket_Camo",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TacticalGloves_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TacticalGoggles",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TacticalShirt_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AliceBag_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "AssaultBag_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "SmershBag",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "TortillaBag",
+            "quantity": 1,
+            "attachments": []
+        }
+    ],
+    "Medical": [
+        {
+            "chance": 0.5,
+            "className": "M67Grenade",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.30000001192092898,
+            "className": "ClaymoreMine",
+            "quantity": 1,
+            "attachments": []
+        }
+    ]
+}

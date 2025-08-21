@@ -1,0 +1,109 @@
+[
+    {
+        "LootRoomName": "South Port Industrial Base",
+        "LootRoomSound": 0,
+        "LootRoomSoundActiveTime": 0,
+        "ServerMessageType": 0,
+        "RequiredEntryItem": [
+            "CBD_UnlockingSledge",
+            "CBD_LootroomC4"
+        ],
+        "DestroyEntryItem": 1,
+        "RequiredEntryItemDamage": 0.0,
+        "LootRoomPosition": [
+            1985.67,
+            27.9592,
+            554.45
+        ],
+        "LootRoomDoorIndex": 0,
+        "LootRoomCooldownTime": 60,
+        "LootRoomDoorOpenTime": 5.0,
+        "LootRoomDoorCloseTime": 60,
+        "LootRoomDoorCloseWarningFrom": 10,
+        "LootRoomDoorsToLock": [
+            {
+                "LootRoomPosition": [
+                    1985.67,
+                    27.9592,
+                    554.45
+                ],
+                "LootRoomDoorIndex": 2
+            },
+            {
+                "LootRoomPosition": [
+                    1985.67,
+                    27.9592,
+                    554.45
+                ],
+                "LootRoomDoorIndex": 1
+            }
+        ],
+        "RewardBoxes": [
+            {
+                "LootBoxClassName": "CBD_LootCrates_Large_Brown",
+                "LootBoxPosition": [
+                    1984.665649,
+                    15.57,
+                    570.450439
+                ],
+                "LootBoxOrientation": [
+                    26.999799728393556,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 30,
+                "MaxLootRewards": 50,
+                "UseLootTableFileForLootRewards": 1,
+                "LootTableName": [
+                    "Tools"
+                ],
+                "LootRewards": []
+            },
+            {
+                "LootBoxClassName": "CBD_LootCrates_Large_Brown",
+                "LootBoxPosition": [
+                    1984.75,
+                    15.57,
+                    564.257
+                ],
+                "LootBoxOrientation": [
+                    26.999799728393556,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 30,
+                "MaxLootRewards": 50,
+                "UseLootTableFileForLootRewards": 1,
+                "LootTableName": [
+                    "Tools"
+                ],
+                "LootRewards": []
+            },
+            {
+                "LootBoxClassName": "OffroadHatchback",
+                "LootBoxPosition": [
+                    1993.32,
+                    15.57,
+                    565.531
+                ],
+                "LootBoxOrientation": [
+                    178.805786,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 10,
+                "MaxLootRewards": 10,
+                "UseLootTableFileForLootRewards": 0,
+                "LootTableName": [],
+                "LootRewards": []
+            }
+        ],
+        "Defenders": [
+            "ZmbM_FarmerFat_Green",
+            "ZmbM_FarmerFat_Brown",
+            "ZmbF_JoggerSkinny_Red"
+        ],
+        "DefendersToSpawnAmount": 40,
+        "DefendersSpawnRadius": 2
+    }
+]

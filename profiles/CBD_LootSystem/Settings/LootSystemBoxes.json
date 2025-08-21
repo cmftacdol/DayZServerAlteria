@@ -1,0 +1,181 @@
+{
+    "RewardBoxesRespawnTime": 14400.0,
+    "RewardBoxes": [
+        {
+            "SpawnAtDistance": 100.0,
+            "LootBoxClassName": "CBD_LootCrates_Large_Brown",
+            "LootBoxPosition": [
+                6931.35009765625,
+                296.9159851074219,
+                7697.3798828125
+            ],
+            "LootBoxOrientation": [
+                63.0,
+                -0.0,
+                -0.0
+            ],
+            "MinLootRewards": 2,
+            "MaxLootRewards": 6,
+            "UseLootTableFileForLootRewards": 0,
+            "LootTableName": [],
+            "LootRewards": [
+                {
+                    "chance": 1.0,
+                    "className": "M4A1",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "ACOGOptic",
+                            "attachmentQuantity": 1
+                        },
+                        {
+                            "attachmentClassname": "Mag_STANAG_30Rnd",
+                            "attachmentQuantity": 30
+                        }
+                    ]
+                },
+                {
+                    "chance": 1.0,
+                    "className": "AK74",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "Mag_AK74_30Rnd",
+                            "attachmentQuantity": 30
+                        }
+                    ]
+                },
+                {
+                    "chance": 1.0,
+                    "className": "FAMAS",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "Mag_FAMAS_25Rnd",
+                            "attachmentQuantity": 25
+                        }
+                    ]
+                },
+                {
+                    "chance": 0.5,
+                    "className": "M67Grenade",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "FlashGrenade",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "ClaymoreMine",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "SKS",
+                    "quantity": 1,
+                    "attachments": []
+                }
+            ],
+            "BoxDefenders": [
+                "ZmbM_FarmerFat_Green",
+                "ZmbM_FarmerFat_Brown",
+                "ZmbF_JoggerSkinny_Red"
+            ],
+            "DefendersToSpawnAmount": 3,
+            "DefendersSpawnRadius": 10
+        },
+        {
+            "SpawnAtDistance": 100.0,
+            "LootBoxClassName": "CBD_LootSafe",
+            "LootBoxPosition": [
+                6041.919921875,
+                303.18798828125,
+                7695.4501953125
+            ],
+            "LootBoxOrientation": [
+                -99.0,
+                0.0,
+                -0.0
+            ],
+            "MinLootRewards": 3,
+            "MaxLootRewards": 5,
+            "UseLootTableFileForLootRewards": 0,
+            "LootTableName": [],
+            "LootRewards": [
+                {
+                    "chance": 1.0,
+                    "className": "M4A1",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "ACOGOptic",
+                            "attachmentQuantity": 1
+                        },
+                        {
+                            "attachmentClassname": "Mag_STANAG_30Rnd",
+                            "attachmentQuantity": 30
+                        }
+                    ]
+                },
+                {
+                    "chance": 1.0,
+                    "className": "AK74",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "Mag_AK74_30Rnd",
+                            "attachmentQuantity": 30
+                        }
+                    ]
+                },
+                {
+                    "chance": 1.0,
+                    "className": "FAMAS",
+                    "quantity": 1,
+                    "attachments": [
+                        {
+                            "attachmentClassname": "Mag_FAMAS_25Rnd",
+                            "attachmentQuantity": 25
+                        }
+                    ]
+                },
+                {
+                    "chance": 0.5,
+                    "className": "M67Grenade",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "FlashGrenade",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "ClaymoreMine",
+                    "quantity": 1,
+                    "attachments": []
+                },
+                {
+                    "chance": 0.5,
+                    "className": "SKS",
+                    "quantity": 1,
+                    "attachments": []
+                }
+            ],
+            "BoxDefenders": [
+                "ZmbF_BlueCollarWorker_Beige",
+                "ZmbM_HermitSkinny_Black",
+                "ZmbM_OffshoreWorker_Green"
+            ],
+            "DefendersToSpawnAmount": 3,
+            "DefendersSpawnRadius": 10
+        }
+    ]
+}

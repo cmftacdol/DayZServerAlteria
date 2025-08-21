@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": "3",
+    "Safe_Mode": 1,
+    "I1": "GunPowder Required to Fill Casings",
+    "GunPowder_Percentage_Required": 100.0,
+    "Deconstruct": "Deconstruct Loss Percentages",
+    "Gunpowder_Saved_Percentage": 85.0,
+    "Tips_Saved_Percentage": 80.0,
+    "Casing_Saved_Percentage": 80.0,
+    "Chance_To_DMG_40mm_Grenade": 20.0,
+    "Dmg_Done_To_Grenade_Per_Fail": 16.65999984741211
+}

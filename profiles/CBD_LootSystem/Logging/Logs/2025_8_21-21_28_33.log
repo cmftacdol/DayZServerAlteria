@@ -1,0 +1,78 @@
+Loot System Logs Active: 2025_8_21-21_28_33
+21_30_34 | INFO | Loot System has started
+21_30_34 | INFO | Room settings loaded successfully.
+21_30_34 | INFO | Box settings loaded successfully.
+21_30_34 | INFO | LockAllLootRooms called
+21_30_34 | INFO | Locking room: South Port Industrial Base
+21_30_59 | INFO | Player and identity are valid on connect.
+21_32_22 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: P E N G U I N [SteamID: 76561198413928129]
+21_32_22 | INFO | Raycast hit surface at: <1986.576050, 25.048056, 554.800903>
+21_32_22 | INFO | Defender ZmbF_JoggerSkinny_Red spawned at: <1986.576050, 25.048056, 554.800903>
+21_32_22 | INFO | Surface type at position <1986.576050, 25.048056, 554.800903> is concrete_ext
+21_32_22 | INFO | Raycast hit surface at: <1985.111450, 25.048056, 554.395691>
+21_32_22 | INFO | Defender ZmbM_FarmerFat_Green spawned at: <1985.111450, 25.048056, 554.395691>
+21_32_22 | INFO | Surface type at position <1985.111450, 25.048056, 554.395691> is concrete_ext
+21_32_22 | INFO | Raycast hit surface at: <1984.641479, 25.048056, 554.624512>
+21_32_22 | INFO | Defender ZmbM_FarmerFat_Brown spawned at: <1984.641479, 25.048056, 554.624512>
+21_32_22 | INFO | Surface type at position <1984.641479, 25.048056, 554.624512> is concrete_ext
+21_32_22 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_32_22 | INFO | Random loot table selected from user setting file: Tools
+21_32_22 | INFO | Successfully spawned loot box at position: <1985.665649, 27.959158, 554.450439>
+21_32_22 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_32_22 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1985.665649, 27.959158, 554.450439>
+21_32_22 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.
+21_33_22 | INFO | Locked Loot Room South Port Industrial Base has been locked.
+21_33_40 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: P E N G U I N [SteamID: 76561198413928129]
+21_33_40 | INFO | Raycast hit surface at: <1985.939575, 25.048056, 555.133423>
+21_33_40 | INFO | Defender ZmbM_FarmerFat_Green spawned at: <1985.939575, 25.048056, 555.133423>
+21_33_40 | INFO | Surface type at position <1985.939575, 25.048056, 555.133423> is concrete_ext
+21_33_40 | INFO | Raycast hit surface at: <1984.317017, 26.782164, 553.235168>
+21_33_40 | INFO | Defender ZmbF_JoggerSkinny_Red spawned at: <1984.317017, 26.782164, 553.235168>
+21_33_40 | INFO | Surface type at position <1984.317017, 26.782164, 553.235168> is concrete_ext
+21_33_40 | INFO | Raycast hit surface at: <1986.373047, 25.048056, 553.504578>
+21_33_40 | INFO | Defender ZmbM_FarmerFat_Brown spawned at: <1986.373047, 25.048056, 553.504578>
+21_33_40 | INFO | Surface type at position <1986.373047, 25.048056, 553.504578> is concrete_ext
+21_33_40 | INFO | Loot Box Deleted at position: <1985.665649, 27.955004, 554.450439>
+21_33_40 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_33_40 | INFO | Random loot table selected from user setting file: Tools
+21_33_40 | INFO | Successfully spawned loot box at position: <1985.665649, 27.959158, 554.450439>
+21_33_40 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_33_40 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1985.665649, 27.959158, 554.450439>
+21_33_40 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.
+21_34_40 | INFO | Locked Loot Room South Port Industrial Base has been locked.
+21_35_9 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: P E N G U I N [SteamID: 76561198413928129]
+21_35_9 | INFO | Raycast hit surface at: <1986.141846, 28.959200, 554.134766>
+21_35_9 | INFO | Defender ZmbM_FarmerFat_Brown spawned at: <1986.141846, 28.959200, 554.134766>
+21_35_9 | INFO | Surface type at position <1986.141846, 28.959200, 554.134766> is concrete_ext
+21_35_9 | INFO | Raycast hit surface at: <1985.791626, 25.048056, 554.931519>
+21_35_9 | INFO | Defender ZmbM_FarmerFat_Green spawned at: <1985.791626, 25.048056, 554.931519>
+21_35_9 | INFO | Surface type at position <1985.791626, 25.048056, 554.931519> is concrete_ext
+21_35_9 | INFO | Raycast hit surface at: <1985.827393, 28.511230, 554.616455>
+21_35_9 | INFO | Defender ZmbF_JoggerSkinny_Red spawned at: <1985.827393, 28.511230, 554.616455>
+21_35_9 | INFO | Surface type at position <1985.827393, 28.511230, 554.616455> is concrete_ext
+21_35_9 | INFO | Loot Box Deleted at position: <1985.665649, 27.955004, 554.450439>
+21_35_9 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_35_9 | INFO | Random loot table selected from user setting file: Tools
+21_35_9 | INFO | Successfully spawned loot box at position: <1985.665649, 27.959158, 554.450439>
+21_35_9 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_35_9 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1985.665649, 27.959158, 554.450439>
+21_35_9 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.
+21_36_9 | INFO | Locked Loot Room South Port Industrial Base has been locked.
+21_37_25 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: P E N G U I N [SteamID: 76561198413928129]
+21_37_25 | INFO | Raycast hit surface at: <1985.300659, 26.964848, 556.028381>
+21_37_25 | INFO | Defender ZmbM_FarmerFat_Brown spawned at: <1985.300659, 26.964848, 556.028381>
+21_37_25 | INFO | Surface type at position <1985.300659, 26.964848, 556.028381> is concrete_ext
+21_37_25 | INFO | Raycast hit surface at: <1986.379395, 25.048056, 554.023438>
+21_37_25 | INFO | Defender ZmbF_JoggerSkinny_Red spawned at: <1986.379395, 25.048056, 554.023438>
+21_37_25 | INFO | Surface type at position <1986.379395, 25.048056, 554.023438> is concrete_ext
+21_37_25 | INFO | Raycast hit surface at: <1987.079956, 26.837364, 555.305359>
+21_37_25 | INFO | Defender ZmbM_FarmerFat_Green spawned at: <1987.079956, 26.837364, 555.305359>
+21_37_25 | INFO | Surface type at position <1987.079956, 26.837364, 555.305359> is concrete_ext
+21_37_25 | INFO | Loot Box Deleted at position: <1985.665649, 27.955004, 554.450439>
+21_37_25 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_37_25 | INFO | Random loot table selected from user setting file: Tools
+21_37_25 | INFO | Successfully spawned loot box at position: <1985.665649, 27.959158, 554.450439>
+21_37_25 | INFO | Spawning loot box at position: <1985.665649, 27.959158, 554.450439>
+21_37_25 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1985.665649, 27.959158, 554.450439>
+21_37_25 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.
+21_38_25 | INFO | Locked Loot Room South Port Industrial Base has been locked.

@@ -1,0 +1,15 @@
+{
+    "ConfigVersion": "1",
+    "ZeroSpacer": "Ignore me dont touch",
+    "ZeroBreak": "SMELTER SETTINGS",
+    "Time_To_Smelt_Tips": 120,
+    "Time_To_Smelt_Casing": 250,
+    "Smelter_Efficiency_Min": 90,
+    "Smelter_Efficiency_Max": 100,
+    "Smelter_Heating_Rate": 8,
+    "Smelter_Cooling_Rate": 10,
+    "FirstSpacer": "Ignore me dont touch",
+    "FirstBreak": "CASTING SETTINGS",
+    "Tempature_To_Cast_Tips": 150,
+    "Tempature_To_Cast_Casings": 300
+}

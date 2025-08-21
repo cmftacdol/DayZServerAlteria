@@ -1,0 +1,217 @@
+---------------------------------------------
+Log info_2025-08-21_22-15-24.log started at 2025-08-21 22:19:43
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:19:43
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:15907 (owner eAI_SurvivorM_Hassan<96ed1670>) - MagazineRepair - OB_CLO_MA0<ce40f1e0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:19:43
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:15907 (owner eAI_SurvivorM_Hassan<96ed1670>) - ChamberRepair - OB_CLO_MA1<ce40f4e0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:19:46
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:15974 (owner eAI_SurvivorM_Indar<d6d420c0>) - MagazineRepair - BAREM_CLO_BUF_MA0<d8fc8c50> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:22:57
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:6815 (owner eAI_SurvivorM_Seth<f6120340>) - MagazineRepair - BAREM_CLO_BUF_MA0<f9c9e360> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:22:57
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:12711 (owner eAI_SurvivorF_Helga<f9f7a010>) - MagazineRepair - BAREM_CLO_BUF_MA0<f1b25630> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:23:09
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:6179 (owner eAI_SurvivorM_Taiki<78ed020>) - MagazineRepair - BAREM_CLO_BUF_MA0<fb0fb7b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:27:37
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:15918 (owner eAI_SurvivorF_Eva<fa0f9530>) - ChamberFiredRepair - BARIMLoadedCharged<f5ea3ed0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:497
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:397
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:7883
+scripts/4_World/entities\dayzplayerimplement.c:2290
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6004
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:27:37
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:15918 (owner eAI_SurvivorF_Eva<fa0f9530>) - ChamberFiredRepair - BARIMLoadedCharged<f5ea3ed0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:497
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:397
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:7883
+scripts/4_World/entities\dayzplayerimplement.c:2290
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6004
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:27:41
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:15918 (owner eAI_SurvivorF_Eva<fa0f9530>) - ChamberFiredRepair - BARIMLoadedCharged<f5ea3ed0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:497
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:397
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:7883
+scripts/4_World/entities\dayzplayerimplement.c:2290
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6004
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-21 22:53:47
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Winchester70:15918 (owner eAI_SurvivorF_Eva<fa0f9530>) - ChamberRepair - BARIMLoadedCharged<f5ea3ed0> - state: 1 != weapon: 0
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:87
+scripts/4_World/entities\firearms\weaponfsm.c:194
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:413
+scripts/4_World/systems\inventory\dayzplayerinventory.c:296
+scripts/4_World/entities\dayzplayerimplement.c:1831
+scripts/4_World/entities\manbase\playerbase.c:3968
+scripts/4_World/entities\dayzplayerimplement.c:707
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8038
+scripts/4_World/entities\dayzplayerimplement.c:2309
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6004

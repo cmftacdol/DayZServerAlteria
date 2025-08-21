@@ -1,0 +1,18 @@
+Loot System Logs Active: 2025_8_21-20_24_51
+20_25_42 | INFO | Loot System has started
+20_25_42 | INFO | Room settings loaded successfully.
+20_25_42 | INFO | Box settings loaded successfully.
+20_25_42 | INFO | LockAllLootRooms called
+20_25_42 | INFO | Locking room: Mogilevka Shed
+20_25_42 | ERROR | Failed to lock LootRoomPosition door at position: <7738.310059, 215.813004, 5153.640137> with index: 0
+20_25_42 | INFO | Locking room: Electro Unit
+20_25_42 | ERROR | Failed to lock LootRoomPosition door at position: <9982.259766, 11.558100, 1888.770020> with index: 0
+20_25_42 | ERROR | Failed to lock LootRoomDoorsToLock door. No valid building found at position: <9982.259766, 11.558100, 1888.770020> with index: 1
+20_25_42 | INFO | Locking room: Dobroye Shed
+20_25_42 | ERROR | Failed to lock LootRoomPosition door at position: <13125.400391, 56.652802, 15016.200195> with index: 0
+20_25_42 | ERROR | Failed to lock LootRoomDoorsToLock door. No valid building found at position: <13125.400391, 56.652802, 15016.200195> with index: 1
+20_25_42 | INFO | Locking room: Serograd House
+20_25_42 | ERROR | Failed to lock LootRoomPosition door at position: <7535.439941, 142.802994, 12846.400391> with index: 2
+20_25_42 | ERROR | Failed to lock LootRoomDoorsToLock door. No valid building found at position: <7535.439941, 142.802994, 12846.400391> with index: 3
+20_25_42 | INFO | Locking room: Berezino Container
+20_25_42 | ERROR | Failed to lock LootRoomPosition door at position: <12697.799805, 7.199370, 9732.070313> with index: 0
