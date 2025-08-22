@@ -5584,3 +5584,13 @@
 [2025-08-21 22:47:31] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
 [2025-08-21 22:47:55] [AppID 221100] CAPIJobRequestUserStats - no stats data in server response, we must be up to date
 [2025-08-21 23:08:34] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2025-08-22 08:20:17] Client version: no bootstrapper found
+[2025-08-22 08:20:17] [AppID 221100] Loaded schema from disk.
+[2025-08-22 08:54:04] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed
+
+
+[2025-08-22 09:00:18] Client version: no bootstrapper found
+[2025-08-22 09:00:18] [AppID 221100] Loaded schema from disk.
+[2025-08-22 09:17:01] [AppID 221100] CAPIJobStoreUserStats::BInit() - no upload needed

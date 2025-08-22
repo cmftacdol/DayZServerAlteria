@@ -16,5 +16,26 @@
             "HatchbackWheel",
             "HatchbackWheel"
         ]
+    },
+    {
+        "VehicleName": "URAL_375_1964",
+        "VehicleParts": [
+            "SparkPlug",
+            "CarBattery",
+            "CarRadiator",
+            "HeadlightH7",
+            "HeadlightH7",
+            "URAL_375_1964_doors_driver",
+            "URAL_375_1964_doors_codriver",
+            "URAL_375_1964_doors_hood",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel",
+            "URAL_375_1964_Wheel"
+        ]
     }
 ]

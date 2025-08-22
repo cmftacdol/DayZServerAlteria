@@ -18,7 +18,7 @@
         "LootRoomDoorIndex": 0,
         "LootRoomCooldownTime": 60,
         "LootRoomDoorOpenTime": 5.0,
-        "LootRoomDoorCloseTime": 60,
+        "LootRoomDoorCloseTime": 1800,
         "LootRoomDoorCloseWarningFrom": 10,
         "LootRoomDoorsToLock": [
             {
@@ -99,11 +99,118 @@
             }
         ],
         "Defenders": [
-            "ZmbM_FarmerFat_Green",
-            "ZmbM_FarmerFat_Brown",
-            "ZmbF_JoggerSkinny_Red"
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland"
         ],
         "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 2
+        "DefendersSpawnRadius": 1
+    },
+    {
+        "LootRoomName": "Airfield Base",
+        "LootRoomSound": 0,
+        "LootRoomSoundActiveTime": 0,
+        "ServerMessageType": 0,
+        "RequiredEntryItem": [
+            "CBD_UnlockingSledge",
+            "CBD_LootroomC4"
+        ],
+        "DestroyEntryItem": 1,
+        "RequiredEntryItemDamage": 0.0,
+        "LootRoomPosition": [
+            6920.41,
+            28.8331,
+            2204.72
+        ],
+        "LootRoomDoorIndex": 2,
+        "LootRoomCooldownTime": 60,
+        "LootRoomDoorOpenTime": 5.0,
+        "LootRoomDoorCloseTime": 1800,
+        "LootRoomDoorCloseWarningFrom": 10,
+        "LootRoomDoorsToLock": [
+            {
+                "LootRoomPosition": [
+                    6920.41,
+                    28.8331,
+                    2204.72
+                ],
+                "LootRoomDoorIndex": 1
+            },
+            {
+                "LootRoomPosition": [
+                    6920.41,
+                    28.8331,
+                    2204.72
+                ],
+                "LootRoomDoorIndex": 0
+            }
+        ],
+        "RewardBoxes": [
+            {
+                "LootBoxClassName": "CBD_LootCrates_Large_Brown",
+                "LootBoxPosition": [
+                    6909.32,
+                    26.13,
+                    2213.88
+                ],
+                "LootBoxOrientation": [
+                    26.999799728393556,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 30,
+                "MaxLootRewards": 50,
+                "UseLootTableFileForLootRewards": 1,
+                "LootTableName": [
+                    "Tools"
+                ],
+                "LootRewards": []
+            },
+            {
+                "LootBoxClassName": "CBD_LootCrates_Large_Brown",
+                "LootBoxPosition": [
+                    6910.32,
+                    26.13,
+                    2198.88
+                ],
+                "LootBoxOrientation": [
+                    26.999799728393556,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 30,
+                "MaxLootRewards": 50,
+                "UseLootTableFileForLootRewards": 1,
+                "LootTableName": [
+                    "Tools"
+                ],
+                "LootRewards": []
+            },
+            {
+                "LootBoxClassName": "URAL_375_1964",
+                "LootBoxPosition": [
+                    6929.32,
+                    26.13,
+                    2206.88
+                ],
+                "LootBoxOrientation": [
+                    178.805786,
+                    0.0,
+                    0.0
+                ],
+                "MinLootRewards": 10,
+                "MaxLootRewards": 10,
+                "UseLootTableFileForLootRewards": 0,
+                "LootTableName": [],
+                "LootRewards": []
+            }
+        ],
+        "Defenders": [
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland"
+        ],
+        "DefendersToSpawnAmount": 40,
+        "DefendersSpawnRadius": 1
     }
 ]

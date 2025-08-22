@@ -3389,4 +3389,742 @@
 		</attachments>
 	</type>
 
+	<!-- begin loot chests spawnabletypes -->
+	<type name="SA_Loot_Chest_Green">
+		<cargo chance="0.60">
+			<item name="SA_Loot_Key_Blue" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="Funnel" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="Scale" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMechaismhandle" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMechanism" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressHandle" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMountPlate" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressBody" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressCasingholder" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="SodaCan_Pipsi" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Cola" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Spite" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SodaCan_Kvass" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Zucchini" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BakedBeansCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PeachesCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TacticalBaconCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SpaghettiCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SardinesCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TunaCan_Opened" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BoxCerealCrunchin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BoxCerealCrunchin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BoxCerealCrunchin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="WaterBottle" />
+		</cargo>
+		<cargo chance="1">
+			<item name="WaterBottle" />
+		</cargo>
+		<cargo chance="1">
+			<item name="WaterBottle" />
+		</cargo>
+		<cargo chance="1">
+			<item name="WaterBottle" />
+		</cargo>
+	</type>
+	<type name="SA_Loot_Chest_Blue">
+		<cargo chance="0.60">
+			<item name="SA_Loot_Key_Yellow" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Gunpowder" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="StandAloneSmelter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="StandAloneSmelter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="SalineBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BandageDressing" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BloodBagEmpty" />
+		</cargo>
+		<cargo chance="1">
+			<item name="BloodTestKit" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StartKitIV" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PurificationTablets" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CharcoalTablets" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PainkillerTablets" />
+		</cargo>
+		<cargo chance="1">
+			<item name="VitaminBottle" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TetracyclineAntibiotics" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsAnalgin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsNimesulid" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsParacetamol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsIbuprofen" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsNurofen" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsAmoxiclav" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsPiperacylin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsAmibaktam" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsPolisorb" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsMesalazin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsFtalazol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsNoopept" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsVikasol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsIrovit" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsAgteminol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsVenlafaxine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsRombiopental" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleKetarol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleFlemoclav" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleImipenem" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleMorphine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleGexobarbital" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleKetamin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleHeptral" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleMetoclopramid" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleActaparoxetine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleAmitriptyline" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleRifampicyne" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleZivirol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorPromidol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorTopoizomeraza" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorErytromixelin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorStomaproxidal" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorRabinucoline" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorAmfitalicyne" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorReanimatal" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSalveFinalgon" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSalveCapsicum" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSalveViprosal" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsMagnesiumSulfate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjePillsAdepress" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleAlcohol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleAmoxivan" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleNovacaine" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleMetoclopramid" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleNeirox" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleErythropoetin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleAdrenalin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleMetralindole" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleVaxicam" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleZerivax" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleRabivax" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleRabinoline" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeAmpouleNeirocetal" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorZivirol" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorAmoxiclav" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorNeirox" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorErythropoietin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeInjectorNovichek" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSyringeNew" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSyringeEmpty" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSurgicalKit" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSurgicalTool_White" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TerjeSurgicalTool_Ceramic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Thermometer" />
+		</cargo>
+	</type>
+	<type name="SA_Loot_Chest_Yellow">
+		<cargo chance="0.60">
+			<item name="SA_Loot_Key_Red" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PunchedCard" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NBCBootsGray" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NBCGlovesGray" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NBCHoodGray" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NBCJacketGray" />
+		</cargo>
+		<cargo chance="1">
+			<item name="NBCPantsGray" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask_Filter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask_Filter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask_Filter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask_Filter" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask_Filter" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+	</type>
+	<type name="SA_Loot_Chest_Red">
+		<cargo chance="0.60">
+			<item name="PunchedCard" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongRifleTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolCasingMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StrongPistolTipsMold" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="EmptyCrucible" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="1">
+			<item name="LargeGasCanister" />
+		</cargo>
+
+
+		<cargo chance="1">
+			<item name="HuntingOptic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="KashtanOptic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="KazuarOptic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="M68Optic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="ReflexOptic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="StarlightOptic" />
+		</cargo>
+		<cargo chance="1">
+			<item name="MK4Optic_black" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="MK4Optic_green" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="MK4Optic_tan" />
+		</cargo>
+
+
+		<cargo chance="1">
+			<item name="Ki_Suppressor_FaL" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_FaL_covered" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_SkS" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_SkS_covered" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_Mosin" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_Mosin_covered" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Suppressor_Saiga" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Akol_Magnifier" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Akol_Magnifier" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Akol_Magnifier" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Akol_Magnifier" />
+		</cargo>
+
+
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CanisterGasoline" />
+		</cargo>
+
+
+	</type>
+
+	<type name="SA_Loot_Chest_Break">
+		<cargo chance="0.15">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="CanisterGasoline" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Crowbar" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Shovel" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Screwdriver" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="Hacksaw" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Handsaw" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="NailBox" />
+		</cargo>
+		<cargo chance="0.75">
+			<item name="NailBox" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="EngineOil" />
+		</cargo>
+		<cargo chance="0.35">
+			<item name="Loftd_toolbelt" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="FirefighterAxe" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="PipeWrench" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="LugWrench" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="Wrench" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="MetalWire" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="BarbedWire" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="BarbedWire" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="TireRepairKit" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="ElectronicRepairKit" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="CarRadiator" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="CarBattery" />
+		</cargo>
+		<cargo chance="0.05">
+			<item name="TruckBattery" />
+		</cargo>
+		<cargo chance="0.85">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="0.55">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Battery9V" />
+		</cargo>
+		<cargo chance="0.02">
+			<item name="BatteryCharger" />
+		</cargo>
+		<cargo chance="0.02">
+			<item name="SparkPlug" />
+		</cargo>
+		<cargo chance="0.01">
+			<item name="GlowPlug" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Hammer" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="SledgeHammer" />
+		</cargo>
+		<cargo chance="0.15">
+			<item name="Pickaxe" />
+		</cargo>
+		<cargo chance="0.45">
+			<item name="MediumGasCanister" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="LargeGasCanister" />
+		</cargo>
+		<cargo chance="0.25">
+			<item name="LargeGasCanister" />
+		</cargo>
+	</type>
 </spawnabletypes>

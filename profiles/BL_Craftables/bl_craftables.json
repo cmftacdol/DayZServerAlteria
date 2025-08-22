@@ -2,7 +2,7 @@
     "ConfigVersion": "20",
     "AllowSitEmote": 1,
     "AllowSleepEmote": 1,
-    "AllowSleepingBag": 1,
+    "AllowSleepingBag": 0,
     "AllowImprovisedKits": 1,
     "AllowImprovisedTools": 1,
     "AllowCandle": 1,
