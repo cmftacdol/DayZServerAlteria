@@ -15225,7 +15225,7 @@
     <usage name="Military" />
   </type>
   <type name="NBCBootsYellow">
-   <nominal>0</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -15270,7 +15270,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="NBCHoodGray">
-   <nominal>0</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -15285,7 +15285,7 @@
     <usage name="Military" />
   </type>
   <type name="NBCHoodYellow">
-   <nominal>0</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -15300,7 +15300,7 @@
     <usage name="Firefighter" />
   </type>
   <type name="NBCJacketGray">
-   <nominal>0</nominal>
+    <nominal>0</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
     <min>0</min>
@@ -15387,8 +15387,10 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-    <value name="Tier3" />
+    <value name="Tier4" />
+    <value name="Tier5" />
     <usage name="Military" />
+    <usage name="Underground" />
   </type>
   <type name="Nail">
     <nominal>0</nominal>
