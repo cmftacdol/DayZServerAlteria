@@ -1,0 +1,32 @@
+Loot System Logs Active: 2025_8_28-16_47_30
+16_47_30 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_21-20_38_31.log
+16_48_29 | INFO | Loot System has started
+16_48_29 | INFO | Room settings loaded successfully.
+16_48_29 | INFO | Box settings loaded successfully.
+16_48_29 | INFO | LockAllLootRooms called
+16_48_29 | INFO | Locking room: South Port Industrial Base
+16_48_29 | INFO | Locking room: Airfield Base
+16_48_29 | INFO | Loot Box Deleted at position: <1984.750000, 15.565845, 564.257019>
+16_48_29 | INFO | Loot Box Deleted at position: <1984.665649, 15.565845, 570.450439>
+16_49_7 | INFO | Player and identity are valid on connect.
+16_49_25 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: LEE [SteamID: 76561198413928129]
+16_49_25 | INFO | Raycast hit surface at: <1985.308716, 25.048056, 555.282471>
+16_49_25 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <1985.308716, 25.048056, 555.282471>
+16_49_25 | INFO | Surface type at position <1985.308716, 25.048056, 555.282471> is concrete_ext
+16_49_25 | INFO | Raycast hit surface at: <1986.114136, 25.048056, 554.521362>
+16_49_25 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <1986.114136, 25.048056, 554.521362>
+16_49_25 | INFO | Surface type at position <1986.114136, 25.048056, 554.521362> is concrete_ext
+16_49_25 | INFO | Raycast hit surface at: <1985.563354, 25.048056, 554.590210>
+16_49_25 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <1985.563354, 25.048056, 554.590210>
+16_49_25 | INFO | Surface type at position <1985.563354, 25.048056, 554.590210> is concrete_ext
+16_49_25 | INFO | Spawning loot box at position: <1984.665649, 15.570000, 570.450439>
+16_49_25 | INFO | Random loot table selected from user setting file: Hunting
+16_49_25 | ERROR | Loot table not found in file: Hunting
+16_49_25 | ERROR | Failed to load loot from LootTables.json for table: Hunting
+16_49_25 | INFO | Spawning loot box at position: <1984.750000, 15.570000, 564.257019>
+16_49_25 | INFO | Random loot table selected from user setting file: Tools
+16_49_25 | ERROR | Loot table not found in file: Tools
+16_49_25 | ERROR | Failed to load loot from LootTables.json for table: Tools
+16_49_25 | INFO | Spawning loot box at position: <1993.319946, 15.570000, 565.531006>
+16_49_25 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1993.319946, 15.570000, 565.531006>
+16_49_25 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.

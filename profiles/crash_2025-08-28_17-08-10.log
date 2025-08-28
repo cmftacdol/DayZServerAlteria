@@ -1,0 +1,1047 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-08-28_17-08-10.log started at 28.08. 17:11:59
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:11:59
+[::JsonLoadFile] :: [ERROR] :: Cannot load data from "$profile:CBD_LootSystem\Settings\LootSystemSettings.json":
+JSON ERROR:
+Reading variable: data
+Expecting array
+At index 0, Expecting instance
+Reading variable: RewardBoxes
+Expecting array
+At index 0, Expecting instance
+Reading variable: LootRewards
+Expecting array
+At index 24, Expecting instance
+Reading variable: attachments
+Expecting array
+At index 0, Expecting instance
+Is not json object 
+
+Function: 'JsonLoadFile'
+Stack trace:
+scripts/3_Game/tools\jsonfileloader.c:129 Function JsonLoadFile
+CBD_LootRoomsSystem/Scripts/3_Game/settings\cbd_lootsystemsettings.c:174 Function Load
+CBD_LootRoomsSystem/Scripts/4_World/modules\cbd_cfmodule.c:24 Function InitializeModule
+scripts/3_Game/dayzgame.c:2919 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnUpdate
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:12
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:13
+NULL pointer to instance
+Class:      'ZmbM_OffshoreWorker_Base'
+Entity id:1261485
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:14
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:14
+NULL pointer to instance
+Class:      'ZmbM_MechanicSkinny_Base'
+Entity id:1261482
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:15
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:17
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:17
+NULL pointer to instance
+Class:      'ZmbM_MechanicSkinny_Base'
+Entity id:1261482
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:17
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:19
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:19
+NULL pointer to instance
+Class:      'ZmbM_MechanicSkinny_Base'
+Entity id:1261482
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:20
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:22
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:22
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:24
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:25
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:27
+NULL pointer to instance
+Class:      'ZmbF_MechanicNormal_Base'
+Entity id:1261475
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:27
+NULL pointer to instance
+Class:      'ZmbF_BlueCollarFat_Base'
+Entity id:1261467
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:13:59
+NULL pointer to instance
+Class:      'Utopia_HeliCrashWreckBase'
+Entity id:0
+
+Function: 'EOnInit#1438115'
+Stack trace:
+utopia_patrol_helicopter_scripts/L4SbwPx4/ SuWu1KU /dntQGuBG/﻿﻿/L2ekv8u6/zZczjFyV/em9tiEfZ.x zUJN  :170 Function EOnInit#1438115
+utopia_patrol_helicopter_scripts/L4SbwPx4/ SuWu1KU /dntQGuBG/﻿﻿/L2ekv8u6/zZczjFyV/em9tiEfZ.x zUJN  :152 Function Utopia_HeliCrashWreckBase@2889#315
+utopia_patrol_helicopter_scripts/Cl Gtygh/ w0G dXkw/Y6Zo5Cqo/﻿/UwhiaPTs/L GbjNgl/xEVpKHFd.dcFNX  r:296 Function HeliExpl
+utopia_patrol_helicopter_scripts/Cl Gtygh/ w0G dXkw/Y6Zo5Cqo/﻿/UwhiaPTs/L GbjNgl/xEVpKHFd.dcFNX  r:281 Function StartFall
+scripts/3_Game/dayzgame.c:2919 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnUpdate
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:14
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:14
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:14
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:14
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:14
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:16
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:16
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:16
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:16
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:16
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:18
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:18
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:18
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:18
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:18
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:20
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:20
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:20
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:20
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:20
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:22
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:22
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:22
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:22
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:22
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:24
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:24
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:24
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:24
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:24
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:26
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259224
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:26
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259215
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:26
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259214
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:26
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259225
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:14:26
+NULL pointer to instance
+Class:      'ZmbM_PatrolNormal_Base'
+Entity id:1259221
+
+Function: 'CheckBuildingDoors'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:103 Function CheckBuildingDoors
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:67 Function ModCommandHandlerInside
+scripts/4_World/entities\creatures\infected\zombiebase.c:235 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\creatures\infected\zombiebase.c:168 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\zombiebase_fightlogic.c:23 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:17:04
+NULL pointer to instance. Variable '(null)' during call 'array<Man>.Count'
+Class:      'UtopiaAirdropModule'
+Function: 'AirdropEventHandler'
+Stack trace:
+utopia_airdrop_public_scripts/zxE9wEIe/ SdgpBibw/OZs 5yxq/﻿﻿﻿﻿/SHTS1KtR/naLgkkHj/FgPCh7d7.SMzhWPjq:45 Function AirdropEventHandler
+utopia_airdrop_public_scripts/zxE9wEIe/ SdgpBibw/OZs 5yxq/﻿﻿﻿﻿/SHTS1KtR/naLgkkHj/FgPCh7d7.SMzhWPjq:39 Function StartEventScheduler
+scripts/3_Game/dayzgame.c:2919 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnUpdate
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 28.08 2025 17:17:59
+Unhandled exception
+
+Program: G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff6a7892064 at 0x0
+
+SymGetSymFromAddr:487, addr:0x7ff6a7892064
+SymGetSymFromAddr:487, addr:0x7ff6a7891eb1
+SymGetSymFromAddr:487, addr:0x7ff6a7891e44
+SymGetSymFromAddr:487, addr:0x7ff6a7b46858
+SymGetSymFromAddr:487, addr:0x7ff6a7b4d5ae
+SymGetSymFromAddr:487, addr:0x7ff6a7b30851
+SymGetSymFromAddr:487, addr:0x7ff6a7b2da52
+SymGetSymFromAddr:487, addr:0x7ff6a7b28814
+SymGetSymFromAddr:487, addr:0x7ff6a795fdfa
+SymGetSymFromAddr:487, addr:0x7ff6a79c41ad
+SymGetSymFromAddr:487, addr:0x7ff6a79c465e
+SymGetSymFromAddr:487, addr:0x7ff6a79d109e
+SymGetSymFromAddr:487, addr:0x7ff6a7c20152
+[CDPCreateServer]: ??? addr:0x7ff6a8077df1
+[CDPCreateServer]: ??? addr:0x7ff6a8077b0d
+SymGetSymFromAddr:487, addr:0x7ff6a7acb77b
+[CDPCreateServer]: ??? addr:0x7ff6a8079ea8
+SymGetSymFromAddr:487, addr:0x7ff6a7acb6cf
+[CDPCreateServer]: ??? addr:0x7ff6a807a7cd
+SymGetSymFromAddr:487, addr:0x7ff6a7bf6d4e
+[CDPCreateServer]: ??? addr:0x7ff6a81d90ce
+[BaseThreadInitThunk]: ??? addr:0x7ffb82147374
+[RtlUserThreadStart]: ??? addr:0x7ffb8231cc91
+[RtlUserThreadStart]: ??? addr:0x7ffb8231cc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@Building Fortifications;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Zens Zombie Door Bangers;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI; profiles profiles 

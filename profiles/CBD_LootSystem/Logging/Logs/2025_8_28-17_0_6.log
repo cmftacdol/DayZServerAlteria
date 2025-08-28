@@ -1,0 +1,31 @@
+Loot System Logs Active: 2025_8_28-17_0_6
+17_0_6 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_21-21_28_33.log
+17_1_2 | INFO | Loot System has started
+17_1_2 | INFO | Room settings loaded successfully.
+17_1_2 | INFO | Box settings loaded successfully.
+17_1_2 | INFO | LockAllLootRooms called
+17_1_2 | INFO | Locking room: South Port Industrial Base
+17_1_2 | INFO | Locking room: Airfield Base
+17_1_2 | INFO | Loot Box Deleted at position: <1984.665649, 15.565874, 570.450439>
+17_1_2 | INFO | Loot Box Deleted at position: <1984.750000, 15.565845, 564.257019>
+17_1_2 | INFO | Loot Box Deleted at position: <1993.319336, 15.658902, 565.533386>
+17_1_43 | INFO | Player and identity are valid on connect.
+17_2_0 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: LEE [SteamID: 76561198413928129]
+17_2_0 | INFO | Raycast hit surface at: <1985.675049, 25.048056, 554.422913>
+17_2_0 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <1985.675049, 25.048056, 554.422913>
+17_2_0 | INFO | Surface type at position <1985.675049, 25.048056, 554.422913> is concrete_ext
+17_2_0 | INFO | Raycast hit surface at: <1986.098877, 28.959200, 554.031921>
+17_2_0 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <1986.098877, 28.959200, 554.031921>
+17_2_0 | INFO | Surface type at position <1986.098877, 28.959200, 554.031921> is concrete_ext
+17_2_0 | INFO | Raycast hit surface at: <1985.945801, 25.048056, 554.466187>
+17_2_0 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <1985.945801, 25.048056, 554.466187>
+17_2_0 | INFO | Surface type at position <1985.945801, 25.048056, 554.466187> is concrete_ext
+17_2_0 | INFO | Spawning loot box at position: <1984.665649, 15.570000, 570.450439>
+17_2_0 | INFO | Random loot table selected from user setting file: AllRandom
+17_2_0 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1984.665649, 15.570000, 570.450439>
+17_2_0 | INFO | Spawning loot box at position: <1984.750000, 15.570000, 564.257019>
+17_2_0 | INFO | Random loot table selected from user setting file: AllRandom
+17_2_0 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1984.750000, 15.570000, 564.257019>
+17_2_0 | INFO | Spawning loot box at position: <1993.319946, 15.570000, 565.531006>
+17_2_0 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1993.319946, 15.570000, 565.531006>
+17_2_0 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.

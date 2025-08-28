@@ -2413,7 +2413,8 @@
         </attachments>
     </type>
 
-    <!--- MOUNTS AND SCOPES -->
+    <!---
+    MOUNTS AND SCOPES -->
 
     <!-- Vanilla bolt and break action rifles: -->
     <type name="CZ527">
@@ -2539,6 +2540,145 @@
         <attachments preset="needle7" />
         <attachments preset="needle8" />
     </type>
+
+
+    <type name="InediaPain_FirstAidKit_ColorBase">
+        <tag name="shelves" />
+        <cargo chance="0.4">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="StartKitIV" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="BloodBagEmpty" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="BloodTestKit" />
+        </cargo>
+        <attachments chance="0.05">
+            <item name="PainkillerTablets" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Calcium" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Tranexam" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="BandageDressing" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Epinephrine" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_SurgicalKit" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="SalineBagIV" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="IodineTincture" />
+        </attachments>
+    </type>
+
+    <type name="InediaPain_FirstAidCase_ColorBase">
+        <tag name="shelves" />
+        <cargo chance="0.4">
+            <item name="BandageDressing" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="StartKitIV" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="BloodBagEmpty" />
+        </cargo>
+        <cargo chance="0.2">
+            <item name="BloodTestKit" />
+        </cargo>
+        <attachments chance="0.05">
+            <item name="InediaPain_Tramadol" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Tranexam" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Calcium" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Sorbifer" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_Metoclopramide" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="CharcoalTablets" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="TetracyclineAntibiotics" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="PainkillerTablets" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_SurgicalKit" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_SurgicalKit" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_SplintKit" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="SalineBagIV" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="BloodBagEmpty" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="StartKitIV" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Rag" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="IodineTincture" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="BandageDressing" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="BandageDressing" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="BandageDressing" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="InediaPain_HemostaticDressing" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Morphine" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Epinephrine" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Epinephrine" />
+        </attachments>
+        <attachments chance="0.05">
+            <item name="Epinephrine" />
+        </attachments>
+    </type>
+
+    <type name="InediaPain_SurgicalKit">
+        <damage min="0.0" max="0.0" />
+    </type>
+
+    <type name="InediaPain_HemostaticDressing">
+        <damage min="0.0" max="0.0" />
+    </type>
+
+    <!-- ... -->
 
 
 </spawnabletypes>

@@ -28,5 +28,18 @@
 
 	<!-- RAG END -->
 
+	<!-- ... -->
+	<cargo chance="0.35" name="toolsMedic">
+		<!-- ... -->
+		<item name="InediaPain_HemostaticDressing" chance="0.2" />
+		<item name="InediaPain_Tramadol" chance="0.2" />
+		<item name="InediaPain_Tranexam" chance="0.2" />
+		<item name="InediaPain_Calcium" chance="0.2" />
+		<item name="InediaPain_Metoclopramide" chance="0.2" />
+		<item name="InediaPain_Sorbifer" chance="0.2" />
+		<item name="InediaPain_SurgicalKit" chance="0.2" />
+		<item name="InediaPain_SplintKit" chance="0.2" />
+	</cargo>
+	<!-- ... -->
 
 </randompresets>

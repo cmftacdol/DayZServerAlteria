@@ -1,5 +1,5 @@
 {
-    "m_Version": 24,
+    "m_Version": 25,
     "Enabled": 1,
     "FormationScale": -1.0,
     "DespawnTime": 600.0,
@@ -14,6 +14,34 @@
     "DamageMultiplier": -1.0,
     "DamageReceivedMultiplier": -1.0,
     "LoadBalancingCategories": {
+        "Example": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "Quest": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": -1
+            }
+        ],
+        "ObjectPatrol": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 5
+            }
+        ],
+        "HelicopterWreck": [
+            {
+                "MinPlayers": 0,
+                "MaxPlayers": 255,
+                "MaxPatrols": 3
+            }
+        ],
         "Global": [
             {
                 "MinPlayers": 0,
@@ -46,34 +74,6 @@
                 "MaxPatrols": 0
             }
         ],
-        "Example": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": -1
-            }
-        ],
-        "Quest": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": -1
-            }
-        ],
-        "ObjectPatrol": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": 5
-            }
-        ],
-        "HelicopterWreck": [
-            {
-                "MinPlayers": 0,
-                "MaxPlayers": 255,
-                "MaxPatrols": 3
-            }
-        ],
         "ContaminatedArea": [
             {
                 "MinPlayers": 0,
@@ -89,7 +89,7 @@
             }
         ]
     },
-    "ObjectPatrols": [
+    "Patrols": [
         {
             "Name": "",
             "Persist": 0,
@@ -120,11 +120,13 @@
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
-            "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "HelicopterWreck",
-            "ClassName": "Wreck_UH1Y"
+            "ObjectClassName": "Wreck_UH1Y",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "",
@@ -156,11 +158,13 @@
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 20.0,
             "Chance": 1.0,
-            "WaypointInterpolation": "",
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "HelicopterWreck",
-            "ClassName": "Wreck_Mi8_Crashed"
+            "ObjectClassName": "Wreck_Mi8_Crashed",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "",
@@ -191,12 +195,14 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "Land_Wreck_sed01_aban1_police"
+            "ObjectClassName": "Land_Wreck_sed01_aban1_police",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "",
@@ -227,12 +233,14 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "Land_Wreck_sed01_aban2_police"
+            "ObjectClassName": "Land_Wreck_sed01_aban2_police",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "",
@@ -263,12 +271,14 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "Land_Wreck_hb01_aban1_police"
+            "ObjectClassName": "Land_Wreck_hb01_aban1_police",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
         },
         {
             "Name": "",
@@ -299,15 +309,15 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 5.0,
             "MaxSpreadRadius": 10.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
-            "ClassName": "Land_Wreck_hb01_aban2_police"
-        }
-    ],
-    "Patrols": [
+            "ObjectClassName": "Land_Wreck_hb01_aban2_police",
+            "WaypointInterpolation": "",
+            "UseRandomWaypointAsStartPoint": 0,
+            "Waypoints": []
+        },
         {
             "Name": "",
             "Persist": 0,
@@ -337,11 +347,12 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
+            "ObjectClassName": "",
+            "WaypointInterpolation": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -395,11 +406,12 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
+            "ObjectClassName": "",
+            "WaypointInterpolation": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [
@@ -453,11 +465,12 @@
             "DespawnRadius": -2.0,
             "MinSpreadRadius": 1.0,
             "MaxSpreadRadius": 100.0,
-            "Chance": 0.10,
-            "WaypointInterpolation": "",
+            "Chance": 0.10000000149011612,
             "DespawnTime": -1.0,
             "RespawnTime": -2.0,
             "LoadBalancingCategory": "",
+            "ObjectClassName": "",
+            "WaypointInterpolation": "",
             "UseRandomWaypointAsStartPoint": 1,
             "Waypoints": [
                 [

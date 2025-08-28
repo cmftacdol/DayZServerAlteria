@@ -1,5 +1,5 @@
 {
-    "m_Version": 14,
+    "m_Version": 15,
     "AccuracyMin": 85.0,
     "AccuracyMax": 90.0,
     "ThreatDistanceLimit": 150.0,
@@ -21,5 +21,9 @@
     "LogAIHitBy": 1,
     "LogAIKilled": 1,
     "EnableZombieVehicleAttackHandler": 1,
-    "EnableZombieVehicleAttackPhysics": 1
+    "EnableZombieVehicleAttackPhysics": 1,
+    "LightingConfigMinNightVisibilityMeters": {
+        "0": 100.0,
+        "1": 10.0
+    }
 }

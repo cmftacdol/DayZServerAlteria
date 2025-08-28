@@ -915,8 +915,8 @@
                     "ClassName": "Ammo_308WinTracer",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.5,
-                        "Max": 0.7
+                        "Min": 0.10,
+                        "Max": 0.50
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -961,8 +961,8 @@
                     "ClassName": "Ammo_762x54Tracer",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 1.09,
-                        "Max": 1.09
+                        "Min": 0.10,
+                        "Max": 0.50
                     },
                     "Health": [],
                     "InventoryAttachments": [],

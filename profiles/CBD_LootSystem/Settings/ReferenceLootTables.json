@@ -1,0 +1,2216 @@
+{
+    "Military": [
+        {
+            "chance": 0.40,
+            "className": "AK74",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "AK101",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "AKM",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "M4A1",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "FAL",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "M14",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "M79",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "SVD",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "VSS",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "AK_Suppressor",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "ACOGOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "ACOGOptic_6x",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_545x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_556x45",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_762x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_762x54",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_9x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "BDUJacket",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "BDUPants",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "TacticalShirt",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "CombatBoots",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "MilitaryBeret",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "BallisticHelmet_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "BallisticHelmet_Green",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "TacticalHelmet",
+            "quantity": 1,
+            "attachments": [
+                "NightVisionGoggles"
+            ]
+        },
+        {
+            "chance": 0.25,
+            "className": "AssaultBag_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "AssaultBag_Green",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips40mm",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips40mmRedSmoke",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips40mmGreenSmoke",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips40mmWhiteSmoke",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips40mmBlackSmoke",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "RDXCompound",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsRubberSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCraftedShotgunShell",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CasingCraftedShotgunShells",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AM_Improvised_Grenade",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AM_Smoke_Improvised_Grenade_Red",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AM_Smoke_Improvised_Grenade_Green",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AM_Smoke_Improvised_Grenade_White",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AM_Smoke_Improvised_Grenade_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressCasingholder",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressBody",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressMountPlate",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressHandle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressMechanism",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressMechaismhandle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Scale",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Funnel",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips545x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing545x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing545x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep545x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips556x45",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing556x45",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing556x45",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep556x45",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips762x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing762x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing762x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep762x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips308Win",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing308Win",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing308Win",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep308Win",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips762x54",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing762x54",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing762x54",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep762x54",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips9x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing9x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing9x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep9x39",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips22LR",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing22LR",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing22LR",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep22LR",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CasingSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasingSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PrepSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsBuckshot",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CasingBuckshot",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasingBuckshot",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PrepBuckshot",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsRubber45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PrepRubber45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsRubber9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PrepRubber9X19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "TipsRubber380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PrepRubber380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Gunpowder",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "RubberBox_380ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "RubberBox_45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "RubberBox_9x19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ammo_45ACPRubber",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ammo_9x19Rubber",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ammo_380Rubber",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "ScrapRubber",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchlegs",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchEmpty",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkBenchPressAttached",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkBenchScalePressAttached",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchScale",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchFunnel",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchScaleFunnel",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkbenchPressFunnel",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "AmmoWorkBenchCompleted",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "UnMoveableammoWorkbenchCompleted",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressCompleted",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressWdie",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PressWdieWattachmentplate",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Presswdiemechismhandle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PresswithAttachmentplate",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PresswithMechanism",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "PresswithMechanismhandle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "StandAloneSmelter",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Sulfur20LbBag",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Potassium_Nitrate",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Potassium_Nitrate_Charcoal",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "StrongRifleCasingMold",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "StrongRifleTipsMold",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "StrongPistolCasingMold",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "StrongPistolTipsMold",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "EmptyCrucible",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CrucibleOreLead",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CrucibleMoltenBrass",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CrucibleFilledCasing",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "CrucibleFilledTips",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Tips357",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Casing357",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "FilledCasing357",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Prep357Magnum",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_FaL",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_FaL_covered",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_SkS",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_SkS_covered",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_Mosin",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_Mosin_covered",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40000001192092896,
+            "className": "Ki_Suppressor_Saiga",
+            "quantity": 1,
+            "attachments": []
+        }
+    ],
+    "Police": [
+        {
+            "chance": 0.40,
+            "className": "MP5K",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "CZ61",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "SKS",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Izh18",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Izh43Shotgun",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "LongHorn",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Mlock19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Colt1911",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Deagle",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Magnum",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "PistolSuppressor",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "UniversalLight",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.20,
+            "className": "PistolOptic",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_9x19",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_45ACP",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_357",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_308Win",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_12gaPellets",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.40,
+            "className": "Ammo_12gaSlug",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "PoliceJacket",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "PolicePants",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "PoliceCap",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "PoliceVest",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "BallisticHelmet_Blue",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "Balaclava_Black",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "ChestHolster",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "PoliceBag",
+            "quantity": 1,
+            "attachments": []
+        },
+        {
+            "chance": 0.25,
+            "className": "SmershBag",
+            "quantity": 1,
+            "attachments": []
+        }
+    ],
+    "Hunting": [
+        [
+            {
+                "chance": 0.40,
+                "className": "Izh18",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Izh43Shotgun",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BK18",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BK43",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Winchester70",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Mosin9130",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SKS",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Repeater",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Crossbow",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "HuntingOptic",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "PU_Scope",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "HuntingSuppressor",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_762x54",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_308Win",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_357",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_22",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_12gaPellets",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Ammo_12gaSlug",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HuntingJacket_Brown",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HuntingJacket_Spring",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HuntingPants_Brown",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HuntingPants_Spring",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HunterBoots_Brown",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HunterBoots_Spring",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "Ushanka_Black",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "HuntingBag",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "MountainBag_Green",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "CamoNet",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "Binoculars",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "Rangefinder",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "Compass",
+                "quantity": 1,
+                "attachments": []
+            }
+        ]
+    ],
+    "Tools": [
+        [
+            {
+                "chance": 0.40,
+                "className": "Hatchet",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "FirefighterAxe",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "FirefighterAxe_Black",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "FirefighterAxe_Green",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WoodAxe",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SplittingAxe",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Crowbar",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Pickaxe",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SledgeHammer",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Hammer",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Shovel",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "FieldShovel",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Hacksaw",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Wrench",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Pliers",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Screwdriver",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "HandDrillKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DuctTape",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Rope",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "MetalWire",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "CarBattery",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TruckBattery",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SparkPlug",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "GlowPlug",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TireRepairKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "LugWrench",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "CanisterGasoline",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "CarRadiator",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "HeadlightH7",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "HeadlightH7_Box",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "EpoxyPutty",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "NailBox",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Nails",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WoodenPlank",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "MetalPlate",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BarbedWire",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet_Blue",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet_Lime",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet_Red",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet_White",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "ConstructionHelmet_Yellow",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WorkingGloves_Beige",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WorkingGloves_Black",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WorkingGloves_Brown",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "WorkingGloves_Yellow",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "GasCanister",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "LargeGasCanister",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SmallGasCanister",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "MediumGasCanister",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "PortableGasLamp",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "GasStove",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BurlapSack",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Netting",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "FishingHook",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "OilBarrel",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Black",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Blue",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Green",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Orange",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Pink",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DryBag_Yellow",
+                "quantity": 1,
+                "attachments": []
+            }
+        ]
+    ],
+    "Medical": [
+        [
+            {
+                "chance": 0.40,
+                "className": "BandageDressing",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Rag",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DisinfectantSpray",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "DisinfectantAlcohol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "SurgicalGloves_Blue",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.35,
+                "className": "CharcoalTablets",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.35,
+                "className": "TetracyclineAntibiotics",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.35,
+                "className": "VitaminBottle",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.35,
+                "className": "PainkillerTablets",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Epinephrine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Morphine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "StartKitIV",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BloodTestKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "SalineBagIV",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BloodBagEmpty",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "BloodBagFull",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "Syringe",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "NBCGlovesGray",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "NBCBootsGray",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "NBCPantsGray",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "NBCJacketGray",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "GasMask",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "Thermometer",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "Defibrillator",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "SurgicalMask",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.20,
+                "className": "Stethoscope",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "FirstAidKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "MedievalBag",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.25,
+                "className": "CourierBag",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsAnalgin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsNimesulid",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsParacetamol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsIbuprofen",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsNurofen",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsPiperacylin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsAmibaktam",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsPolisorb",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsMesalazin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsFtalazol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsNoopept",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsVikasol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsIrovit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsAgteminol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsVenlafaxine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsRombiopental",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleKetarol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleFlemoclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleImipenem",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleMorphine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleGexobarbital",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleKetamin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleHeptral",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleMetoclopramid",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleActaparoxetine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleAmitriptyline",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleRifampicyne",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorPromidol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorTopoizomeraza",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorErytromixelin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorStomaproxidal",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorRabinucoline",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorAmfitalicyne",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorReanimatal",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSalveFinalgon",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSalveCapsicum",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSalveViprosal",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsMagnesiumSulfate",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjePillsAdepress",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleAlcohol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleAmoxivan",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleNovacaine",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleMetoclopramid",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleNeirox",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleErythropoetin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleAdrenalin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleMetralindole",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleVaxicam",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleZerivax",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleRabivax",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleRabinoline",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeAmpouleNeirocetal",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorZivirol",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorAmoxiclav",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorNeirox",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorErythropoietin",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeInjectorNovichek",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSyringeNew",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSyringeEmpty",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSurgicalKit",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSurgicalTool_White",
+                "quantity": 1,
+                "attachments": []
+            },
+            {
+                "chance": 0.40,
+                "className": "TerjeSurgicalTool_Ceramic",
+                "quantity": 1,
+                "attachments": []
+            }
+        ]
+    ]
+}

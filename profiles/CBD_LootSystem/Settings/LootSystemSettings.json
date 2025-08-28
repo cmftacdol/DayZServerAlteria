@@ -51,11 +51,11 @@
                     0.0,
                     0.0
                 ],
-                "MinLootRewards": 30,
-                "MaxLootRewards": 50,
+                "MinLootRewards": 1,
+                "MaxLootRewards": 100,
                 "UseLootTableFileForLootRewards": 1,
                 "LootTableName": [
-                    "Tools"
+                    "Military"
                 ],
                 "LootRewards": []
             },
@@ -71,11 +71,11 @@
                     0.0,
                     0.0
                 ],
-                "MinLootRewards": 30,
-                "MaxLootRewards": 50,
+                "MinLootRewards": 1,
+                "MaxLootRewards": 100,
                 "UseLootTableFileForLootRewards": 1,
                 "LootTableName": [
-                    "Tools"
+                    "Military"
                 ],
                 "LootRewards": []
             },
@@ -101,10 +101,55 @@
         "Defenders": [
             "ZmbM_usSoldier_Officer_Desert",
             "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
             "ZmbM_usSoldier_normal_Woodland"
         ],
         "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 1
+        "DefendersSpawnRadius": 40
     },
     {
         "LootRoomName": "Airfield Base",
@@ -158,11 +203,11 @@
                     0.0,
                     0.0
                 ],
-                "MinLootRewards": 30,
-                "MaxLootRewards": 50,
+                "MinLootRewards": 1,
+                "MaxLootRewards": 100,
                 "UseLootTableFileForLootRewards": 1,
                 "LootTableName": [
-                    "Tools"
+                    "Military"
                 ],
                 "LootRewards": []
             },
@@ -178,11 +223,11 @@
                     0.0,
                     0.0
                 ],
-                "MinLootRewards": 30,
-                "MaxLootRewards": 50,
+                "MinLootRewards": 1,
+                "MaxLootRewards": 100,
                 "UseLootTableFileForLootRewards": 1,
                 "LootTableName": [
-                    "Tools"
+                    "Military"
                 ],
                 "LootRewards": []
             },
@@ -208,9 +253,54 @@
         "Defenders": [
             "ZmbM_usSoldier_Officer_Desert",
             "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
+            "ZmbM_usSoldier_normal_Woodland",
+            "ZmbM_usSoldier_Officer_Desert",
+            "ZmbM_usSoldier_normal_Desert",
             "ZmbM_usSoldier_normal_Woodland"
         ],
         "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 1
+        "DefendersSpawnRadius": 40
     }
 ]

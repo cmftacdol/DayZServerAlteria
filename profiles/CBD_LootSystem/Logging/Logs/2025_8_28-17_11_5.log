@@ -1,0 +1,7 @@
+Loot System Logs Active: 2025_8_28-17_11_5
+17_11_5 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_21-21_46_11.log
+17_11_58 | INFO | Loot System has started
+17_11_59 | INFO | Room settings loaded successfully.
+17_11_59 | INFO | Box settings loaded successfully.
+17_11_59 | INFO | LockAllLootRooms called
+17_12_40 | INFO | Player and identity are valid on connect.

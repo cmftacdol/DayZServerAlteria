@@ -5,7 +5,7 @@
     "minZombiePerEvent": 1,
     "safeZonePositions": "",
     "excludedBuildings": "Land_Misc_Greenhouse, Land_Misc_Polytunnel, Land_FuelStation_Build, Land_Guardhouse, Land_Shed_M1, Land_Shed_W1, Land_Wreck_Caravan_MRust, Land_Wreck_Caravan_WBrown, Land_Container_1Ao, Land_Container_1Aoh,Land_Container_1Bo, Land_Container_1Boh, Land_Container_1Mo, Land_Container_1Moh, Land_Train_Wagon_Box, Land_City_Stand_News2, Land_City_Store, Land_Lunapark_Shooting_Gallery, Land_Misc_Toilet_Mobile, Land_City_Stand_Grocery, Land_City_Stand_FastFood, Land_Boathouse",
-    "exclusiveBuildings": "",
+    "exclusiveBuildings": "Land_Underground_Storage_Prison,Land_Prison_Main",
     "playerHistoryMultiplier": 5.0,
     "groupHistoryMultiplier": 10.0,
     "zombieClassName": [

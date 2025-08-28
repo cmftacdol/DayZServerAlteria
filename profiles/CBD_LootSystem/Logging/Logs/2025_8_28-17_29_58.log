@@ -1,0 +1,147 @@
+Loot System Logs Active: 2025_8_28-17_29_58
+17_29_58 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_21-22_2_33.log
+17_30_52 | INFO | Loot System has started
+17_30_52 | INFO | Room settings loaded successfully.
+17_30_52 | INFO | Box settings loaded successfully.
+17_30_52 | INFO | LockAllLootRooms called
+17_30_52 | INFO | Locking room: South Port Industrial Base
+17_30_52 | INFO | Locking room: Airfield Base
+17_30_52 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+17_30_52 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+17_30_52 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+17_30_52 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+17_30_52 | INFO | Loot Box Deleted at position: <6929.325684, 26.342670, 2206.844971>
+17_31_31 | INFO | Player and identity are valid on connect.
+17_31_46 | INFO | UnlockLootRoom: Loot room 'Airfield Base' unlocked by Player: LEE [SteamID: 76561198413928129]
+17_31_46 | INFO | Raycast hit surface at: <6949.452637, 26.293373, 2206.488037>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6949.452637, 26.293373, 2206.488037>
+17_31_46 | INFO | Surface type at position <6949.452637, 26.293373, 2206.488037> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6936.531738, 26.129999, 2174.261963>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6936.531738, 26.129999, 2174.261963>
+17_31_46 | INFO | Surface type at position <6936.531738, 26.129999, 2174.261963> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6932.258301, 26.264978, 2211.432129>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6932.258301, 26.264978, 2211.432129>
+17_31_46 | INFO | Surface type at position <6932.258301, 26.264978, 2211.432129> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6922.473145, 26.264978, 2202.405518>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6922.473145, 26.264978, 2202.405518>
+17_31_46 | INFO | Surface type at position <6922.473145, 26.264978, 2202.405518> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6918.921875, 26.129999, 2182.404297>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6918.921875, 26.129999, 2182.404297>
+17_31_46 | INFO | Surface type at position <6918.921875, 26.129999, 2182.404297> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6938.574707, 26.129999, 2188.357178>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6938.574707, 26.129999, 2188.357178>
+17_31_46 | INFO | Surface type at position <6938.574707, 26.129999, 2188.357178> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6902.208008, 26.129999, 2191.798096>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6902.208008, 26.129999, 2191.798096>
+17_31_46 | INFO | Surface type at position <6902.208008, 26.129999, 2191.798096> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6912.736328, 26.129999, 2236.859619>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6912.736328, 26.129999, 2236.859619>
+17_31_46 | INFO | Surface type at position <6912.736328, 26.129999, 2236.859619> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6945.060547, 26.129999, 2196.492432>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6945.060547, 26.129999, 2196.492432>
+17_31_46 | INFO | Surface type at position <6945.060547, 26.129999, 2196.492432> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6914.976563, 26.264978, 2200.541504>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6914.976563, 26.264978, 2200.541504>
+17_31_46 | INFO | Surface type at position <6914.976563, 26.264978, 2200.541504> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6920.391113, 26.264978, 2196.041992>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6920.391113, 26.264978, 2196.041992>
+17_31_46 | INFO | Surface type at position <6920.391113, 26.264978, 2196.041992> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6912.480957, 26.264978, 2199.370605>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6912.480957, 26.264978, 2199.370605>
+17_31_46 | INFO | Surface type at position <6912.480957, 26.264978, 2199.370605> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6904.860352, 26.129999, 2219.296875>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6904.860352, 26.129999, 2219.296875>
+17_31_46 | INFO | Surface type at position <6904.860352, 26.129999, 2219.296875> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6921.086914, 26.129999, 2223.507080>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6921.086914, 26.129999, 2223.507080>
+17_31_46 | INFO | Surface type at position <6921.086914, 26.129999, 2223.507080> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6940.568848, 26.129999, 2210.570313>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6940.568848, 26.129999, 2210.570313>
+17_31_46 | INFO | Surface type at position <6940.568848, 26.129999, 2210.570313> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6917.722168, 26.264978, 2199.524902>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6917.722168, 26.264978, 2199.524902>
+17_31_46 | INFO | Surface type at position <6917.722168, 26.264978, 2199.524902> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6906.593750, 26.264978, 2208.334717>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6906.593750, 26.264978, 2208.334717>
+17_31_46 | INFO | Surface type at position <6906.593750, 26.264978, 2208.334717> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6919.961914, 26.264978, 2200.632813>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6919.961914, 26.264978, 2200.632813>
+17_31_46 | INFO | Surface type at position <6919.961914, 26.264978, 2200.632813> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6945.948730, 26.129999, 2220.680664>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6945.948730, 26.129999, 2220.680664>
+17_31_46 | INFO | Surface type at position <6945.948730, 26.129999, 2220.680664> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6901.532227, 26.129999, 2178.909668>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6901.532227, 26.129999, 2178.909668>
+17_31_46 | INFO | Surface type at position <6901.532227, 26.129999, 2178.909668> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6906.900391, 26.264978, 2212.170898>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6906.900391, 26.264978, 2212.170898>
+17_31_46 | INFO | Surface type at position <6906.900391, 26.264978, 2212.170898> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6911.001953, 26.129999, 2180.166016>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6911.001953, 26.129999, 2180.166016>
+17_31_46 | INFO | Surface type at position <6911.001953, 26.129999, 2180.166016> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6938.720703, 26.129999, 2217.769287>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6938.720703, 26.129999, 2217.769287>
+17_31_46 | INFO | Surface type at position <6938.720703, 26.129999, 2217.769287> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6901.075195, 26.129999, 2208.958740>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6901.075195, 26.129999, 2208.958740>
+17_31_46 | INFO | Surface type at position <6901.075195, 26.129999, 2208.958740> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6955.712402, 26.129999, 2194.128906>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6955.712402, 26.129999, 2194.128906>
+17_31_46 | INFO | Surface type at position <6955.712402, 26.129999, 2194.128906> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6915.960449, 26.264978, 2207.006104>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6915.960449, 26.264978, 2207.006104>
+17_31_46 | INFO | Surface type at position <6915.960449, 26.264978, 2207.006104> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6915.962402, 26.264978, 2204.940674>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6915.962402, 26.264978, 2204.940674>
+17_31_46 | INFO | Surface type at position <6915.962402, 26.264978, 2204.940674> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6908.553711, 26.264978, 2210.502686>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6908.553711, 26.264978, 2210.502686>
+17_31_46 | INFO | Surface type at position <6908.553711, 26.264978, 2210.502686> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6936.116699, 26.129999, 2216.953857>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6936.116699, 26.129999, 2216.953857>
+17_31_46 | INFO | Surface type at position <6936.116699, 26.129999, 2216.953857> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6925.096191, 26.264978, 2203.708984>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6925.096191, 26.264978, 2203.708984>
+17_31_46 | INFO | Surface type at position <6925.096191, 26.264978, 2203.708984> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6918.691406, 26.264978, 2204.516846>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6918.691406, 26.264978, 2204.516846>
+17_31_46 | INFO | Surface type at position <6918.691406, 26.264978, 2204.516846> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6922.835938, 26.264978, 2205.343994>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6922.835938, 26.264978, 2205.343994>
+17_31_46 | INFO | Surface type at position <6922.835938, 26.264978, 2205.343994> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6901.679199, 26.129999, 2184.866943>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6901.679199, 26.129999, 2184.866943>
+17_31_46 | INFO | Surface type at position <6901.679199, 26.129999, 2184.866943> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6921.781250, 26.264978, 2200.033691>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6921.781250, 26.264978, 2200.033691>
+17_31_46 | INFO | Surface type at position <6921.781250, 26.264978, 2200.033691> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6890.242188, 26.129999, 2227.225342>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6890.242188, 26.129999, 2227.225342>
+17_31_46 | INFO | Surface type at position <6890.242188, 26.129999, 2227.225342> is cp_concrete1
+17_31_46 | INFO | Raycast hit surface at: <6942.157715, 26.129999, 2202.859619>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6942.157715, 26.129999, 2202.859619>
+17_31_46 | INFO | Surface type at position <6942.157715, 26.129999, 2202.859619> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6907.243164, 26.264978, 2202.201904>
+17_31_46 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <6907.243164, 26.264978, 2202.201904>
+17_31_46 | INFO | Surface type at position <6907.243164, 26.264978, 2202.201904> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6915.153320, 26.129999, 2222.637207>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <6915.153320, 26.129999, 2222.637207>
+17_31_46 | INFO | Surface type at position <6915.153320, 26.129999, 2222.637207> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6933.298828, 26.264978, 2199.421387>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6933.298828, 26.264978, 2199.421387>
+17_31_46 | INFO | Surface type at position <6933.298828, 26.264978, 2199.421387> is cp_grass
+17_31_46 | INFO | Raycast hit surface at: <6897.559082, 26.312544, 2188.661621>
+17_31_46 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <6897.559082, 26.312544, 2188.661621>
+17_31_46 | INFO | Surface type at position <6897.559082, 26.312544, 2188.661621> is concrete_ext
+17_31_46 | INFO | Spawning loot box at position: <6909.319824, 26.129999, 2213.879883>
+17_31_46 | INFO | Random loot table selected from user setting file: Police
+17_31_46 | ERROR | Loot table not found in file: Police
+17_31_46 | ERROR | Failed to load loot from LootTables.json for table: Police
+17_31_46 | INFO | Spawning loot box at position: <6910.319824, 26.129999, 2198.879883>
+17_31_46 | INFO | Random loot table selected from user setting file: Medical
+17_31_46 | ERROR | Loot table not found in file: Medical
+17_31_46 | ERROR | Failed to load loot from LootTables.json for table: Medical
+17_31_46 | INFO | Spawning loot box at position: <6929.319824, 26.129999, 2206.879883>
+17_31_46 | ERROR | Could not attach part: carbattery to any available slot on vehicle: URAL_375_1964
+17_31_46 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <6929.319824, 26.129999, 2206.879883>
+17_31_46 | INFO | UnlockLootRoom: No sound is set to play for loot room 'Airfield Base'.

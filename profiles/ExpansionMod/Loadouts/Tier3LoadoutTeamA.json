@@ -915,8 +915,8 @@
                     "ClassName": "Ammo_308WinTracer",
                     "Chance": 1.0,
                     "Quantity": {
-                        "Min": 0.5,
-                        "Max": 0.7
+                        "Min": 0.10,
+                        "Max": 0.50
                     },
                     "Health": [],
                     "InventoryAttachments": [],
@@ -944,8 +944,8 @@
                             "ClassName": "Mosin9130",
                             "Chance": 1.0,
                             "Quantity": {
-                                "Min": 0.0,
-                                "Max": 0.0
+                                "Min": 0.10,
+                                "Max": 0.50
                             },
                             "Health": [],
                             "InventoryAttachments": [],

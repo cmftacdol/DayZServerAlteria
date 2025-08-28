@@ -1,0 +1,39 @@
+Loot System Logs Active: 2025_8_28-16_18_22
+16_19_20 | INFO | Loot System has started
+16_19_20 | INFO | Room settings loaded successfully.
+16_19_20 | INFO | Box settings loaded successfully.
+16_19_20 | INFO | LockAllLootRooms called
+16_19_20 | INFO | Locking room: South Port Industrial Base
+16_19_20 | INFO | Locking room: Airfield Base
+16_19_20 | INFO | Loot Box Deleted at position: <1984.750000, 15.565845, 564.257019>
+16_19_20 | INFO | Loot Box Deleted at position: <1984.665649, 15.565845, 570.450439>
+16_19_20 | INFO | Loot Box Deleted at position: <1984.750000, 15.565845, 564.257019>
+16_19_20 | INFO | Loot Box Deleted at position: <1984.665649, 15.565845, 570.450439>
+16_19_20 | INFO | Loot Box Deleted at position: <1993.319336, 15.658900, 565.533386>
+16_19_20 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+16_19_20 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+16_19_20 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+16_19_20 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+16_19_20 | INFO | Loot Box Deleted at position: <6929.325684, 26.342670, 2206.844971>
+16_20_0 | INFO | Player and identity are valid on connect.
+16_21_57 | INFO | UnlockLootRoom: Loot room 'South Port Industrial Base' unlocked by Player: LEE [SteamID: 76561198413928129]
+16_21_57 | INFO | Raycast hit surface at: <1985.507080, 25.048056, 555.208435>
+16_21_57 | INFO | Defender ZmbM_usSoldier_normal_Woodland spawned at: <1985.507080, 25.048056, 555.208435>
+16_21_57 | INFO | Surface type at position <1985.507080, 25.048056, 555.208435> is concrete_ext
+16_21_57 | INFO | Raycast hit surface at: <1985.755737, 25.048056, 554.408630>
+16_21_57 | INFO | Defender ZmbM_usSoldier_normal_Desert spawned at: <1985.755737, 25.048056, 554.408630>
+16_21_57 | INFO | Surface type at position <1985.755737, 25.048056, 554.408630> is concrete_ext
+16_21_57 | INFO | Raycast hit surface at: <1985.661255, 25.048056, 554.129089>
+16_21_57 | INFO | Defender ZmbM_usSoldier_Officer_Desert spawned at: <1985.661255, 25.048056, 554.129089>
+16_21_57 | INFO | Surface type at position <1985.661255, 25.048056, 554.129089> is concrete_ext
+16_21_57 | INFO | Spawning loot box at position: <1984.665649, 15.570000, 570.450439>
+16_21_57 | INFO | Random loot table selected from user setting file: Police
+16_21_57 | ERROR | Loot table not found in file: Police
+16_21_57 | ERROR | Failed to load loot from LootTables.json for table: Police
+16_21_57 | INFO | Spawning loot box at position: <1984.750000, 15.570000, 564.257019>
+16_21_57 | INFO | Random loot table selected from user setting file: Police
+16_21_57 | ERROR | Loot table not found in file: Police
+16_21_57 | ERROR | Failed to load loot from LootTables.json for table: Police
+16_21_57 | INFO | Spawning loot box at position: <1993.319946, 15.570000, 565.531006>
+16_21_57 | ERROR | Not Enough Loot In The List Compared To The Min Loot Amount for box at <1993.319946, 15.570000, 565.531006>
+16_21_57 | INFO | UnlockLootRoom: No sound is set to play for loot room 'South Port Industrial Base'.

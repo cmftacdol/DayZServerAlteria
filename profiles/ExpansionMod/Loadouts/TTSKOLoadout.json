@@ -1845,7 +1845,7 @@
                                     "Chance": 0.50,
                                     "Quantity": {
                                         "Min": 0.05,
-                                        "Max": 0.25
+                                        "Max": 0.15
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1858,7 +1858,7 @@
                                     "Chance": 0.50,
                                     "Quantity": {
                                         "Min": 0.05,
-                                        "Max": 0.25
+                                        "Max": 0.15
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1871,7 +1871,7 @@
                                     "Chance": 0.50,
                                     "Quantity": {
                                         "Min": 0.05,
-                                        "Max": 0.25
+                                        "Max": 0.15
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
@@ -1936,7 +1936,7 @@
                                     "Chance": 0.50,
                                     "Quantity": {
                                         "Min": 0.05,
-                                        "Max": 0.25
+                                        "Max": 0.15
                                     },
                                     "Health": [],
                                     "InventoryAttachments": [],
