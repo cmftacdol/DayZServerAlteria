@@ -35,7 +35,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
 			crafted="0" deloot="0" />
+		<category name="weapons" />
 		<value name="Tier4" />
+		<usage name="Military" />
+		<usage name="Underground" />
 	</type>
 	<type name="SA_Loot_Chest_Red">
 		<nominal>5</nominal>
@@ -47,7 +50,10 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
 			crafted="0" deloot="0" />
+		<category name="weapons" />
 		<value name="Tier5" />
+		<usage name="Military" />
+		<usage name="Underground" />
 	</type>
 	<type name="SA_Loot_Chest_Break">
 		<nominal>12</nominal>

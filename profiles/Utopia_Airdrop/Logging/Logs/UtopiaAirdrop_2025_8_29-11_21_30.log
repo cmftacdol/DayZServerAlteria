@@ -1,0 +1,88 @@
+-2025_8_29-11_21_30
+11_22_24 | INFO | UtopiaAirdropModule has started
+11_24_1 | DEBUG | [AIRDROP] AirdropEventHandler - OnWorkStart triggered
+11_24_1 | DEBUG | [AIRDROP] Airdrop will be requested at position: <4858.401367, 0.000000, 6288.984375>
+11_24_1 | DEBUG | [AIRDROP] RequestAirdropAtLocation
+11_24_2 | DEBUG | [AIRDROP] UtopiaAirdropPlane
+11_24_2 | DEBUG | [AIRDROP] Plane starting location: <6816.771484, 524.953430, 4016.367676>
+11_24_2 | DEBUG | [AIRDROP] SetupPlane
+11_24_2 | DEBUG | [AIRDROP] SetupPlane: dropPosition: <4858.401367, 0.000000, 6288.984375>
+11_24_2 | DEBUG | [AIRDROP] SetupPlane: dropLocation: <4858.401367, 0.000000, 6288.984375>
+11_24_2 | DEBUG | [AIRDROP] SetupPlane: dropAccuracy: 5
+11_25_1 | DEBUG | [AIRDROP] Activating Drop
+11_25_3 | DEBUG | [AIRDROP] CreateAirdropContainerAtCurrentPosition
+11_25_3 | DEBUG | [AIRDROP] Container drop started
+11_25_3 | DEBUG | [AIRDROP] CreateEntitiesAroundContainer
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4883.946289, 15.511606, 6282.792969>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4883.946289, 15.511606, 6282.792969>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_SoldierNormalspawned at location: <4869.108887, 15.835320, 6281.207520>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_SoldierNormalspawned at location: <4869.108887, 15.835320, 6281.207520>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4837.990723, 14.447150, 6289.537109>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4837.990723, 14.447150, 6289.537109>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4888.950684, 18.085287, 6299.862793>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4888.950684, 18.085287, 6299.862793>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4878.974609, 16.747999, 6290.811523>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4878.974609, 16.747999, 6290.811523>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4864.642578, 16.354189, 6289.154297>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4864.642578, 16.354189, 6289.154297>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4885.863281, 18.073927, 6304.911133>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4885.863281, 18.073927, 6304.911133>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Desertspawned at location: <4886.148926, 14.526737, 6263.701660>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Desertspawned at location: <4886.148926, 14.526737, 6263.701660>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4866.757324, 16.325708, 6289.458496>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4866.757324, 16.325708, 6289.458496>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_SoldierNormalspawned at location: <4843.333984, 15.824810, 6276.384277>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_SoldierNormalspawned at location: <4843.333984, 15.824810, 6276.384277>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4840.460938, 12.241513, 6309.186523>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Heavy_Woodlandspawned at location: <4840.460938, 12.241513, 6309.186523>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4868.925781, 15.919432, 6281.954590>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4868.925781, 15.919432, 6281.954590>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4850.367188, 14.085325, 6306.786133>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4850.367188, 14.085325, 6306.786133>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_SoldierNormalspawned at location: <4851.596191, 15.448359, 6270.303223>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_SoldierNormalspawned at location: <4851.596191, 15.448359, 6270.303223>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4853.752930, 14.581209, 6307.492676>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4853.752930, 14.581209, 6307.492676>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_SoldierNormalspawned at location: <4877.279297, 17.189024, 6315.007813>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_SoldierNormalspawned at location: <4877.279297, 17.189024, 6315.007813>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4859.662109, 15.983660, 6297.985840>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4859.662109, 15.983660, 6297.985840>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_SoldierNormalspawned at location: <4886.863281, 14.444707, 6272.747559>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_SoldierNormalspawned at location: <4886.863281, 14.444707, 6272.747559>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4878.430664, 17.529119, 6310.267090>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_normal_Woodlandspawned at location: <4878.430664, 17.529119, 6310.267090>
+11_25_3 | DEBUG | [AIRDROP] attempting to spawn entity ZmbM_usSoldier_Officer_Desertspawned at location: <4868.363281, 15.673292, 6279.286621>
+11_25_3 | DEBUG | [AIRDROP] entity ZmbM_usSoldier_Officer_Desertspawned at location: <4868.363281, 15.673292, 6279.286621>
+11_27_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_27_35 | DEBUG | [AIRDROP] Player count: 0
+11_27_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_32_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_32_35 | DEBUG | [AIRDROP] Player count: 0
+11_32_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_37_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_37_35 | DEBUG | [AIRDROP] Player count: 0
+11_37_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_42_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_42_35 | DEBUG | [AIRDROP] Player count: 0
+11_42_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_47_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_47_35 | DEBUG | [AIRDROP] Player count: 0
+11_47_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_52_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_52_35 | DEBUG | [AIRDROP] Player count: 0
+11_52_35 | INFO | [AIRDROP] Players to start the airdrop.0
+11_57_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+11_57_35 | DEBUG | [AIRDROP] Player count: 0
+11_57_35 | INFO | [AIRDROP] Players to start the airdrop.0
+12_2_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+12_2_35 | DEBUG | [AIRDROP] Player count: 0
+12_2_35 | INFO | [AIRDROP] Players to start the airdrop.0
+12_7_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+12_7_35 | DEBUG | [AIRDROP] Player count: 0
+12_7_35 | INFO | [AIRDROP] Players to start the airdrop.0
+12_12_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+12_12_35 | DEBUG | [AIRDROP] Player count: 0
+12_12_35 | INFO | [AIRDROP] Players to start the airdrop.0
+12_17_35 | DEBUG | [AIRDROP] AirdropEventHandler dropLocations count: 1
+12_17_35 | DEBUG | [AIRDROP] Player count: 0
+12_17_35 | INFO | [AIRDROP] Players to start the airdrop.0

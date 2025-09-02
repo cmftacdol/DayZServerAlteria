@@ -1,10 +1,10 @@
 {
     "version": "1.1.3",
-    "heliHeightFromGround": 250,
+    "heliHeightFromGround": 100,
     "heliSpeed": 50.0,
-    "dropCrateContainerLifetimeInSeconds": 1800,
+    "dropCrateContainerLifetimeInSeconds": 60,
     "minPlayersToStartAirdrop": 1,
-    "maxCreatures": 3,
+    "maxCreatures": 20,
     "startDelayMin": 5,
     "pkgIntervalMin": 5,
     "awayMin": 2.0,
@@ -18,9 +18,9 @@
         0.0
     ],
     "rightUpCornerMap": [
+        8192.0,
         0.0,
-        0.0,
-        0.0
+        8192.0
     ],
     "flareAirdropContainers": [
         {
@@ -47,115 +47,21 @@
     ],
     "dropLocations": [
         {
-            "name": "Krasnostav Airstrip - 1",
+            "name": "Airfield",
             "dropPosition": [
-                12218.0,
-                0.0,
-                12545.0
+                7015.994141,
+                26.129997,
+                1913.295288
             ],
             "radius": 50,
             "airdropContainers": [
                 {
-                    "isCarDrop": 0,
+                    "isCarDrop": 1,
                     "containerName": "Utopia_Crate_Parachute",
                     "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Krasnostav Airstrip - 2",
-            "dropPosition": [
-                12005.0,
-                0.0,
-                12694.0
-            ],
-            "radius": 50,
-            "airdropContainers": [
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                }
-            ]
-        },
-        {
-            "name": "Krasnostav Airstrip - 3",
-            "dropPosition": [
-                12115.0,
-                0.0,
-                12394.0
-            ],
-            "radius": 50,
-            "airdropContainers": [
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
-                    ]
-                },
-                {
-                    "isCarDrop": 0,
-                    "containerName": "Utopia_Crate_Parachute",
-                    "lootPools": [
-                        "Tier - 1",
-                        "Tier - 2",
-                        "Tier - 3"
+                        "Tier - 4",
+                        "Tier - 5",
+                        "Tier - 6"
                     ]
                 }
             ]
@@ -444,8 +350,11 @@
         }
     ],
     "spawnCreatures": [
-        "Animal_UrsusActos",
-        "Animal_UrsusActos"
+        "ZmbM_usSoldier_Officer_Desert",
+        "ZmbM_usSoldier_normal_Desert",
+        "ZmbM_usSoldier_normal_Woodland",
+        "ZmbM_SoldierNormal",
+        "ZmbM_usSoldier_Heavy_Woodland"
     ],
     "players": []
 }

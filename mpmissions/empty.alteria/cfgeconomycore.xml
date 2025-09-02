@@ -42,7 +42,6 @@
 		<file name="inedia.xml" type="types" />
 		<file name="randompresets.xml" type="randompresets" />
 		<file name="spawnabletypes.xml" type="spawnabletypes" />
-		<file name="fortification.xml" type="types" />
 		<file name="boomlay.xml" type="types" />
 		<file name="coupledmags.xml" type="types" />
 		<file name="magazineloaders.xml" type="types" />

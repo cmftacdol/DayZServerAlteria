@@ -1,0 +1,14 @@
+Loot System Logs Active: 2025_8_28-21_18_58
+21_18_58 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_28-16_18_22.log
+21_21_9 | INFO | Loot System has started
+21_21_9 | INFO | Room settings loaded successfully.
+21_21_9 | INFO | Box settings loaded successfully.
+21_21_9 | INFO | LockAllLootRooms called
+21_21_9 | INFO | Locking room: South Port Industrial Base
+21_21_9 | INFO | Locking room: Airfield Base
+21_21_9 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+21_21_9 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+21_21_9 | INFO | Loot Box Deleted at position: <6910.319824, 26.125845, 2198.879883>
+21_21_9 | INFO | Loot Box Deleted at position: <6909.319824, 26.125845, 2213.879883>
+21_21_9 | INFO | Loot Box Deleted at position: <6929.325684, 26.342670, 2206.844971>
+21_22_4 | INFO | Player and identity are valid on connect.

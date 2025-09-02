@@ -3693,3 +3693,34 @@
 [2025-08-28 18:50:59] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
 [2025-08-28 18:50:59] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
 [2025-08-28 18:50:59] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-08-28 21:16:58] Client version: no bootstrapper found
+[2025-08-28 21:16:58] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-08-28 21:16:58] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
+[2025-08-28 21:16:58] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-08-29 11:12:18] Client version: no bootstrapper found
+[2025-08-29 11:12:18] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-08-29 11:12:18] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-08-29 11:12:18] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2025-08-29 11:12:19] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+
+
+[2025-08-29 11:19:31] Client version: no bootstrapper found
+[2025-08-29 11:19:31] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-08-29 11:19:31] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
+[2025-08-29 11:19:31] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-08-30 03:03:02] Client version: no bootstrapper found
+[2025-08-30 03:03:02] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-08-30 03:03:02] Connectivity test (124.106.174.48:80 (124.106.174.48:80)): OK!
+[2025-08-30 03:03:02] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-08-30 03:11:07] Client version: no bootstrapper found
+[2025-08-30 03:11:07] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-08-30 03:11:07] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
+[2025-08-30 03:11:07] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

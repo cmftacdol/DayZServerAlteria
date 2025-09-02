@@ -416,7 +416,7 @@
             "lowstr": 30.0
         },
         "BreakingDoorsOpenLockPickChancePercent": {
-            "all": 5.0
+            "all": 2.0
         },
         "BreakingDoorsLossInterestAfterHitChancePercent": {
             "all": 5.0
@@ -544,7 +544,7 @@
             "all": 50.0
         },
         "UpJumpChancePercent": {
-            "all": 100.0
+            "all": 0.0
         },
         "UpJumpCooldownSeconds": {
             "all": 0.0
@@ -732,7 +732,7 @@
             "all": 0.20000000298023225
         },
         "ReactBehindNoiseMultiplier": {
-            "all": 0.6000000238418579
+            "all": 0.2000000238418579
         },
         "ReactFireplaceVisual": {
             "all": 1.0
@@ -813,10 +813,10 @@
             "all": 1.0
         },
         "ReactFootstepsCrouchSprintDayNoise": {
-            "all": 0.699999988079071
+            "all": 0.45
         },
         "ReactFootstepsCrouchSprintNightNoise": {
-            "all": 0.699999988079071
+            "all": 0.45
         },
         "ReactFootstepsSprintDayNoise": {
             "all": 1.0
@@ -843,10 +843,10 @@
             "all": 1.0
         },
         "ReactBodyfallDayNoise": {
-            "all": 0.5
+            "all": 0.3
         },
         "ReactBodyfallNightNoise": {
-            "all": 0.5
+            "all": 0.3
         },
         "ReactBodyfallBackstabDayNoise": {
             "all": 0.0
@@ -935,25 +935,25 @@
             "all": 1.0
         },
         "ReactAndDestroyFlammablesVisual": {
-            "all": 0.5
+            "all": 1.0
         },
         "ReactAndDestroySpotlightVisual": {
-            "all": 0.25
+            "all": 1.0
         },
         "ReactAndDestroyFireplaceVisual": {
-            "all": 0.25
+            "all": 1.0
         },
         "ReactAndDestroyFireplaceDayVisual": {
-            "all": 0.25
+            "all": 1.0
         },
         "ReactAndDestroyCarLightVisual": {
             "all": 1.0
         },
         "ReactAndDestroyFireworksNoise": {
-            "all": 0.25
+            "all": 1.0
         },
         "ReactAndDestroyPowerGeneratorNoise": {
-            "all": 0.10000000149011612
+            "all": 1.0
         },
         "ReactAndDestroyAlarmClockNoise": {
             "all": 1.0
@@ -962,7 +962,7 @@
             "all": 1.0
         },
         "ReactAndDestroySmokeGrenadeVisual": {
-            "all": 0.5
+            "all": 1.0
         },
         "DamageToPlayerHandlerIsActive": {
             "all": 1
@@ -1329,24 +1329,24 @@
             "all": 1
         },
         "ScreamAttractsZombiesInRadius": {
-            "all": 50.0,
-            "ZmbM_usSoldier_Officer_Desert": 120.0
-        },
-        "ScreamChancePercent": {
-            "all": 25.0,
+            "all": 100.0,
             "ZmbM_usSoldier_Officer_Desert": 100.0
         },
+        "ScreamChancePercent": {
+            "all": 2.0,
+            "ZmbM_usSoldier_Officer_Desert": 2.0
+        },
         "ScreamCooldownSeconds": {
-            "all": 60.0
+            "all": 300.0
         },
         "ScreamNearbyInfectedSilenceSeconds": {
-            "all": 60.0
+            "all": 300.0
         },
         "SearchBodyToViewCargo": {
             "all": 0
         },
         "SearchBodyToViewCargoSeconds": {
-            "all": 3.0
+            "all": 0
         },
         "SearchBodyExtendLootingToPlayersInRadiusMeters": {
             "all": 30.0
@@ -1444,7 +1444,7 @@
             "all": 2.0
         },
         "VisionRangeMultiplierNight": {
-            "all": 0.800000011920929
+            "all": 0.1000000011920929
         },
         "SizeHandlerIsActive": {
             "all": 0
@@ -1543,11 +1543,11 @@
         "SmellLifetimeSeconds": 120.0,
         "SmellsCountOnMapLimit": 1000,
         "FootstepsNoiseHandlerIsActive": 1,
-        "SearchBodyToViewCargo": 1,
+        "SearchBodyToViewCargo": 0,
         "SearchBodyToViewCargoSeconds": 3.0,
         "SearchBodyExtendLootingToPlayersInRadiusMeters": 30.0,
         "SearchBodyOnlyEmptyHands": 0,
-        "QuietDoorOpeningMechanicIsActive": 1,
+        "QuietDoorOpeningMechanicIsActive": 0,
         "QuietDoorOpeningMechanicDisabledForOpening": 1,
         "QuietDoorOpeningMechanicSeconds": 3.0,
         "QuietDoorOpeningMechanicRestrictedBuildings": [
@@ -1637,7 +1637,7 @@
         "InternalBleedingBloodLossRateMl": 2.0,
         "DestroyedDoorNotificationType": 2.0,
         "NoiseMultiplierDay": 1.0,
-        "NoiseMultiplierNight": 1.0,
+        "NoiseMultiplierNight": 0.7,
         "NoiseMultiplierCrouchDay": 1.0,
         "NoiseMultiplierCrouchNight": 1.0,
         "NoiseMultiplierLadderDay": 0.20000000298023225,

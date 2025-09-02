@@ -1,0 +1,263 @@
+---------------------------------------------
+Log info_2025-08-30_03-10-36.log started at 2025-08-30 03:14:59
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:14:59
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:17231 (owner eAI_SurvivorF_Irena<a7d18840>) - MagazineRepair - BAREM_CLO_BUF_MA0<4a6d3490> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:16:04
+
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ550:5780 (owner eAI_SurvivorM_Jose<5fc6e010>) - MagazineRepair - BAREM_CLO_BUF_MA0<64e88900> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:16:16
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18123 (owner eAI_SurvivorM_Boris<6a90fec0>) - MagazineRepair - OB_CLO_MA0<6a999ae0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:16:16
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18123 (owner eAI_SurvivorM_Boris<6a90fec0>) - ChamberRepair - OB_CLO_MA1<6a999e40> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:16:48
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18139 (owner eAI_SurvivorF_Keiko<64d0a010>) - MagazineRepair - OB_CLO_MA0<68d48c70> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:16:48
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18139 (owner eAI_SurvivorF_Keiko<64d0a010>) - ChamberRepair - OB_CLO_MA1<4360ed10> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:22:24
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:15241 (owner eAI_SurvivorF_Eva<70884140>) - MagazineRepair - OB_CLO_MA0<6c4376c0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:22:24
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:15241 (owner eAI_SurvivorF_Eva<70884140>) - ChamberRepair - OB_CLO_MA1<6915e830> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:24:52
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18619 (owner eAI_SurvivorM_Guo<71646180>) - MagazineRepair - OB_CLO_MA0<76249f50> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:24:52
+
+[wpnfsm] ValidateAndRepair Attempting to repair: PM73Rak:18619 (owner eAI_SurvivorM_Guo<71646180>) - ChamberRepair - OB_CLO_MA1<7624af70> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:24:52
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:18686 (owner eAI_SurvivorM_Elias<765d1010>) - MagazineRepair - BAREM_CLO_BUF_MA0<69252df0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:27:04
+
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ550:6797 (owner eAI_SurvivorF_Helga<874ee150>) - MagazineRepair - BAREM_CLO_BUF_MA0<872adce0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:56:42
+
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ527:9942 (owner eAI_SurvivorM_Elias<9ed221d0>) - MagazineRepair - BAREM_CLO_BUF_MA0<a656be20> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1089
+scripts/4_World/entities\manbase\playerbase.c:2311
+PVEZ/4_World/entities\manbase\playerbase.c:19
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268

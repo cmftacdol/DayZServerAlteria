@@ -1,0 +1,11 @@
+---------------------------------------------
+Log error_2025-08-30_03-10-36.log started at 2025-08-30 03:47:28
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-30 03:47:28
+
+Object 'Land_Panelak2' with model file: alteria\objects\classic_objects\buildings\panelak2.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+

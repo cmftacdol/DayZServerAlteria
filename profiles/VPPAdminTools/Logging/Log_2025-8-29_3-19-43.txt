@@ -1,0 +1,310 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-8-29_3-19-43
+====================================================================================
+3:19:43 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+3:19:43 | [PermissionManager] Perm (FreeCamera) has been registered!
+3:19:43 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuServerManager) has been registered!
+3:19:43 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+3:19:43 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+3:19:43 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+3:19:43 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+3:19:43 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+3:19:43 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+3:19:43 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+3:19:43 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+3:19:43 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+3:19:43 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuBansManager) has been registered!
+3:19:43 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+3:19:43 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+3:19:43 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+3:19:43 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+3:19:43 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+3:19:43 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+3:19:44 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+3:19:44 | [PermissionManager] Adding Super Admin (76561198413928129)
+3:19:44 | [PermissionManager] Adding Super Admin (76561198061747392)
+3:19:44 | [PermissionManager] Adding Super Admin (76561198065207038)
+3:19:44 | [PermissionManager] Loaded UserGroups.json
+3:19:44 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+3:19:44 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+3:19:44 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+3:19:44 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+3:19:44 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+3:19:44 | Building Sets Loaded: 1
+3:19:44 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+3:19:44 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+3:23:7 | Player "LEE" (steamId=76561198413928129) connected to server!
+3:23:20 | "LEE" (steamid=76561198413928129) toggled godmode
+3:23:39 | "LEE" (steamid=76561198413928129) Spawned Item: (UtopiaAirdropFlare)
+3:23:40 | "LEE" (steamid=76561198413928129) Spawned Item: (UtopiaAirdropFlare)
+3:23:40 | "LEE" (steamid=76561198413928129) Spawned Item: (UtopiaAirdropFlare)
+3:23:40 | "LEE" (steamid=76561198413928129) Spawned Item: (UtopiaAirdropFlare)
+3:23:40 | "LEE" (steamid=76561198413928129) Spawned Item: (UtopiaAirdropFlare)
+3:23:48 | "LEE" (steamid=76561198413928129) toggled freecam
+3:23:56 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4845.063477, 16.098379, 6280.406738>)
+3:23:57 | "LEE" (steamid=76561198413928129) toggled freecam
+3:24:39 | "LEE" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+3:26:7 | "LEE" (steamid=76561198413928129) toggled freecam
+3:26:29 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4860.468750, 286.252716, 6288.569336>)
+3:26:29 | "LEE" (steamid=76561198413928129) toggled freecam
+3:26:47 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4857.312500, 16.153439, 6281.547363>)
+3:31:47 | "LEE" (steamid=76561198413928129) toggled freecam
+3:32:4 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3989.042725, 299.536377, 6934.511230>)
+3:32:11 | "LEE" (steamid=76561198413928129) toggled freecam
+3:32:20 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4041.538818, 16.231766, 6965.794434>)
+3:34:42 | "LEE" (steamid=76561198413928129) toggled freecam
+3:34:43 | "LEE" (steamid=76561198413928129) toggled freecam
+3:34:44 | "LEE" (steamid=76561198413928129) toggled godmode
+3:34:44 | "LEE" (steamid=76561198413928129) toggled godmode
+3:34:45 | "LEE" (steamid=76561198413928129) toggled freecam
+3:35:0 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3007.976563, 13.008982, 4442.166016>)
+3:35:4 | "LEE" (steamid=76561198413928129) toggled freecam
+3:36:16 | "LEE" (steamid=76561198413928129) toggled freecam
+3:36:37 | "LEE" (steamid=76561198413928129) toggled freecam
+3:37:46 | "LEE" (steamid=76561198413928129) toggled freecam
+3:37:54 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<2575.480957, 57.994019, 5931.270508>)
+3:37:58 | "LEE" (steamid=76561198413928129) toggled freecam
+3:38:48 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:49 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:49 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:49 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:49 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:49 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:50 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:50 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:50 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:50 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:38:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:39:44 | "LEE" (steamid=76561198413928129) toggled freecam
+3:40:2 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4318.299316, 29.937580, 7624.710449>)
+3:40:15 | "LEE" (steamid=76561198413928129) toggled freecam
+3:40:21 | "LEE" (steamid=76561198413928129) toggled freecam
+3:40:26 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<4532.231445, 33.861382, 7328.637695>)
+3:40:29 | "LEE" (steamid=76561198413928129) toggled freecam
+3:40:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:51 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:52 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:53 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:40:54 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:0 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:0 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:0 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:0 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:0 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:1 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:1 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:1 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:1 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:1 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:2 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:2 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:2 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague01)
+3:41:26 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:26 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:26 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:27 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:27 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:27 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:27 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:27 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:28 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:28 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague02)
+3:41:28 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague03)
+3:41:32 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague06)
+3:41:32 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbM_Plague06)
+3:41:34 | "LEE" (steamid=76561198413928129) Spawned Item: (ZmbF_Plague02)
+3:42:46 | "LEE" (steamid=76561198413928129) toggled freecam
+3:43:6 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<6879.276855, 26.130020, 2089.955811>)
+3:43:9 | "LEE" (steamid=76561198413928129) toggled freecam
+3:44:35 | "LEE" (steamid=76561198413928129) toggled freecam
+3:44:43 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<6640.119629, 45.230022, 2322.517822>)
+3:44:43 | "LEE" (steamid=76561198413928129) toggled freecam
+3:45:34 | "LEE" (steamid=76561198413928129) toggled freecam
+3:45:38 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<6745.092773, 40.087738, 2268.608154>)
+3:45:38 | "LEE" (steamid=76561198413928129) toggled freecam
+3:45:50 | "LEE" (steamid=76561198413928129) toggled freecam
+3:45:51 | "LEE" (steamid=76561198413928129) toggled freecam
+3:46:52 | "LEE" (steamid=76561198413928129) toggled freecam
+3:46:53 | "LEE" (steamid=76561198413928129) toggled freecam
+3:46:54 | "LEE" (steamid=76561198413928129) toggled freecam
+3:47:0 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<7399.756836, 56.830048, 2017.228027>)
+3:47:2 | "LEE" (steamid=76561198413928129) toggled freecam
+3:47:38 | "LEE" (steamid=76561198413928129) toggled freecam
+3:47:53 | "LEE" (steamid=76561198413928129) toggled freecam
+3:48:40 | "LEE" (steamid=76561198413928129) toggled freecam
+3:50:38 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<6836.338379, 33.387897, 2252.157959>)
+3:57:8 | "LEE" (steamid=76561198413928129) toggled freecam
+3:57:22 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_FirstAidCase_ColorBase)
+3:57:22 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_FirstAidCase_White)
+3:57:23 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_FirstAidCase_Black)
+3:57:24 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_FirstAidKit_ColorBase)
+3:57:24 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_FirstAidKit_White)
+3:58:38 | "LEE" (steamid=76561198413928129) toggled freecam
+3:58:57 | "LEE" (steamid=76561198413928129) toggled freecam
+3:59:19 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<5837.700195, 33.501598, 3358.729980>)
+3:59:19 | "LEE": (steamid=76561198413928129) teleported to (pos=5837.7,0,3358.73)
+4:0:28 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<7061.330078, 23.551939, 6693.609863>)
+4:0:28 | "LEE": (steamid=76561198413928129) teleported to (pos=7061.33,0,6693.61)
+4:1:39 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6729.069824, 26.129999, 2214.479980>)
+4:1:39 | "LEE": (steamid=76561198413928129) teleported to (pos=6729.07,0,2214.48)
+4:1:45 | "LEE" (steamid=76561198413928129) toggled freecam
+4:1:47 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<6727.483398, 26.229998, 2212.051270>)
+4:1:48 | "LEE" (steamid=76561198413928129) toggled freecam
+4:2:31 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3008.020020, 33.509998, 1292.500000>)
+4:2:31 | "LEE": (steamid=76561198413928129) teleported to (pos=3008.02,0,1292.5)
+4:2:50 | "LEE" (steamid=76561198413928129) toggled freecam
+4:2:53 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3007.948730, 37.997192, 1292.129272>)
+4:2:54 | "LEE" (steamid=76561198413928129) toggled freecam
+4:3:25 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3043.139893, 33.509998, 1253.709961>)
+4:3:25 | "LEE": (steamid=76561198413928129) teleported to (pos=3043.14,0,1253.71)
+4:3:31 | "LEE" (steamid=76561198413928129) toggled freecam
+4:4:5 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3022.913330, 41.237103, 1287.018066>)
+4:4:6 | "LEE" (steamid=76561198413928129) toggled freecam
+4:4:36 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:36 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:36 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:36 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:36 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:37 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:37 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:37 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:37 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:37 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:38 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:38 | "LEE" (steamid=76561198413928129) Spawned Item: (SA_Loot_Key_Yellow)
+4:4:53 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3022.530029, 33.509998, 1288.280029>)
+4:4:53 | "LEE": (steamid=76561198413928129) teleported to (pos=3022.53,0,1288.28)
+4:4:59 | "LEE" (steamid=76561198413928129) toggled freecam
+4:5:4 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3021.986572, 41.237103, 1287.310913>)
+4:5:4 | "LEE" (steamid=76561198413928129) toggled freecam
+4:5:11 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<3014.389893, 33.509998, 1275.680054>)
+4:5:11 | "LEE": (steamid=76561198413928129) teleported to (pos=3014.39,0,1275.68)
+4:5:56 | "LEE" (steamid=76561198413928129) toggled freecam
+4:6:5 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<3016.468262, 48.679832, 1277.172974>)
+4:6:6 | "LEE" (steamid=76561198413928129) toggled freecam
+4:6:33 | "LEE" (steamid=76561198413928129) toggled freecam
+4:6:35 | "LEE" (steamid=76561198413928129) toggled freecam
+4:6:46 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<725.744995, 1.710000, 576.140991>)
+4:6:46 | "LEE": (steamid=76561198413928129) teleported to (pos=725.745,0,576.141)
+4:7:51 | "LEE" (steamid=76561198413928129) toggled freecam
+4:9:55 | "LEE" (steamid=76561198413928129) toggled freecam
+4:11:59 | [WeatherManager] Send Data Count is 0
+4:12:2 | [Time Manager] Setting Date to 2025/9/20 6:12
+4:12:15 | "LEE" (steamid=76561198413928129) toggled freecam
+4:13:38 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<2011.824707, 58.540100, 430.723969>)
+4:13:42 | "LEE" (steamid=76561198413928129) toggled freecam
+4:14:9 | "LEE" (steamid=76561198413928129) toggled freecam
+4:14:11 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<1868.193848, 15.669989, 517.844543>)
+4:14:11 | "LEE" (steamid=76561198413928129) toggled freecam
+4:14:13 | "LEE" (steamid=76561198413928129) toggled freecam
+4:14:16 | "LEE" (steamid=76561198413928129) toggled freecam
+4:15:52 | "LEE" (steamid=76561198413928129) toggled freecam
+4:15:55 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<1925.199463, 25.048059, 586.261658>)
+4:15:55 | "LEE" (steamid=76561198413928129) toggled freecam
+4:17:26 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<2044.068481, 15.569987, 553.180908>)
+4:18:22 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_HemostaticDressing)
+4:18:26 | "LEE" (steamid=76561198413928129) Spawned Item: (InediaPain_SplintKit)
+4:19:32 | "LEE" (steamid=76561198413928129) toggled freecam
+4:19:36 | "LEE" (steamid=76561198413928129) teleported to crosshair (pos=<2158.760986, 15.586280, 625.022217>)
+4:19:37 | "LEE" (steamid=76561198413928129) toggled freecam
+4:20:49 | Player "LEE" (steamId=76561198413928129) initiated disconnect process...
+4:20:51 | Player "LEE" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+4:20:54 | Player "LEE" (steamId=76561198413928129) disconnected from server.

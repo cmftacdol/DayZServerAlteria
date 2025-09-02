@@ -1,0 +1,35 @@
+---------------------------------------------
+Log warning_2025-08-29_11-18-59.log started at 2025-08-29 11:50:39
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-08-29 11:50:39
+
+Removed mag is attached but was tracked as available for reload Ammo_12gaPellets:7202<52f43a0>[PENDING_DELETION][EE_DELETE], parent eAI_SurvivorM_Guo:6:INSTANCETYPE_AI_SERVER<ec4cf010>
+Class:      'eAI_SurvivorM_Guo'
+Entity id:1265613
+
+Function: 'eAI_RemoveMag'
+Stack trace:
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:5611
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:5599
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:5454
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\itembase.c:145
+scripts/4_World/entities\itembase\magazine\magazine.c:352
+scripts/4_World/entities\itembase.c:1327
+TerjeCore/Scripts/4_World/1de0e31f9e8745e990bdbd30490ffdf9.c:331
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:1272
+AIWarZones/scripts/4_World/utilites.c:166
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:128
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:480
+scripts/4_World/entities\firearms\weaponfsm.c:272
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83
+scripts/4_World/entities\firearms\weaponfsm.c:243
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:406
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8233
+scripts/4_World/entities\dayzplayerimplement.c:2290
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2875
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6120

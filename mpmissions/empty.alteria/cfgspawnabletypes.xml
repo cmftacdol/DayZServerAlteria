@@ -3418,6 +3418,30 @@
 		<cargo chance="0.60">
 			<item name="PressCasingholder" />
 		</cargo>
+		<cargo chance="0.60">
+			<item name="PressCasingholder" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressBody" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMountPlate" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressHandle" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMechanism" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="PressMechaismhandle" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="Scale" />
+		</cargo>
+		<cargo chance="0.60">
+			<item name="Funnel" />
+		</cargo>
 
 		<cargo chance="1">
 			<item name="SodaCan_Pipsi" />
@@ -3473,63 +3497,274 @@
 		<cargo chance="1">
 			<item name="WaterBottle" />
 		</cargo>
+
+		<cargo chance="1">
+			<item name="Tips545x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing545x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing545x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep545x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips556x45" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing556x45" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing556x45" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep556x45" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips762x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing762x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing762x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep762x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips308Win" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing308Win" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing308Win" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep308Win" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips762x54" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing762x54" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing762x54" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep762x54" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips9x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing9x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing9x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep9x39" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips22LR" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing22LR" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing22LR" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep22LR" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsSlug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CasingSlug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasingSlug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PrepSlug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsBuckshot" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CasingBuckshot" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasingBuckshot" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PrepBuckshot" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsRubber45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PrepRubber45ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsRubber9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PrepRubber9X19" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsRubber380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="PrepRubber380ACP" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips357" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Casing357" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCasing357" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Prep357Magnum" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Tips40mm" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips40mmRedSmoke" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips40mmGreenSmoke" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips40mmWhiteSmoke" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Tips40mmBlackSmoke" />
+		</cargo>
+		<cargo chance="1">
+			<item name="RDXCompound" />
+		</cargo>
+		<cargo chance="1">
+			<item name="TipsRubberSlug" />
+		</cargo>
+		<cargo chance="1">
+			<item name="FilledCraftedShotgunShell" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CasingCraftedShotgunShells" />
+		</cargo>
+		<cargo chance="1">
+			<item name="AM_Improvised_Grenade" />
+		</cargo>
+		<cargo chance="1">
+			<item name="AM_Smoke_Improvised_Grenade_Red" />
+		</cargo>
+		<cargo chance="1">
+			<item name="AM_Smoke_Improvised_Grenade_Green" />
+		</cargo>
+		<cargo chance="1">
+			<item name="AM_Smoke_Improvised_Grenade_White" />
+		</cargo>
+		<cargo chance="1">
+			<item name="AM_Smoke_Improvised_Grenade_Black" />
+		</cargo>
+
+
 	</type>
 	<type name="SA_Loot_Chest_Blue">
 		<cargo chance="0.60">
 			<item name="SA_Loot_Key_Yellow" />
 		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Gunpowder" />
-		</cargo>
 
 		<cargo chance="1">
 			<item name="StandAloneSmelter" />
 		</cargo>
-		<cargo chance="1">
-			<item name="Sulfur20LbBag" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Potassium_Nitrate" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Potassium_Nitrate" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Potassium_Nitrate" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Potassium_Nitrate" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Sulfur20LbBag" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Sulfur20LbBag" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Sulfur20LbBag" />
-		</cargo>
-		<cargo chance="1">
-			<item name="Sulfur20LbBag" />
-		</cargo>
 		<cargo chance="0.50">
 			<item name="StandAloneSmelter" />
 		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Sulfur20LbBag" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Potassium_Nitrate_Charcoal" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Potassium_Nitrate_Charcoal" />
+		</cargo>
+
+
 		<cargo chance="1">
 			<item name="SalineBag" />
 		</cargo>
@@ -3763,20 +3998,21 @@
 		<cargo chance="0.60">
 			<item name="PunchedCard" />
 		</cargo>
+
 		<cargo chance="1">
-			<item name="NBCBootsGray" />
+			<item name="GasMask_Filter" />
 		</cargo>
 		<cargo chance="1">
-			<item name="NBCGlovesGray" />
+			<item name="GasMask_Filter" />
 		</cargo>
 		<cargo chance="1">
-			<item name="NBCHoodGray" />
+			<item name="GasMask_Filter" />
 		</cargo>
 		<cargo chance="1">
-			<item name="NBCJacketGray" />
+			<item name="GasMask_Filter" />
 		</cargo>
 		<cargo chance="1">
-			<item name="NBCPantsGray" />
+			<item name="GasMask_Filter" />
 		</cargo>
 		<cargo chance="1">
 			<item name="GasMask_Filter" />
@@ -3792,6 +4028,52 @@
 		</cargo>
 		<cargo chance="1">
 			<item name="GasMask_Filter" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="GasMask" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask" />
+		</cargo>
+		<cargo chance="1">
+			<item name="GasMask" />
+		</cargo>
+
+
+		<cargo chance="1">
+			<item name="UniversalLight" />
+		</cargo>
+		<cargo chance="1">
+			<item name="UniversalLight" />
+		</cargo>
+		<cargo chance="1">
+			<item name="UniversalLight" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Pliers" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Pliers" />
 		</cargo>
 
 		<cargo chance="1">
@@ -3830,14 +4112,15 @@
 		<cargo chance="1">
 			<item name="StrongPistolTipsMold" />
 		</cargo>
+
 		<cargo chance="1">
-			<item name="EmptyCrucible" />
+			<item name="LargeGasCanister" />
 		</cargo>
 		<cargo chance="1">
-			<item name="EmptyCrucible" />
+			<item name="LargeGasCanister" />
 		</cargo>
 		<cargo chance="1">
-			<item name="EmptyCrucible" />
+			<item name="LargeGasCanister" />
 		</cargo>
 		<cargo chance="1">
 			<item name="LargeGasCanister" />
@@ -3848,80 +4131,52 @@
 		<cargo chance="1">
 			<item name="LargeGasCanister" />
 		</cargo>
+
+
 	</type>
 	<type name="SA_Loot_Chest_Red">
 		<cargo chance="0.60">
 			<item name="PunchedCard" />
 		</cargo>
-
 		<cargo chance="1">
-			<item name="StrongRifleCasingMold" />
+			<item name="CrucibleOreLead" />
 		</cargo>
 		<cargo chance="1">
-			<item name="StrongRifleCasingMold" />
+			<item name="CrucibleMoltenBrass" />
 		</cargo>
 		<cargo chance="1">
-			<item name="StrongRifleCasingMold" />
+			<item name="CrucibleOreLead" />
 		</cargo>
 		<cargo chance="1">
-			<item name="StrongRifleTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongRifleTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongRifleTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolCasingMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolCasingMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolCasingMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="StrongPistolTipsMold" />
-		</cargo>
-		<cargo chance="1">
-			<item name="EmptyCrucible" />
-		</cargo>
-		<cargo chance="1">
-			<item name="EmptyCrucible" />
-		</cargo>
-		<cargo chance="1">
-			<item name="EmptyCrucible" />
-		</cargo>
-		<cargo chance="1">
-			<item name="LargeGasCanister" />
-		</cargo>
-		<cargo chance="1">
-			<item name="LargeGasCanister" />
-		</cargo>
-		<cargo chance="1">
-			<item name="LargeGasCanister" />
+			<item name="CrucibleMoltenBrass" />
 		</cargo>
 
 
-		<cargo chance="1">
-			<item name="HuntingOptic" />
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_White" />
 		</cargo>
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_BlackEMR" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_Green" />
+		</cargo>
+
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_Black" />
+		</cargo>
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_CB" />
+		</cargo>
+
+		<cargo chance="0.50">
+			<item name="FOG_Bag_6ShBagT_RG" />
+		</cargo>
+
 		<cargo chance="1">
 			<item name="KashtanOptic" />
 		</cargo>
-		<cargo chance="1">
-			<item name="KazuarOptic" />
-		</cargo>
-		<cargo chance="1">
-			<item name="M68Optic" />
-		</cargo>
+
 		<cargo chance="1">
 			<item name="ReflexOptic" />
 		</cargo>
@@ -3931,15 +4186,12 @@
 		<cargo chance="1">
 			<item name="MK4Optic_black" />
 		</cargo>
-
 		<cargo chance="1">
 			<item name="MK4Optic_green" />
 		</cargo>
-
 		<cargo chance="1">
 			<item name="MK4Optic_tan" />
 		</cargo>
-
 
 		<cargo chance="1">
 			<item name="Ki_Suppressor_FaL" />
@@ -3976,33 +4228,146 @@
 			<item name="Akol_Magnifier" />
 		</cargo>
 
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_LootroomC4" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
+		<cargo chance="1">
+			<item name="CBD_UnlockingSledge" />
+		</cargo>
 
 		<cargo chance="1">
-			<item name="CBD_LootroomC4" />
+			<item name="FOG_GPNVG_Elite" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CBD_LootroomC4" />
+			<item name="FOG_GPNVG_Elite_T" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CBD_LootroomC4" />
+			<item name="FOG_GPNVG_Elite_W" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CBD_UnlockingSledge" />
+			<item name="FOG_GPNVG_Elite_B" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="FOG_GPNVG_Elite" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CBD_UnlockingSledge" />
+			<item name="FOG_GPNVG_Elite_T" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CBD_UnlockingSledge" />
+			<item name="FOG_GPNVG_Elite_W" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CanisterGasoline" />
+			<item name="FOG_GPNVG_Elite_B" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="M4A1" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="M4_OEBttstck" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="M4_PlasticHndgrd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="BUISOptic" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="FOG_GPNVG_Elite_B" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Mag_CMAG_40Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Mag_CMAG_40Rnd" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CanisterGasoline" />
+			<item name="Mag_CMAG_40Rnd" />
 		</cargo>
 		<cargo chance="1">
-			<item name="CanisterGasoline" />
+			<item name="Mag_CMAG_40Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_M14Coupled_20Rnd" />
+		</cargo>
+		<cargo chance="1">
+			<item name="Ki_Mag_M14Coupled_20Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_VikhrCoupled_30Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_VikhrCoupled_30Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_UMPCoupled_25Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_UMPCoupled_25Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_FALCoupled_20Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_FALCoupled_20Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_SVDCoupled_10Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_SVDCoupled_10Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_AK74Coupled_45Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_AK74Coupled_45Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_CMAGCoupled_40Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_CMAGCoupled_40Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_FAMASCoupled_25Rnd" />
+		</cargo>
+
+		<cargo chance="1">
+			<item name="Ki_Mag_FAMASCoupled_25Rnd" />
 		</cargo>
 
 
