@@ -1,32 +1,37 @@
 {
     "MinPlayersForEvent": 1,
     "MaxEventOnMap": 3,
-    "MinCheckTimer": 90.0,
-    "MaxCheckTimer": 100.0,
+    "MinCheckTimer": 20.0,
+    "MaxCheckTimer": 40.0,
     "HeliCrashList": [
         {
             "LocationName": "Airfield",
             "LocationCords": "7015.994141 26.129997 1913.295288",
             "LocationCordsStart": "7848.243652 32.987541 1991.976074",
-            "FlyHight": 250.0,
+            "FlyHight": 350.0,
             "FlySpeed": 30.0,
-            "FallSpeed": 20.0,
+            "FallSpeed": 10.0,
             "HeliClassName": "Utopia_Apache_AH_64D",
             "HeliClassCrash": "Utopia_Apache_AH_64D_Wreck",
-            "LocationRadius": 10.0,
-            "TriggerRadius": 50.0,
-            "DeleteTimer": 50.0,
-            "DeleteTimerActivated": 30.0,
-            "MinZmb": 2,
-            "MaxZmb": 3,
+            "LocationRadius": 100.0,
+            "TriggerRadius": 150.0,
+            "DeleteTimer": 600.0,
+            "DeleteTimerActivated": 1200.0,
+            "MinZmb": 7,
+            "MaxZmb": 25,
             "ZmbList": [
-                "ZmbF_ShortSkirt_beige",
-                "ZmbF_VillagerOld_Green"
+                "ZmbM_Plague01",
+                "ZmbM_Plague05",
+                "ZmbM_Plague03",
+                "ZmbM_Plague04",
+                "ZmbM_usSoldier_normal_Woodland",
+                "ZmbM_usSoldier_Heavy_Woodland",
+                "ZmbM_usSoldier_Officer_Desert"                                        
             ],
-            "ZmbSpawnRadiusMin": 5.0,
-            "ZmbSpawnRadiusMax": 10.0,
-            "LootSpawnRadiusMin": 3.0,
-            "LootSpawnRadiusMax": 5.0,
+            "ZmbSpawnRadiusMin": 25.0,
+            "ZmbSpawnRadiusMax": 65.0,
+            "LootSpawnRadiusMin": 5.0,
+            "LootSpawnRadiusMax": 10.0,
             "NotifyText": "Warning!|Possible helicopter crash in location: |Utopia_Patrol_Helicopter_Public/Datasets/images/Apache.paa",
             "RandomPresets": [
                 "Preset1"
@@ -52,6 +57,132 @@
                             "ItemHealth": 500.0
                         }
                     ]
+                },
+                {
+                    "ItemName": "WeaponCleaningKit",
+                    "SpawnChance": 40.0,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "WeaponCleaningKit",
+                    "SpawnChance": 10.0,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "M4_Suppressor",
+                    "SpawnChance": 10.0,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 100.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AK_Suppressor",
+                    "SpawnChance": 10.0,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 100.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_556x45_20Rnd",
+                    "SpawnChance": 80.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_556x45_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_556x45_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_762x39_20Rnd",
+                    "SpawnChance": 80.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_762x39_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_762x39_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_762x39_20Rnd",
+                    "SpawnChance": 10.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_308Win_20Rnd",
+                    "SpawnChance": 50.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_308Win_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "AmmoBox_308Win_20Rnd",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 1.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "DLT_Ammo_12gaSlug_50bmg",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 10.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },                
+                {
+                    "ItemName": "DLT_Ammo_12gaPellets_Flechette",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 20.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },                
+                {
+                    "ItemName": "DLT_Ammo_22LR_T4",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 20.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },                
+                {
+                    "ItemName": "DLT_Ammo_308Win_T4",
+                    "SpawnChance": 20.0,
+                    "ItemQuantity": 20.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
                 }
             ]
         }
