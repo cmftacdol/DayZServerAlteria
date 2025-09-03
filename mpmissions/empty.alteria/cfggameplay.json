@@ -3,31 +3,31 @@
 	"GeneralData":
 	{
 		"disableBaseDamage": false,
-		"disableContainerDamage": false,
+		"disableContainerDamage": true,
 		"disableRespawnDialog": false,
 		"disableRespawnInUnconsciousness": false
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": false,
+		"disablePersonalLight": true,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,
-			"sprintStaminaModifierCro": 1.0,
-			"staminaWeightLimitThreshold": 6000.0,
+			"sprintStaminaModifierCro": 1.4,
+			"staminaWeightLimitThreshold": 6500.0,
 			"staminaMax": 100.0,
-			"staminaKgToStaminaPercentPenalty": 1.75,
-			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 1.0,
-			"sprintLadderStaminaModifier": 1.0,
+			"staminaKgToStaminaPercentPenalty": 0.75,
+			"staminaMinCap": 35.0,
+			"sprintSwimmingStaminaModifier": 1.5,
+			"sprintLadderStaminaModifier": 1.4,
 			"meleeStaminaModifier": 1.0,
-			"obstacleTraversalStaminaModifier": 1.0,
-			"holdBreathStaminaModifier": 1.0
+			"obstacleTraversalStaminaModifier": 1.2,
+			"holdBreathStaminaModifier": 0.1
 		},
 		"ShockHandlingData":
 		{
 			"shockRefillSpeedConscious": 5.0,
-			"shockRefillSpeedUnconscious": 1.0,
+			"shockRefillSpeedUnconscious": 1.5,
 			"allowRefillSpeedModifier": true
 		},
 		"MovementData":
@@ -48,7 +48,7 @@
 	},
 	"WorldsData":
 	{
-		"lightingConfig": 1,
+		"lightingConfig": 2,
 		"objectSpawnersArr": [],
 		"environmentMinTemps": [-3.0, -2.0, 0.0, 4.0, 9.0, 14.0, 18.0, 17.0, 12.0, 7.0, 4.0, 0.0],
 		"environmentMaxTemps": [3.0, 5.0, 7.0, 14.0, 19.0, 24.0, 26.0, 25.0, 21.0, 16.0, 10.0, 5.0],
@@ -58,31 +58,31 @@
 	{
 		"HologramData":
 		{
-			"disableIsCollidingBBoxCheck": false,
-			"disableIsCollidingPlayerCheck": false,
-			"disableIsClippingRoofCheck": false,
-			"disableIsBaseViableCheck": false,
+			"disableIsCollidingBBoxCheck": true,
+			"disableIsCollidingPlayerCheck": true,
+			"disableIsClippingRoofCheck": true,
+			"disableIsBaseViableCheck": true,
 			"disableIsCollidingGPlotCheck": false,
-			"disableIsCollidingAngleCheck": false,
-			"disableIsPlacementPermittedCheck": false,
-			"disableHeightPlacementCheck": false,
-			"disableIsUnderwaterCheck": false,
-			"disableIsInTerrainCheck": false,
+			"disableIsCollidingAngleCheck": true,
+			"disableIsPlacementPermittedCheck": true,
+			"disableHeightPlacementCheck": true,
+			"disableIsUnderwaterCheck": true,
+			"disableIsInTerrainCheck": true,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
 		{
-			"disablePerformRoofCheck": false,
-			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disablePerformRoofCheck": true,
+			"disableIsCollidingCheck": true,
+			"disableDistanceCheck": true
 		}
 	},
 	"UIData":
 	{
-		"use3DMap": false,
+		"use3DMap": true,
 		"HitIndicationData":
 		{
-			"hitDirectionOverrideEnabled": false,
+			"hitDirectionOverrideEnabled": true,
 			"hitDirectionBehaviour": 1,
 			"hitDirectionStyle": 0,
 			"hitDirectionIndicatorColorStr": "0xffbb0a1e",
