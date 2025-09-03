@@ -4,32 +4,24 @@
 	
 	RESPAWN SPECIFICATION:
 		id: (required) respawn identifier, must be short and unique for each individual respawn.
-		displayName: (required) name of respawn that the player will see in the game UI. Can be used key
-from stringtable.csv for localication to all supported languages.
+		displayName: (required) name of respawn that the player will see in the game UI. Can be used key from stringtable.csv for localication to all supported languages.
 		
 		
 		Points: (optinal) - list of points for current respawn
 			Point: each individual point to respawn
-				pos: (optional) point position in comma-separated format. Uses coordinates format from
-https://dayz.xam.nu/ (Ctrl+C on the website to copy).
+				pos: (optional) point position in comma-separated format. Uses coordinates format from https://dayz.xam.nu/ (Ctrl+C on the website to copy).
 				x: (optional) x coordinate (decimal point number). Will be used instead of 'pos'.
 				y: (optional) y coordinate (decimal point number). Will be used instead of 'pos'.
 				z: (optional) z coordinate (decimal point number). Will be used instead of 'pos'.
 				angle: (optional) rotation angle (decimal point number from 0 to 360).
 		
 		
-		Objects: (optinal) - list of objects that the player can use as a custom respawn point (Sleeping
-bag or Flag pole for example).
+		Objects: (optinal) - list of objects that the player can use as a custom respawn point (Sleeping bag or Flag pole for example).
 			Object: each individual object to respawn
 				classname: (required) object classname
-				singleBind: (optional) (default value is "0"). When "1" - this object can be set as a respawn point
-for only one player, otherwise there is no limit to the number of players who can set a respawn
-point on a given object.
-				handler: (optional) (for advanced users only) can be used to define additional logic and conditions
-on an object (e.g. to create a respawn point only if the object owned to the player). Can be defined
-as a class inside the mission 'init.c' file or in any another script.
-					EXAMPLE OF EXPANSION TERRITORY FLAG: <Object classname="TerritoryFlag"
-handler="MyRespawnObjectHandler" />
+				singleBind: (optional) (default value is "0"). When "1" - this object can be set as a respawn point for only one player, otherwise there is no limit to the number of players who can set a respawn point on a given object.
+				handler: (optional) (for advanced users only) can be used to define additional logic and conditions on an object (e.g. to create a respawn point only if the object owned to the player). Can be defined as a class inside the mission 'init.c' file or in any another script.
+					EXAMPLE OF EXPANSION TERRITORY FLAG: <Object classname="TerritoryFlag" handler="MyRespawnObjectHandler" />
 					``` [init.c]
 						class MyRespawnObjectHandler : TerjeRespawnObjectHandler
 						{
@@ -57,8 +49,7 @@ handler="MyRespawnObjectHandler" />
 		
 		
 		DeathPoint: (optinal) - Uses the player's last death point as a respawn point.
-			requireBody: (optional) When sets to "1", the condition for using this respawn point is that there
-is a dead body of this player present on this point.
+			requireBody: (optional) When sets to "1", the condition for using this respawn point is that there is a dead body of this player present on this point.
 		
 		
 		Options: (optional) additional respawn options
@@ -70,13 +61,11 @@ is a dead body of this player present on this point.
 			
 			
 			MapImage: (optional) Uses the image at the specified path as a preview.
-				path: (required) Path to the image. You can use path to your custom *.paa image or imageset from
-your own pbo's.
+				path: (required) Path to the image. You can use path to your custom *.paa image or imageset from your own pbo's.
 			
 			
 			MapRender: (optional) Uses the map rendering widget to display target position as preview.
-				pos: (optional) point position in comma-separated format. Uses coordinates format from
-https://dayz.xam.nu/ (Ctrl+C on the website to copy).
+				pos: (optional) point position in comma-separated format. Uses coordinates format from https://dayz.xam.nu/ (Ctrl+C on the website to copy).
 				x: (optional) x coordinate (decimal point number). Will be used instead of 'pos'.
 				y: (optional) y coordinate (decimal point number). Will be used instead of 'pos'.
 				z: (optional) z coordinate (decimal point number). Will be used instead of 'pos'.
@@ -89,22 +78,14 @@ https://dayz.xam.nu/ (Ctrl+C on the website to copy).
 					"never": default value, do not display marker on map
 					"active": display marker on the map only when this spawn set is active.
 					"always": always display marker on the map
-				showMarkerName: (optional) specify whether to display the name of the respawn set next to the
-marker on the map. "1" enabled, "0" disabled (default).
-				allowInteraction: (optional) determines whether the user can interact with the map interactively.
-"1" enabled, "0" disabled (default).
-				markerPath: (optional) sets a path to a marker icon on the map for this respawn set. Default value
-is "TerjeStartScreen/Textures/marker.paa"
-				pointsPath: (optional) sets a path to a points icon on the map for this respawn set. Default value
-is "TerjeStartScreen/Textures/dot.paa"
-				activePointsColor: (optional) sets an active points color in ARGB format. Default value is
-"0xFFB40000"
-				inactivePointsColor: (optional) sets an active points color in ARGB format. Default value is
-"0xFF191919"
-				activeMarkerColor: (optional) sets an active points color in ARGB format. Default value is
-"0xFFB40000"
-				inactiveMarkerColor: (optional) sets an active points color in ARGB format. Default value is
-"0xFF191919"
+				showMarkerName: (optional) specify whether to display the name of the respawn set next to the marker on the map. "1" enabled, "0" disabled (default).
+				allowInteraction: (optional) determines whether the user can interact with the map interactively. "1" enabled, "0" disabled (default).
+				markerPath: (optional) sets a path to a marker icon on the map for this respawn set. Default value is "TerjeStartScreen/Textures/marker.paa"
+				pointsPath: (optional) sets a path to a points icon on the map for this respawn set. Default value is "TerjeStartScreen/Textures/dot.paa"
+				activePointsColor: (optional) sets an active points color in ARGB format. Default value is "0xFFB40000"
+				inactivePointsColor: (optional) sets an active points color in ARGB format. Default value is "0xFF191919"
+				activeMarkerColor: (optional) sets an active points color in ARGB format. Default value is "0xFFB40000"
+				inactiveMarkerColor: (optional) sets an active points color in ARGB format. Default value is "0xFF191919"
 			
 			
 			PlayerStats: (optional) Player will be respawned with the next specific stats.
@@ -115,84 +96,109 @@ is "TerjeStartScreen/Textures/dot.paa"
 				water: (optional) player water value (from 0 to 5000)
 				sleep: (optional) (TerjeMedicine mod required) player sleep value (from 0 to 14000)
 				mind: (optional) (TerjeMedicine mod required) player mental (mind) value (from 0 to 100)
-				heatComfort: player temperature comfort value (from -1 to 1)
-				heatBuffer: player temperature buffer value (from -30 to 30)
+				heatComfort: (optional) player temperature comfort value (from -1 to 1)
+				heatBuffer: (optional) player temperature buffer value (from -30 to 30)
 		
 		
 		Conditions: (optional) - list of conditions under which the respawn will be available to the player
-			ALL SUPPORTED CONDITIONS YOU CAN FOUND HERE:
-https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditions/README.md
+			ALL SUPPORTED CONDITIONS YOU CAN FOUND HERE: https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditions/README.md
 -->
 <Respawns>
-	<Respawn id="chernarus" displayName="Alteria (random)">
+	<Respawn id="Alteria" displayName="Alteria T1 (random)">
 		<Options>
 			<MapImage path="TerjeStartScreen\Textures\chernarusplus.paa" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
+			<SafeRadius zombie="15" animal="0" player="250" other="0" />
 		</Options>
 		<Points>
-			<Point pos="1959.047974, 7925.390137" />
-			<Point pos="2057.139160, 7907.287109" />
-			<Point pos="269.239929, 6289.357422" />
-			<Point pos="327.298462, 6234.352051" />
+			<Point pos="207.39, 6752.71" />
+			<Point pos="377.63, 6871.77" />
+			<Point pos="577.28, 7104.53" />
+			<Point pos="709.74, 7169.34" />
+			<Point pos="908.80, 7282.54" />
+			<Point pos="1095.85, 7227.44" />
+			<Point pos="1815.74, 7957.83" />
+			<Point pos="1996.15, 7927.72" />
+			<Point pos="2020.71, 7788.22" />
+			<Point pos="2127.47, 7729.29" />
+			<Point pos="2271.75, 7649.92" />
+			<Point pos="2491.97, 7698.35" />
+			<Point pos="2686.95, 7630.30" />
+			<Point pos="2938.34, 7447.76" />
+			<Point pos="2953.97, 6980.71" />
+			<Point pos="2222.56, 5230.72" />
+			<Point pos="1949.26, 5100.58" />
+			<Point pos="2026.09, 4941.25" />
+			<Point pos="2016.72, 4741.30" />
+			<Point pos="2040.14, 4607.61" />
+			<Point pos="1920.53, 4486.21" />
+			<Point pos="2112.60, 4330.40" />
+			<Point pos="2221.81, 4232.56" />
+			<Point pos="1151.03, 5147.70" />
+			<Point pos="875.98, 5210.10" />
+			<Point pos="1032.35, 5587.58" />
+			<Point pos="722.18, 5606.42" />
+			<Point pos="362.54, 5745.85" />
+			<Point pos="478.74, 6045.13" />
+			<Point pos="396.68, 6376.23" />
+			<Point pos="403.15, 6654.06" />
+			<Point pos="742.00, 6980.03" />
+			<Point pos="934.03, 6995.46" />
+			<Point pos="1126.97, 7146.91" />
+			<Point pos="1290.68, 7447.84" />
+			<Point pos="1557.14, 7614.09" />
+			<Point pos="1557.14, 7614.09" />
+			<Point pos="1855.11, 7621.21" />
+			<Point pos="2878.49, 7061.83" />
+			<Point pos="3179.19, 6737.74" />
+			<Point pos="3180.48, 6738.08" />
+			<Point pos="3410.81, 7266.02" />
+			<Point pos="3789.59, 7356.34" />
+			<Point pos="2451.74, 5429.31" />
+			<Point pos="1244.74, 5527.43" />
+			<Point pos="740.74, 5606.96" />
+			<Point pos="811.29, 5926.21" />
+			<Point pos="684.40, 6201.88" />
+			<Point pos="811.48, 5927.90" />
+			<Point pos="617.13, 6435.24" />
+			<Point pos="1159.78, 7018.34" />
+			<Point pos="1694.66, 7278.44" />
+			<Point pos="2109.14, 7297.37" />
+			<Point pos="2346.72, 6502.50" />
+			<Point pos="2081.77, 6228.30" />
+			<Point pos="1544.26, 6349.96" />
+			<Point pos="1201.91, 6297.48" />
+			<Point pos="1140.07, 6682.93" />
+			<Point pos="1486.79, 6871.71" />
+			<Point pos="1791.92, 6353.84" />
+			<Point pos="1163.66, 5562.29" />
 		</Points>
 	</Respawn>
-	<Respawn id="electro" displayName="North">
-		<Options>
-			<MapRender pos="1959.047974, 7925.390137" zoom="0.25" showPoints="always" showMarker="always"
-				allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="1959.047974, 7925.390137" />
-			<Point pos="2057.139160, 7907.287109" />
-		</Points>
-		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
-		</Conditions>
-	</Respawn>
-	<Respawn id="cherno" displayName="West">
-		<Options>
-			<MapRender pos="327.298462, 6234.352051" zoom="0.25" showPoints="always" showMarker="always"
-				allowInteraction="1" />
-			<SafeRadius zombie="15" animal="0" player="50" other="0" />
-		</Options>
-		<Points>
-			<Point pos="269.239929, 6289.357422" />
-			<Point pos="327.298462, 6234.352051" />
-		</Points>
-		<Conditions>
-			<Timeout id="myTimer2" minutes="15" />
-		</Conditions>
-	</Respawn>
-
 	<Respawn id="hunting" displayName="Hunting zone (skill required)">
 		<Options>
-			<SafeRadius zombie="15" animal="25" player="50" other="0" />
+			<SafeRadius zombie="15" animal="25" player="250" other="0" />
 		</Options>
 		<Points>
-			<Point pos="1097.255493, 7127.278320" />
+			<Point pos="6110.37, 6966.58" />
+			<Point pos="6360.09, 6632.03" />
+			<Point pos="6437.75, 5438.16" />
+			<Point pos="6946.03, 4666.67" />
+			<Point pos="6370.89, 4462.98" />
+			<Point pos="6011.96, 5799.13" />
+			<Point pos="6199.27, 6077.37" />
+			<Point pos="7197.66, 5447.35" />
+			<Point pos="6847.12, 4786.61" />
+			<Point pos="7149.08, 4193.18" />
+			<Point pos="7545.82, 3747.65" />
+			<Point pos="7770.06, 3348.79" />
+			<Point pos="4829.54, 4518.72" />
+			<Point pos="5632.72, 5431.49" />
+			<Point pos="6270.70, 5945.26" />
 		</Points>
 		<Conditions>
 			<Timeout id="hunting" minutes="30" />
-			<SkillLevel skillId="hunt" requiredLevel="25" />
-			<SkillPerk skillId="hunt" perkId="exphunter" requiredLevel="1" />
+			<SkillLevel skillId="hunt" requiredLevel="35" />
+			<SkillPerk skillId="hunt" perkId="pathfindr" requiredLevel="1" />
 			<Equal name="myvar1" value="1" displayText="Hunting loadout required." />
-		</Conditions>
-	</Respawn>
-	<Respawn id="admin" displayName="Admin base">
-		<Options>
-			<PlayerStats health="100" blood="5000" shock="100" energy="5000" water="5000"
-				sleep="14000" mind="100" heatComfort="0" heatBuffer="30" />
-		</Options>
-		<Points>
-			<Point pos="2606.37, 14830.66" angle="180" />
-		</Points>
-		<Conditions>
-			<SpecificPlayers hideOwnerWhenFalse="1">
-				<!-- PUT YOUR ADMIN STEAM GUIDS HERE -->
-				<SpecificPlayer steamGUID="dzWbglNhfeOd..." />
-				<SpecificPlayer steamGUID="nvv238NwFBBr..." />
-			</SpecificPlayers>
 		</Conditions>
 	</Respawn>
 	<Respawn id="sleepingbag" displayName="Respawn on sleeping bag">
@@ -200,22 +206,12 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 			<MapRender zoom="0.25" showMarker="always" allowInteraction="1" />
 		</Options>
 		<Objects>
-			<!-- You can put here any object classname to allow the player to set it as their own
-			respawn point. -->
+			<!-- You can put here any object classname to allow the player to set it as their own respawn point. -->
 			<Object classname="TerjeSleepingBag_Blue" singleBind="1" />
 			<Object classname="TerjeSleepingBag_Woodland" singleBind="1" />
 		</Objects>
 		<Conditions>
 			<Timeout id="sleepingbag" minutes="60" />
-		</Conditions>
-	</Respawn>
-	<Respawn id="deathpoint" displayName="Respawn on your dead body">
-		<Options>
-			<MapRender zoom="0.25" showMarker="always" allowInteraction="1" />
-		</Options>
-		<DeathPoint requireBody="1" />
-		<Conditions>
-			<Timeout id="deathpoint" hours="24" />
 		</Conditions>
 	</Respawn>
 </Respawns>
