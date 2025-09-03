@@ -903,6 +903,12 @@
     <input name="UAEarPlugsToggle">
         <btn name="kN" />
     </input>
+    <input name="PvZmodRefresh">
+        <btn name="kNumpad5" />
+    </input>
+    <input name="PvZ_InfomationPanel_ShowHidePvzInformationPanel_SS">
+        <btn name="kSpace" />
+    </input>
     <input name="UAPVEZOpenAdminMenu" />
     <input name="UIOPENMENU">
         <btn name="kO" />
