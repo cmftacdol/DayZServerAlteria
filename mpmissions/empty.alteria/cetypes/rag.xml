@@ -1868,10 +1868,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_workbench_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>2400</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1886,10 +1886,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_workbench_blueprint">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1899,7 +1899,7 @@
         <usage name="Industrial" />
     </type>
     <type name="rag_baseitems_lantern_kit">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>1</min>
@@ -1917,7 +1917,7 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_lantern_wall_kit">
-        <nominal>1</nominal>
+        <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
         <min>1</min>
@@ -2368,10 +2368,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_repair_station_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2472,10 +2472,10 @@
             crafted="1" deloot="0" />
     </type>
     <type name="rag_baseitems_solarpanel_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2498,10 +2498,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_sewing_machine_kit">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2877,10 +2877,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="rag_baseitems_notebook">
-        <nominal>1</nominal>
+        <nominal>0</nominal>
         <lifetime>7200</lifetime>
         <restock>1200</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
