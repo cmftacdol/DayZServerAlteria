@@ -1,132 +1,6 @@
 {
     "Zombies": {
-        "Groups": {
-            "priests": [
-                "ZmbM_priestPopSkinny_Base"
-            ],
-            "lowstr": [
-                "city",
-                "villagers",
-                "fishermen"
-            ],
-            "city": [
-                "ZmbF_CitizenANormal_Base",
-                "ZmbF_CitizenBSkinny_Base",
-                "ZmbF_Clerk_Normal_Base",
-                "ZmbF_Clerk_Normal_LT_Base",
-                "ZmbF_JournalistNormal_Base",
-                "ZmbF_JournalistNormal_LT_Base",
-                "ZmbF_ShortSkirt_Base",
-                "ZmbF_ShortSkirt_LT_Base",
-                "ZmbF_SkaterYoung_Base",
-                "ZmbM_SkaterYoung_Base",
-                "ZmbM_SkaterYoung_LT_Base",
-                "ZmbF_SurvivorNormal_Base",
-                "ZmbF_SurvivorNormal_LT_Base",
-                "ZmbM_CitizenASkinny_Base",
-                "ZmbM_CitizenASkinny_LT_Base",
-                "ZmbM_CitizenBFat_Base",
-                "ZmbM_ClerkFat_Base",
-                "ZmbM_ClerkFat_LT_Base",
-                "ZmbF_ClerkFat_Base",
-                "ZmbM_CommercialPilotOld_Base",
-                "ZmbM_CommercialPilotOld_LT_Base",
-                "ZmbM_JournalistSkinny_Base",
-                "ZmbM_MotobikerFat_Base"
-            ],
-            "prisoners": [
-                "ZmbM_PrisonerSkinny_Base"
-            ],
-            "mediumdef": [
-                "medics",
-                "industrial",
-                "priests",
-                "prisoners"
-            ],
-            "firefighters": [
-                "ZmbM_FirefighterNormal_Base"
-            ],
-            "lowdef": [
-                "city",
-                "villagers",
-                "fishermen"
-            ],
-            "medics": [
-                "ZmbF_DoctorSkinny_Base",
-                "ZmbF_NurseFat_Base",
-                "ZmbF_ParamedicNormal_Base",
-                "ZmbM_ParamedicNormal_Base",
-                "ZmbM_DoctorFat_Base",
-                "ZmbF_PatientOld_Base",
-                "ZmbM_PatientSkinny_Base"
-            ],
-            "police": [
-                "ZmbF_PoliceWomanNormal_Base",
-                "ZmbM_PolicemanFat_Base",
-                "ZmbM_PolicemanSpecForce_Base"
-            ],
-            "highdef": [
-                "military",
-                "police",
-                "firefighters",
-                "hunters",
-                "ZmbM_Gamedev_Base"
-            ],
-            "industrial": [
-                "ZmbF_BlueCollarFat_Base",
-                "ZmbF_MechanicNormal_Base",
-                "ZmbM_ConstrWorkerNormal_Base",
-                "ZmbM_HandymanNormal_Base",
-                "ZmbM_HeavyIndustryWorker_Base",
-                "ZmbM_MechanicSkinny_Base",
-                "ZmbM_OffshoreWorker_Base"
-            ],
-            "villagers": [
-                "ZmbF_Runner_Base",
-                "ZmbF_MilkMaidOld_Base",
-                "ZmbF_MilkMaidOld_LT_Base",
-                "ZmbF_VillagerOld_Base",
-                "ZmbF_VillagerOld_LT_Base",
-                "ZmbM_FarmerFat_Base",
-                "ZmbM_FarmerFat_LT_Base",
-                "ZmbM_Jacket_Base",
-                "ZmbM_Jacket_LT_Base",
-                "ZmbM__Runner_Base",
-                "ZmbM_VillagerOld_Base",
-                "ZmbM_VillagerOld_LT_Base",
-                "ZmbF_HikerSkinny_Base",
-                "ZmbM_HermitSkinny_Base",
-                "ZmbM_HikerSkinny_Base"
-            ],
-            "wolves": [
-                "Animal_CanisLupus"
-            ],
-            "bears": [
-                "Animal_UrsusArctos"
-            ],
-            "highstr": [
-                "military",
-                "police",
-                "firefighters",
-                "hunters",
-                "ZmbM_Gamedev_Base"
-            ],
-            "fishermen": [
-                "ZmbM_FishermanOld_Base"
-            ],
-            "hunters": [
-                "ZmbM_HunterOld_Base"
-            ],
-            "mediumstr": [
-                "medics",
-                "industrial",
-                "priests",
-                "prisoners"
-            ],
-            "military": [
-                "ZmbM_SoldierNormal_Base"
-            ]
-        },
+        "Groups": {},
         "CustomIrritants": {
             "matches": {
                 "Classes": [
@@ -431,7 +305,7 @@
             "all": 0
         },
         "AttackPlayersUnconsciousHitsLimit": {
-            "all": 5.0
+            "all": 0
         },
         "AttackAnimalsHandlerIsActive": {
             "all": 1
@@ -974,7 +848,7 @@
             "lowstr": 1.2000000476837159
         },
         "DamageToPlayerInBlockHealthMultiplier": {
-            "all": 0.6000000238418579,
+            "all": 0,
             "highstr": 0.699999988079071,
             "mediumstr": 0.6499999761581421,
             "lowstr": 0.6000000238418579
@@ -986,7 +860,7 @@
             "lowstr": 1.2000000476837159
         },
         "DamageToPlayerInBlockShockMultiplier": {
-            "all": 0.6000000238418579,
+            "all": 0,
             "highstr": 0.699999988079071,
             "mediumstr": 0.6499999761581421,
             "lowstr": 0.6000000238418579
@@ -1192,7 +1066,7 @@
         },
         "DamageToZombieHeadMeleeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
+            "all": 0.8000000059604645,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
@@ -1201,25 +1075,25 @@
         },
         "DamageToZombieBodyMeleeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
+            "all": 0.8000000059604645,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieBodyRangeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
+            "all": 0.8000000059604645,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieFromCarsMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
+            "all": 0.8000000059604645,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieFromExplosionsMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.4000000059604645,
+            "all": 0.8000000059604645,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
