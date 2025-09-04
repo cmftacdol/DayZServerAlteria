@@ -1,0 +1,17 @@
+{
+    "settings_version": 4,
+    "apple_drop_chance": 0.20000000149011612,
+    "plum_drop_chance": 0.20000000149011612,
+    "pear_drop_chance": 0.20000000149011612,
+    "shake_duration_seconds": 3.0,
+    "tree_cooldown_minutes": 60,
+    "apple_min_count": 2,
+    "apple_max_count": 4,
+    "plum_min_count": 2,
+    "plum_max_count": 4,
+    "pear_min_count": 2,
+    "pear_max_count": 4,
+    "food_stage_enable": 1,
+    "food_dried_chance": 0.25000000596046449,
+    "food_rotten_chance": 0.05000000074505806
+}

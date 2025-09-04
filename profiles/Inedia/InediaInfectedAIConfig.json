@@ -1066,7 +1066,7 @@
         },
         "DamageToZombieHeadMeleeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.8000000059604645,
+            "all": 1.0,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
@@ -1075,25 +1075,25 @@
         },
         "DamageToZombieBodyMeleeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.8000000059604645,
+            "all": 1.0,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieBodyRangeMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.8000000059604645,
+            "all": 1.0,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieFromCarsMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.8000000059604645,
+            "all": 1.0,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
         "DamageToZombieFromExplosionsMultiplier": {
             "mediumdef": 0.30000001192092898,
-            "all": 0.8000000059604645,
+            "all": 1.0,
             "lowdef": 0.4000000059604645,
             "highdef": 0.20000000298023225
         },
