@@ -1,0 +1,23 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Explosives_And_Grenades"
+    ],
+    "Items": {
+        "nvgoggles": 1,
+        "rangefinder": 1,
+        "battery9v": 1,
+        "nvgheadstrap": 1
+    }
+}

@@ -1036,6 +1036,10 @@
     <input name="UAToggleHeadlightHighBeam">
         <btn name="kL" />
     </input>
+    <input name="UAExpansionConfirm">
+        <btn name="kReturn" />
+        <btn name="kNumpadEnter" />
+    </input>
     <input name="UAToggleSnapping">
         <btn name="kDown" />
     </input>

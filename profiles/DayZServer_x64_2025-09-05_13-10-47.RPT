@@ -1,0 +1,34 @@
+=====================================================================
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+== G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe -config=serverDZ.cfg "-mod=@AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CarVanillaPlus;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@Utopia Airdrop;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@HP Crafter Workbench;@Knock Knock Zombies;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@DayZ-Editor;" -profiles=profiles
+=====================================================================
+Exe timestamp: 2025/08/07 20:07:14
+Current time:  2025/09/05 13:11:31
+Version 1.28.160123
+=====================================================================
+
+13:11:31.291 [Inputs] Loading inputs default "bin/constants.xml"
+13:11:31.307 [Inputs] Loading inputs default "bin/specific.xml"
+13:11:31.307 [Inputs] Loading inputs default "EarPlugs\data\inputs.xml"
+13:11:31.307 [Inputs] Loading inputs default "InventoryMoveSounds/Scripts/Data/Inputs.xml"
+13:11:31.307 [Inputs] Loading inputs default "LIVEN/PvZmoD_Spawn_System/inputs.xml"
+13:11:31.307 [Inputs] Loading inputs default "PVEZ/data/inputs.xml"
+13:11:31.308 [Inputs] Loading inputs default "SearchInventory/Scripts/Data/inputs.xml"
+13:11:31.308 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+13:11:31.309 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+13:11:31.319 !!! [Inputs] Cannot load inputs default "", file does not exist
+13:11:31.319 !!! [Inputs] Failed to load MODDED inputs - file name/ path invalid?
+13:11:31.319 [Inputs] Loading inputs default "DayZEditor/Scripts/Data/Inputs.xml"
+13:11:31.331 [Inputs] Loading inputs default "FOG_MOD/Scripts/Data/inputs.xml"
+13:11:31.331 [Inputs] Loading inputs default "rag/rag_immersive_vehicles/scripts/4_world/rag_immersive_vehicles/actions/inputs/inputs.xml"
+13:11:31.331 [Inputs] Loading inputs default "DayZExpansion/Market/Scripts/Data/Inputs.xml"
+13:11:31.331 [Inputs] Loading inputs default "RaG_BaseBuilding/Data/inputs/Inputs.xml"
+13:11:31.341 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+13:11:31.350 [Inputs] Loading inputs cfg "profiles\Users\Survivor\Server.core.xml"
+13:11:31.350 !!! [Inputs] Cannot read inputs cfg "profiles\Users\Survivor\Server.core.xml", parser error
+13:11:31.350 [Inputs] Loading inputs cfg "bin/core.xml"
+13:11:31.350 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+13:11:31.352 [Inputs] Exporting inputs cfg "profiles\Users\Survivor\Server.core.xml"
+13:12:06.698 Hostname of server: "[AU]Hardcore Horizons|Alteria|PVE|AI|Terje|Inedia|Hardcore Survival"
+13:12:37.178 Mission script has no main function, player connect will stay disabled!
+13:14:02.09  --- Termination successfully completed --- 
