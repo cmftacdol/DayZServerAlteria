@@ -353,3 +353,7 @@
 
 [2025-09-06 13:42:22] Client version: no bootstrapper found
 [2025-09-06 13:42:22] WebUITransport: Shutting down
+
+
+[2025-09-06 18:04:27] Client version: no bootstrapper found
+[2025-09-06 18:04:27] WebUITransport: Shutting down
