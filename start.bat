@@ -3,7 +3,7 @@
 ::Server name [!EDIT THIS!]
 set serverName=Deer Isle Test
 ::Server files location [DEFAULT !EDIT AS NEEDED!]
-set serverDirectory="C:\Program Files (x86)\Steam\steamapps\common\DayZServer\DayZServerAlteria"
+set serverDirectory="C:\Program Files (x86)\Steam\steamapps\common\DayZServer"
 ::Server Port [DEFAULT]
 set serverPort=2302
 ::Server config [DEFAULT. hostname= in serverDZ.cfg is what shows in the steam server browser. !EDIT AS NEEDED!.]
