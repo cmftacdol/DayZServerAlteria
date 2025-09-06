@@ -85,6 +85,20 @@
                     "HeliAttachesItemList": []
                 },
                 {
+                    "ItemName": "rag_baseitems_weapon_cleaner_kit",
+                    "SpawnChance": 48.9,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
+                    "ItemName": "rag_baseitems_table_saw_kit",
+                    "SpawnChance": 48.9,
+                    "ItemQuantity": 0.0,
+                    "ItemHealth": 40.0,
+                    "HeliAttachesItemList": []
+                },
+                {
                     "ItemName": "rag_baseitems_gunwall_kit",
                     "SpawnChance": 48.9,
                     "ItemQuantity": 0.0,
