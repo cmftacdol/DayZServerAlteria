@@ -4,6 +4,6 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 75.0,
+    "InitStockPercent": 0,
     "Items": []
 }

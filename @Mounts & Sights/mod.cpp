@@ -1,9 +1,0 @@
-name      = "Mounts & Sights";
-picture   = "MountsAndSights/gui/imagesets/mounts_and_sights_logo_picture.edds";
-logoSmall = "MountsAndSights/gui/imagesets/mounts_and_sights_logo.edds";
-logo      = "MountsAndSights/gui/imagesets/mounts_and_sights_logo.edds";
-logoOver  = "MountsAndSights/gui/imagesets/mounts_and_sights_logo_hover.edds";
-overview  = "$STR_mas_mod_description";
-action    = "https://isitakol.github.io/dayz/mods/mountsandsights/mainmenu/";
-author    = "Akol";
-authorID  = "76561197991390038";
