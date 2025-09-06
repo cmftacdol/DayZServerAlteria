@@ -4605,7 +4605,7 @@
       deloot="0" />
     <category name="food" />
     <usage name="Military" />
-    <usage name="Underground" />
+    <usage name="Hunting" />
     <usage name="Police" />
   </type>
   <type name="CanvasBag_Medical">

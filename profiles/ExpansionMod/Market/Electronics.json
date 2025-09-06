@@ -91,19 +91,7 @@
             ],
             "Variants": []
         },
-        {
-            "ClassName": "nvgoggles",
-            "MaxPriceThreshold": 9025,
-            "MinPriceThreshold": 5415,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
-            "Variants": []
-        },
+
         {
             "ClassName": "alarmclock_blue",
             "MaxPriceThreshold": 615,

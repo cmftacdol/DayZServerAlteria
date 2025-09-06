@@ -225,19 +225,8 @@
         },
         {
             "ClassName": "nailbox",
-            "MaxPriceThreshold": 750,
+            "MaxPriceThreshold": 1000,
             "MinPriceThreshold": 450,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "nail",
-            "MaxPriceThreshold": 10,
-            "MinPriceThreshold": 5,
             "SellPricePercent": -1.0,
             "MaxStockThreshold": 100,
             "MinStockThreshold": 1,

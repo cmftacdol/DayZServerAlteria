@@ -117,21 +117,6 @@
             "Variants": []
         },
         {
-            "ClassName": "headtorch_black",
-            "MaxPriceThreshold": 2955,
-            "MinPriceThreshold": 1770,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "battery9v"
-            ],
-            "Variants": [
-                "headtorch_grey"
-            ]
-        },
-        {
             "ClassName": "spotlight",
             "MaxPriceThreshold": 1115,
             "MinPriceThreshold": 670,

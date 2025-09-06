@@ -1,0 +1,10 @@
+name = "SFX_Zombie";
+picture = "MCG_SFX_ZOMBIE/PUBLIC/pic/ICON_o.paa";
+logoSmall = "MCG_SFX_ZOMBIE/PUBLIC/pic/SMALL_t.edds";
+logo = "MCG_SFX_ZOMBIE/PUBLIC/pic/ICON_t.paa";
+logoOver = "MCG_SFX_ZOMBIE/PUBLIC/pic/ICON_a.paa";
+tooltip = "Contact";
+overview = "$STR_MCG_MOD_LANG";
+action = "https://steamcommunity.com/id/rimmsky";
+author = "rimmsky";
+version = "2.0.1";

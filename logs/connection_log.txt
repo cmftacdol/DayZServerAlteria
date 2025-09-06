@@ -3761,3 +3761,33 @@
 [2025-09-05 13:57:22] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
 [2025-09-05 13:57:22] Connectivity test (124.106.8.27:80 (124.106.8.27:80)): OK!
 [2025-09-05 13:57:22] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-06 10:15:48] Client version: no bootstrapper found
+[2025-09-06 10:15:48] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-06 10:15:48] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
+[2025-09-06 10:15:48] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-06 10:27:21] Client version: no bootstrapper found
+[2025-09-06 10:27:21] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-06 10:27:21] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
+[2025-09-06 10:27:21] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-06 11:04:19] Client version: no bootstrapper found
+[2025-09-06 11:04:19] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-06 11:04:19] Connectivity test (124.106.8.11:80 (124.106.8.11:80)): OK!
+[2025-09-06 11:04:19] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-06 11:32:50] Client version: no bootstrapper found
+[2025-09-06 11:32:50] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-06 11:32:50] Connectivity test (124.106.174.49:80 (124.106.174.49:80)): OK!
+[2025-09-06 11:32:50] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-06 11:57:00] Client version: no bootstrapper found
+[2025-09-06 11:57:00] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-06 11:57:00] Connectivity test (124.106.174.48:80 (124.106.174.48:80)): OK!
+[2025-09-06 11:57:00] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

@@ -1,0 +1,9 @@
+Loot System Logs Active: 2025_9_6-11_6_13
+11_6_13 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_8_28-18_32_41.log
+11_7_9 | INFO | Loot System has started
+11_7_9 | INFO | Room settings loaded successfully.
+11_7_9 | INFO | Box settings loaded successfully.
+11_7_9 | INFO | LockAllLootRooms called
+11_7_9 | INFO | Locking room: South Port Industrial Base
+11_7_9 | INFO | Locking room: Airfield Base
+11_7_57 | INFO | Player and identity are valid on connect.

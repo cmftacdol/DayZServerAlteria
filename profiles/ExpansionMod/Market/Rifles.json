@@ -18,19 +18,6 @@
             "Variants": []
         },
         {
-            "ClassName": "cz527",
-            "MaxPriceThreshold": 1300,
-            "MinPriceThreshold": 780,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-                "mag_cz527_5rnd"
-            ],
-            "Variants": []
-        },
-        {
             "ClassName": "cz550",
             "MaxPriceThreshold": 6210,
             "MinPriceThreshold": 3725,
