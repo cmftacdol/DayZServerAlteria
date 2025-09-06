@@ -1,0 +1,18 @@
+"CraftingCategories": [
+    {
+      "CategoryName": "#STR_BookImproThings",
+      "Results": [
+        "bl_improvised_whetstone",
+        "bl_improvised_sewing_kit",
+        "bl_improvised_leathersewing_kit",
+	"bl_improvised_tape",
+        "bl_candle",
+        "bl_rope_yarn",
+        "bl_tallow_wax",
+        "bl_screwdriver_sharp",
+        "bl_tree_resin",
+        "MetalWire",
+        "BarbedWire"
+      ]
+    },
+...

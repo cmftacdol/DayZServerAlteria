@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<types> 
+
+  <type name="bl_jaw_bone_part">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_short_wooden_handle">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_long_wooden_handle">
+    <lifetime>14400</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_axe">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_hammer">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_hatchet">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_saw">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_shovel">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+  <type name="bl_improvised_sledgehammer">
+    <lifetime>28800</lifetime> 
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
+  </type>
+
+</types>
