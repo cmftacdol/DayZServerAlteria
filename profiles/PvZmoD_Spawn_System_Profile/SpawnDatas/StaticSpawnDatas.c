@@ -15,19 +15,19 @@ ref autoptr TFloatArray data_HordeStatic110 = { 110,			7,		12,				7,		4356,		0,	
 ref autoptr TFloatArray data_HordeStatic111 = { 111,			7,		12,				7,		3988,		0,		4626,		2,		4,			0,			150,			104,					0,				0,				0,				0,				-20,			100 }; 		// Towns
 ref autoptr TFloatArray data_HordeStatic112 = { 112,			7,		12,				7,		6544,		0,		3763,		2,		4,			0,			150,			104,					0,				0,				0,				0,				-20,			100 }; 		// Kefka
 // STATIC SPAWN DATA //	Police Station Lrg	// NUMCONFIG  	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet		//
-ref autoptr TFloatArray data_HordeStatic113 = { 113,			10,		15,				6,		2496,		0,		5714,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Roblido
-ref autoptr TFloatArray data_HordeStatic114 = { 114,			10,		15,				6,		3741,		0,		6565,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// South Cassandra
-ref autoptr TFloatArray data_HordeStatic115 = { 115,			10,		15,				6,		2162,		0,		3007,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Ares
-ref autoptr TFloatArray data_HordeStatic116 = { 116,			10,		15,				6,		6891,		0,		2257,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Airfield
+ref autoptr TFloatArray data_HordeStatic113 = { 113,			7,		12,				6,		2496,		0,		5714,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Roblido
+ref autoptr TFloatArray data_HordeStatic114 = { 114,			7,		12,				6,		3741,		0,		6565,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// South Cassandra
+ref autoptr TFloatArray data_HordeStatic115 = { 115,			7,		12,				6,		2162,		0,		3007,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Ares
+ref autoptr TFloatArray data_HordeStatic116 = { 116,			7,		12,				6,		6891,		0,		2257,		3,		4,			0,			150,			113,					0,				0,				0,				0,				-20,			100 }; 		// Airfield
 // STATIC SPAWN DATA //	Hospital			// NUMCONFIG  	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet		//
-ref autoptr TFloatArray data_HordeStatic117 = { 117,			10,		15,				13,		2672,		0,		5865,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Roblido
-ref autoptr TFloatArray data_HordeStatic118 = { 118,			10,		15,				13,		4113,		0,		7096,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// South Cassandra
-ref autoptr TFloatArray data_HordeStatic119 = { 119,			10,		15,				13,		4240,		0,		7612,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Cassandra Northern
-ref autoptr TFloatArray data_HordeStatic120 = { 120,			10,		15,				13,		4240,		0,		7581,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Cassandra Southern
-ref autoptr TFloatArray data_HordeStatic121 = { 121,			10,		15,				13,		6859,		0,		3785,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Kefka Central
-ref autoptr TFloatArray data_HordeStatic122 = { 122,			10,		15,				13,		6198,		0,		3681,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Kefka Western
-ref autoptr TFloatArray data_HordeStatic123 = { 123,			10,		15,				13,		2301,		0,		3077,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Ares
-ref autoptr TFloatArray data_HordeStatic124 = { 124,			10,		15,				13,		6975,		0,		2312,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Airfield
+ref autoptr TFloatArray data_HordeStatic117 = { 117,			7,		12,				13,		2672,		0,		5865,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Roblido
+ref autoptr TFloatArray data_HordeStatic118 = { 118,			7,		12,				13,		4113,		0,		7096,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// South Cassandra
+ref autoptr TFloatArray data_HordeStatic119 = { 119,			7,		12,				13,		4240,		0,		7612,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Cassandra Northern
+ref autoptr TFloatArray data_HordeStatic120 = { 120,			7,		12,				13,		4240,		0,		7581,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Cassandra Southern
+ref autoptr TFloatArray data_HordeStatic121 = { 121,			7,		12,				13,		6859,		0,		3785,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Kefka Central
+ref autoptr TFloatArray data_HordeStatic122 = { 122,			7,		12,				13,		6198,		0,		3681,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Kefka Western
+ref autoptr TFloatArray data_HordeStatic123 = { 123,			7,		12,				13,		2301,		0,		3077,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Ares
+ref autoptr TFloatArray data_HordeStatic124 = { 124,			7,		12,				13,		6975,		0,		2312,		2,		6,			0,			150,			110,					0,				0,				0,				0,				0,				100 }; 		// Airfield
 // STATIC SPAWN DATA //	Healthcare			// NUMCONFIG 	  NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet		//
 ref autoptr TFloatArray data_HordeStatic125 = { 125,			5,		10,				10,		4318,		0,		7678,		1,		4,			0,			150,			105,					0,				0,				0,				0,				0,				100 }; 		// Cassandra
 // STATIC SPAWN DATA //	Schools				// NUMCONFIG  	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet		//
@@ -38,8 +38,8 @@ ref autoptr TFloatArray data_HordeStatic128 = { 128,			8,		15,				25,		6600,		0,
 ref autoptr TFloatArray data_HordeStatic129 = { 129,			8,		15,				8,		2693,		0,		5960,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// Roblido
 ref autoptr TFloatArray data_HordeStatic130 = { 130,			8,		15,				8,		4055,		0,		7197,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// Cassandra South 
 /// 131 => 162 : Churches (inside code, can't modify) 
-ref autoptr TFloatArray data_HordeStatic163 = { 163,			12,		20,				8,		4806,		0,		7596,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// Cassandra Northern
-ref autoptr TFloatArray data_HordeStatic164 = { 164,			12,		20,				8,		1987,		0,		596,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// South Harbour
+ref autoptr TFloatArray data_HordeStatic163 = { 163,			8,		15,				8,		4806,		0,		7596,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// Cassandra Northern
+ref autoptr TFloatArray data_HordeStatic164 = { 164,			8,		15,				8,		1987,		0,		596,		0,		0,			0,			150,			108,					0,				0,				0,				0,				-20,			100 }; 		// South Harbour
 // STATIC SPAWN DATA //	Offices				// NUMCONFIG  	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet		//
 ref autoptr TFloatArray data_HordeStatic165 = { 165,			4,		8,				15,		2588,		0,		5944,		2,		4,			0,			150,			30,						0,				0,				0,				0,				0,				100 }; 		// Roblido North
 ref autoptr TFloatArray data_HordeStatic166 = { 166,			4,		8,				15,		2699,		0,		5825,		2,		4,			0,			150,			30,						0,				0,				0,				0,				-20,			100 }; 		// Roblido South
@@ -70,25 +70,25 @@ ref autoptr TFloatArray data_HordeStatic188 = { 188,			5,		12,				7,		7609,		0,	
 ref autoptr TFloatArray data_HordeStatic189 = { 189,			5,		12,				7,		2202,		0,		603,		1,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// South-South Harbour
 ref autoptr TFloatArray data_HordeStatic190 = { 190,			5,		12,				7,		2207,		0,		830,		1,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// North South Harbour
 // STATIC SPAWN DATA //	Military HQ			// NUMCONFIG   	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet	//
-ref autoptr TFloatArray data_HordeStatic191 = { 191,			10,		15,				9,		1766,		0,		6488,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Deadman's Rock
-ref autoptr TFloatArray data_HordeStatic192 = { 192,			10,		15,				9,		4716,		0,		7613,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Cassandra
-ref autoptr TFloatArray data_HordeStatic193 = { 193,			10,		15,				9,		1643,		99,		2660,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Fort Miden
-ref autoptr TFloatArray data_HordeStatic194 = { 194,			10,		15,				9,		1578,		0,		357,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// South Harbour
-ref autoptr TFloatArray data_HordeStatic195 = { 195,			10,		15,				9,		7780,		0,		2313,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// 
+ref autoptr TFloatArray data_HordeStatic191 = { 191,			7,		12,				9,		1766,		0,		6488,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Deadman's Rock
+ref autoptr TFloatArray data_HordeStatic192 = { 192,			7,		12,				9,		4716,		0,		7613,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Cassandra
+ref autoptr TFloatArray data_HordeStatic193 = { 193,			7,		12,				9,		1643,		99,		2660,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Fort Miden
+ref autoptr TFloatArray data_HordeStatic194 = { 194,			7,		12,				9,		1578,		0,		357,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// South Harbour
+ref autoptr TFloatArray data_HordeStatic195 = { 195,			7,		12,				9,		7780,		0,		2313,		2,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// 
 ref autoptr TFloatArray data_HordeStatic196 = { 196,			5,		12,				7,		1706,		0,		2618,		1,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// Fort Miden
 ref autoptr TFloatArray data_HordeStatic197 = { 197,			5,		12,				7,		3985,		0,		6612,		1,		4,			0,			150,			60,						0,				0,				0,				0,				0,				100 }; 		// South Cassandra Milzone
 // STATIC SPAWN DATA //	Castles				// NUMCONFIG   	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet	//
 ref autoptr TFloatArray data_HordeStatic198 = { 198,			6,		12,				15,		1136,		0,		7127,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Tier 1 Coast
-ref autoptr TFloatArray data_HordeStatic199 = { 199,			12,		15,				20,		4217,		0,		7373,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Tier 2 Cassandra
+ref autoptr TFloatArray data_HordeStatic199 = { 199,			7,		15,				20,		4217,		0,		7373,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Tier 2 Cassandra
 ref autoptr TFloatArray data_HordeStatic200 = { 200,			8,		16,				20,		4849,		0,		7028,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Tier 2 Southeast of Cassandra
 ref autoptr TFloatArray data_HordeStatic201 = { 201,			6,		12,				20,		6478,		0,		6556,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - West of Toxic
 ref autoptr TFloatArray data_HordeStatic202 = { 202,			4,		12,				20,		6425,		0,		5930,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 };	 	// Castle - Southwest of Toxic
 ref autoptr TFloatArray data_HordeStatic203 = { 203,			6,		12,				20,		6528,		0,		5554,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Southsouthwest of Toxic
-ref autoptr TFloatArray data_HordeStatic204 = { 204,			15,		25,				50,		3426,		0,		5297,		0,		0,			0,			150,			102,						0,				0,				0,				0,				0,				100 }; 		// Old Castle - Centre of map
+ref autoptr TFloatArray data_HordeStatic204 = { 204,			8,		12,				50,		3426,		0,		5297,		0,		0,			0,			150,			102,						0,				0,				0,				0,				0,				100 }; 		// Old Castle - Centre of map
 ref autoptr TFloatArray data_HordeStatic205 = { 205,			6,		12,				30,		3888,		0,		4833,		0,		0,			0,			150,			102,						0,				0,				0,				0,				-20,			100 }; 		// Castle - Southeast of Old Castle
 // STATIC SPAWN DATA //	Other events		// NUMCONFIG   	 NBRmini NBRmaxi     AREA-RADIUS  COORDX	 COORDY 	COORDZ	FloorNumb FloorHeight	Spawned		SpawnDist	ChoseZconfiguration		NumOfCHEST	CHESTcoordX		CHESTcoordY		CHESTcoordZ		ReactivationDelay	Not used yet	//
 ref autoptr TFloatArray data_HordeStatic206 = { 206,			4,		12,				15,		4934,		0,		4947,		1,		2,			0,			150,			117,					0,				0,				0,				0,				-20,			100 }; 		// Bus Crash near Old Castle
-ref autoptr TFloatArray data_HordeStatic207 = { 207,			15,		20,				85,		4790,		0,		1297,		0,		0,			0,			150,			95,						0,				0,				0,				0,				-20,			100 }; 		// Orchard - Tier 2
+ref autoptr TFloatArray data_HordeStatic207 = { 207,			12,		20,				85,		4790,		0,		1297,		0,		0,			0,			150,			95,						0,				0,				0,				0,				-20,			100 }; 		// Orchard - Tier 2
 ref autoptr TFloatArray data_HordeStatic208 = { 208,			20,		30,				20,		6311,		0,		4098,		0,		0,			0,			150,			94,						0,				0,				0,				0,				0,				100 }; 		// Military - Tunnel E
 ref autoptr TFloatArray data_HordeStatic209 = { 209,			20,		30,				20,		5950,		0,		4797,		0,		0,			0,			150,			94,						0,				0,				0,				0,				0,				100 }; 		// Military - Tunnel W
 ref autoptr TFloatArray data_HordeStatic210 = { 210,			8,		12,				40,		5278,		0,		5050,		0,		0,			0,			150,			94,						0,				0,				0,				0,				-20,			100 }; 		// Busted Church Near Tunnel
