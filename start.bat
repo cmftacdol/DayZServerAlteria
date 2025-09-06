@@ -1,7 +1,7 @@
 @echo off
 :start
 ::Server name [!EDIT THIS!]
-set serverName=Deer Isle Test
+set serverName=Alteria Test
 ::Server files location [DEFAULT !EDIT AS NEEDED!]
 set serverDirectory="C:\Program Files (x86)\Steam\steamapps\common\DayZServer"
 ::Server Port [DEFAULT]
