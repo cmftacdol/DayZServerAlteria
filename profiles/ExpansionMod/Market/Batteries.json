@@ -4,7 +4,7 @@
     "Icon": "Deliver",
     "Color": "FBFCFEFF",
     "IsExchange": 0,
-    "InitStockPercent": 0,
+    "InitStockPercent": 30,
     "Items": [
         {
             "ClassName": "battery9v",
@@ -18,7 +18,7 @@
             "Variants": []
         },
         {
-            "ClassName": "carbattery",
+            "ClassName": "CarBattery",
             "MaxPriceThreshold": 810,
             "MinPriceThreshold": 485,
             "SellPricePercent": -1.0,

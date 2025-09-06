@@ -15,9 +15,6 @@
         "Explosives_And_Grenades"
     ],
     "Items": {
-        "nvgoggles": 1,
-        "rangefinder": 1,
-        "battery9v": 1,
-        "nvgheadstrap": 1
+        
     }
 }

@@ -1,12 +1,12 @@
 {
     "MinPlayersForEvent": 1,
-    "MaxEventOnMap": 3,
+    "MaxEventOnMap": 1,
     "MinCheckTimer": 20.0,
     "MaxCheckTimer": 40.0,
     "HeliCrashList": [
         {
             "LocationName": "Airfield",
-            "LocationCords": "7015.994141 26.129997 1913.295288",
+            "LocationCords": "6848.103027 26.154970 2136.767822",
             "LocationCordsStart": "7848.243652 32.987541 1991.976074",
             "FlyHight": 350.0,
             "FlySpeed": 30.0,
@@ -17,7 +17,7 @@
             "TriggerRadius": 150.0,
             "DeleteTimer": 600.0,
             "DeleteTimerActivated": 1200.0,
-            "MinZmb": 7,
+            "MinZmb": 20,
             "MaxZmb": 25,
             "ZmbList": [
                 "ZmbM_Plague01",

@@ -12,13 +12,25 @@
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 40.0,
     "NetworkBatchSize": 100,
-    "MaxVehicleDistanceToTrader": 0.0,
-    "MaxLargeVehicleDistanceToTrader": 0.0,
+    "MaxVehicleDistanceToTrader": 500.0,
+    "MaxLargeVehicleDistanceToTrader": 500.0,
     "LargeVehicles": [],
     "LandSpawnPositions": [
+         {
+            "Position": [
+               6954.203125,
+                63.424213,
+                837.677307
+            ],
+            "Orientation": [
+                -17.648396,
+                0.000000,
+                0.000000
+            ]
+        },
         {
             "Position": [
-                6954.203125,
+               6954.203125,
                 63.424213,
                 837.677307
             ],
@@ -72,9 +84,7 @@
     "Currencies": [
         "expansionbanknotehryvnia"
     ],
-    "VehicleKeys": [
-        "ExpansionCarKey"
-    ],
+    "VehicleKeys": [],
     "MaxSZVehicleParkingTime": 1800.0,
     "SZVehicleParkingTicketFine": 0,
     "SZVehicleParkingFineUseKey": 1,
