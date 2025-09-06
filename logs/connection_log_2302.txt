@@ -5493,3 +5493,31 @@
 [2025-09-06 13:42:22] [Logged On, 4, 3] [A:1:2152138780:46965] LogOff()
 [2025-09-06 13:42:22] [Logging Off, 4, 3] [A:1:2152138780:46965] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
 [2025-09-06 13:42:22] [Logging Off, 0, 3] [A:1:2152138780:46965] Log session ended
+
+
+[2025-09-06 18:04:26] Client version: no bootstrapper found
+[2025-09-06 18:04:26] Log session started
+[2025-09-06 18:04:26] [Logged Off, 0, 0] [A:1:0:0] CCMInterface::SetSteamID( [A:1:0:0] )
+[2025-09-06 18:04:26] Log session started
+[2025-09-06 18:04:26] [Logged Off, 4, 0] [A:1:0:0] EConnect called - scheduling connection for 50ms from now
+[2025-09-06 18:04:26] Log session started
+[2025-09-06 18:04:26] [Logged Off, 4, 0] [A:1:0:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2025-09-06 18:04:26] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / 0.0.0.0:80 (0.0.0.0:80)) - TIMEOUT
+[2025-09-06 18:04:26] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net) - FAILED, no addresses resolved
+[2025-09-06 18:04:26] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect web api
+[2025-09-06 18:04:27] [Connecting, 4, 0] [A:1:0:0] LogOff()
+[2025-09-06 18:04:27] GetCMListForConnect -- got 7 Netfilter CMs and 153 WebSocket CMs
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'hkg1' count: 27
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'sgp1' count: 23
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'tyo3' count: 23
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'lax1' count: 22
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'ord1' count: 22
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'dfw2' count: 20
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'sea1' count: 20
+[2025-09-06 18:04:27] GetCMListForConnect -- DC 'iad1' count: 3
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] CM Directory list says 95% of connections should be websockets, we rolled 76 - using WebSockets as default.
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27024) starting...
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27022) starting...
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27018) starting...
+[2025-09-06 18:04:27] [Connecting, 0, 0] [A:1:0:0] Log session ended
