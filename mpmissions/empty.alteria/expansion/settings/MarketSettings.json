@@ -17,24 +17,24 @@
     "LargeVehicles": [],
     "LandSpawnPositions": [
         {
-            "position": [
+            "Position": [
                 6954.203125,
                 63.424213,
                 837.677307
             ],
-            "orientation": [
+            "Orientation": [
                 -17.648396,
                 0.000000,
                 0.000000
             ]
         },
         {
-            "position": [
+            "Position": [
                 6944.699707,
                 63.616749,
                 857.850708
             ],
-            "orientation": [
+            "Orientation": [
                 -26.183187,
                 0.000000,
                 0.000000
