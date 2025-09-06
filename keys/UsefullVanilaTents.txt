@@ -1,0 +1,10 @@
+Authority:  UsefullVanilaTents
+Creation:   13.02.2023 15:06:07 (by DESKTOP-R15HMBT\zilon)
+
+== PRIVATE KEY ==
+File: P:\@UsefullVanilaTents\keys\UsefullVanilaTents.biprivatekey
+MD5: 0dfacc98e89ce58c990c87a676f462ae
+== PUBLIC KEY ==
+File: P:\@UsefullVanilaTents\keys\UsefullVanilaTents.bikey
+MD5: 4bd43734ff497386eb52a65ad63feaa0
+
