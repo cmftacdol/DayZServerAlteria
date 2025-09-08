@@ -1,17 +1,14 @@
-# Heading 1
-Welcome to Hardcore Horizons Season 2 (Alteria)
 
-## Heading 2
+## Welcome to Hardcore Horizons Season 2 (Alteria)
 We're passionate DayZ players who took our love for the game to the next level—by becoming admins. What started as long nights surviving the harsh world of DayZ turned into a mission to create the kind of hardcore DayZ experience we always wanted. Built by players, for players, our community is dedicated to realism, challenge, and that unmistakable adrenaline rush only DayZ can deliver. Whether you're a lone wolf or part of a squad, you're welcome here. Just remember—survival isn’t guaranteed.
 
-### Heading 3
-We highly suggest you guys join our Discord community for updates.
+### We highly suggest you guys join our Discord community for updates.
 
 ```
 https://discord.com/invite/4NCWfxtbQX
 ```
 
->
+
 
 ---
 
@@ -76,6 +73,5 @@ Play fair, play smart, respect others, and take responsibility for your actions.
 Admins won’t fix your mistakes. Survival is on you. 
 
 
-[Link example](https://discord.com/invite/4NCWfxtbQX)
+[Discord Link](https://discord.com/invite/4NCWfxtbQX)
 
-![64x64](TerjeStartScreen/Textures/mod_icon.edds)

@@ -1,0 +1,64 @@
+---------------------------------------------
+Log error_2025-09-08_10-04-48.log started at 2025-09-08 10:05:40
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 10:05:40
+
+MARKET CONFIGURATION ERROR: Can't add nvgoggles to trader Components - item does not exist in market
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 10:05:40
+
+TRADER CONFIGURATION ERROR: Category Launchers in Weapons does not exist!
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:07:03
+
+Object 'OBJECT_WITHOUT_CONFIG_CLASS' with model file: alteria\objects\classic_objects\buildings\sara_domek05.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:07:34
+
+Object 'Land_Panelak2' with model file: alteria\objects\classic_objects\buildings\panelak2.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:17:31
+
+Object 'ZmbM_FishermanOld_Green' with model file: dz\characters\zombies\fisherman_old_m.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:27:01
+
+Object 'OBJECT_WITHOUT_CONFIG_CLASS' with model file: alteria\objects\classic_objects\buildings\hotel_riviera1.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:27:02
+
+Object 'OBJECT_WITHOUT_CONFIG_CLASS' with model file: alteria\objects\classic_objects\buildings\hotel_riviera2.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-09-08 11:32:23
+
+Object 'Land_Panelak' with model file: alteria\objects\classic_objects\buildings\panelak.p3d has undefined 'Hit_...' material! Cannot play impact effect.
+Class:      'DayZGame'
+

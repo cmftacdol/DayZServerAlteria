@@ -33,6 +33,13 @@
         },
         {
             "Name": "Builzone is only at tier 2",
+            "Description": "Tier 3 Non build zones",
+            "X": 7161.935547,
+            "Y": 524.576538,
+            "Radius": 3000
+        },
+        {
+            "Name": "Builzone is only at tier 2",
             "Description": "Tier 4 Non build zones",
             "X": 3018,
             "Y": 1224,
