@@ -63,6 +63,7 @@
 		<file name="cbdlootrooms.xml" type="types" />
 		<file name="cookz_types.xml" type="types" />
 		<file name="expansion.xml" type="types" />
+		<file name="roleplay.xml" type="types" />
 	</ce>
 
 </economycore>

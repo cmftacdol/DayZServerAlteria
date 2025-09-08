@@ -15,70 +15,60 @@ https://discord.com/invite/4NCWfxtbQX
 
 ---
 
-⚠️ Read Before You Play
+Read Before You Play
 
 This server is PVE only and built on the principle of player responsibility.
 Admins will not refund gear, fix mistakes, or take responsibility for player actions.
 Your choices, your survival.
 
-🔑 Core Rules
-🔫 PVE Only
+Core Rules
 
-No PvP. Killing or harming other players is strictly prohibited.
+-PVE Only
 
-Traps intended to harm players (at bases, roads, or elsewhere) are not allowed.
+--No PvP. Killing or harming other players is strictly prohibited.
+--Traps intended to harm players (at bases, roads, or elsewhere) are not allowed.
+ 
+-No Base Raiding
 
-🏚️ No Base Raiding
+--Do not raid, break into, or steal from other players’ bases.
+--Respect ownership of bases and storage.
+-Building in Military, Medical, Firefighter, Police and Hunting area is strictly forbidden. (Bases that will not follow this rule will get deleted without notice).
 
-Do not raid, break into, or steal from other players’ bases.
+-Trader Zone Etiquette
 
-Respect ownership of bases and storage.
+-No stealing from players or vehicles in Trader Zones.
+--Unlocked vehicles outside Trader Zones are considered fair game.
 
-Building in Military, Medical, Firefighter, Police and Hunting area is strictly forbidden. (Bases that will not follow this rule will get deleted without notice).
+-Vehicles
 
-🚫 Trader Zone Etiquette
+-Drive and park responsibly.
+--If you flip, lose, or crash a vehicle, it’s your responsibility to recover or rebuild.
+--Admins will not replace destroyed or lost vehicles.
 
-No stealing from players or vehicles in Trader Zones.
 
-Unlocked vehicles outside Trader Zones are considered fair game.
+-Map Etiquette
+--No littering: clean up trash, empty containers, and junk piles.
+--Don’t block loot spawns, roads, or safe zones with builds or vehicles.
 
-🚙 Vehicles
+--Looting Rules
 
-Drive and park responsibly.
+--No loot cycling (dropping/picking items repeatedly to force respawns).
+--Share high-value areas respectfully.
 
-If you flip, lose, or crash a vehicle, it’s your responsibility to recover or rebuild.
+-Respect & Common Sense
 
-Admins will not replace destroyed or lost vehicles.
+--No toxic behavior, hate speech, or harassment.
+--Don’t exploit bugs, glitches, or loopholes.
 
-🗑️ Map Etiquette
+-Treat both players and staff respectfully.
 
-No littering: clean up trash, empty containers, and junk piles.
+-Admin Policy
 
-Don’t block loot spawns, roads, or safe zones with builds or vehicles.
+--Admins enforce rules on cheating, griefing, or toxic behavior.
+--Admins do not refund gear, teleport players, or undo player mistakes.
+--Survival mistakes (gear loss, death, base mismanagement, vehicle crashes, etc.) are the player’s responsibility.
 
-♻️ Looting Rules
-
-No loot cycling (dropping/picking items repeatedly to force respawns).
-
-Share high-value areas respectfully.
-
-🧠 Respect & Common Sense
-
-No toxic behavior, hate speech, or harassment.
-
-Don’t exploit bugs, glitches, or loopholes.
-
-Treat both players and staff respectfully.
-
-🛑 Admin Policy
-
-Admins enforce rules on cheating, griefing, or toxic behavior.
-
-Admins do not refund gear, teleport players, or undo player mistakes.
-
-Survival mistakes (gear loss, death, base mismanagement, vehicle crashes, etc.) are the player’s responsibility.
-
-✅ Final Note
+++Final Note++
 
 DayZ is a game of survival.
 Play fair, play smart, respect others, and take responsibility for your actions.
