@@ -22,21 +22,28 @@
             "Description": "Tier 3 Non build zones",
             "X": 6399,
             "Y": 4633,
-            "Radius": 577
+            "Radius": 800
         },
         {
             "Name": "Builzone is only at tier 2",
             "Description": "Tier 3 Non build zones",
-            "X": 6988,
-            "Y": 3228,
+            "X": 7064,
+            "Y": 3528,
             "Radius": 1262
         },
         {
             "Name": "Builzone is only at tier 2",
             "Description": "Tier 3 Non build zones",
-            "X": 7161.935547,
-            "Y": 524.576538,
-            "Radius": 3000
+            "X": 1720,
+            "Y": 352,
+            "Radius": 400
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 3 Non build zones",
+            "X": 8000.935547,
+            "Y": 200.576538,
+            "Radius": 2000
         },
         {
             "Name": "Builzone is only at tier 2",

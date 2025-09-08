@@ -3419,3 +3419,13 @@ SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: R5KkZb3Ywicboa8
 SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► R5KkZb3Ywicboa8ntCzbBJK6WLpakj_6yA-ghmDo4lw=
 SCRIPT       : string ammo = 'FallDamageHealth'
 SCRIPT       : string ammo = 'FallDamageShock'
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 12:17:19.675 [EXPANSION DEBUG]: Clearing cached categories 63
+SCRIPT       : 12:17:19.678 [EXPANSION DEBUG]: Clearing cached traders 15
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : [INFO] Clearing all hordes.
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Spawned : 532
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Killed  : 273
+SCRIPT       : -- PvZ Kill / Spawn Ratio   : 0.51
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()
