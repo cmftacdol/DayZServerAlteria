@@ -11,7 +11,7 @@
     "CanRaidTents": "false",
     "DeleteLockonRaid": "false",
     "ToolDamageonRaid": 100,
-    "OwnerOnlyDismantle": "true",
+    "OwnerOnlyDismantle": "false",
     "CanOpenAnywhere": "true",
     "CanCloseAnywhere": "true"
 }

@@ -691,6 +691,193 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Bp_Gardenbox_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Gardenbox_Steel_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Greenhouse_kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WB_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "WB_Med_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Sofa_Gun_Rack_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_Wheel_Shelf_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_SM_locker_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_shelf_metal_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_ShelfTool_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_table_s_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_bedfolding_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_Couch_beige_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_couch_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_Water_Collector_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_Tresh_bac_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BP_Guncabinet_Kit",
+            "MaxPriceThreshold": 9040,
+            "MinPriceThreshold": 5425,
+            "SellPricePercent": -1.0,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

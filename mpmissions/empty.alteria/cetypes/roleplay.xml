@@ -14,7 +14,7 @@
 	<type name="BP_Water_Collector_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -27,10 +27,10 @@
 		<usage name="Farm" />
 	</type>
 	<type name="BP_Travel_Jacket">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -43,10 +43,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_FirstAidKit">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -71,7 +71,7 @@
 	<type name="tool_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -83,7 +83,6 @@
 		<usage name="Town" />
 		<usage name="Village" />
 		<usage name="Industrial" />
-		<value name="Tier3" />
 	</type>
 
 	<type name="BP1_Food_box_Nes">
@@ -684,10 +683,10 @@
 			crafted="0" deloot="0" />
 	</type>
 	<type name="BP1_ChestHolster_black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -807,7 +806,7 @@
 	<type name="BP2_carpet_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -835,7 +834,7 @@
 	<type name="BP1_Workbench_pac">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -850,7 +849,7 @@
 	<type name="BP2_Long_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -890,7 +889,7 @@
 	<type name="BP_Guitar">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -953,7 +952,7 @@
 	<type name="BP_FridgeBig">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -968,7 +967,7 @@
 	<type name="BP_tumba">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -985,7 +984,7 @@
 	<type name="BP_Shelf">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1001,7 +1000,7 @@
 	<type name="BP_GunShelf">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1060,7 +1059,7 @@
 	<type name="BP_Pech_kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1289,7 +1288,7 @@
 	<type name="BP_post_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1304,7 +1303,7 @@
 	<type name="BP_PostBoxBig">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1319,7 +1318,7 @@
 	<type name="BP_Monitor_pressure">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1334,7 +1333,7 @@
 	<type name="BP_medical_bed">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1346,44 +1345,50 @@
 		<usage name="Medic" />
 	</type>
 	<type name="Bp_Bowl">
-		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>6</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-			crafted="0" deloot="0" />
+			crafted="0"
+			deloot="0" />
 		<category name="tools" />
+		<tag name="shelves" />
 		<usage name="Town" />
 		<usage name="Village" />
 	</type>
 	<type name="Bp_Bowl_1">
-		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>6</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-			crafted="0" deloot="0" />
+			crafted="0"
+			deloot="0" />
 		<category name="tools" />
+		<tag name="shelves" />
 		<usage name="Town" />
 		<usage name="Village" />
 	</type>
 	<type name="Bp_Bowl_2">
-		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<nominal>10</nominal>
+		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>6</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
-			crafted="0" deloot="0" />
+			crafted="0"
+			deloot="0" />
 		<category name="tools" />
+		<tag name="shelves" />
 		<usage name="Town" />
 		<usage name="Village" />
 	</type>
@@ -1391,7 +1396,7 @@
 	<type name="BP_Wood_case_smoll">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1409,7 +1414,7 @@
 	<type name="BP_mil_case">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1489,7 +1494,7 @@
 	<type name="BP_DEW_BOX">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1513,7 +1518,7 @@
 	<type name="BP_IRPUA">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1602,6 +1607,17 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
 			crafted="1" deloot="0" />
 	</type>
+	<type name="BP_Workbench_Med">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
 	<type name="BPDrill">
 		<nominal>3</nominal>
 		<lifetime>7200</lifetime>
@@ -1658,10 +1674,27 @@
 		<tag name="floor" />
 		<usage name="Industrial" />
 	</type>
+
+	<type name="KB_Air_Compressor">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+
+
 	<type name="WB_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1671,6 +1704,533 @@
 		<category name="tools" />
 		<tag name="floor" />
 		<usage name="Military" />
+	</type>
+
+
+	<type name="WB_Med_Kit">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1200</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Medic" />
+	</type>
+
+
+	<type name="KB_Kitchen_Table">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+	<type name="KB_Kitchen_Table_Kit">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1200</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Town" />
+	</type>
+
+	<type name="KB_Butcher_Table_Kit">
+		<nominal>1</nominal>
+		<lifetime>7200</lifetime>
+		<restock>1200</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Town" />
+	</type>
+
+	<type name="KB_Butcher_Table">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+	<type name="KB_Oilcan">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Grease_Calcium">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Koyo">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Silver_Shmel">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Glue">
+		<nominal>15</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>10</min>
+		<quantmin>5</quantmin>
+		<quantmax>15</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Solvent">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Roflex">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Clamp">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Reloader">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Unpacker">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Virecutter">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Gap_Tool">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Microscope">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Medic" />
+	</type>
+	<type name="KB_Sewing_Machine">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Grinder">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Cutting_Saw">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Drill">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Woodplainer">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Lathe">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Electric_Saw">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Sompol">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Old_Drill">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Manual_Drill">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Anvil_Vise">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Welding_2">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Welding_1">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Cutting_Board">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>65</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+	</type>
+	<type name="KB_AlumBarrels">
+		<nominal>3</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_Pot">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>65</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<usage name="Village" />
+	</type>
+	<type name="KB_ButaneBallon10">
+		<nominal>5</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>65</quantmin>
+		<quantmax>100</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0"
+			deloot="0" />
+		<category name="tools" />
+		<usage name="Village" />
+		<usage name="Hunting" />
+	</type>
+	<type name="KB_GasStove_Big">
+		<nominal>3</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
+	</type>
+	<type name="KB_GasStove">
+		<nominal>3</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>0</restock>
+		<min>2</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="floor" />
+		<usage name="Industrial" />
 	</type>
 
 	<type name="BP_PouchBottle_Black">
@@ -1715,7 +2275,7 @@
 	<type name="BPGrill">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1733,7 +2293,7 @@
 	<type name="BP_Zippo">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1745,7 +2305,7 @@
 	<type name="BP_VintageLighter">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1758,7 +2318,7 @@
 	<type name="BP_ToolBox_G">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1774,7 +2334,7 @@
 	<type name="BP_ToolBox_R">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1790,7 +2350,7 @@
 	<type name="BP_ToolBox_B">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1806,7 +2366,7 @@
 	<type name="BP_locker_bl">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1822,7 +2382,7 @@
 	<type name="BP_locker_s_bl">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1838,7 +2398,7 @@
 	<type name="BP_shelf_metal_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1865,7 +2425,7 @@
 	<type name="BP_ShelfTool_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1892,7 +2452,7 @@
 	<type name="BP_Wooden_Barrel">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1906,7 +2466,7 @@
 	<type name="BP_table_s_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1934,7 +2494,7 @@
 	<type name="BP_mil_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1949,7 +2509,7 @@
 	<type name="BP_Wood_mil_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1964,7 +2524,7 @@
 	<type name="BP_rifle_box">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -1979,7 +2539,7 @@
 	<type name="BP_bedfolding_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2007,7 +2567,7 @@
 	<type name="BP_bench1_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2035,7 +2595,7 @@
 	<type name="BP_Couch_beige_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2063,7 +2623,7 @@
 	<type name="BP_couch_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2091,7 +2651,7 @@
 	<type name="BP_bed">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2109,7 +2669,7 @@
 	<type name="BP_WoodenBench">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2162,7 +2722,7 @@
 	<type name="BP_SM_locker_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2189,7 +2749,7 @@
 	<type name="BP_big_mill_tent">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2215,7 +2775,7 @@
 	<type name="BP_WoodStorge_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2233,7 +2793,7 @@
 	<type name="BP_Cooler_Zil">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2249,7 +2809,7 @@
 	<type name="BP_Spraycan_Black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2262,7 +2822,7 @@
 	<type name="BP_Spraycan_Green">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2275,7 +2835,7 @@
 	<type name="BP_Spraycan_White">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2288,7 +2848,7 @@
 	<type name="BP_Spraycan_Brown">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2301,7 +2861,7 @@
 	<type name="BP_Spraycan_Blue">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2314,7 +2874,7 @@
 	<type name="BP_Spraycan_Yellow">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2327,7 +2887,7 @@
 	<type name="BP_Spraycan_Red">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2361,10 +2921,10 @@
 	</type>
 	<!-- RPM Shmot upd -->
 	<type name="BP_AssaultBag_BlackGreen">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2508,10 +3068,10 @@
 			crafted="1" deloot="0" />
 	</type>
 	<type name="BP_Bandoleer">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2521,10 +3081,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="BP_BeltGunBag">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2536,10 +3096,10 @@
 		<value name="Tier3" />
 	</type>
 	<type name="BP_CargoPants_Brown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2552,10 +3112,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Hoodie_GreyBrown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2570,7 +3130,7 @@
 	<type name="BP_Huntbackpack">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2583,10 +3143,10 @@
 		<value name="Tier3" />
 	</type>
 	<type name="BP_HunterPants_BlackBrown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2598,7 +3158,7 @@
 	<type name="BP_HuntingCarman">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2609,10 +3169,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="BP_HuntingJacket_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2622,10 +3182,10 @@
 		<usage name="Hunting" />
 	</type>
 	<type name="BP_JungleBoots_Yellow">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2640,7 +3200,7 @@
 	<type name="BP_Kvadratniyrykzak">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2651,10 +3211,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_M65Jacket_BlackRed">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2667,10 +3227,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_M65Jacket_Brown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2683,10 +3243,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_M65Jacket_GreyRed">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2699,10 +3259,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_M65Jacket_Skin1">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2715,10 +3275,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_M65Jacket_Skin2">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2731,10 +3291,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_MilitaryBeret_Black_Star">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2744,10 +3304,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_MilitaryBeret_CDF_Black ">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2757,10 +3317,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_MilitaryBeret_Green_NZ">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2770,10 +3330,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_MilitaryBeret_Green_Ranger">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2783,10 +3343,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_MilitaryBeret_Red_Star">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2796,10 +3356,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_MilitaryBeret_TAN">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2809,10 +3369,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP_ParamedicJacket_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2822,10 +3382,10 @@
 		<usage name="Medic" />
 	</type>
 	<type name="BP_ParamedicPants_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2835,10 +3395,10 @@
 		<usage name="Medic" />
 	</type>
 	<type name="BP_PoliceJacketOrel_Winter">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2848,10 +3408,10 @@
 		<usage name="Police" />
 	</type>
 	<type name="BP_PolicePantsOrel_Winter">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2861,10 +3421,10 @@
 		<usage name="Police" />
 	</type>
 	<type name="BP_PrisonerCap_Brown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2877,10 +3437,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_QuiltedJacket_GreyBrown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2893,10 +3453,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_QuiltedJacket_White">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2906,10 +3466,10 @@
 		<usage name="Medic" />
 	</type>
 	<type name="BP_QuiltedJacket_Yellow">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2922,10 +3482,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Ranec_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2938,10 +3498,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Ranec_Med">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -2953,7 +3513,7 @@
 	<type name="BP_Sidor_Black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2966,7 +3526,7 @@
 	<type name="BP_Sidor_Green">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2979,7 +3539,7 @@
 	<type name="BP_TacticalBag_Black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -2994,7 +3554,7 @@
 	<type name="BP_TacticalBag_Green">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3007,10 +3567,10 @@
 		<value name="Tier3" />
 	</type>
 	<type name="BP_Ushanka_TwoLine">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3023,10 +3583,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Ushanka_star">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3039,10 +3599,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Valenki">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3055,10 +3615,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP_Watch">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3070,7 +3630,7 @@
 	<type name="BP1_CourierBag_Black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3084,10 +3644,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP1_HunterPants_Black_1">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3099,7 +3659,7 @@
 	<type name="BP1_HuntingBag_Gorka">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3112,7 +3672,7 @@
 	<type name="BP1_HuntingBag_black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3125,7 +3685,7 @@
 	<type name="BP1_MountainBag_Black">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3141,7 +3701,7 @@
 	<type name="BP1_TaloonBag_BlackGold">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3157,7 +3717,7 @@
 	<type name="BP1_TaloonBag_BlackWhite">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -3171,10 +3731,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_AthleticShoes_Brown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3187,10 +3747,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_AthleticShoes_Green">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3203,10 +3763,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_AthleticShoes_White">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3219,10 +3779,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_BaseballCap_Grey">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3235,10 +3795,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Bomberjacket_2">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3251,10 +3811,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Bomberjacket_3">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3267,10 +3827,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Bomberjacket_Ada">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3283,10 +3843,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_Banditpants1">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3299,10 +3859,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_Banditpants2">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3315,10 +3875,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_Banditpants3">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3331,10 +3891,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_Banditpants4">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3347,10 +3907,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_GreenBlack">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3363,10 +3923,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_CargoPants_Winter">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3376,10 +3936,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_HighCapacityVest_GreenBrown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3389,10 +3949,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_HuntingJacket_Camo">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3402,10 +3962,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_MiniDress_Lather">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3418,10 +3978,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_OMNOGloves_GreenBlack">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3431,10 +3991,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_OMNOGloves_WhiteBlack">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3444,10 +4004,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_PrisonUniformPants_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3460,10 +4020,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_PrisonUniformPants_Blue">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3476,10 +4036,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_QuiltedJacket_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3492,10 +4052,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Bayk">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3508,10 +4068,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Brown">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3524,10 +4084,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Dreams">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3540,10 +4100,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Edinorog">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3556,10 +4116,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Ironmaiden">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3572,10 +4132,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_NY">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3588,10 +4148,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Nirvana">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3604,10 +4164,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Rabbit">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3620,10 +4180,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Redsun">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3636,10 +4196,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Scalp">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3652,10 +4212,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Terebonkay">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3668,10 +4228,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_White">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3684,10 +4244,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_RidersJacket_Yoda">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3700,10 +4260,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_SurgicalMask_Black">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3716,10 +4276,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Sweater_Blue">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3732,10 +4292,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Sweater_Red_Blue">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3748,10 +4308,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Sweater_Red_Green">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3764,10 +4324,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Sweater_Santa">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3780,10 +4340,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Alkash">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3796,10 +4356,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Bayk">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3812,10 +4372,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Cars">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3828,10 +4388,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Dreams">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3844,10 +4404,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Edinorog">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3860,10 +4420,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_NY">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3876,10 +4436,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Pes">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3892,10 +4452,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Black_Rabbit">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3908,10 +4468,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Ironmaiden">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3924,10 +4484,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Lavash">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3940,10 +4500,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Mendel">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3956,10 +4516,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Misfits">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3972,10 +4532,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Nirvana">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -3988,10 +4548,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Pes_Y">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4004,10 +4564,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Redsun">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4020,10 +4580,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Rock">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4036,10 +4596,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Scream">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4052,10 +4612,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Suicide">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4068,10 +4628,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_Svin">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4084,10 +4644,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_Bayk">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4100,10 +4660,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_Dreams">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4116,10 +4676,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_Edinorog">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4132,10 +4692,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_Milk">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4148,10 +4708,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_NY">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4164,10 +4724,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TShirt_White_Rabbit">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4180,10 +4740,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TacticalShirt_GreenBlack">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4196,10 +4756,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TacticalShirt_Grin">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4212,10 +4772,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TacticalShirt_Yelo1">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4228,10 +4788,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TacticalShirt_Yelo2">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4244,10 +4804,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TrackSuitJacket_Montana">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4260,10 +4820,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_TrackSuitPants_Montana">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4276,10 +4836,10 @@
 		<usage name="School" />
 	</type>
 	<type name="BP2_Tactical_Cap">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4289,10 +4849,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_Tactical_Cap_1">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4302,10 +4862,10 @@
 		<usage name="Military" />
 	</type>
 	<type name="BP2_Tactical_Cap_2">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4319,7 +4879,7 @@
 	<type name="BP_Tresh_bac_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -4347,7 +4907,7 @@
 	<type name="BP_Guncabinet_Kit">
 		<nominal>1</nominal>
 		<lifetime>7200</lifetime>
-		<restock>0</restock>
+		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
@@ -4375,10 +4935,10 @@
 	<!--ADD
 	10.05.2021-->
 	<type name="BP_Slippers">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -4389,10 +4949,10 @@
 		<usage name="Village" />
 	</type>
 	<type name="BP_Slippers_Damage">
-		<nominal>1</nominal>
+		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
 		<restock>0</restock>
-		<min>1</min>
+		<min>3</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>

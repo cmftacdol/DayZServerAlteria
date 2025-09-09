@@ -1,0 +1,544 @@
+---------------------------------------------
+Log G:\SteamLibrary\steamapps\common\DayZServer\profiles\crash_2025-09-09_07-44-12.log started at 09.09. 07:47:39
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:47:39
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1255133
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:159 Function EEHealthLevelChanged
+$CurrentDir:mpmissions\empty.alteria\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:47:39
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1255175
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:172 Function EEHealthLevelChanged
+$CurrentDir:mpmissions\empty.alteria\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:47:39
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1255182
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:172 Function EEHealthLevelChanged
+$CurrentDir:mpmissions\empty.alteria\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:47:39
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1255189
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:172 Function EEHealthLevelChanged
+$CurrentDir:mpmissions\empty.alteria\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:47:39
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1255203
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:172 Function EEHealthLevelChanged
+$CurrentDir:mpmissions\empty.alteria\init.c:6 Function main
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 07:51:41
+NULL pointer to instance
+Class:      'Utopia_HeliCrashWreckBase'
+Entity id:0
+
+Function: 'EOnInit#1493201'
+Stack trace:
+utopia_patrol_helicopter_scripts/L4SbwPx4/ SuWu1KU /dntQGuBG/﻿﻿/L2ekv8u6/zZczjFyV/em9tiEfZ.x zUJN  :170 Function EOnInit#1493201
+utopia_patrol_helicopter_scripts/L4SbwPx4/ SuWu1KU /dntQGuBG/﻿﻿/L2ekv8u6/zZczjFyV/em9tiEfZ.x zUJN  :152 Function Utopia_HeliCrashWreckBase@2720#315
+utopia_patrol_helicopter_scripts/Cl Gtygh/ w0G dXkw/Y6Zo5Cqo/﻿/UwhiaPTs/L GbjNgl/xEVpKHFd.dcFNX  r:296 Function HeliExpl
+utopia_patrol_helicopter_scripts/Cl Gtygh/ w0G dXkw/Y6Zo5Cqo/﻿/UwhiaPTs/L GbjNgl/xEVpKHFd.dcFNX  r:281 Function StartFall
+scripts/3_Game/dayzgame.c:2919 Function OnUpdate
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46 Function OnUpdate
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:213 Function OnUpdate
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268 Function OnUpdate
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 08:00:15
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1266783
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 10:52:36
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1266803
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 10:55:56
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1273105
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 10:56:03
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1273105
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 11:01:28
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1271167
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:02:01
+[wpnfsm] R12:12696 WeaponChambering DropBullet, error - cannot drop Bullet_12GaugePellets - lost)
+Class:      'WeaponChambering_Cartridge'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:155 Function DropBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:280 Function OnAbort
+scripts/3_Game/systems\hfsmbase.c:152 Function Abort
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:134 Function OnAbort
+scripts/4_World/entities\firearms\fsm\states\weaponchamberinglooped.c:754 Function OnAbort
+scripts/4_World/entities\firearms\weaponfsm.c:181 Function ProcessAbortEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:422 Function ProcessWeaponAbortEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:412 Function HandleWeaponEvents
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8314 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6151 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:16:12
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1280521
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:25:57
+[wpnfsm] R12:17815 WeaponChambering DropBullet, error - cannot drop Bullet_12GaugePellets - lost)
+Class:      'WeaponChambering_InternalMagazine_OnExit'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:155 Function DropBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:280 Function OnAbort
+scripts/3_Game/systems\hfsmbase.c:152 Function Abort
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:134 Function OnAbort
+scripts/4_World/entities\firearms\fsm\states\weaponchamberinglooped.c:754 Function OnAbort
+scripts/4_World/entities\firearms\weaponfsm.c:181 Function ProcessAbortEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:422 Function ProcessWeaponAbortEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:296 Function AbortWeaponEvent
+scripts/4_World/entities\dayzplayerimplement.c:1831 Function AbortWeaponEvent
+scripts/4_World/entities\manbase\playerbase.c:3968 Function OnCommandDeathStart
+scripts/4_World/entities\dayzplayerimplement.c:707 Function HandleDeath
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8469 Function HandleDeath
+scripts/4_World/entities\dayzplayerimplement.c:2309 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6151 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:27:06
+[wpnfsm] Mp133Shotgun:18260 WeaponChambering DropBullet, error - cannot drop Bullet_12GaugePellets - lost)
+Class:      'WeaponChambering_InternalMagazine_OnExit'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:155 Function DropBullet
+scripts/4_World/entities\firearms\fsm\states\weaponchambering.c:280 Function OnAbort
+scripts/3_Game/systems\hfsmbase.c:152 Function Abort
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:134 Function OnAbort
+scripts/4_World/entities\firearms\fsm\states\weaponchamberinglooped.c:487 Function OnAbort
+scripts/4_World/entities\firearms\weaponfsm.c:181 Function ProcessAbortEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:422 Function ProcessWeaponAbortEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:412 Function HandleWeaponEvents
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8314 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6151 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:33:41
+[wpnfsm] Scout:4417 chamberFromAttachedMagazine, error - cannot load chamber!
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92 Function Error
+scripts/4_World/entities\firearms\fsm\weapon_utils.c:23 Function pushToChamberFromAttachedMagazine
+scripts/4_World/entities\firearms\fsm\states\weaponchamberfromattmag.c:16 Function OnEntry
+scripts/4_World/entities\firearms\weaponfsm.c:50 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/4_World/entities\firearms\weaponfsm.c:289 Function ProcessEvent
+scripts/4_World/entities\firearms\fsm\states\weaponstatebase.c:83 Function ProcessEvent
+scripts/4_World/entities\firearms\weaponfsm.c:243 Function ProcessEvent
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:406 Function ProcessWeaponEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:390 Function HandleWeaponEvents
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:8314 Function HandleWeapons
+scripts/4_World/entities\dayzplayerimplement.c:2290 Function CommandHandler
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266 Function CommandHandler
+scripts/4_World/entities\manbase\playerbase.c:2875 Function CommandHandler
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:6151 Function CommandHandler
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+[EffectSound::Effect] :: [WARNING] :: Created Effect on server.
+Class:      'EffectSound'
+Function: 'Effect'
+Stack trace:
+scripts/3_Game/effect.c:76 Function Effect
+scripts/3_Game/effectmanager.c:146 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance. Variable 'm_FreeEffectIDs' during call 'array<int>.Count'
+Function: 'GetFreeEffectID'
+Stack trace:
+scripts/3_Game/effectmanager.c:404 Function GetFreeEffectID
+scripts/3_Game/effectmanager.c:334 Function EffectRegister
+scripts/3_Game/effectmanager.c:154 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance
+Class:      'EffectSound'
+Function: 'EffectUnregister'
+Stack trace:
+scripts/3_Game/effectmanager.c:375 Function EffectUnregister
+scripts/3_Game/effect.c:91 Function ~Effect
+scripts/4_World/entities\manbase\playerbase.c:1218 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+[EffectSound::Effect] :: [WARNING] :: Created Effect on server.
+Class:      'EffectSound'
+Function: 'Effect'
+Stack trace:
+scripts/3_Game/effect.c:76 Function Effect
+scripts/3_Game/effectmanager.c:146 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance. Variable 'm_FreeEffectIDs' during call 'array<int>.Count'
+Function: 'GetFreeEffectID'
+Stack trace:
+scripts/3_Game/effectmanager.c:404 Function GetFreeEffectID
+scripts/3_Game/effectmanager.c:334 Function EffectRegister
+scripts/3_Game/effectmanager.c:154 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance
+Class:      'EffectSound'
+Function: 'EffectUnregister'
+Stack trace:
+scripts/3_Game/effectmanager.c:375 Function EffectUnregister
+scripts/3_Game/effect.c:91 Function ~Effect
+scripts/4_World/entities\manbase\playerbase.c:1218 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+[EffectSound::Effect] :: [WARNING] :: Created Effect on server.
+Class:      'EffectSound'
+Function: 'Effect'
+Stack trace:
+scripts/3_Game/effect.c:76 Function Effect
+scripts/3_Game/effectmanager.c:146 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance. Variable 'm_FreeEffectIDs' during call 'array<int>.Count'
+Function: 'GetFreeEffectID'
+Stack trace:
+scripts/3_Game/effectmanager.c:404 Function GetFreeEffectID
+scripts/3_Game/effectmanager.c:334 Function EffectRegister
+scripts/3_Game/effectmanager.c:154 Function CreateSound
+scripts/3_Game/effectmanager.c:249 Function PlaySoundOnObject
+scripts/4_World/entities\manbase\playerbase.c:1217 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 13:55:48
+NULL pointer to instance
+Class:      'EffectSound'
+Function: 'EffectUnregister'
+Stack trace:
+scripts/3_Game/effectmanager.c:375 Function EffectUnregister
+scripts/3_Game/effect.c:91 Function ~Effect
+scripts/4_World/entities\manbase\playerbase.c:1218 Function EEHitByRemote
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 09.09 2025 14:15:17
+NULL pointer to instance
+Class:      'bl_tincan_empty'
+Entity id:1285978
+
+Function: 'OnItemLocationChanged'
+Stack trace:
+bl_crafting\scripts\4_World/entities\itembase\bl_tincan.c:75 Function OnItemLocationChanged
+scripts/3_Game/entities\entityai.c:959 Function EEItemLocationChanged
+scripts/4_World/entities\itembase.c:1054 Function EEItemLocationChanged
+InventoryMoveSounds/scripts/4_World/inventorymovesounds\itembase.c:11 Function EEItemLocationChanged
+MountsAndSights\scripts\4_World/associatedbehaviour\coupling\akol_itembase_moab.c:21 Function EEItemLocationChanged
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895 Function EEItemLocationChanged
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28 Function EEItemLocationChanged
+scripts/4_World/entities\itembase\edible_base.c:60 Function EEItemLocationChanged
+FC_Fish_Equip/scripts/4_world/ ung5ss6h \  .{22877a6d-37a1-461a-91b0-dbda5aaebc99}\lpt4.c:50 Function EEItemLocationChanged
+scripts/3_Game/systems\inventory\hand_actions.c:57 Function Action
+scripts/3_Game/systems\hfsmbase.c:554 Function ProcessLocalTransition
+scripts/3_Game/systems\hfsmbase.c:591 Function LocalTransition
+scripts/3_Game/systems\hfsmbase.c:437 Function ProcessEvent
+scripts/3_Game/systems\inventory\humaninventorywithfsm.c:99 Function ProcessHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1277 Function ValidateHandEvent
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1661 Function ProcessInputData
+scripts/4_World/systems\inventory\dayzplayerinventory.c:692 Function OnHandleStoredJunctureData
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @AICFireplaceIndoor;@AimSounds;@AI War Zones;@Alteria;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@BoomLays Craftables;@CF;@Code Lock;@Combinable RepairKits;@Coupled Mag Vanilla;@Dabs Framework;@DayZ-Dynamic-AI-Addon;@DayZ-Expansion-AI;@DayZ-Expansion-Core;@Forward Operator Gear;@GoreZ;@GSC Gameworld Assets;@InventoryInCar;@Inventory Move Sounds;@JunkYardDog;@LoftDModGR Clothes Pack;@LoftD_old_size;@Loot Barrel Transfer;@MagazineLoading;@More Durable Weapons;@Mounts Sights;@Nomadbackpack;@pvez test;@RaG_BaseItems;@RaG_Immersive_Vehicles;@RaG_Immersive_Wells;@Realistic Display Quantity;@RUSForma_vehicles;@SearchInventory;@SimpleLootChests;@StaminaRevised;@TerjeCompatibilityVPP;@TerjeCore;@Terje for FOG v2;@TerjeMedicine;@TerjePartyMod;@TerjeSkills;@TerjeSleepingBagAttach;@TerjeStartScreen;@VPPAdminTools;@WindstridesClothingPack;@Utopia Animated Heli Crashs;@RaG_BaseBuilding;@No Build Zones;@Vanilla Suppressor Plus;@Harks Blood Plague;@GarbageSearch;@TWOC_CombineItems;@FC_Fish_Equip;@CookZ;@Territory Plus;@CBD Loot Rooms;@Ammo Making;@InediaTerjeCompatibility;@InediaInfectedAI;@PvZmoD_Spawn_System;@zHorde;@Tree Shake;@DayZ-Expansion-Market;@Zombie_Sound;@BLR_Carlock;@RolePlayMod; profiles profiles 

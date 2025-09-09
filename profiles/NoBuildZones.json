@@ -6,6 +6,14 @@
         "Fireplace",
         "TerjeSleepingBag_Woodland",
         "TerjeSleepingBag_Blue",
+        "bl_sleeping_bag",
+        "rag_baseitems_sleepingbag_ckeckered_blue",
+        "rag_baseitems_sleepingbag_ckeckered_brown",
+        "rag_baseitems_sleepingbag_ckeckered_green",
+        "rag_baseitems_sleepingbag_ckeckered_grey",
+        "rag_baseitems_sleepingbag_ckeckered_pink",
+        "rag_baseitems_sleepingbag_ckeckered_red",
+        "rag_baseitems_sleepingbag_rag_edition",
         "rag_farmjack",
         "rag_car_jack"
     ],
@@ -44,6 +52,13 @@
             "X": 8000.935547,
             "Y": 200.576538,
             "Radius": 2000
+        },
+        {
+            "Name": "Builzone is only at tier 2",
+            "Description": "Tier 3 Non build zones",
+            "X": 5957.457031,
+            "Y": 1296.909302,
+            "Radius": 1000
         },
         {
             "Name": "Builzone is only at tier 2",

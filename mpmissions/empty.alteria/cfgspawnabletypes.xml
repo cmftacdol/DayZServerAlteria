@@ -262,16 +262,8 @@
 			<item name="AmmoBox_762x39Tracer_20Rnd" />
 		</cargo>
 	</type>
-	<type name="AirborneMask">
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
-	</type>
-	<type name="GP5GasMask">
-		<cargo chance="0.2">
-			<item name="GasMask_Filter" />
-		</cargo>
-	</type>
+
+
 	<type name="Bear_Beige">
 		<cargo chance="0.00">
 			<item name="Paper" chance="0.50" />

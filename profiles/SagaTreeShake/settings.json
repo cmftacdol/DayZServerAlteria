@@ -3,7 +3,7 @@
     "apple_drop_chance": 0.20000000149011612,
     "plum_drop_chance": 0.20000000149011612,
     "pear_drop_chance": 0.20000000149011612,
-    "shake_duration_seconds": 3.0,
+    "shake_duration_seconds": 1.0,
     "tree_cooldown_minutes": 60,
     "apple_min_count": 2,
     "apple_max_count": 4,

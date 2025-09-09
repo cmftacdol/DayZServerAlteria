@@ -26,7 +26,15 @@
                 "ZmbM_Plague04",
                 "ZmbM_usSoldier_normal_Woodland",
                 "ZmbM_usSoldier_Heavy_Woodland",
-                "ZmbM_usSoldier_Officer_Desert"
+                "ZmbM_usSoldier_Officer_Desert",
+                "BPZMB_Goliy",
+                "BPZMB_orange_injury",
+                "BPZMB_orange_hole",
+                "BPZMB_Scull_nbc1",
+                "BPZMB_Din_holl_nbc",
+                "BPZMB_Din_holl_nbc1",
+                "BPZMB_Din_holl_bl",
+                "BPZMB_Din_holl_blue"
             ],
             "ZmbSpawnRadiusMin": 25.0,
             "ZmbSpawnRadiusMax": 80.0,

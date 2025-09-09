@@ -90,7 +90,7 @@ ref autoptr TStringArray headgearList_09= {"0.5","Random","Ssh68Helmet","Ssh68He
 ref autoptr TStringArray zombieList_10 	= {"ZmbM_PolicemanSpecForce_Base",}; 
 ref autoptr TStringArray itemList_10 	= {"0.1","BadlyDamaged","FNX45",};
 ref autoptr TStringArray vestList_10 	= {"0.3","BadlyDamaged","PoliceVest",};
-ref autoptr TStringArray backList_10 	= {"0.3","Random","GasMask",};
+ref autoptr TStringArray backList_10 	= {"0.3","Random","",};
 ref autoptr TStringArray headgearList_10= {"0.05","Random","PistolSuppressor",};
 
 ref autoptr TStringArray zombieList_11 	= {"ZmbM_HunterOld_Base",}; 
@@ -127,7 +127,7 @@ ref autoptr TStringArray zombieList_16 	= {"ZmbM_SoldierNormal_Base",};
 ref autoptr TStringArray itemList_16 	= {"0.1","BadlyDamaged","AKM","Mag_AKM_30Rnd","Mag_AKM_30Rnd","Mag_AKM_30Rnd",};
 ref autoptr TStringArray vestList_16 	= {"0.05","Random","HighCapacityVest_Black","PlateCarrierVest", "SmershVest","UKAssVest_Black","UKAssVest_Camo",};
 ref autoptr TStringArray backList_16 	= {"0.3","Random","AssaultBag_Black","AssaultBag_Green","AssaultBag_Ttsko","DesignerGlasses",};
-ref autoptr TStringArray headgearList_16= {"0.3","Random","GasMask",};
+ref autoptr TStringArray headgearList_16= {"0.3","Random","",};
 
 ref autoptr TStringArray zombieList_17 	= {"ZmbM_HermitSkinny_Beige","ZmbM_HermitSkinny_Black",};		// (v1.17 update) (ZmbM_HermitSkinny_Black added)
 ref autoptr TStringArray itemList_17 	= {"1.0","Ruined","Worm","AthleticShoes_Blue","CombatBoots_Grey","HikingBootsLow_Blue","JoggingShoes_Violet","JungleBoots_Brown","Sneakers_Red","Wellies_Brown","WorkingBoots_Yellow",};  

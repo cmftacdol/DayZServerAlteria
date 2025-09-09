@@ -289,7 +289,6 @@
 
 
 	<cargo chance="0.15" name="ContaminatedCargo">
-		<item name="GasMask_Filter" chance="1.00" />
 		<item name="SalineBag" chance="0.05" />
 		<item name="BandageDressing" chance="0.15" />
 		<item name="BloodBagEmpty" chance="0.1" />

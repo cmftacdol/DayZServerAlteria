@@ -36,19 +36,19 @@
 <ObjectArray>	Tomato
 <ObjectArray>	GreenBellPepper
 <ObjectArray>	Zucchini
-<ObjectArray>	AgaricusMushroom
-<ObjectArray>	AmanitaMushroom
-<ObjectArray>	MacrolepiotaMushroom
-<ObjectArray>	LactariusMushroom
-<ObjectArray>	PsilocybeMushroom
-<ObjectArray>	AuriculariaMushroom
-<ObjectArray>	BoletusMushroom
-<ObjectArray>	PleurotusMushroom
-<ObjectArray>	Lard
-<ObjectArray>	SmallGuts
-<ObjectArray>	Guts
-<ObjectArray>	BakedBeansCan_Opened
-<ObjectArray>	PeachesCan_Opened
+<ObjectArray>	BP1_Food_ban_sgushenka_Opened
+<ObjectArray>	BP1_Food_ban_tusonka4_Opened
+<ObjectArray>	BP1_Food_ban_tusonka5_Opened
+<ObjectArray>	BP1_Food_ban_tusonka6_Opened
+<ObjectArray>	BP1_Food_ban_gorosek_Opened
+<ObjectArray>	BP1_Food_ban_gribi_Opened
+<ObjectArray>	BP1_Food_ban_ikra_Opened
+<ObjectArray>	BP1_Food_ban_kasa_Opened
+<ObjectArray>	BP1_Food_ban_tusonka_Opened
+<ObjectArray>	BP1_Food_ban_tusonka2_Opened
+<ObjectArray>	BP1_Food_ban_tusonka3_Opened
+<ObjectArray>	BakedBeansCan_Opened_Opened
+<ObjectArray>	PeachesCan_Opened_Opened
 <ObjectArray>	TacticalBaconCan_Opened
 <ObjectArray>	SpaghettiCan_Opened
 <ObjectArray>	SardinesCan_Opened
@@ -58,7 +58,7 @@
 <ObjectArray>	DuctTape
 <ObjectArray>	BandageDressing
 <ObjectArray>	Rag
-<ObjectArray>	PowderedMilk
+<ObjectArray>	BP1_Food_ban_Kukuruza_Opened
 <ObjectArray>	BoxCerealCrunchin
 
 <FileEnd>

@@ -209,6 +209,14 @@
 			<!-- You can put here any object classname to allow the player to set it as their own respawn point. -->
 			<Object classname="TerjeSleepingBag_Blue" singleBind="1" />
 			<Object classname="TerjeSleepingBag_Woodland" singleBind="1" />
+			<Object classname="bl_sleeping_bag" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_blue" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_brown" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_green" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_grey" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_pink" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_ckeckered_red" singleBind="1" />
+			<Object classname="rag_baseitems_sleepingbag_rag_edition" singleBind="1" />
 		</Objects>
 		<Conditions>
 			<Timeout id="sleepingbag" minutes="60" />
