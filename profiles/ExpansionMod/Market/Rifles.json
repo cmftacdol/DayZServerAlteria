@@ -7,17 +7,6 @@
     "InitStockPercent": 0,
     "Items": [
         {
-            "ClassName": "mosin9130",
-            "MaxPriceThreshold": 2050,
-            "MinPriceThreshold": 1230,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "cz550",
             "MaxPriceThreshold": 6210,
             "MinPriceThreshold": 3725,
