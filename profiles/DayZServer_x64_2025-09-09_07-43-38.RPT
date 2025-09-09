@@ -122578,4 +122578,31 @@ Version 1.28.160123
 14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99457] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
 14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99458] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
 14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99459] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
-14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99460] is 
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99460] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99461] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99462] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99463] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [99464] is hard to place, performance drops: "FOG_Enhanced_PCU_Tan"
+14:57:10.250 [CE][LootRespawner] (PRIDummy) :: Item [17467] causing search overtime: "FOG_Enhanced_PCU_Tan"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99465] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99466] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99467] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99468] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99469] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99470] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99471] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [99472] is hard to place, performance drops: "FOG_TV110T_AdminPouch_CB"
+14:57:10.349 [CE][LootRespawner] (PRIDummy) :: Item [17468] causing search overtime: "FOG_TV110T_AdminPouch_CB"
+14:57:19.832 [IdleMode] Entering IN - save processed
+=======================================================
+-------------------------------------------------------
+Time: 15:02:11
+Exception code: C0000005 ACCESS_VIOLATION at D99B017E
+Version 1.28.160123
+Fault address:  D99B017E 00:D99B017E Unknown module
+file:     empty
+world:    alteria
+Prev. code bytes: FF FF FF FF 48 85 C9 74 4C 48 81 C1 98 00 00 00
+Fault code bytes: 48 8B 01 48 85 C0 74 20 48 3B C3 74 11 48 8D 88
+=======================================================
+note: Minidump has been generated into the file profiles\DayZServer_x64_2025-09-09_15-02-11.mdmp
