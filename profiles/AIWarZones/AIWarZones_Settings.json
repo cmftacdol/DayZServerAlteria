@@ -2,11 +2,11 @@
     "configVersion": 1,
     "Enabled": 1,
     "logLevel": 0,
-    "maxConcurrentZones": 2,
+    "maxConcurrentZones": 1,
     "WarZones": [
         {
             "zoneName": "The Raid near Old Castle",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "2762.100098 21.774956 4349.097168",
             "zoneAllowDomination": 1,
             "zoneRadius": 400.0,
@@ -43,7 +43,7 @@
         },
         {
             "zoneName": "Quarry Conundrum",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "2509.49 100.241 2386.42",
             "zoneAllowDomination": 1,
             "zoneRadius": 400.0,
@@ -80,7 +80,7 @@
         },
         {
             "zoneName": "Cassandra City Hall",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "4241.81 22.4686 7370.97",
             "zoneAllowDomination": 1,
             "zoneRadius": 400.0,
@@ -117,7 +117,7 @@
         },
         {
             "zoneName": "Raid on Old Castle",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "3425.31 30.7 5295.7",
             "zoneAllowDomination": 1,
             "zoneRadius": 400.0,
@@ -154,7 +154,7 @@
         },		
         {
             "zoneName": "South Harbour - Milvan Mayhem",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "1703.66 16.0186 422.799",
             "zoneAllowDomination": 1,
             "zoneRadius": 500.0,
@@ -191,7 +191,7 @@
         },
         {
             "zoneName": "Ruin-Town Rumble",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "4044.31 28.6999 1694.24",
             "zoneAllowDomination": 1,
             "zoneRadius": 500.0,
@@ -228,7 +228,7 @@
         },
         {
             "zoneName": "Kefka Kalamity",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "6736.94 19.12 3692.03",
             "zoneAllowDomination": 1,
             "zoneRadius": 500.0,
@@ -265,7 +265,7 @@
         },		
         {
             "zoneName": "The Fight For Control - Airfield",
-            "zoneChance": 20.0,
+            "zoneChance": 10.0,
             "zonePosition": "7015.994141 26.129997 1913.295288",
             "zoneAllowDomination": 1,
             "zoneRadius": 1200.0,

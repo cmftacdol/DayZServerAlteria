@@ -3604,3 +3604,39 @@
 [2025-09-09 07:44:58] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
 [2025-09-09 07:44:58] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
 [2025-09-09 07:44:58] Initialized system perf manager
+
+
+[2025-09-10 09:27:20] Client version: no bootstrapper found
+[2025-09-10 09:27:20] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 09:27:20] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 09:27:20] Initialized system perf manager
+
+
+[2025-09-10 09:30:58] Client version: no bootstrapper found
+[2025-09-10 09:30:58] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 09:30:58] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 09:30:58] Initialized system perf manager
+
+
+[2025-09-10 09:43:33] Client version: no bootstrapper found
+[2025-09-10 09:43:33] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 09:43:33] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 09:43:33] Initialized system perf manager
+
+
+[2025-09-10 10:01:38] Client version: no bootstrapper found
+[2025-09-10 10:01:38] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 10:01:38] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 10:01:38] Initialized system perf manager
+
+
+[2025-09-10 10:07:53] Client version: no bootstrapper found
+[2025-09-10 10:07:53] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 10:07:53] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 10:07:53] Initialized system perf manager
+
+
+[2025-09-10 10:33:24] Client version: no bootstrapper found
+[2025-09-10 10:33:24] CSystemPerfManager::UpdateCurrentGame: setting current gameid: 769
+[2025-09-10 10:33:24] CSystemPerfManager::MaybeUpdateActiveGame: loading profile for gameid: 769
+[2025-09-10 10:33:24] Initialized system perf manager
