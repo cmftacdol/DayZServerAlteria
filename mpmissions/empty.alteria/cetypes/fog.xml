@@ -1757,6 +1757,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
 
@@ -1772,7 +1774,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_Tan_BLK">
         <nominal>2</nominal>
@@ -1786,7 +1789,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_RG">
         <nominal>2</nominal>
@@ -1800,7 +1804,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_RG_BLK">
         <nominal>2</nominal>
@@ -1814,7 +1819,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_Black">
         <nominal>2</nominal>
@@ -1828,7 +1834,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_MudTan">
         <nominal>2</nominal>
@@ -1842,7 +1849,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_CB">
         <nominal>2</nominal>
@@ -1856,7 +1864,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_GRY">
         <nominal>2</nominal>
@@ -1870,7 +1879,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_CB_BLK">
         <nominal>2</nominal>
@@ -1884,7 +1894,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_MC">
         <nominal>2</nominal>
@@ -1898,7 +1909,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_MC_Black">
         <nominal>2</nominal>
@@ -1912,7 +1924,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_MCB">
         <nominal>2</nominal>
@@ -1926,7 +1939,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_MCB2">
         <nominal>2</nominal>
@@ -1940,7 +1954,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_ERDL">
         <nominal>2</nominal>
@@ -1954,7 +1969,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="FOG_Helmet_AJs_FAST_SF_ERDL_BLK">
         <nominal>2</nominal>
@@ -1968,7 +1984,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
-
+        <value name="Tier3" />
+        <value name="Tier2" />
     </type>
     <type name="">
         <nominal>2</nominal>
@@ -7710,6 +7727,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_RG_BLK">
@@ -7724,6 +7743,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_MudTan">
@@ -7738,6 +7759,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_CB">
@@ -7752,6 +7775,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_CB_BLK">
@@ -7766,6 +7791,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_MCB2">
@@ -7780,6 +7807,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_ERDL_BLK">
@@ -7794,6 +7823,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_MICH2000_Tan">
@@ -17849,6 +17880,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_RG">
@@ -17863,6 +17896,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_Black">
@@ -17877,6 +17912,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_MC">
@@ -17891,6 +17928,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_MCB">
@@ -17905,6 +17944,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_FAST_SF_ERDL">
@@ -17919,6 +17960,8 @@
             crafted="0" deloot="0" />
         <category name="clothes" />
         <usage name="Military" />
+        <value name="Tier3" />
+        <value name="Tier2" />
 
     </type>
     <type name="FOG_Helmet_Exfil_MC">

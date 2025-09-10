@@ -29,12 +29,7 @@
 <TruckArray>	CarRadiator
 <TruckArray>	SparkPlug
 <TruckArray>	HeadlightH7
-<TruckArray>	Truck5
-<TruckArray>	
-<TruckArray>	
-<TruckArray>	
-<TruckArray>	
-<TruckArray>	
+<TruckArray>	MetalWire
 
 //Car Array - You can use up to 10 objects, use only class names
 
@@ -42,12 +37,7 @@
 <CarArray>	CarRadiator
 <CarArray>	SparkPlug
 <CarArray>	HeadlightH7
-<CarArray>	Car5
-<CarArray>	
-<CarArray>	
-<CarArray>	
-<CarArray>	
-<CarArray>	
+<CarArray>	MetalWire
 
 //Air Array - You can use up to 10 objects, use only class names
 
@@ -55,12 +45,6 @@
 <AirArray>	CarRadiator
 <AirArray>	SparkPlug
 <AirArray>	HeadlightH7
-<AirArray>	Air5
-<AirArray>	
-<AirArray>	
-<AirArray>	
-<AirArray>	
-<AirArray>	
 
 //Boat Array - You can use up to 10 objects, use only class names
 
@@ -68,12 +52,6 @@
 <BoatArray>	CarRadiator
 <BoatArray>	SparkPlug
 <BoatArray>	HeadlightH7
-<BoatArray>	Boat5
-<BoatArray>	
-<BoatArray>	
-<BoatArray>	
-<BoatArray>	
-<BoatArray>	
 
 <EndOFArray>	//End Of Arrays
 
