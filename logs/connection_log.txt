@@ -3921,3 +3921,9 @@
 [2025-09-10 10:33:24] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
 [2025-09-10 10:33:24] Connectivity test (124.106.174.48:80 (124.106.174.48:80)): OK!
 [2025-09-10 10:33:24] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2025-09-10 12:57:39] Client version: no bootstrapper found
+[2025-09-10 12:57:39] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2025-09-10 12:57:39] Connectivity test (124.106.174.48:80 (124.106.174.48:80)): OK!
+[2025-09-10 12:57:39] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

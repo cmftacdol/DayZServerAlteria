@@ -3127,3 +3127,8 @@
 [2025-09-10 10:33:24] Client version: no bootstrapper found
 [2025-09-10 10:33:24] Loaded store 'install' from 'G:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
 [2025-09-10 10:33:26] Flushed store 'install' to 'G:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'
+
+
+[2025-09-10 12:57:39] Client version: no bootstrapper found
+[2025-09-10 12:57:39] Loaded store 'install' from 'G:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf' successfully
+[2025-09-10 12:57:41] Flushed store 'install' to 'G:\SteamLibrary\steamapps\common\DayZServer\config\config.vdf'

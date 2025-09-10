@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CraftComponents JSON Generator</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    textarea { width: 100%; height: 120px; }
+    pre { background: #f4f4f4; padding: 10px; white-space: pre; }
+    button { padding: 8px 16px; }
+  </style>
+</head>
+<body>
+  <h2>CraftComponents JSON Generator</h2>
+
+  <label for="items">Enter item classnames (one per line):</label><br>
+  <textarea id="items" placeholder="e.g. MetalWire&#10;PlasticPart"></textarea><br><br>
+
+  <label for="result">Result item:</label>
+  <input type="text" id="result" value="MetalPlate"><br><br>
+
+  <label for="recipeName">Recipe name:</label>
+  <input type="text" id="recipeName" value="Recycle Car Part"><br><br>
+
+  <button onclick="generateJSON()">Generate & Copy JSON</button>
+
+  <h3>Generated JSON:</h3>
+  <pre id="output"></pre>
+
+  <script>
+    function generateJSON() {
+      const items = document.getElementById('items').value.trim().split('\n').filter(x => x);
+      const resultItem = document.getElementById('result').value.trim();
+      const recipeName = document.getElementById('recipeName').value.trim();
+
+      // Build one JSON string per item
+      const blocks = items.map(item =>
+`{
+    "Result": "${resultItem}",
+    "ResultCount": 1,
+    "CraftType": "craft",
+    "RecipeName": "${recipeName}",
+    "CraftComponents": [
+        {
+            "Classname": "${item}",
+            "Amount": 1,
+            "Destroy": 1,
+            "Changehealth": 0
+        }
+    ],
+    "AttachmentsNeed": [
+        "BPCutting_saw"
+    ]
+},`).join('\n\n');
+
+      // Show in the <pre>
+      document.getElementById('output').textContent = blocks;
+
+      // Copy to clipboard
+      navigator.clipboard.writeText(blocks).then(() => {
+        alert("All JSON blocks copied to clipboard!");
+      }).catch(err => {
+        console.error("Clipboard error: ", err);
+      });
+    }
+  </script>
+</body>
+</html>
