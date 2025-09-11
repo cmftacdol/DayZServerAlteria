@@ -340,7 +340,7 @@
             "all": []
         },
         "SearchHandlerIsActive": {
-            "all": 0
+            "all": 1
         },
         "SearchSphereRadiusIncreaseEverySeconds": {
             "all": 0.20000000298023225
@@ -1203,7 +1203,7 @@
             "all": 1
         },
         "ScreamAttractsZombiesInRadius": {
-            "all": 100.0,
+            "all": 150.0,
             "ZmbM_usSoldier_Officer_Desert": 100.0
         },
         "ScreamChancePercent": {
