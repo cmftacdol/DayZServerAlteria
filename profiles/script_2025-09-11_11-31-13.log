@@ -3202,3 +3202,26 @@ SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<89042f4
 SCRIPT       : [JunkYardDog] -- Adding Salvage Point to <Static_Wreck_HMMWV<8903ec30>> at Pos <<6914.924805, 15.335157, 7150.621094>>
 SCRIPT       : [JunkYardDog] -- Adding Fuel Point to <Static_Wreck_HMMWV<8903ec30>> at Pos <<6914.924805, 15.335157, 7150.621094>>
 SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : string ammo = 'FallDamageHealth'
+SCRIPT       : string ammo = 'FallDamageShock'
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : string ammo = 'FallDamageShock'
+SCRIPT       : string ammo = 'FallDamageShock'
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : string ammo = 'FallDamageHealth'
+SCRIPT       : string ammo = 'FallDamageShock'
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : [AYSA] [AI WAR ZONES] -->  The Fight For Control - Airfield is not active due to zone capping
+SCRIPT       : Clear up static fireplaces: 0
+SCRIPT       : 12:50:34.496 [EXPANSION DEBUG]: Clearing cached categories 63
+SCRIPT       : 12:50:34.500 [EXPANSION DEBUG]: Clearing cached traders 15
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : [INFO] Clearing all hordes.
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Spawned : 460
+SCRIPT       : -- PvZ Spawn System Numb Of Zeds Killed  : 95
+SCRIPT       : -- PvZ Kill / Spawn Ratio   : 0.21
+SCRIPT       : [DayZ Expansion] ~DayZGame
+SCRIPT       : ~DayZGame()
