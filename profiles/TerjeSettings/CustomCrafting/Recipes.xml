@@ -1449,7 +1449,184 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 			<Item>BPCutting_saw</Item>
 		</SecondIngredient>
 		<CraftingResults>
-			<Result setQuantity="10" >ScrapRubber</Result>
+			<Result setQuantity="10">ScrapRubber</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>mp133shotgun</Item>
+			<Item>izh43shotgun</Item>
+			<Item>izh18shotgun</Item>
+			<Item>R12</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="10">Bp_Shotgun_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>makarovij70</Item>
+			<Item>derringer_black</Item>
+			<Item>cz75</Item>
+			<Item>fnx45</Item>
+			<Item>glock19</Item>
+			<Item>mkii</Item>
+			<Item>colt1911</Item>
+			<Item>engraved1911</Item>
+			<Item>magnum</Item>
+			<Item>deagle</Item>
+			<Item>deagle_gold</Item>
+			<Item>p1</Item>
+			<Item>longhorn</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="10">Bp_Pistol_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>cz550</Item>
+			<Item>m14</Item>
+			<Item>Mosin9130</Item>
+			<Item>Mosin9130_Black</Item>
+			<Item>Mosin9130_Camo</Item>
+			<Item>Winchester70</Item>
+			<Item>SKS</Item>
+			<Item>Ruger1022</Item>
+			<Item>Scout</Item>
+			<Item>Repeater</Item>
+			<Item>Scout_Chernarus</Item>
+			<Item>Scout_Livonia</Item>
+			<Item>SSG82</Item>
+			<Item>Izh18</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="10">Bp_Rifles_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>cz61</Item>
+			<Item>ump45</Item>
+			<Item>mp5k</Item>
+			<Item>pp19</Item>
+			<Item>PM73Rak</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="10">Bp_SMG_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>junkak</Item>
+			<Item>ttscarl</Item>
+			<Item>ttp90</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="25">Bp_Rifles_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>jmc_Prototype_Red</Item>
+			<Item>jmc_Prototype_White</Item>
+			<Item>ttr700</Item>
+			<Item>jmc_Prototype_Blue</Item>
+			<Item>jmc_SnowOwl</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="75">Bp_Rifles_RepearKit</Result>
+		</CraftingResults>
+		<Conditions>
+			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+		</Conditions>
+	</Recipe>
+
+	<Recipe displayName="Scrap for parts" enabled="1" time="1">
+		<FirstIngredient singleUse="1" maxDamage="4">
+			<Item>ESP_M110</Item>
+			<Item>ESP_M110_Tan</Item>
+			<Item>ESP_M110_Green</Item>
+			<Item>ESP_M14</Item>
+			<Item>ESP_M14_Black</Item>
+			<Item>ESPAR22</Item>
+			<Item>ESPAR47</Item>
+			<Item>ttmauser1914</Item>
+			<Item>ttmakarov</Item>
+			<Item>ttm9</Item>
+			<Item>ttl35</Item>
+			<Item>ttglock18c</Item>
+			<Item>tt57blk</Item>
+			<Item>tt57tan</Item>
+			<Item>ttak458</Item>
+			<Item>ttak458_Gold</Item>
+			<Item>ttak458poli</Item>
+			<Item>ttar9</Item>
+			<Item>ttbar</Item>
+			<Item>ttgarand</Item>
+			<Item>ttkrp39</Item>
+			<Item>ttrpd</Item>
+			<Item>ttrpg7</Item>
+			<Item>ttscarl</Item>
+			<Item>ttscarl_Tan</Item>
+			<Item>ttsok94</Item>
+			<Item>ttstg44</Item>
+			<Item>tt870</Item>
+			<Item>ttbecker</Item>
+			<Item>ttitacha</Item>
+			<Item>ttagram</Item>
+			<Item>ESP_M14_Blttmp5ck</Item>
+			<Item>ttp90_Tan</Item>
+		</FirstIngredient>
+		<SecondIngredient singleUse="0" setHealth="90">
+			<Item>Screwdriver</Item>
+		</SecondIngredient>
+		<CraftingResults>
+			<Result setQuantity="20">Bp_Rifles_RepearKit</Result>
 		</CraftingResults>
 		<Conditions>
 			<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />

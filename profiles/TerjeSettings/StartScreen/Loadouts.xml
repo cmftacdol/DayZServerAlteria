@@ -94,22 +94,29 @@
 	<Loadout id="survivor" displayName="Default survivor">
 		<Items>
 			<Selector type="SINGLE" displayName="BODY">
-				<Item classname="TShirt_Beige" health="0.6:0.8" />
-				<Item classname="TShirt_Black" health="0.6:0.8" />
-				<Item classname="TShirt_Blue" health="0.6:0.8" />
-				<Item classname="TShirt_Green" health="0.6:0.8" />
-				<Item classname="TShirt_OrangeWhiteStripes" health="0.6:0.8" />
-				<Item classname="TShirt_Red" health="0.6:0.8" />
-				<Item classname="TShirt_RedBlackStripes" health="0.6:0.8" />
-				<Item classname="TShirt_White" health="0.6:0.8" />
-				<Item classname="TShirt_Grey" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_Canoe" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_CrimeCo" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_FOG_Reaper" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_FOG1" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_FOG2" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_MLG" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_Raider" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_Sfartaetc" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Black_Thrasher" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_CB" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_RG" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_Red" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_White_Pinup" health="0.6:0.8" />
+				<Item classname="FOG_Tshirt_White_Star" health="0.6:0.8" />
 			</Selector>
 			<Selector type="SINGLE" displayName="LEGS">
-				<Item classname="CanvasPantsMidi_Beige" health="0.6:0.8" />
-				<Item classname="CanvasPantsMidi_Blue" health="0.6:0.8" />
-				<Item classname="CanvasPantsMidi_Grey" health="0.6:0.8" />
-				<Item classname="CanvasPantsMidi_Red" health="0.6:0.8" />
-				<Item classname="CanvasPantsMidi_Violet" health="0.6:0.8" />
+				<Item classname="ShortJeans_Red" health="0.6:0.8" />
+				<Item classname="ShortJeans_Green" health="0.6:0.8" />
+				<Item classname="ShortJeans_Darkblue" health="0.6:0.8" />
+				<Item classname="ShortJeans_Brown" health="0.6:0.8" />
+				<Item classname="ShortJeans_Blue" health="0.6:0.8" />
+				<Item classname="ShortJeans_Black" health="0.6:0.8" />
 			</Selector>
 			<Selector type="SINGLE" displayName="SHOES">
 				<Item classname="AthleticShoes_Black" />
@@ -117,6 +124,23 @@
 				<Item classname="AthleticShoes_Brown" />
 				<Item classname="AthleticShoes_Green" />
 				<Item classname="AthleticShoes_Grey" />
+				<Item classname="BP2_AthleticShoes_Brown" />
+				<Item classname="BP2_AthleticShoes_Green" />
+				<Item classname="BP2_AthleticShoes_White" />
+			</Selector>
+			<Selector type="SINGLE" displayName="HEAD">
+				<Item classname="BaseballCap_Blue" />
+				<Item classname="BaseballCap_Beige" />
+				<Item classname="BaseballCap_Black" />
+				<Item classname="BaseballCap_Olive" />
+				<Item classname="BaseballCap_Pink" />
+				<Item classname="BaseballCap_Red" />
+				<Item classname="BaseballCap_Camo" />
+				<Item classname="BaseballCap_CMMG_Black" />
+				<Item classname="BaseballCap_CMMG_Pink" />
+				<Item classname="Loftd_wdcap" />
+				<Item classname="STAG_Clothing_Cap" />
+				<Item classname="RCl_BaseballCap_WD" />
 			</Selector>
 			<Selector type="RANDOM">
 				<Item classname="Chemlight_Red" />

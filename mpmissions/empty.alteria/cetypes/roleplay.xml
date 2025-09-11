@@ -2237,6 +2237,69 @@
 		<usage name="Industrial" />
 	</type>
 
+
+	<type name="Bp_Pistol_RepearKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+	<type name="Bp_Revolver_RepearKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+	<type name="Bp_Rifles_RepearKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+	<type name="Bp_Shotgun_RepearKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+
+	<type name="Bp_SMG_RepearKit">
+		<nominal>0</nominal>
+		<lifetime>7200</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>10</quantmin>
+		<quantmax>90</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+
+
 	<type name="BP_PouchBottle_Black">
 		<nominal>3</nominal>
 		<lifetime>7200</lifetime>

@@ -149,7 +149,7 @@
             "ZmbM_usSoldier_normal_Woodland"
         ],
         "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 40
+        "DefendersSpawnRadius": 10
     },
     {
         "LootRoomName": "Airfield Base",
@@ -301,6 +301,6 @@
             "ZmbM_usSoldier_normal_Woodland"
         ],
         "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 40
+        "DefendersSpawnRadius": 10
     }
 ]

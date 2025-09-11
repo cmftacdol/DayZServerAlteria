@@ -1,0 +1,344 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-9-11_3-32-13
+====================================================================================
+3:32:13 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+3:32:13 | [PermissionManager] Perm (FreeCamera) has been registered!
+3:32:13 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuServerManager) has been registered!
+3:32:13 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+3:32:13 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+3:32:13 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+3:32:13 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+3:32:13 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+3:32:13 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+3:32:13 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+3:32:13 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+3:32:13 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+3:32:13 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuBansManager) has been registered!
+3:32:13 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+3:32:13 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+3:32:13 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+3:32:13 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+3:32:13 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+3:32:13 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+3:32:14 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+3:32:14 | [PermissionManager] Adding Super Admin (76561198413928129)
+3:32:14 | [PermissionManager] Adding Super Admin (76561198061747392)
+3:32:14 | [PermissionManager] Adding Super Admin (76561198065207038)
+3:32:14 | [PermissionManager] Loaded UserGroups.json
+3:32:14 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+3:32:14 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+3:32:14 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+3:32:14 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+3:32:14 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+3:32:14 | Building Sets Loaded: 1
+3:32:14 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+3:32:14 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+3:35:23 | Player "Pengowski" (steamId=76561198413928129) connected to server!
+3:37:3 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:37:6 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<269.111450, 6.121842, 6678.961426>)
+3:37:6 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<269.544220, 6.019976, 6670.698730>)
+3:37:6 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<269.165131, 5.855700, 6663.675293>)
+3:37:7 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<268.570801, 5.246979, 6654.324219>)
+3:37:7 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<266.986084, 3.362800, 6643.749512>)
+3:37:24 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:37:43 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:38:20 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<1639.020020, 87.389999, 2628.620117>)
+3:38:20 | "Pengowski": (steamid=76561198413928129) teleported to (pos=1639.02,0,2628.62)
+3:38:32 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:38:39 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1635.924438, 100.890625, 2656.368164>)
+3:38:40 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:39:25 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:39:26 | "Pengowski" (steamid=76561198413928129) toggled godmode
+3:40:27 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP_Mp133k)
+3:40:38 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:40:38 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:40:38 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:40:38 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:40:39 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:41:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (R12)
+3:41:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (R12)
+3:41:57 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:41:57 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:41:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:42:20 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:20 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:42:51 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:43:15 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Shemag_White)
+3:43:32 | "Pengowski" (steamid=76561198413928129) Spawned Item: (FOG_G99_Pants_White)
+3:43:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (FOG_Tshirt_White)
+3:43:56 | "Pengowski" (steamid=76561198413928129) Spawned Item: (FOG_Tshirt_White)
+3:44:2 | "Pengowski" (steamid=76561198413928129) Spawned Item: (FOG_G99_Pants_White)
+3:44:37 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:44:44 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1931.986328, 55.346836, 2909.305908>)
+3:44:48 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:47:33 | "Pengowski" (steamid=76561198413928129) toggled godmode
+3:49:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:11 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:11 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:49:12 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:12 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:12 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:49:13 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:49:14 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:49:14 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:49:14 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:49:14 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaPellets)
+3:49:38 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:49:44 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2317.353271, 117.492142, 2107.384277>)
+3:49:46 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:49:53 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:50:5 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2067.677979, 15.465011, 734.247498>)
+3:50:6 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:51:11 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Loftd_CHRSAT_gloves)
+3:55:15 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP1_Mp133)
+3:55:17 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Mp133Shotgun)
+3:55:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:55:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:55:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:55:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaStone)
+3:55:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:55:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:55:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:55:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:56:0 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_12gaNail)
+3:57:14 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:57:25 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7466.882813, 28.493542, 1386.160034>)
+3:57:36 | "Pengowski" (steamid=76561198413928129) toggled freecam
+3:59:37 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:59:40 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:59:42 | "Pengowski" (steamid=76561198413928129) toggled godmode
+3:59:44 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:59:44 | "Pengowski" (steamid=76561198413928129) toggled godmode
+3:59:45 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+3:59:46 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:0:13 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:1:11 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:1:12 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:1:45 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:1:53 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7060.071777, 26.129986, 1953.167725>)
+4:1:57 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:5:3 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:5:16 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:5:26 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<6974.894531, 36.748882, 2323.027588>)
+4:5:28 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:5:45 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:5:46 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:6:21 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<6299.830078, 121.730003, 968.085999>)
+4:6:21 | "Pengowski": (steamid=76561198413928129) teleported to (pos=6299.83,0,968.086)
+4:7:34 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<4737.359863, 3.790000, 5644.229980>)
+4:7:34 | "Pengowski": (steamid=76561198413928129) teleported to (pos=4737.36,0,5644.23)
+4:8:21 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<4711.479980, 3.785953, 5639.680176>)
+4:8:21 | "Pengowski": (steamid=76561198413928129) teleported to (pos=4711.48,0,5639.68)
+4:10:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_762x54)
+4:10:36 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ki_Suppressor_Mosin_covered)
+4:11:1 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:11:12 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:5 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:21 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7197.496094, 26.130001, 1994.566528>)
+4:12:22 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:24 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:25 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:27 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:12:29 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:13:5 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:13:29 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7209.746582, 26.129997, 1936.638306>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7226.580566, 26.129997, 1937.930054>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7226.694336, 26.129997, 1937.941284>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7226.808105, 26.129997, 1937.952393>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7226.915527, 26.129995, 1937.962891>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7227.029297, 26.129997, 1937.973999>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7241.830078, 26.129997, 1939.036011>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7241.830078, 26.129997, 1939.036011>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7241.858887, 26.129997, 1939.038818>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7241.972656, 26.129995, 1939.049683>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7242.264648, 26.129997, 1939.077515>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7242.251465, 26.129997, 1939.076294>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7256.994629, 26.129997, 1940.132690>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7256.994629, 26.129997, 1940.132690>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7257.023438, 26.129999, 1940.135376>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7257.137207, 26.129999, 1940.146118>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7257.435547, 26.129995, 1940.174072>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7257.429199, 26.129997, 1940.173462>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7272.159180, 26.129995, 1941.228638>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7272.623047, 26.129995, 1941.271851>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7272.736816, 26.129997, 1941.282349>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.518066, 26.129995, 1942.342285>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.518066, 26.129995, 1942.342285>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.754883, 26.129995, 1942.364136>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.770020, 26.129995, 1942.365601>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.794434, 26.129995, 1942.367920>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7287.838379, 26.129995, 1942.371948>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7302.905762, 26.129997, 1943.458374>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7302.905762, 26.129997, 1943.458374>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7302.959473, 26.129995, 1943.463379>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7303.066406, 26.129995, 1943.473267>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.557617, 26.187002, 1944.506592>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.557617, 26.187002, 1944.506592>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.602539, 26.187477, 1944.510742>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.707031, 26.188559, 1944.520386>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.805664, 26.189556, 1944.529297>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7317.910645, 26.190651, 1944.538940>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7318.145996, 26.193085, 1944.560669>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7318.115723, 26.192776, 1944.557861>)
+4:13:30 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7332.416016, 26.271187, 1945.568604>)
+4:13:32 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7350.311523, 27.332556, 1953.860596>)
+4:13:33 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7359.896484, 28.325706, 1959.328857>)
+4:13:33 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<7370.609863, 29.655951, 1965.470825>)
+4:13:45 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:13:52 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<6644.142090, 77.830116, 2325.494629>)
+4:13:53 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:14:54 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:19:23 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:19:37 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CBD_LootroomC4)
+4:19:37 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CBD_LootroomC4)
+4:19:40 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<6881.844238, 26.129974, 2162.162109>)
+4:20:54 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:20:55 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:20:55 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:20:59 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:23:16 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:24:18 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:24:32 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CBD_LootroomC4)
+4:24:34 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:24:52 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1995.742310, 15.570003, 585.068970>)
+4:24:53 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:27:40 | "Pengowski" (steamid=76561198413928129) toggled godmode
+4:28:9 | "Pengowski" (steamid=76561198413928129) deleted object "OffroadHatchback" (pos=<2599.328857, 40.639961, 1034.724731>)
+4:29:1 | "Pengowski" (steamid=76561198413928129) Spawned Item: (GAZ_3110_volga_white)
+4:31:28 | "Pengowski" (steamid=76561198413928129) Spawned Item: (rag_baseitems_sleepingbag_packed_ckeckered_blue)
+4:31:49 | "Pengowski" (steamid=76561198413928129) Spawned Item: (TerjeSleepingBag_Blue)
+4:31:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (TerjeSleepingBag_Woodland)
+4:32:8 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:32:16 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2712.242676, 59.236153, 5924.345703>)
+4:32:20 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:32:21 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:32:23 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:32:42 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2610.833740, 1155.083252, 5926.491211>)
+4:32:50 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2596.417480, 0.500732, 5830.458984>)
+4:32:53 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:32:55 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2595.899414, 43.939999, 5833.323730>)
+4:32:55 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:34:32 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:34:35 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2525.389404, 44.118771, 5743.425293>)
+4:34:40 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<2691.629883, 43.940006, 5946.006348>)
+4:34:40 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:37:7 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:37:29 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:37:41 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<995.884399, 28.687656, 7047.734863>)
+4:37:42 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:40:32 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:40:52 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1250.868530, 67.363419, 6404.574707>)
+4:40:53 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1252.529175, 70.117493, 6387.118652>)
+4:40:54 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:41:5 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1768.340332, 13.399990, 5045.104004>)
+4:41:6 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:41:21 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:42:34 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:42:42 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<1681.597900, 30.819998, 4820.516602>)
+4:42:43 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:43:37 | "Pengowski" (steamid=76561198413928129) /heal used on: "Pengowski" (steamid=76561198413928129)
+4:44:12 | "76561198413928129" (steamid=76561198413928129) teleported to (pos=<4812.629883, 46.594921, 1563.920044>)
+4:44:12 | "Pengowski": (steamid=76561198413928129) teleported to (pos=4812.63,0,1563.92)
+4:44:18 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:44:28 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<5272.542480, 11.891572, 2053.067627>)
+4:44:29 | "Pengowski" (steamid=76561198413928129) toggled freecam
+4:44:34 | "Pengowski" (steamid=76561198413928129) teleported to crosshair (pos=<5282.254395, 10.354347, 2090.711426>)
+4:46:7 | Player "Pengowski" (steamId=76561198413928129) initiated disconnect process...
+4:46:10 | Player "Pengowski" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+4:46:10 | Player "Pengowski" (steamId=76561198413928129) disconnected from server.

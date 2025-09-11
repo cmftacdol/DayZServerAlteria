@@ -1,0 +1,191 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2025-9-11_1-2-49
+====================================================================================
+1:2:49 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+1:2:49 | [PermissionManager] Perm (FreeCamera) has been registered!
+1:2:49 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuServerManager) has been registered!
+1:2:49 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+1:2:49 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+1:2:49 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+1:2:49 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+1:2:49 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+1:2:49 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+1:2:49 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+1:2:49 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+1:2:49 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+1:2:49 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuBansManager) has been registered!
+1:2:49 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+1:2:49 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+1:2:49 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+1:2:49 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+1:2:49 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+1:2:49 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+1:2:50 | [PermissionManager] Perm (TerjePlayerManager) has been registered!
+1:2:50 | [PermissionManager] Adding Super Admin (76561198413928129)
+1:2:50 | [PermissionManager] Adding Super Admin (76561198061747392)
+1:2:50 | [PermissionManager] Adding Super Admin (76561198065207038)
+1:2:50 | [PermissionManager] Loaded UserGroups.json
+1:2:50 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+1:2:50 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+1:2:50 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+1:2:50 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+1:2:50 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+1:2:50 | Building Sets Loaded: 1
+1:2:50 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+1:2:50 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+1:13:30 | Player "Pengowski" (steamId=76561198413928129) connected to server!
+1:13:37 | "Pengowski" (steamid=76561198413928129) toggled godmode
+1:13:50 | "Pengowski" (steamid=76561198413928129) gave unlimited ammo to (steamid=76561198413928129)
+1:14:20 | "Pengowski" (steamid=76561198413928129) Spawned Item: (bl_improvised_sledgehammer)
+1:14:25 | "Pengowski" (steamid=76561198413928129) Spawned Item: (TerritoryFlagKit)
+1:14:40 | "Pengowski" (steamid=76561198413928129) Spawned Item: (WoodenLog)
+1:14:40 | "Pengowski" (steamid=76561198413928129) Spawned Item: (WoodenLog)
+1:22:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Workbench_Kit)
+1:22:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Workbench_Weapons_Kit)
+1:23:36 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Butcher_Table_Kit)
+1:23:37 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Kitchen_Table_Kit)
+1:30:49 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP_LegsBelt)
+1:30:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP_LegsBeltHH)
+1:31:57 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Pistol_RepearKit)
+1:31:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Revolver_RepearKit)
+1:31:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Rifles_RepearKit)
+1:31:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Shotgun_RepearKit)
+1:32:0 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Pomp_RepearKit)
+1:32:5 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_SMG_RepearKit)
+1:32:32 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Pomp_RepearKit)
+1:32:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Bp_Shotgun_RepearKit)
+1:47:57 | "Pengowski" (steamid=76561198413928129) Spawned Item: (R12)
+1:54:40 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Scout)
+1:54:42 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Repeater)
+1:54:46 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Scout_Chernarus)
+1:54:48 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Scout_Livonia)
+1:54:56 | "Pengowski" (steamid=76561198413928129) Spawned Item: (SSG82)
+1:56:34 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Izh18)
+2:6:25 | "Pengowski" (steamid=76561198413928129) Spawned Item: (AKS74U_Black)
+2:6:26 | "Pengowski" (steamid=76561198413928129) Spawned Item: (AKS74U_Green)
+2:6:34 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CZ527_Black)
+2:6:35 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CZ527_Green)
+2:6:36 | "Pengowski" (steamid=76561198413928129) Spawned Item: (CZ527_Camo)
+2:6:44 | "Pengowski" (steamid=76561198413928129) Spawned Item: (M4A1_Green)
+2:6:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Winchester70_Black)
+2:7:0 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Winchester70_Green)
+2:7:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Derringer_Grey)
+2:7:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Derringer_Pink)
+2:7:27 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_G36C)
+2:7:28 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_M110)
+2:7:28 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_M110_Tan)
+2:7:29 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_M110_Green)
+2:7:30 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_M14)
+2:7:31 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESP_M14_Black)
+2:7:35 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESPAR22)
+2:7:36 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ESPAR47)
+2:7:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttmauser1914)
+2:7:44 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttmakarov)
+2:7:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttm9)
+2:7:54 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttl35)
+2:7:56 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttglock18c)
+2:7:58 | "Pengowski" (steamid=76561198413928129) Spawned Item: (tt57blk)
+2:7:59 | "Pengowski" (steamid=76561198413928129) Spawned Item: (tt57tan)
+2:8:6 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttak458)
+2:8:8 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttak458_Gold)
+2:8:10 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttak458poli)
+2:8:11 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttar9)
+2:8:12 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttbar)
+2:8:14 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttgarand)
+2:8:20 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttkrp39)
+2:8:21 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttrpd)
+2:8:24 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttrpg7)
+2:8:26 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttscarl)
+2:8:30 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttscarl_Tan)
+2:8:33 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttsok94)
+2:8:35 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttstg44)
+2:8:41 | "Pengowski" (steamid=76561198413928129) Spawned Item: (tt870)
+2:8:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttbecker)
+2:8:45 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttitacha)
+2:8:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttagram)
+2:8:52 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttmp5)
+2:8:56 | "Pengowski" (steamid=76561198413928129) Spawned Item: (ttp90_Tan)
+2:9:39 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_RPG7_HE)
+2:9:50 | "Pengowski" (steamid=76561198413928129) Spawned Item: (Ammo_RPG7_AP)
+2:9:57 | "Pengowski" (steamid=76561198413928129) Spawned Item: (RPG7)
+2:14:27 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP_Workbench_med)
+2:14:43 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Workbench)
+2:14:44 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Workbench_Weapons)
+2:15:7 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Kitchen_Table)
+2:15:9 | "Pengowski" (steamid=76561198413928129) Spawned Item: (KB_Butcher_Table)
+2:29:30 | "Pengowski" (steamid=76561198413928129) Spawned Item: (BP_BeltGunBag)
+2:29:52 | "Pengowski" (steamid=76561198413928129) Spawned Item: (DuctTape)
+2:30:1 | Player "Pengowski" (steamId=76561198413928129) initiated disconnect process...
+2:30:3 | Player "Pengowski" (steamId=76561198413928129) disconnected early from server (EXIT NOW).
+2:30:4 | Player "Pengowski" (steamId=76561198413928129) disconnected from server.

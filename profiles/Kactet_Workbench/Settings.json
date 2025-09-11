@@ -7,7 +7,8 @@
             "PathToCraftImg": "my path to CraftImg"
         },
         "WorkbenchesClassnames": [
-            "BP_Workbench"
+            "BP_Workbench",
+            "BP_Workbench_med"
         ],
         "CraftItems": [
             {
@@ -43,6 +44,187 @@
                 ],
                 "AttachmentsNeed": [
                     "BPSewing_machine"
+                ]
+            },
+            {
+                "Result": "WeaponCleaningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Gun Cleaning Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Bp_Rifles_RepearKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "WeaponCleaningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Gun Cleaning Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Bp_SMG_RepearKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "WeaponCleaningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Gun Cleaning Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Bp_Pistol_RepearKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "WeaponCleaningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Gun Cleaning Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Bp_Shotgun_RepearKit",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Barrel_Blue",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Barrel",
+                "CraftComponents": [
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 50,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EpoxyPutty",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "SeaChest",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Sea Chest",
+                "CraftComponents": [
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 100,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "CarRadiator",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Repair Car Radiator",
+                "CraftComponents": [
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "CarRadiator",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EpoxyPutty",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
                 ]
             }
         ]
