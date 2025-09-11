@@ -6942,3 +6942,6 @@
 [2025-09-11 11:32:03] [Connected, 4, 3] [A:1:0:0] Logging on [A:1:0:0]
 [2025-09-11 11:32:04] [Logging On, 4, 3] [A:1:0:0] RecvMsgClientLogOnResponse() : [A:1:3779405852:47019] 'OK'
 [2025-09-11 11:32:04] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / 2404:3fc0:0:106::670a:7c5a) - TIMEOUT
+[2025-09-11 12:50:33] [Logged On, 4, 3] [A:1:3779405852:47019] LogOff()
+[2025-09-11 12:50:33] [Logging Off, 4, 3] [A:1:3779405852:47019] AsyncDisconnect( bDontWaitOnTCPShutdown: false )
+[2025-09-11 12:50:33] [Logging Off, 0, 3] [A:1:3779405852:47019] Log session ended
