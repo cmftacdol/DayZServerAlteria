@@ -56,6 +56,7 @@ Core Rules
 
 --No toxic behavior, hate speech, or harassment.
 --Don’t exploit bugs, glitches, or loopholes.
+--If you didn't kill it don't loot it.
 
 -Treat both players and staff respectfully.
 
