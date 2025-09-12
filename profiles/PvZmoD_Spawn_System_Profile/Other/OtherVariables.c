@@ -1,7 +1,6 @@
 /// Safe Zone Objects ///
 
 ref autoptr TStringArray safeZoneObjects = {
-	"BarrelHoles",
 	"TerritoryFlag",
 };
 
