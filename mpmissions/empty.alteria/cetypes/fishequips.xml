@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <types>
     <type name="FC_Fish_Bag">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -12,16 +12,14 @@
             crafted="0" deloot="0" />
         <category name="containers" />
         <usage name="Hunting" />
-        <value name="Tier1" />
         <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="FC_Fish_Hat_Base">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -36,80 +34,64 @@
     </type>
     <!-- ОБНОВЛЕНИЕ 09.08.2023 \ UPDATE 09.08.2023 -->
     <type name="FC_Fish_Bag_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
-        <value name="Tier1" />
-        <value name="Tier2" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Bag_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
-        <value name="Tier1" />
-        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
     <type name="FC_Spraycan_Black">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
-        <value name="Tier1" />
-        <value name="Tier2" />
-        <value name="Tier3" />
         <value name="Tier4" />
     </type>
     <type name="FC_Spraycan_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_hoarder="0" count_in_player="0" count_in_map="1" count_in_cargo="0"
             crafted="0" deloot="0" />
         <category name="containers" />
-        <usage name="Hunting" />
-        <value name="Tier1" />
-        <value name="Tier2" />
         <value name="Tier3" />
-        <value name="Tier4" />
     </type>
 
     <!-- ОБНОВЛЕНИЕ 16.01.2024 \ UPDATE 16.01.2024 -->
     <type name="FC_FishingRod_Wooden_Blue">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -123,10 +105,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Wooden_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -140,10 +122,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Wooden_Yellow">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -157,10 +139,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Wooden_Red">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -174,10 +156,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Plastic_Blue">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -191,10 +173,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Plastic_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -208,10 +190,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Plastic_Yellow">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -225,10 +207,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_FishingRod_Plastic_Red">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -261,10 +243,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Lure_Case_All">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -296,10 +278,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Cooler_50">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -314,10 +296,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Cooler_100">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -332,10 +314,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Cooler_300">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -559,10 +541,10 @@
     </type>
 
     <type name="FC_Fish_Lure_6_1">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -578,10 +560,10 @@
 
     <!-- КРЮЧКИ \ HOOKS -->
     <type name="FC_Fish_Hook_Blue">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -595,10 +577,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Hook_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -612,10 +594,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Hook_Yellow">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -629,10 +611,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Hook_Red">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -647,10 +629,10 @@
     </type>
 
     <type name="FC_Fish_Bait_Blue">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -664,10 +646,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Bait_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -681,10 +663,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Bait_Yellow">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -698,10 +680,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Bait_Red">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -717,10 +699,10 @@
 
     <!-- ПАЛАТКИ / TENTS -->
     <type name="FC_Fish_Tent_Bag_Green">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -734,10 +716,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Fish_Tent_Bag_Blue">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1472,10 +1454,10 @@
         <value name="Tier4" />
     </type>
     <type name="FC_Conserv_Can_Empty">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1490,10 +1472,10 @@
     </type>
 
     <type name="FC_Conserv_Angel_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1513,10 +1495,10 @@
     </type>
 
     <type name="FC_Conserv_Anchous_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1536,10 +1518,10 @@
     </type>
 
     <type name="FC_Conserv_Angelfish_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1559,10 +1541,10 @@
     </type>
 
     <type name="FC_Conserv_Barracuda_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1582,10 +1564,10 @@
     </type>
 
     <type name="FC_Conserv_Blow_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1605,10 +1587,10 @@
     </type>
 
     <type name="FC_Conserv_Bluegill_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1628,10 +1610,10 @@
     </type>
 
     <type name="FC_Conserv_Bocachico_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1651,10 +1633,10 @@
     </type>
 
     <type name="FC_Conserv_Rouch_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1674,10 +1656,10 @@
     </type>
 
     <type name="FC_Conserv_Butterfly_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1697,10 +1679,10 @@
     </type>
 
     <type name="FC_Conserv_Carp_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1720,10 +1702,10 @@
     </type>
 
     <type name="FC_Conserv_Catfish_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1743,10 +1725,10 @@
     </type>
 
     <type name="FC_Conserv_Clown_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1766,10 +1748,10 @@
     </type>
 
     <type name="FC_Conserv_Demon_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1789,10 +1771,10 @@
     </type>
 
     <type name="FC_Conserv_Forel_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1812,10 +1794,10 @@
     </type>
 
     <type name="FC_Conserv_Mojarra_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1835,10 +1817,10 @@
     </type>
 
     <type name="FC_Conserv_Perch_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1858,10 +1840,10 @@
     </type>
 
     <type name="FC_Conserv_PerchBass_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1881,10 +1863,10 @@
     </type>
 
     <type name="FC_Conserv_PerchRed_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1904,10 +1886,10 @@
     </type>
 
     <type name="FC_Conserv_Pearlscale_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1927,10 +1909,10 @@
     </type>
 
     <type name="FC_Conserv_Pirahna_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1950,10 +1932,10 @@
     </type>
 
     <type name="FC_Conserv_Plecostomus_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1973,10 +1955,10 @@
     </type>
 
     <type name="FC_Conserv_Scalar_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1996,10 +1978,10 @@
     </type>
 
     <type name="FC_Conserv_Snapper_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2019,10 +2001,10 @@
     </type>
 
     <type name="FC_Conserv_Sunfish_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2042,10 +2024,10 @@
     </type>
 
     <type name="FC_Conserv_Corrupted_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2065,10 +2047,10 @@
     </type>
 
     <type name="FC_Conserv_Sword_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2088,10 +2070,10 @@
     </type>
 
     <type name="FC_Conserv_Stigray_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2111,10 +2093,10 @@
     </type>
 
     <type name="FC_Conserv_Shark_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2134,10 +2116,10 @@
     </type>
 
     <type name="FC_Conserv_Sturgeon_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2157,10 +2139,10 @@
     </type>
 
     <type name="FC_Conserv_Mackerel_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2180,10 +2162,10 @@
     </type>
 
     <type name="FC_Conserv_Pike_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2203,10 +2185,10 @@
     </type>
 
     <type name="FC_Conserv_Pikeperch_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2227,10 +2209,10 @@
     <!-- ОБНОВЛЕНИЕ 16.01.2024 \ UPDATE 16.01.2024 -->
 
     <type name="FC_Metal_Sheet">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2240,10 +2222,10 @@
         <value name="Tier2" />
     </type>
     <type name="FC_Conserv_WalleyePollock_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2262,10 +2244,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="FC_Conserv_SteelheadTrout_Closed">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>3</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
