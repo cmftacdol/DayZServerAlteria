@@ -1458,8 +1458,8 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 
 	<Recipe displayName="Scrap for parts" enabled="1" time="1">
 		<FirstIngredient singleUse="1" maxDamage="4">
-			<Item>mp133shotgun</Item>
-			<Item>izh43shotgun</Item>
+			<Item>Mp133Shotgun</Item>
+			<Item>Izh43Shotgun</Item>
 			<Item>izh18shotgun</Item>
 			<Item>R12</Item>
 		</FirstIngredient>
@@ -1476,19 +1476,20 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 
 	<Recipe displayName="Scrap for parts" enabled="1" time="1">
 		<FirstIngredient singleUse="1" maxDamage="4">
-			<Item>makarovij70</Item>
-			<Item>derringer_black</Item>
-			<Item>cz75</Item>
-			<Item>fnx45</Item>
-			<Item>glock19</Item>
+			<Item>MakarovIJ70</Item>
+			<Item>Derringer_Black</Item>
+			<Item>Derringer_Grey</Item>
+			<Item>CZ75</Item>
+			<Item>FNX45</Item>
 			<Item>mkii</Item>
-			<Item>colt1911</Item>
-			<Item>engraved1911</Item>
-			<Item>magnum</Item>
-			<Item>deagle</Item>
-			<Item>deagle_gold</Item>
-			<Item>p1</Item>
-			<Item>longhorn</Item>
+			<Item>Colt1911</Item>
+			<Item>Engraved1911</Item>
+			<Item>Magnum</Item>
+			<Item>Deagle</Item>
+			<Item>Deagle_gold</Item>
+			<Item>P1</Item>
+			<Item>Longhorn</Item>
+			<Item>Glock19</Item>
 		</FirstIngredient>
 		<SecondIngredient singleUse="0" setHealth="90">
 			<Item>Screwdriver</Item>
@@ -1503,8 +1504,8 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 
 	<Recipe displayName="Scrap for parts" enabled="1" time="1">
 		<FirstIngredient singleUse="1" maxDamage="4">
-			<Item>cz550</Item>
-			<Item>m14</Item>
+			<Item>CZ550</Item>
+			<Item>M14</Item>
 			<Item>Mosin9130</Item>
 			<Item>Mosin9130_Black</Item>
 			<Item>Mosin9130_Camo</Item>
@@ -1517,6 +1518,7 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 			<Item>Scout_Livonia</Item>
 			<Item>SSG82</Item>
 			<Item>Izh18</Item>
+			<Item>CZ527</Item>
 		</FirstIngredient>
 		<SecondIngredient singleUse="0" setHealth="90">
 			<Item>Screwdriver</Item>
@@ -1532,10 +1534,10 @@ https://github.com/TerjeBruoygard/TerjeModsScripting/blob/master/Wiki/en/Conditi
 
 	<Recipe displayName="Scrap for parts" enabled="1" time="1">
 		<FirstIngredient singleUse="1" maxDamage="4">
-			<Item>cz61</Item>
-			<Item>ump45</Item>
-			<Item>mp5k</Item>
-			<Item>pp19</Item>
+			<Item>CZ61</Item>
+			<Item>UMP45</Item>
+			<Item>MP5K</Item>
+			<Item>PP19</Item>
 			<Item>PM73Rak</Item>
 		</FirstIngredient>
 		<SecondIngredient singleUse="0" setHealth="90">

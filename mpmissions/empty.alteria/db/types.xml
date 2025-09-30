@@ -3531,7 +3531,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Hunting" />
@@ -4278,7 +4278,7 @@
     <nominal>15</nominal>
     <lifetime>9000</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -7030,40 +7030,43 @@
     <usage name="Industrial" />
   </type>
   <type name="DrysackBag_Green">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
       deloot="0" />
     <category name="containers" />
+    <usage name="Coast" />
   </type>
   <type name="DrysackBag_Orange">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
       deloot="0" />
     <category name="containers" />
+    <usage name="Coast" />
   </type>
   <type name="DrysackBag_Yellow">
-    <nominal>0</nominal>
+    <nominal>4</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>1</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
       deloot="0" />
     <category name="containers" />
+    <usage name="Coast" />
   </type>
   <type name="DuctTape">
     <nominal>10</nominal>
@@ -7772,7 +7775,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7798,7 +7801,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7824,7 +7827,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7838,7 +7841,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7852,7 +7855,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7866,7 +7869,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7880,7 +7883,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7894,7 +7897,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7920,7 +7923,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7934,7 +7937,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -7984,7 +7987,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8010,7 +8013,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8024,7 +8027,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8038,7 +8041,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8064,7 +8067,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8090,7 +8093,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8104,7 +8107,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8118,7 +8121,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8132,7 +8135,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8146,7 +8149,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -8172,7 +8175,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="tools" />
     <usage name="Office" />
@@ -14065,10 +14068,10 @@
     <usage name="Town" />
   </type>
   <type name="Marmalade">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -14279,7 +14282,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Village" />
@@ -14293,7 +14296,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Town" />
@@ -15825,10 +15828,10 @@
     <usage name="Medic" />
   </type>
   <type name="Pajka">
-    <nominal>23</nominal>
+    <nominal>5</nominal>
     <lifetime>9000</lifetime>
     <restock>0</restock>
-    <min>18</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -15952,7 +15955,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Town" />
@@ -15965,7 +15968,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Town" />
@@ -15978,7 +15981,7 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Town" />
@@ -15991,16 +15994,16 @@
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="1" count_in_hoarder="1" count_in_map="1" count_in_player="1" crafted="0"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="containers" />
     <usage name="Lunapark" />
   </type>
   <type name="Pate">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>9000</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16027,10 +16030,10 @@
     <category name="food" />
   </type>
   <type name="PeachesCan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -16757,10 +16760,10 @@
     <usage name="Police" />
   </type>
   <type name="PorkCan">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -17822,10 +17825,10 @@
     <category name="food" />
   </type>
   <type name="SardinesCan">
-    <nominal>25</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19369,10 +19372,10 @@
     <usage name="School" />
   </type>
   <type name="SodaCan_Cola">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19383,10 +19386,10 @@
     <value name="Tier3" />
   </type>
   <type name="SodaCan_Fronta">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19397,10 +19400,10 @@
     <value name="Tier1" />
   </type>
   <type name="SodaCan_Kvass">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19411,10 +19414,10 @@
     <value name="Tier1" />
   </type>
   <type name="SodaCan_Pipsi">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19425,10 +19428,10 @@
     <value name="Tier1" />
   </type>
   <type name="SodaCan_Spite">
-    <nominal>10</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>5</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -19439,10 +19442,10 @@
     <value name="Tier1" />
   </type>
   <type name="SpaghettiCan">
-    <nominal>4</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>2</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
@@ -22688,10 +22691,10 @@
     <usage name="Military" />
   </type>
   <type name="ZagorkyPeanuts">
-    <nominal>15</nominal>
+    <nominal>5</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>10</min>
+    <min>3</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>

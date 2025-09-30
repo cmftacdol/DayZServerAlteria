@@ -1472,10 +1472,10 @@
     </type>
 
     <type name="FC_Conserv_Angel_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1495,10 +1495,10 @@
     </type>
 
     <type name="FC_Conserv_Anchous_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1518,10 +1518,10 @@
     </type>
 
     <type name="FC_Conserv_Angelfish_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1541,10 +1541,10 @@
     </type>
 
     <type name="FC_Conserv_Barracuda_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1564,10 +1564,10 @@
     </type>
 
     <type name="FC_Conserv_Blow_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1587,10 +1587,10 @@
     </type>
 
     <type name="FC_Conserv_Bluegill_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1610,10 +1610,10 @@
     </type>
 
     <type name="FC_Conserv_Bocachico_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1633,10 +1633,10 @@
     </type>
 
     <type name="FC_Conserv_Rouch_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1656,10 +1656,10 @@
     </type>
 
     <type name="FC_Conserv_Butterfly_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1679,10 +1679,10 @@
     </type>
 
     <type name="FC_Conserv_Carp_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1702,10 +1702,10 @@
     </type>
 
     <type name="FC_Conserv_Catfish_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1725,10 +1725,10 @@
     </type>
 
     <type name="FC_Conserv_Clown_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1748,10 +1748,10 @@
     </type>
 
     <type name="FC_Conserv_Demon_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1771,10 +1771,10 @@
     </type>
 
     <type name="FC_Conserv_Forel_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1794,10 +1794,10 @@
     </type>
 
     <type name="FC_Conserv_Mojarra_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1817,10 +1817,10 @@
     </type>
 
     <type name="FC_Conserv_Perch_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1840,10 +1840,10 @@
     </type>
 
     <type name="FC_Conserv_PerchBass_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1863,10 +1863,10 @@
     </type>
 
     <type name="FC_Conserv_PerchRed_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1886,10 +1886,10 @@
     </type>
 
     <type name="FC_Conserv_Pearlscale_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1909,10 +1909,10 @@
     </type>
 
     <type name="FC_Conserv_Pirahna_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1932,10 +1932,10 @@
     </type>
 
     <type name="FC_Conserv_Plecostomus_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1955,10 +1955,10 @@
     </type>
 
     <type name="FC_Conserv_Scalar_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1978,10 +1978,10 @@
     </type>
 
     <type name="FC_Conserv_Snapper_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2001,10 +2001,10 @@
     </type>
 
     <type name="FC_Conserv_Sunfish_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2024,10 +2024,10 @@
     </type>
 
     <type name="FC_Conserv_Corrupted_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2047,10 +2047,10 @@
     </type>
 
     <type name="FC_Conserv_Sword_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2070,10 +2070,10 @@
     </type>
 
     <type name="FC_Conserv_Stigray_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2093,10 +2093,10 @@
     </type>
 
     <type name="FC_Conserv_Shark_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2116,10 +2116,10 @@
     </type>
 
     <type name="FC_Conserv_Sturgeon_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2139,10 +2139,10 @@
     </type>
 
     <type name="FC_Conserv_Mackerel_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2162,10 +2162,10 @@
     </type>
 
     <type name="FC_Conserv_Pike_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2185,10 +2185,10 @@
     </type>
 
     <type name="FC_Conserv_Pikeperch_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2222,10 +2222,10 @@
         <value name="Tier2" />
     </type>
     <type name="FC_Conserv_WalleyePollock_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -2244,10 +2244,10 @@
             crafted="0" deloot="0" />
     </type>
     <type name="FC_Conserv_SteelheadTrout_Closed">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <restock>1800</restock>
         <lifetime>28800</lifetime>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

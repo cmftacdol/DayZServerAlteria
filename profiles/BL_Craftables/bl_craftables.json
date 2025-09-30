@@ -7,7 +7,7 @@
     "AllowImprovisedTools": 1,
     "AllowCandle": 1,
     "AllowWireRecipes": 1,
-    "AllowEmptyTincan": 1,
+    "AllowEmptyTincan": 0,
     "AllowedFoodCans": [
         "BakedBeansCan",
         "PeachesCan",

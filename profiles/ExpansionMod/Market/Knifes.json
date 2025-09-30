@@ -126,6 +126,50 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "Bp_SMG_RepearKit",
+            "MaxPriceThreshold": 3025,
+            "MinPriceThreshold": 1815,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Pistol_RepearKit",
+            "MaxPriceThreshold": 3025,
+            "MinPriceThreshold": 1815,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Shotgun_RepearKit",
+            "MaxPriceThreshold": 3025,
+            "MinPriceThreshold": 1815,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Bp_Rifles_RepearKit",
+            "MaxPriceThreshold": 3025,
+            "MinPriceThreshold": 1815,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

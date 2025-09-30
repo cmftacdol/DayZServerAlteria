@@ -1,0 +1,17 @@
+---------------------------------------------
+Log D:\TCAFiles\Users\michaelb14\3701746\profiles\crash_2025-09-15_10-12-29.log started at 15.09. 10:45:51
+
+
+
+------------------------------------
+WIN-SN9EB6DCPHB, 15.09 2025 10:45:51
+NULL pointer to instance
+Class:      'PlagueHeart'
+Entity id:1268170
+
+Function: 'EEHealthLevelChanged'
+Stack trace:
+harksbloodplague/52dd pel/ 3gNP7Jlz/H5 ZtDem/﻿﻿﻿﻿/1ryCtG6A/e eAmJmt/X4cai9VJ.y iMKmui:159 Function EEHealthLevelChanged
+
+Runtime mode
+CLI params: config D:\TCAFiles\Users\michaelb14\3701746\Config.cfg ip 103.193.80.22 port 2491 mod @CF;@Dabs Framework;@StaminaRevised;@AICFireplaceIndoor;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@Code Lock;@Coupled Mag Vanilla;@Forward Operator Gear;@AimSounds;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@SearchInventory;@RaG_Immersive_Vehicles;@MagazineLoading;@Loot Barrel Transfer;@Nomadbackpack;@Mounts Sights;@VPPAdminTools;@TerjePartyMod;@TerjeCore;@TerjeCompatibilityVPP;@TerjeSkills;@TerjeMedicine;@RaG_Immersive_Wells;@PvZmoD_Spawn_System;@LoftDModGR Clothes Pack;@GoreZ;@LoftD_old_size;@pvez test;@BoomLay's Craftables;@RaG_BaseItems;@Terje for FOG v2;@SimpleLootChests;@More Durable Weapons;@WindstridesClothingPack;@DayZ-Expansion-Core;@DayZ-Expansion-AI;@RolePlayMod;@GarbageSearch;@No Build Zones;@Zombie_Sound;@RUSForma_vehicles;@DayZ-Expansion-Market;@Ammo Making;@RandomItemsPack;@FC_Fish_Equip;@InediaInfectedAI;@Harks Blood Plague;@Vanilla Suppressor Plus;@GSC Gameworld Assets JMC Edition;@RaG_BaseBuilding;@Alteria;@CookZ;@CBD Loot Rooms;@TWOC_CombineItems;@Utopia Animated Heli Crashs;@Territory Plus;@TerjeSleepingBagAttach;@InediaTerjeCompatibility;@TerjeStartScreen;@AI War Zones;@Realistic Display Quantity;@Tree Shake;@BLR_Carlock servermod @DayZ-Dynamic-AI-Addon;@zHorde profiles D:\TCAFiles\Users\michaelb14\3701746\profiles name profiles BEpath D:\TCAFiles\Users\michaelb14\3701746\profiles\Battleye limitFPS 0 

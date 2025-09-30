@@ -14,7 +14,8 @@
     "Categories": [
         "Fishing",
         "Meat",
-        "Fish"
+        "Fish",
+        "Hunting"
     ],
     "Items": {
         "carp": 0,

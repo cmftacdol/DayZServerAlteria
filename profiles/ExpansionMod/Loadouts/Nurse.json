@@ -1362,7 +1362,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "ParamedicJacket_Blue",
+                            "ClassName": "ParamedicPants_Blue",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -1425,7 +1425,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "ParamedicJacket_Green",
+                            "ClassName": "ParamedicPants_Green",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,
@@ -1488,7 +1488,7 @@
                     "SlotName": "Legs",
                     "Items": [
                         {
-                            "ClassName": "ParamedicJacket_Crimson",
+                            "ClassName": "ParamedicPants_Crimson",
                             "Chance": 1.0,
                             "Quantity": {
                                 "Min": 0.0,

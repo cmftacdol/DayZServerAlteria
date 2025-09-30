@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<types>
+    <type name="MCK_CarKey_Base">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type> 
+    <type name="MCK_CarKey_Blue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type> 
+    <type name="MCK_CarKey_Green">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type> 
+    <type name="MCK_CarKey_White">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type> 
+    <type name="MCK_CarKey_Yellow">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type> 
+    <type name="MCK_CarKey_Red">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKey_Purple">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKey_Pink">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    
+    <type name="MCK_CarKeyTag_Base">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_OlgaBlack">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_OlgaWhite">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_OlgaWine">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_AdaBlue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_AdaWhite">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_AdaGreen">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_GunterBlue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_GunterBlack">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_GunterRed">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_SarkaGrey">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_SarkaRed">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_SarkaYellow">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Black">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Blue">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Green">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Grey">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Red">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_White">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Yellow">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Purple">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+    <type name="MCK_CarKeyTag_Pink">
+        <nominal>3</nominal>
+        <lifetime>7200</lifetime>
+        <restock>0</restock>
+        <min>2</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+            crafted="0"
+            deloot="0" />
+        <category name="tools" />
+        <usage name="Industrial" />
+        <usage name="Farm" />
+    </type>
+	
+	
+    <type name="MCK_KeyPouch">
+        <nominal>3</nominal>
+        <lifetime>900</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+        <tag name="shelves"/>
+        <usage name="Town"/>
+        <usage name="School"/>
+    </type>
+</types>

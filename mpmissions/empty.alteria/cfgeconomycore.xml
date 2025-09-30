@@ -47,7 +47,6 @@
 		<file name="magazineloaders.xml" type="types" />
 		<file name="rag.xml" type="types" />
 		<file name="scopeandmounts.xml" type="types" />
-		<file name="additionalsuppressors.xml" type="types" />
 		<file name="TypesTerje1.xml" type="types" />
 		<file name="TypesTerje2.xml" type="types" />
 		<file name="TypesTerje3.xml" type="types" />
@@ -65,6 +64,7 @@
 		<file name="expansion.xml" type="types" />
 		<file name="roleplay.xml" type="types" />
 		<file name="randomitems.xml" type="types" />
+		<file name="muchcarkey.xml" type="types" />
 	</ce>
 
 </economycore>

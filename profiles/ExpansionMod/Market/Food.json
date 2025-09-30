@@ -940,6 +940,248 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_WalleyePollock_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_SteelheadTrout_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_PerchBass_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_PerchRed_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Scalar_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Snapper_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Sunfish_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Pikeperch_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Mackerel_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Pike_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Sturgeon_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Rouch_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Butterfly_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Carp_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Catfish_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Clown_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Barracuda_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Blow_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Angelfish_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Anchous_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Pearlscale_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "FC_Conserv_Pirahna_Closed",
+            "MaxPriceThreshold": 2070,
+            "MinPriceThreshold": 1240,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
     ]
 }

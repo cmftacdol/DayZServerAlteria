@@ -955,7 +955,7 @@
 	</type>
 	<type name="BP_FridgeBig">
 		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<lifetime>3888000</lifetime>
 		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
@@ -2859,7 +2859,7 @@
 	<!-- 25_07 -->
 	<type name="BP_Cooler_Zil">
 		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<lifetime>3888000</lifetime>
 		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
