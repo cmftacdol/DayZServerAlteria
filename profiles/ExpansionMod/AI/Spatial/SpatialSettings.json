@@ -1,7 +1,7 @@
 {
     "Version": 21,
-    "Spatial_MinTimer": 60.0,
-    "Spatial_MaxTimer": 90.0,
+    "Spatial_MinTimer": 120.0,
+    "Spatial_MaxTimer": 180.0,
     "MinDistance": 180,
     "MaxDistance": 280,
     "HuntMode": 5,
@@ -16,7 +16,7 @@
     "MinimumPlayerDistance": 0,
     "MaxSoloPlayers": 0,
     "MinimumAge": 180,
-    "ActiveHoursEnabled": 0,
+    "ActiveHoursEnabled": 1,
     "ActiveStartTime": 7.0,
     "ActiveStopTime": 17.0,
     "TargetBone": "Neck",
@@ -35,7 +35,7 @@
         {
             "Spatial_MinCount": 2,
             "Spatial_MaxCount": 2,
-            "Spatial_Weight": 90.0,
+            "Spatial_Weight": 50.0,
             "Spatial_Loadout": "Nurse.json",
             "Spatial_Faction": "Raiders",
             "Spatial_Name": "Raiders",

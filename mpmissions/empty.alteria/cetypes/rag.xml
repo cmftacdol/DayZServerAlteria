@@ -3,7 +3,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_blue">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -26,7 +26,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_brown">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -49,7 +49,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_green">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -72,7 +72,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_grey">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -95,7 +95,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_pink">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -118,7 +118,7 @@
     <type name="rag_baseitems_sleepingbag_packed_ckeckered_red">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -145,7 +145,7 @@
     name="rag_baseitems_sleepingbag_packed_rag_edition">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -170,7 +170,7 @@
     <type name="rag_baseitems_medieval_fireplace_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -190,7 +190,7 @@
     <type name="rag_baseitems_gazebo_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -210,7 +210,7 @@
     <type name="rag_baseitems_furnace_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -230,7 +230,7 @@
     <type name="rag_baseitems_food_dono_stand_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -251,7 +251,7 @@
     <type name="rag_baseitems_big_drawer_cabinet_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -272,7 +272,7 @@
     <type name="rag_baseitems_big_drawer_cabinet_darkwood_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -388,7 +388,7 @@
     <type name="rag_baseitems_toolbench_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -407,7 +407,7 @@
     <type name="rag_baseitems_tools_drawer_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -426,7 +426,7 @@
     <type name="rag_baseitems_fridge_twodoor_old_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -446,7 +446,7 @@
     <type name="rag_baseitems_jd_fridge_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -466,7 +466,7 @@
     <type name="rag_baseitems_retro_fridge_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -485,7 +485,7 @@
     <type name="rag_baseitems_greenhouse_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -506,7 +506,7 @@
     <type name="rag_baseitems_greenhouse_big_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -527,7 +527,7 @@
     <type name="rag_baseitems_gunwall_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -546,7 +546,7 @@
     <type name="rag_baseitems_gunwall_nostand_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -565,7 +565,7 @@
     <type name="rag_baseitems_gunrack_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -584,7 +584,7 @@
     <type name="rag_baseitems_mesh_locker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -603,7 +603,7 @@
     <type name="rag_baseitems_military_locker_big_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -623,7 +623,7 @@
     <type name="rag_baseitems_military_locker_small_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -642,7 +642,7 @@
     <type name="rag_baseitems_single_locker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -663,7 +663,7 @@
     <type name="rag_baseitems_single_locker_black_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -684,7 +684,7 @@
     <type name="rag_baseitems_single_locker_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -704,7 +704,7 @@
     <type name="rag_baseitems_single_locker_purple_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -724,7 +724,7 @@
     <type name="rag_baseitems_single_locker_red_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -745,7 +745,7 @@
     <type name="rag_baseitems_single_locker_yellow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -766,7 +766,7 @@
     <type name="rag_baseitems_triple_locker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -787,7 +787,7 @@
     <type name="rag_baseitems_triple_locker_black_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -808,7 +808,7 @@
     <type name="rag_baseitems_triple_locker_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -828,7 +828,7 @@
     <type name="rag_baseitems_triple_locker_purple_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -848,7 +848,7 @@
     <type name="rag_baseitems_triple_locker_red_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -869,7 +869,7 @@
     <type name="rag_baseitems_triple_locker_yellow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -890,7 +890,7 @@
     <type name="rag_baseitems_globe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -908,7 +908,7 @@
     <type name="rag_baseitems_firstaid_cabinet_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -928,7 +928,7 @@
     <type name="rag_baseitems_medic_box_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -948,7 +948,7 @@
     <type name="rag_baseitems_improvised_bed_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -971,7 +971,7 @@
     <type name="rag_baseitems_grammophone_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -984,7 +984,7 @@
     <type name="rag_baseitems_grammophone_disk">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -998,7 +998,7 @@
     <type name="rag_baseitems_grammophone_2_disk">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1012,7 +1012,7 @@
     <type name="rag_baseitems_grammophone_3_disk">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1026,7 +1026,7 @@
     <type name="rag_baseitems_grammophone_4_disk">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1040,7 +1040,7 @@
     <type name="rag_baseitems_grammophone_5_disk">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1059,7 +1059,7 @@
     <type name="rag_baseitems_sofa_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1082,7 +1082,7 @@
     <type name="rag_baseitems_sofa_brown_leather_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1128,7 +1128,7 @@
     <type name="rag_baseitems_brazier_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1149,7 +1149,7 @@
     <type name="rag_baseitems_odin_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1171,7 +1171,7 @@
     <type name="rag_baseitems_totem_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1193,7 +1193,7 @@
     <type name="rag_baseitems_warrior_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1221,7 +1221,7 @@
     name="rag_baseitems_beer_barrel_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1250,7 +1250,7 @@
     <type name="rag_baseitems_basket_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1269,7 +1269,7 @@
     <type name="rag_baseitems_roomdivider_beach_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1293,7 +1293,7 @@
     <type name="rag_baseitems_roomdivider_dayz1_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1317,7 +1317,7 @@
     <type name="rag_baseitems_roomdivider_dayz2_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1341,7 +1341,7 @@
     <type name="rag_baseitems_roomdivider_japan_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1389,7 +1389,7 @@
     <type name="rag_baseitems_roomdivider_sunset_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1413,7 +1413,7 @@
     <type name="rag_baseitems_roomdivider_morty_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1447,7 +1447,7 @@
     <type name="rag_baseitems_big_safe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1465,7 +1465,7 @@
     <type name="rag_baseitems_small_iron_safe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1488,7 +1488,7 @@
     <type name="rag_baseitems_celtic_shelter_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1511,7 +1511,7 @@
     <type name="rag_baseitems_beach_chair_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1545,7 +1545,7 @@
     <type name="rag_baseitems_volleyball_net_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1564,7 +1564,7 @@
     <type name="rag_baseitems_beach_umbrella_beige_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1583,7 +1583,7 @@
     <type name="rag_baseitems_beach_umbrella_blue_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1602,7 +1602,7 @@
     <type name="rag_baseitems_beach_umbrella_multi_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1621,7 +1621,7 @@
     <type name="rag_baseitems_beach_umbrella_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1640,7 +1640,7 @@
     <type name="rag_baseitems_small_pool_blue_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1659,7 +1659,7 @@
     <type name="rag_baseitems_small_pool_green_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1679,7 +1679,7 @@
     <type name="rag_baseitems_small_pool_pink_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1698,7 +1698,7 @@
     <type name="rag_baseitems_small_pool_red_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1717,7 +1717,7 @@
     <type name="rag_baseitems_small_pool_yellow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1736,7 +1736,7 @@
     <type name="rag_baseitems_small_pool_rainbow_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1755,7 +1755,7 @@
     <type name="rag_baseitems_wardrobe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1778,7 +1778,7 @@
     <type name="rag_baseitems_woodenshelf_big_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1801,7 +1801,7 @@
     <type name="rag_baseitems_woodenshelf_lightwood_big_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1824,7 +1824,7 @@
     <type name="rag_baseitems_woodenshelf_small_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1847,7 +1847,7 @@
     <type name="rag_baseitems_crateshelf_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1888,7 +1888,7 @@
     <type name="rag_baseitems_workbench_blueprint">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1901,7 +1901,7 @@
     <type name="rag_baseitems_lantern_kit">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1919,7 +1919,7 @@
     <type name="rag_baseitems_lantern_wall_kit">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1937,7 +1937,7 @@
     <type name="rag_baseitems_small_safe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2049,7 +2049,7 @@
     <type name="rag_baseitems_spraycan_paint">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2063,7 +2063,7 @@
     <type name="rag_baseitems_spraycan_white">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2077,7 +2077,7 @@
     <type name="rag_baseitems_bed_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2100,7 +2100,7 @@
     <type name="rag_baseitems_gun_cabinet_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2125,7 +2125,7 @@
     <!-- <type name="rag_baseitems_rag_head_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2148,7 +2148,7 @@
     <type name="rag_baseitems_dinner_table_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2169,7 +2169,7 @@
     <type name="rag_baseitems_victorian_table_wood_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2190,7 +2190,7 @@
     <type name="rag_baseitems_victorian_table_white_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2211,7 +2211,7 @@
     <type name="rag_baseitems_side_table_wood_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2232,7 +2232,7 @@
     <type name="rag_baseitems_side_table_white_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2253,7 +2253,7 @@
     <type name="rag_baseitems_brazier_small_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2280,7 +2280,7 @@
     <type name="rag_baseitems_fishing_rod_rack_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2302,7 +2302,7 @@
     <type name="rag_baseitems_tv_vintage_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2328,7 +2328,7 @@
     <type name="rag_baseitems_antique_dresser_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2349,7 +2349,7 @@
     <type name="rag_baseitems_dinner_table_chair_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2370,7 +2370,7 @@
     <type name="rag_baseitems_repair_station_kit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2406,7 +2406,7 @@
     <type name="rag_baseitems_planterbox_high_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2427,7 +2427,7 @@
     <type name="rag_baseitems_planterbox_low_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2448,7 +2448,7 @@
     <type name="rag_baseitems_plant_rack_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2474,7 +2474,7 @@
     <type name="rag_baseitems_solarpanel_kit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2500,7 +2500,7 @@
     <type name="rag_baseitems_sewing_machine_kit">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2530,7 +2530,7 @@
     <type name="rag_baseitems_sewing_cushion">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2545,7 +2545,7 @@
     <type name="rag_baseitems_oil_bottle">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2560,7 +2560,7 @@
     <type name="rag_baseitems_sewing_thread">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2575,7 +2575,7 @@
     <type name="rag_baseitems_sewing_case">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2590,7 +2590,7 @@
     <type name="rag_baseitems_manikin_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2612,7 +2612,7 @@
     <type name="rag_baseitems_gascanister">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2636,7 +2636,7 @@
     <type name="rag_baseitems_teddyshelf_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2657,7 +2657,7 @@
     <type name="rag_teddybear">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2671,7 +2671,7 @@
     <type name="rag_baseitems_barrelshelf_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2692,7 +2692,7 @@
     <type name="rag_baseitems_weapon_cleaner_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2713,7 +2713,7 @@
     <type name="rag_baseitems_weapon_solvent">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2727,7 +2727,7 @@
     <type name="rag_baseitems_cleaning_patches">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2756,7 +2756,7 @@
     <type name="rag_baseitems_bedside_table_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2777,7 +2777,7 @@
     <type name="rag_baseitems_table_lamp_oval_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2798,7 +2798,7 @@
     <type name="rag_baseitems_table_lamp_round_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2819,7 +2819,7 @@
     <type name="rag_baseitems_gramophone_table_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2840,7 +2840,7 @@
     <type name="rag_baseitems_bookshelf_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2879,7 +2879,7 @@
     <type name="rag_baseitems_notebook">
         <nominal>0</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2898,7 +2898,7 @@
     <type name="rag_baseitems_catears">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2931,7 +2931,7 @@
     <type name="rag_baseitems_magpump_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -2990,7 +2990,7 @@
     <type name="rag_baseitems_log_holder_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3009,7 +3009,7 @@
     <type name="rag_baseitems_plank_holder_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3028,7 +3028,7 @@
     <type name="rag_baseitems_table_saw_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3057,7 +3057,7 @@
     <type name="rag_baseitems_sawblade">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3076,7 +3076,7 @@
     <type name="rag_baseitems_firstaid_cabinet_big_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3096,7 +3096,7 @@
     <type name="rag_baseitems_smoker_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3122,7 +3122,7 @@
     <type name="rag_baseitems_xmas_stocking">
         <nominal>7</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3214,7 +3214,7 @@
     <type name="rag_baseitems_xmas_calendar_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3236,7 +3236,7 @@
     <type name="rag_baseitems_medium_safe_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3276,7 +3276,7 @@
     <type name="rag_baseitems_wall_clock_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3298,7 +3298,7 @@
     <type name="rag_baseitems_antique_wall_clock_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3319,7 +3319,7 @@
     <type name="rag_baseitems_grandfathers_clock_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3340,7 +3340,7 @@
     <type name="rag_baseitems_cuckoo_clock_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3371,7 +3371,7 @@
     <type name="rag_baseitems_mask_head_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3390,7 +3390,7 @@
     <type name="rag_baseitems_control_unit">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3403,7 +3403,7 @@
     <type name="rag_baseitems_electric_wires">
         <nominal>10</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>6</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3417,7 +3417,7 @@
     <type name="rag_baseitems_pistol_cabinet_kit">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
-        <restock>1200</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3700,7 +3700,7 @@
     <type name="CodeLock">
         <nominal>50</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -3715,7 +3715,7 @@
     <type name="EngineOil">
         <nominal>50</nominal>
         <lifetime>7200</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>20</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

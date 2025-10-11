@@ -4,7 +4,7 @@
     <type name="TerjeSalveFinalgon">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -18,7 +18,7 @@
     <type name="TerjeSalveCapsicum">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -32,7 +32,7 @@
     <type name="TerjeSalveViprosal">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -48,7 +48,7 @@
     <type name="TerjePillsMagnesiumSulfate">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -62,7 +62,7 @@
     <type name="TerjePillsAdepress">
         <nominal>20</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>12</min>
         <quantmin>10</quantmin>
         <quantmax>80</quantmax>
@@ -78,7 +78,7 @@
     <type name="TerjeAmpouleAlcohol">
         <nominal>25</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>15</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -92,7 +92,7 @@
     <type name="TerjeAmpouleAmoxivan">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -106,7 +106,7 @@
     <type name="TerjeAmpouleNovacaine">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -120,7 +120,7 @@
     <type name="TerjeAmpouleMetoclopramid">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -134,7 +134,7 @@
     <type name="TerjeAmpouleNeirox">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -148,7 +148,7 @@
     <type name="TerjeAmpouleErythropoetin">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -162,7 +162,7 @@
     <type name="TerjeAmpouleAdrenalin">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -176,7 +176,7 @@
     <type name="TerjeAmpouleMetralindole">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -190,7 +190,7 @@
     <type name="TerjeAmpouleVaxicam">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -204,7 +204,7 @@
     <type name="TerjeAmpouleZerivax">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -218,7 +218,7 @@
     <type name="TerjeAmpouleRabivax">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -232,7 +232,7 @@
     <type name="TerjeAmpouleRabinoline">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -246,7 +246,7 @@
     <type name="TerjeAmpouleNeirocetal">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
@@ -262,7 +262,7 @@
     <type name="TerjeInjectorZivirol">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -276,7 +276,7 @@
     <type name="TerjeInjectorAmoxiclav">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -290,7 +290,7 @@
     <type name="TerjeInjectorNeirox">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -304,7 +304,7 @@
     <type name="TerjeInjectorErythropoietin">
         <nominal>5</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -318,7 +318,7 @@
     <type name="TerjeInjectorNovichek">
         <nominal>3</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -334,7 +334,7 @@
     <type name="TerjeFirstAidKitAdvance_Black">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -351,7 +351,7 @@
     <type name="TerjeFirstAidKitAdvance_Brown">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -368,7 +368,7 @@
     <type name="TerjeFirstAidKitAdvance_Green">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -385,7 +385,7 @@
     <type name="TerjeFirstAidKitAdvance_Camo">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -402,7 +402,7 @@
     <type name="TerjeFirstAidKitIndividual_Black">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -417,7 +417,7 @@
     <type name="TerjeFirstAidKitIndividual_Brown">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -432,7 +432,7 @@
     <type name="TerjeFirstAidKitIndividual_Green">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -447,7 +447,7 @@
     <type name="TerjeFirstAidKitIndividual_Camo">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -462,7 +462,7 @@
     <type name="TerjeFirstAidKitMedium">
         <nominal>10</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -476,7 +476,7 @@
     <type name="TerjeFirstAidKitLarge">
         <nominal>5</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>3</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -492,7 +492,7 @@
     <type name="TerjeSyringeNew">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -520,7 +520,7 @@
     <type name="TerjeBandageHemostatic">
         <nominal>15</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -535,7 +535,7 @@
     <type name="TerjeSurgicalKit">
         <nominal>20</nominal>
         <lifetime>14400</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>10</min>
         <quantmin>20</quantmin>
         <quantmax>80</quantmax>

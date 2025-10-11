@@ -12,6 +12,31 @@
         ],
         "CraftItems": [
             {
+                "Result": "WoodenCrate",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "craft Wooden Crate",
+                "CraftComponents": [
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
                 "Result": "BP_BeltGunBag",
                 "ResultCount": 1,
                 "CraftType": "craft",
@@ -47,82 +72,6 @@
                 ]
             },
             {
-                "Result": "WeaponCleaningKit",
-                "ResultCount": 1,
-                "CraftType": "craft",
-                "RecipeName": "Gun Cleaning Kit",
-                "CraftComponents": [
-                    {
-                        "Classname": "Bp_Rifles_RepearKit",
-                        "Amount": 100,
-                        "Destroy": 1,
-                        "Changehealth": 0
-                    }
-                ],
-                "AttachmentsNeed": [
-                    "BPGrinder",
-                    "BPCutting_saw",
-                    "BPDrill"
-                ]
-            },
-            {
-                "Result": "WeaponCleaningKit",
-                "ResultCount": 1,
-                "CraftType": "craft",
-                "RecipeName": "Gun Cleaning Kit",
-                "CraftComponents": [
-                    {
-                        "Classname": "Bp_SMG_RepearKit",
-                        "Amount": 100,
-                        "Destroy": 1,
-                        "Changehealth": 0
-                    }
-                ],
-                "AttachmentsNeed": [
-                    "BPGrinder",
-                    "BPCutting_saw",
-                    "BPDrill"
-                ]
-            },
-            {
-                "Result": "WeaponCleaningKit",
-                "ResultCount": 1,
-                "CraftType": "craft",
-                "RecipeName": "Gun Cleaning Kit",
-                "CraftComponents": [
-                    {
-                        "Classname": "Bp_Pistol_RepearKit",
-                        "Amount": 100,
-                        "Destroy": 1,
-                        "Changehealth": 0
-                    }
-                ],
-                "AttachmentsNeed": [
-                    "BPGrinder",
-                    "BPCutting_saw",
-                    "BPDrill"
-                ]
-            },
-            {
-                "Result": "WeaponCleaningKit",
-                "ResultCount": 1,
-                "CraftType": "craft",
-                "RecipeName": "Gun Cleaning Kit",
-                "CraftComponents": [
-                    {
-                        "Classname": "Bp_Shotgun_RepearKit",
-                        "Amount": 100,
-                        "Destroy": 1,
-                        "Changehealth": 0
-                    }
-                ],
-                "AttachmentsNeed": [
-                    "BPGrinder",
-                    "BPCutting_saw",
-                    "BPDrill"
-                ]
-            },
-            {
                 "Result": "Barrel_Blue",
                 "ResultCount": 1,
                 "CraftType": "craft",
@@ -149,7 +98,7 @@
                     {
                         "Classname": "EpoxyPutty",
                         "Amount": 1,
-                        "Destroy": 0,
+                        "Destroy": 1,
                         "Changehealth": 25
                     }
                 ],
@@ -217,6 +166,55 @@
                     {
                         "Classname": "EpoxyPutty",
                         "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Water_Collector_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Water Collector Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Barrel_Blue",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
                         "Destroy": 0,
                         "Changehealth": 25
                     }
@@ -226,6 +224,1905 @@
                     "BPCutting_saw",
                     "BPDrill"
                 ]
+            },
+            {
+                "Result": "KB_Kitchen_Table_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft KB_Kitchen_Table_Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "KB_Butcher_Table_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Butcher Table Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_shelf_metal_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft shelf metal Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_ShelfTool_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft ShelfTool Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_table_s_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft table s Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_bedfolding_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft bedfolding Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_SM_locker_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft BP_SM_locker_Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_WoodStorge_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft BP_WoodStorge_Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 30,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Tresh_bac_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft BP_Tresh_bac_Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 6,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Guncabinet_Kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft BP_Guncabinet_Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_black_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_black_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_green_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_green_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_purple_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_purple_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_red_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_red_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_single_locker_yellow_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_single_locker_yellow_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_mesh_locker_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_mesh_locker_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 6,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_military_locker_big_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_military_locker_big_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_military_locker_small_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_military_locker_small_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 6,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_black_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_black_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_green_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_green_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_purple_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_purple_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_red_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_red_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_triple_locker_yellow_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_triple_locker_yellow_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_military_locker_threedoor_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_military_locker_threedoor_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 15,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_LeadSheets",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_woodenshelf_big_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_woodenshelf_big_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_woodenshelf_lightwood_big_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_woodenshelf_lightwood_big_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_woodenshelf_small_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_woodenshelf_small_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_crateshelf_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_crateshelf_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_barrelshelf_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_barrelshelf_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_bookshelf_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_bookshelf_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_big_safe_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_big_safe_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_small_iron_safe_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_small_iron_safe_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_small_safe_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_small_safe_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_medium_safe_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_medium_safe_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 6,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_big_drawer_cabinet_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_big_drawer_cabinet_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_big_drawer_cabinet_darkwood_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_big_drawer_cabinet_darkwood_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_firstaid_cabinet_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_firstaid_cabinet_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_gun_cabinet_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_gun_cabinet_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Plexiglass",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_firstaid_cabinet_big_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_firstaid_cabinet_big_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Plexiglass",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_pistol_cabinet_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_pistol_cabinet_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Plexiglass",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_gunwall_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_gunwall_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "rag_baseitems_gunwall_nostand_kit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft rag_baseitems_gunwall_nostand_kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "Nail",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "WoodenPlank",
+                        "Amount": 40,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Hammer",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "WoodenLog",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "RIP_TinOilcan",
+                "ResultCount": 2,
+                "CraftType": "craft",
+                "RecipeName": "Create Oil Can",
+                "CraftComponents": [
+                    {
+                        "Classname": "EngineOil",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "RIP_OilPlastic",
+                "ResultCount": 4,
+                "CraftType": "craft",
+                "RecipeName": "Create Plastic Oil",
+                "CraftComponents": [
+                    {
+                        "Classname": "EngineOil",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "RIP_DoubleOilerQ",
+                "ResultCount": 4,
+                "CraftType": "craft",
+                "RecipeName": "Create Double Oiler",
+                "CraftComponents": [
+                    {
+                        "Classname": "EngineOil",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "rag_baseitems_oil_bottle",
+                "ResultCount": 4,
+                "CraftType": "craft",
+                "RecipeName": "Create Sewing Machine Oil",
+                "CraftComponents": [
+                    {
+                        "Classname": "EngineOil",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "PowerGenerator",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Generator",
+                "CraftComponents": [
+                    {
+                        "Classname": "MetalPlate",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_LeadSheets",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Screwdriver",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 25
+                    },
+                    {
+                        "Classname": "RIP_bolts",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KB_Welding_2",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 50
+                    },
+                    {
+                        "Classname": "RIP_nuts",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Elmotor",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_milMCs",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Rosin",
+                        "Amount": 10,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Selectors",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Semiconds",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Cable",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_SolderCoil",
+                        "Amount": 50,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_thermometer",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "RIP_SharpeningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Sharpening Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_Sandpaper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "bl_improvised_whetstone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "RIP_SharpeningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Sharpening Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_SandpaperS",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "bl_improvised_whetstone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "RIP_SharpeningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Sharpening Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_Sandpaper",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Whetstone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "RIP_SharpeningKit",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Sharpening Kit",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_SandpaperS",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Whetstone",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "rag_baseitems_sewing_thread",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Sewing thread",
+                "CraftComponents": [
+                    {
+                        "Classname": "bl_rope_yarn",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "EpoxyPutty",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Epoxy Putty",
+                "CraftComponents": [
+                    {
+                        "Classname": "bl_tree_resin",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KB_Glue",
+                        "Amount": 5,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "EngineOil",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Engine Oil",
+                "CraftComponents": [
+                    {
+                        "Classname": "KB_Grease_Calcium",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KB_Silver_Shmel",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KB_Koyo",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "KB_Oilcan",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "BP_big_mill_tent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Large Military Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 12,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "CarTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Car Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 12,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "CarTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Car Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 12,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "LargeTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Large Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 8,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "MediumTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Medium Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "MediumTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Medium Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "MediumTent_Green",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Medium Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "MediumTent_Orange",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Medium Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "MediumTent_Orange",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Medium Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "PartyTent",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Canopy Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "PartyTent_Blue",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Canopy Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "PartyTent_Brown",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Canopy Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
+            },
+            {
+                "Result": "PartyTent_Lunapark",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Create Canopy Tent",
+                "CraftComponents": [
+                    {
+                        "Classname": "Fabric",
+                        "Amount": 4,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Tripod",
+                        "Amount": 1,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": []
             }
         ]
     }

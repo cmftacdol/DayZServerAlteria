@@ -3,7 +3,7 @@
     <type name="TerjeBookAthletic1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18,7 +18,7 @@
     <type name="TerjeBookAthletic2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -33,7 +33,7 @@
     <type name="TerjeBookAthletic3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -51,7 +51,7 @@
     <type name="TerjeBookAthletic4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -68,7 +68,7 @@
     <type name="TerjeBookAthletic5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -85,7 +85,7 @@
     <type name="TerjeBookFishing1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -100,7 +100,7 @@
     <type name="TerjeBookFishing2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -115,7 +115,7 @@
     <type name="TerjeBookFishing3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -133,7 +133,7 @@
     <type name="TerjeBookFishing4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -150,7 +150,7 @@
     <type name="TerjeBookFishing5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -167,7 +167,7 @@
     <type name="TerjeBookHunting1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -182,7 +182,7 @@
     <type name="TerjeBookHunting2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -197,7 +197,7 @@
     <type name="TerjeBookHunting3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -215,7 +215,7 @@
     <type name="TerjeBookHunting4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -232,7 +232,7 @@
     <type name="TerjeBookHunting5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -249,7 +249,7 @@
     <type name="TerjeBookMetabolism1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -264,7 +264,7 @@
     <type name="TerjeBookMetabolism2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -279,7 +279,7 @@
     <type name="TerjeBookMetabolism3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -297,7 +297,7 @@
     <type name="TerjeBookMetabolism4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -311,7 +311,7 @@
     <type name="TerjeBookMetabolism5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -328,7 +328,7 @@
     <type name="TerjeBookStealth1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -343,7 +343,7 @@
     <type name="TerjeBookStealth2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -358,7 +358,7 @@
     <type name="TerjeBookStealth3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -373,7 +373,7 @@
     <type name="TerjeBookStealth4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -390,7 +390,7 @@
     <type name="TerjeBookStealth5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -407,7 +407,7 @@
     <type name="TerjeBookStrength1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -422,7 +422,7 @@
     <type name="TerjeBookStrength2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -437,7 +437,7 @@
     <type name="TerjeBookStrength3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -455,7 +455,7 @@
     <type name="TerjeBookStrength4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -472,7 +472,7 @@
     <type name="TerjeBookStrength5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -489,7 +489,7 @@
     <type name="TerjeBookSurvival1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -504,7 +504,7 @@
     <type name="TerjeBookSurvival2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -519,7 +519,7 @@
     <type name="TerjeBookSurvival3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -534,7 +534,7 @@
     <type name="TerjeBookSurvival4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -551,7 +551,7 @@
     <type name="TerjeBookSurvival5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

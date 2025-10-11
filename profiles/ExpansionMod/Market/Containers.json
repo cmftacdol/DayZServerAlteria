@@ -726,28 +726,6 @@
             "Variants": []
         },
         {
-            "ClassName": "WB_Kit",
-            "MaxPriceThreshold": 9040,
-            "MinPriceThreshold": 5425,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "WB_Med_Kit",
-            "MaxPriceThreshold": 9040,
-            "MinPriceThreshold": 5425,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
             "ClassName": "Bp_Sofa_Gun_Rack_Kit",
             "MaxPriceThreshold": 9040,
             "MinPriceThreshold": 5425,
@@ -837,17 +815,6 @@
         },
         {
             "ClassName": "BP_couch_Kit",
-            "MaxPriceThreshold": 9040,
-            "MinPriceThreshold": 5425,
-            "SellPricePercent": -1.0,
-            "MaxStockThreshold": 100,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [],
-            "Variants": []
-        },
-        {
-            "ClassName": "BP_Water_Collector_Kit",
             "MaxPriceThreshold": 9040,
             "MinPriceThreshold": 5425,
             "SellPricePercent": -1.0,

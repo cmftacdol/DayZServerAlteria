@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DayZ XML Classname Extractor</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white min-h-screen flex flex-col items-center p-8">
+
+  <div class="bg-gray-800 shadow-xl rounded-2xl p-6 w-full max-w-2xl">
+    <h1 class="text-2xl font-bold mb-4 text-center">DayZ Types.xml Classname Extractor</h1>
+
+    <form id="xmlForm" class="space-y-4 text-center">
+      <input 
+        type="file" 
+        id="xmlFile" 
+        accept=".xml"
+        class="block mx-auto text-sm text-gray-300
+               file:mr-4 file:py-2 file:px-4
+               file:rounded-lg file:border-0
+               file:text-sm file:font-semibold
+               file:bg-blue-600 file:text-white
+               hover:file:bg-blue-700"
+      />
+      <button 
+        type="submit" 
+        class="bg-green-600 hover:bg-green-700 text-white font-semibold px-6 py-2 rounded-lg shadow"
+      >
+        Extract Classnames
+      </button>
+    </form>
+
+    <div id="outputContainer" class="mt-6 hidden">
+      <h2 class="text-xl font-semibold mb-2">Extracted Classnames:</h2>
+      <textarea 
+        id="output" 
+        readonly 
+        class="w-full h-64 p-3 bg-gray-700 rounded-lg text-sm font-mono"
+      ></textarea>
+    </div>
+  </div>
+
+  <script>
+    document.getElementById("xmlForm").addEventListener("submit", async (e) => {
+      e.preventDefault();
+
+      const fileInput = document.getElementById("xmlFile");
+      const file = fileInput.files[0];
+      if (!file) {
+        alert("Please upload a types.xml file first.");
+        return;
+      }
+
+      const text = await file.text();
+      const parser = new DOMParser();
+      const xmlDoc = parser.parseFromString(text, "text/xml");
+
+      const types = xmlDoc.getElementsByTagName("type");
+      const classnames = [];
+
+      for (let i = 0; i < types.length; i++) {
+        const nameAttr = types[i].getAttribute("name");
+        if (nameAttr) classnames.push(nameAttr);
+      }
+
+      document.getElementById("outputContainer").classList.remove("hidden");
+      document.getElementById("output").value = classnames.join("\n");
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Result Replacer Tool</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white min-h-screen flex flex-col items-center p-8">
+
+  <div class="bg-gray-800 shadow-xl rounded-2xl p-6 w-full max-w-3xl">
+    <h1 class="text-2xl font-bold mb-4 text-center">Replace "Result" in Template</h1>
+
+    <div class="space-y-4">
+      <!-- Input List -->
+      <div>
+        <label class="block font-semibold mb-2">Paste your item list (one per line):</label>
+        <textarea 
+          id="itemList" 
+          placeholder="Example:&#10;CarRadiator&#10;SparkPlug&#10;EngineOil"
+          class="w-full h-40 p-3 bg-gray-700 rounded-lg text-sm font-mono"
+        ></textarea>
+      </div>
+
+      <!-- Generate Button -->
+      <div class="flex justify-center">
+        <button 
+          id="generateBtn" 
+          class="bg-green-600 hover:bg-green-700 px-8 py-2 rounded-lg font-semibold"
+        >
+          Generate JSON
+        </button>
+      </div>
+
+      <!-- Output Preview -->
+      <div id="outputContainer" class="hidden mt-6">
+        <h2 class="text-xl font-semibold mb-2">Generated JSON:</h2>
+        <textarea 
+          id="output" 
+          readonly 
+          class="w-full h-64 p-3 bg-gray-700 rounded-lg text-sm font-mono"
+        ></textarea>
+
+        <div class="flex justify-center mt-4">
+          <button 
+            id="downloadBtn" 
+            class="bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg font-semibold"
+          >
+            Download JSON File
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const template = {
+      "Result": "CarRadiator",
+      "ResultCount": 1,
+      "CraftType": "craft",
+      "RecipeName": "Repair Car Radiator",
+      "CraftComponents": [
+        {
+          "Classname": "Screwdriver",
+          "Amount": 1,
+          "Destroy": 0,
+          "Changehealth": 25
+        },
+        {
+          "Classname": "CarRadiator",
+          "Amount": 1,
+          "Destroy": 1,
+          "Changehealth": 0
+        },
+        {
+          "Classname": "EpoxyPutty",
+          "Amount": 1,
+          "Destroy": 0,
+          "Changehealth": 25
+        }
+      ],
+      "AttachmentsNeed": [
+        "BPGrinder",
+        "BPCutting_saw",
+        "BPDrill"
+      ]
+    };
+
+    const itemList = document.getElementById("itemList");
+    const generateBtn = document.getElementById("generateBtn");
+    const outputContainer = document.getElementById("outputContainer");
+    const output = document.getElementById("output");
+    const downloadBtn = document.getElementById("downloadBtn");
+
+    generateBtn.addEventListener("click", () => {
+      const items = itemList.value.split(/\r?\n/).map(i => i.trim()).filter(i => i !== "");
+      if (items.length === 0) {
+        alert("Please enter a list of items first!");
+        return;
+      }
+
+      const resultArray = items.map(item => {
+        // Clone template
+        const newObj = JSON.parse(JSON.stringify(template));
+        newObj.Result = item;
+        newObj.RecipeName = `Repair ${item}`;
+        newObj.CraftComponents = newObj.CraftComponents.map(c => ({
+          ...c,
+          Classname: c.Classname === "CarRadiator" ? item : c.Classname
+        }));
+        return newObj;
+      });
+
+      const jsonOutput = JSON.stringify(resultArray, null, 4);
+      output.value = jsonOutput;
+      outputContainer.classList.remove("hidden");
+    });
+
+    downloadBtn.addEventListener("click", () => {
+      const blob = new Blob([output.value], { type: "application/json" });
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement("a");
+      a.href = url;
+      a.download = "generated_recipes.json";
+      a.click();
+      URL.revokeObjectURL(url);
+    });
+  </script>
+
+</body>
+</html>

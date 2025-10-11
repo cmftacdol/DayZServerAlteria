@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>List Filter Tool</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-white min-h-screen flex flex-col items-center p-8">
+
+  <div class="bg-gray-800 shadow-xl rounded-2xl p-6 w-full max-w-2xl">
+    <h1 class="text-2xl font-bold mb-4 text-center">List Filter Tool</h1>
+
+    <div class="space-y-4">
+      <!-- Input List -->
+      <div>
+        <label class="block font-semibold mb-2">Paste your list here (one per line):</label>
+        <textarea 
+          id="itemList" 
+          placeholder="Example:&#10;Apple&#10;Banana&#10;Orange" 
+          class="w-full h-40 p-3 bg-gray-700 rounded-lg text-sm font-mono"
+        ></textarea>
+      </div>
+
+      <!-- Filter Input -->
+      <div>
+        <label class="block font-semibold mb-2">Filter text:</label>
+        <input 
+          type="text" 
+          id="filterText" 
+          placeholder="Type to filter..." 
+          class="w-full p-2 bg-gray-700 rounded-lg text-sm"
+        />
+      </div>
+
+      <!-- Buttons -->
+      <div class="flex justify-center space-x-4">
+        <button 
+          id="filterBtn" 
+          class="bg-blue-600 hover:bg-blue-700 px-6 py-2 rounded-lg font-semibold"
+        >
+          Filter
+        </button>
+        <button 
+          id="clearBtn" 
+          class="bg-gray-600 hover:bg-gray-700 px-6 py-2 rounded-lg font-semibold"
+        >
+          Clear
+        </button>
+      </div>
+
+      <!-- Output -->
+      <div id="outputContainer" class="hidden mt-6">
+        <h2 class="text-xl font-semibold mb-2">Filtered List:</h2>
+        <textarea 
+          id="output" 
+          readonly 
+          class="w-full h-40 p-3 bg-gray-700 rounded-lg text-sm font-mono"
+        ></textarea>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const itemList = document.getElementById("itemList");
+    const filterText = document.getElementById("filterText");
+    const filterBtn = document.getElementById("filterBtn");
+    const clearBtn = document.getElementById("clearBtn");
+    const outputContainer = document.getElementById("outputContainer");
+    const output = document.getElementById("output");
+
+    filterBtn.addEventListener("click", () => {
+      const items = itemList.value.split(/\r?\n/).map(i => i.trim()).filter(i => i !== "");
+      const filter = filterText.value.trim().toLowerCase();
+
+      if (items.length === 0) {
+        alert("Please enter a list of items first!");
+        return;
+      }
+
+      const filtered = items.filter(i => i.toLowerCase().includes(filter));
+      outputContainer.classList.remove("hidden");
+      output.value = filtered.join("\n");
+    });
+
+    clearBtn.addEventListener("click", () => {
+      itemList.value = "";
+      filterText.value = "";
+      output.value = "";
+      outputContainer.classList.add("hidden");
+    });
+  </script>
+
+</body>
+</html>

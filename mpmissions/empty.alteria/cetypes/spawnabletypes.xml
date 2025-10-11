@@ -3440,6 +3440,27 @@
         <cargo chance="0.60">
             <item name="PunchedCard" />
         </cargo>
+
+        <cargo chance="1">
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
+        <cargo chance="1">
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
+        <cargo chance="1">
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
+        <cargo chance="1">
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
+        <cargo chance="1">
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
         <cargo chance="1">
             <item name="CrucibleOreLead" />
         </cargo>

@@ -69,7 +69,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
     <usage name="Military" />
-    <usage name="Underground" />
     <value name="Tier2" />
     <value name="Tier3" />
     <value name="Tier4" />
@@ -87,7 +86,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="STAG_Clothing_CoyoteBag">
     <nominal>3</nominal>
@@ -160,7 +158,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="STAG_Clothing_MountainBag">
     <nominal>6</nominal>
@@ -172,7 +169,6 @@
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="tools" />
-    <usage name="Underground" />
     <value name="Tier2" />
     <value name="Tier3" />
   </type>
@@ -189,7 +185,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="STAG_Clothing_Pouches">
     <nominal>6</nominal>
@@ -218,7 +213,6 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="STAG_Clothing_PlateCarrier">
     <nominal>6</nominal>
@@ -232,7 +226,6 @@
     <category name="tools" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_SnowOwl">
     <nominal>1</nominal>
@@ -274,7 +267,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_SnowOwl_Ammo">
     <nominal>4</nominal>
@@ -282,13 +274,11 @@
     <restock>3600</restock>
     <min>3</min>
     <quantmin>20</quantmin>
-    <quantmax>50</quantmax>
+    <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Underground" />
-    <value name="Tier4" />
     <value name="Tier5" />
   </type>
   <type name="jmc_Prototype_Mag">
@@ -304,7 +294,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_Prototype_Optic_Red">
     <nominal>1</nominal>
@@ -319,7 +308,6 @@
     <value name="Tier3" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_Prototype_Optic_White">
     <nominal>1</nominal>
@@ -348,7 +336,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_Prototype_White">
     <nominal>1</nominal>
@@ -376,7 +363,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="jmc_Prototype_Red">
     <nominal>1</nominal>
@@ -389,7 +375,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <value name="Tier4" />
-    <usage name="Underground" />
   </type>
   <type name="PunchedCard">
     <nominal>0</nominal>
@@ -414,8 +399,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <value name="Tier3" />
-    <value name="Tier2" />
+    <value name="Tier4" />
   </type>
   <type name="ttscarl">
     <nominal>3</nominal>
@@ -430,7 +414,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="ttr700">
     <nominal>3</nominal>
@@ -445,7 +428,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="ttr700mag">
     <nominal>5</nominal>
@@ -460,7 +442,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="ttbaseballbat_Simple">
     <nominal>10</nominal>

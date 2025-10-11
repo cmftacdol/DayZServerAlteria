@@ -4,7 +4,7 @@
     <type name="TerjeBookImmunity1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -18,7 +18,7 @@
     <type name="TerjeBookImmunity2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -32,7 +32,7 @@
     <type name="TerjeBookImmunity3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -46,7 +46,7 @@
     <type name="TerjeBookImmunity4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -63,7 +63,7 @@
     <type name="TerjeBookImmunity5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -81,7 +81,7 @@
     <type name="TerjeBookMedicine1">
         <nominal>8</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -95,7 +95,7 @@
     <type name="TerjeBookMedicine2">
         <nominal>4</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -109,7 +109,7 @@
     <type name="TerjeBookMedicine3">
         <nominal>2</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -126,7 +126,7 @@
     <type name="TerjeBookMedicine4">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -143,7 +143,7 @@
     <type name="TerjeBookMedicine5">
         <nominal>1</nominal>
         <lifetime>28800</lifetime>
-        <restock>0</restock>
+        <restock>7200</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>

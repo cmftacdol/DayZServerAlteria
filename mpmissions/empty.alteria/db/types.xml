@@ -175,11 +175,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
-    <value name="Tier4" />
-    <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
+    <value name="Tier5" />
   </type>
   <type name="AKS74U">
     <nominal>6</nominal>
@@ -194,8 +191,6 @@
     <category name="weapons" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Prison" />
-    <usage name="Police" />
   </type>
   <type name="AKS74U_Black">
     <nominal>6</nominal>
@@ -210,8 +205,6 @@
     <category name="weapons" />
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Prison" />
-    <usage name="Police" />
   </type>
   <type name="AKS74U_Bttstck">
     <nominal>5</nominal>
@@ -483,11 +476,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="AgaricusMushroom">
     <nominal>0</nominal>
@@ -2563,7 +2554,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <value name="Tier4" />
-    <value name="Tier5" />
   </type>
   <type name="AuriculariaMushroom">
     <nominal>0</nominal>
@@ -4404,7 +4394,7 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-    <usage name="Underground" />
+    <usage name="Military" />
     <value name="Tier5" />
   </type>
   <type name="CZ61">
@@ -7353,9 +7343,7 @@
       deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Underground" />
     <value name="Tier5" />
-    <value name="Tier4" />
   </type>
   <type name="FNP45_MRDSOptic">
     <nominal>6</nominal>
@@ -12600,11 +12588,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="M16A2">
     <nominal>6</nominal>
@@ -12618,10 +12604,7 @@
       deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Underground" />
-
     <value name="Tier4" />
-    <value name="Tier5" />
   </type>
   <type name="M18SmokeGrenade_Green">
     <nominal>5</nominal>
@@ -12706,32 +12689,36 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-    <value name="Tier5" />
     <usage name="Military" />
+    <value name="Tier5" />
   </type>
   <type name="M4A1_Black">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
       deloot="0" />
     <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
   </type>
   <type name="M4A1_Green">
-    <nominal>0</nominal>
-    <lifetime>28800</lifetime>
-    <restock>0</restock>
-    <min>0</min>
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>3600</restock>
+    <min>2</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
       deloot="0" />
     <category name="weapons" />
+    <usage name="Military" />
+    <value name="Tier5" />
   </type>
   <type name="M4_CQBBttstck">
     <nominal>3</nominal>
@@ -13240,11 +13227,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
-    <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Mag_AKM_30Rnd">
     <nominal>5</nominal>
@@ -13257,8 +13241,6 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
-    <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
     <usage name="Underground" />
@@ -13557,8 +13539,6 @@
       deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-    <usage name="Underground" />
-
     <value name="Tier4" />
     <value name="Tier5" />
   </type>
@@ -13576,7 +13556,6 @@
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Mag_MKII_10Rnd">
     <nominal>20</nominal>
@@ -13770,11 +13749,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Mag_SVD_10Rnd">
     <nominal>6</nominal>
@@ -13787,11 +13764,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Mag_Saiga_5Rnd">
     <nominal>12</nominal>
@@ -16834,16 +16809,21 @@
     <usage name="Village" />
   </type>
   <type name="Potato">
-    <nominal>0</nominal>
+    <nominal>20</nominal>
     <lifetime>14400</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>15</min>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
     <cost>100</cost>
-    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1"
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="food" />
+    <tag name="shelves" />
+    <value name="Tier2" />
+    <value name="Tier1" />
+    <usage name="Village" />
+    <usage name="Farm" />
   </type>
   <type name="PotatoSeed">
     <nominal>0</nominal>
@@ -17690,10 +17670,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-    <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Saiga">
     <nominal>10</nominal>
@@ -17706,10 +17684,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-    <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="Saiga_Bttstck">
     <nominal>5</nominal>
@@ -20084,7 +20060,6 @@
       deloot="0" />
     <category name="weapons" />
     <usage name="Military" />
-
     <value name="Tier4" />
   </type>
   <type name="Sweater_Blue">
@@ -20100,7 +20075,6 @@
     <category name="clothes" />
     <usage name="Town" />
     <usage name="Village" />
-
   </type>
   <type name="Sweater_Gray">
     <nominal>6</nominal>
@@ -21572,11 +21546,9 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <value name="Tier5" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="VSS">
     <nominal>5</nominal>
@@ -21589,10 +21561,8 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0"
       deloot="0" />
     <category name="weapons" />
-
     <value name="Tier4" />
     <usage name="Military" />
-    <usage name="Underground" />
   </type>
   <type name="VitaminBottle">
     <nominal>20</nominal>
