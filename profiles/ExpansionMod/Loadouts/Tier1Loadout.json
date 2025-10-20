@@ -4871,7 +4871,7 @@
                     "Chance": 1.0,
                     "Quantity": {
                         "Min": 0.10,
-                        "Max": 0.50
+                        "Max": 0.20
                     },
                     "Health": [],
                     "InventoryAttachments": [],

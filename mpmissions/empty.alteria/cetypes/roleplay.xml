@@ -1599,6 +1599,22 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
 			crafted="1" deloot="0" />
 	</type>
+	<type name="bp_door_kit">
+		<lifetime>7200</lifetime>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
+	<type name="bp_door">
+		<nominal>0</nominal>
+		<lifetime>3888000</lifetime>
+		<restock>7200</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0"
+			crafted="1" deloot="0" />
+	</type>
 	<!--30.06.2020-->
 	<type name="BP_Workbench">
 		<nominal>0</nominal>
@@ -2341,7 +2357,7 @@
 	</type>
 	<type name="BPGrill">
 		<nominal>1</nominal>
-		<lifetime>7200</lifetime>
+		<lifetime>1209600</lifetime>
 		<restock>1200</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>

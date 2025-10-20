@@ -2123,6 +2123,206 @@
                     }
                 ],
                 "AttachmentsNeed": []
+            },
+            {
+                "Result": "BP_Mag_AK74_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AK74 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_insulatingtape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AK74_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AKM_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AKM 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_insulatingtape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AKM_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AKM_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AKM 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_insulatingtape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AKM_Palm30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AK101_60",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AK101 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "RIP_insulatingtape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AK101_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AK74_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AK74 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "BP3_BluTape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AK74_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AKM_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AKM 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "BP3_BluTape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AKM_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AKM_60Rnd",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AKM 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "BP3_BluTape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AKM_Palm30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "BP_Mag_AK101_60",
+                "ResultCount": 1,
+                "CraftType": "craft",
+                "RecipeName": "Craft Taped AK101 60rnd",
+                "CraftComponents": [
+                    {
+                        "Classname": "BP3_BluTape",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "Mag_AK101_30Rnd",
+                        "Amount": 2,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
             }
         ]
     }

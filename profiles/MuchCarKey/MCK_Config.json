@@ -1,0 +1,34 @@
+{
+    "version": 6,
+    "CanCraftKey": 1,
+    "CanUseAnyGrinder": 1,
+    "CanPickCarLocks": 0,
+    "RaidTools": [
+        "Lockpick"
+    ],
+    "ToolDamage": 50,
+    "ChanceToPickLock": -1.0,
+    "TimeToPickLock": 200.0,
+    "RaidResetsKeyAssigned": 1,
+    "LifetimeMaintenanceEnabled": 0,
+    "MaxLifetime": 1296000,
+    "MaxLifetimeWithoutAnyPlayerInteraction": 432000,
+    "CanPlayersResetKey": 0,
+    "HideInventoryWhenDoorsClosed": 0,
+    "DoFileLogs": 1,
+    "ActivateExtendedLogs": 1,
+    "CanLockBoats": 1,
+    "EngineStartSettings": {
+        "CanStartUnassignedVehiclesWithoutKey": 1,
+        "CanStartWithoutKey": 1,
+        "CanStartWithKeyInHandOnly": 0,
+        "CanStartWithKeyInInventory": 0
+    },
+    "RemoteKeySettings": {
+        "CanUnlockRemotely": 1,
+        "Range": 15.0,
+        "VehiclesWithRemoteKey": [
+            "Transport"
+        ]
+    }
+}

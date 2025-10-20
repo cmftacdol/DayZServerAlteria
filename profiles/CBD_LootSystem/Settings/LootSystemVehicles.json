@@ -1,33 +1,36 @@
 [
     {
-        "VehicleName": "OffroadHatchback",
+        "VehicleName": "BRDM2_RF_camo",
         "VehicleParts": [
             "SparkPlug",
             "CarBattery",
+            "TruckBattery",
             "CarRadiator",
             "HeadlightH7",
             "HeadlightH7",
-            "HatchbackDoors_CoDriver",
-            "HatchbackDoors_Driver",
-            "HatchbackHood",
-            "HatchbackTrunk",
-            "HatchbackWheel",
-            "HatchbackWheel",
-            "HatchbackWheel",
-            "HatchbackWheel"
+            "BRDM2_RF_doors_driver_camo",
+            "BRDM2_RF_doors_codriver_camo",
+            "BRDM2_RF_doors_cargo1_camo",
+            "BRDM2_RF_doors_cargo2_camo",
+            "BRDM2_RF_doors_hood_camo",
+            "BRDM2_RF_wheel",
+            "BRDM2_RF_wheel",
+            "BRDM2_RF_wheel",
+            "BRDM2_RF_wheel"
         ]
     },
     {
         "VehicleName": "URAL_375_1964",
         "VehicleParts": [
             "SparkPlug",
-            "CarBattery",
+            "TruckBattery",
             "CarRadiator",
             "HeadlightH7",
             "HeadlightH7",
             "URAL_375_1964_doors_driver",
             "URAL_375_1964_doors_codriver",
             "URAL_375_1964_doors_hood",
+            "URAL_375_1964_tent",
             "URAL_375_1964_Wheel",
             "URAL_375_1964_Wheel",
             "URAL_375_1964_Wheel",

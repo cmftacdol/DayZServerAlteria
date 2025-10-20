@@ -13272,7 +13272,6 @@
     <category name="weapons" />
     <usage name="Military" />
     <usage name="Underground" />
-
     <value name="Tier4" />
     <value name="Tier5" />
   </type>

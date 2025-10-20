@@ -1,5 +1,5 @@
 {
-    "m_Version": 16,
+    "m_Version": 17,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
@@ -16,28 +16,28 @@
     "MaxLargeVehicleDistanceToTrader": 500.0,
     "LargeVehicles": [],
     "LandSpawnPositions": [
-         {
+        {
             "Position": [
-               6954.203125,
-                63.424213,
-                837.677307
+                6954.203125,
+                63.42421340942383,
+                837.6773071289063
             ],
             "Orientation": [
-                -17.648396,
-                0.000000,
-                0.000000
+                -17.648395538330079,
+                0.0,
+                0.0
             ]
         },
         {
             "Position": [
-               6954.203125,
-                63.424213,
-                837.677307
+                6954.203125,
+                63.42421340942383,
+                837.6773071289063
             ],
             "Orientation": [
-                -17.648396,
-                0.000000,
-                0.000000
+                -17.648395538330079,
+                0.0,
+                0.0
             ]
         }
     ],
@@ -79,7 +79,9 @@
         "ColorItemInfoAttachments": "FFB418FF",
         "ColorToggleCategoriesText": "C726518C",
         "ColorCategoryCorners": "FBFCFEFF",
-        "ColorCategoryBackground": "222526FF"
+        "ColorCategoryBackground": "222526FF",
+        "ColorPlayerStock": "2980B9FF",
+        "ColorRequirementsNotMet": "EB4635FF"
     },
     "Currencies": [
         "expansionbanknotehryvnia"

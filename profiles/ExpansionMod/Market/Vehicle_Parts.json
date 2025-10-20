@@ -315,6 +315,28 @@
             "Variants": []
         },
         {
+            "ClassName": "VBL_doors_cargo3",
+            "MaxPriceThreshold": 3870,
+            "MinPriceThreshold": 2520,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "VBL_doors_cargo4",
+            "MaxPriceThreshold": 3870,
+            "MinPriceThreshold": 2520,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
             "ClassName": "VBL_doors_trunk",
             "MaxPriceThreshold": 3870,
             "MinPriceThreshold": 2520,
@@ -877,6 +899,17 @@
         },
         {
             "ClassName": "UAZ_3962_doors_cargo1_green",
+            "MaxPriceThreshold": 3870,
+            "MinPriceThreshold": 2520,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "UAZ_3962_doors_cargo2_green",
             "MaxPriceThreshold": 3870,
             "MinPriceThreshold": 2520,
             "SellPricePercent": -1,

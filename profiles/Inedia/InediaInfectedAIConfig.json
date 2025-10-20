@@ -352,7 +352,7 @@
             "all": 0.0
         },
         "SearchSphereRadiusMax": {
-            "all": 50.0
+            "all": 40.0
         },
         "SearchSphereRadiusBurst": {
             "all": 60.0
@@ -657,25 +657,25 @@
             "all": 3.0
         },
         "ReactFuelStationNoise": {
-            "all": 3.0
+            "all": 10.0
         },
         "ReactFireworksNoise": {
-            "all": 3.0
+            "all": 10.0
         },
         "ReactExplosiveItemNoise": {
-            "all": 3.0
+            "all": 10.0
         },
         "ReactCarEngineNoise": {
             "all": 3.0
         },
         "ReactSmokeGrenadeVisual": {
-            "all": 3.0
+            "all": 5.0
         },
         "ReactScreamNoise": {
             "all": 3.0
         },
         "ReactWeaponShotNoise": {
-            "all": 3.0
+            "all": 5.0
         },
         "ReactFriendlyWeaponShotNoise": {
             "all": 0.0

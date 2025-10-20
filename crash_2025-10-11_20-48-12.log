@@ -1,0 +1,28 @@
+Unhandled exception
+
+Program: G:\SteamLibrary\steamapps\common\DayZServer\DayZServer_x64.exe
+Reason: Access violation. Illegal read by 0x7ff6c596017e at 0x28cfc9726a8
+
+SymGetSymFromAddr:487, addr:0x7ff6c596017e
+SymGetSymFromAddr:487, addr:0x7ff6c5960324
+SymGetSymFromAddr:487, addr:0x7ff6c595671b
+SymGetSymFromAddr:487, addr:0x7ff6c58fd864
+SymGetSymFromAddr:487, addr:0x7ff6c583f128
+SymGetSymFromAddr:487, addr:0x7ff6c57d5d7d
+SymGetSymFromAddr:487, addr:0x7ff6c57d7959
+[CDPCreateServer]: ??? addr:0x7ff6c6006890
+[CDPCreateServer]: ??? addr:0x7ff6c6007b87
+SymGetSymFromAddr:487, addr:0x7ff6c5a5b77b
+[CDPCreateServer]: ??? addr:0x7ff6c6009ea8
+SymGetSymFromAddr:487, addr:0x7ff6c5a5b6cf
+[CDPCreateServer]: ??? addr:0x7ff6c600a7cd
+SymGetSymFromAddr:487, addr:0x7ff6c5b86d4e
+[CDPCreateServer]: ??? addr:0x7ff6c61690ce
+[BaseThreadInitThunk]: ??? addr:0x7ffdf2f97374
+[RtlUserThreadStart]: ??? addr:0x7ffdf4cdcc91
+[RtlUserThreadStart]: ??? addr:0x7ffdf4cdcc91
+
+
+
+Runtime mode
+CLI params: config serverDZ.cfg mod @CF;@Dabs Framework;@StaminaRevised;@AICFireplaceIndoor;@AmmoStacks;@Basic Ear Plugs;@BetterSuppressors;@Code Lock;@Coupled Mag Vanilla;@Forward Operator Gear;@AimSounds;@Inventory Move Sounds;@InventoryInCar;@JunkYardDog;@SearchInventory;@RaG_Immersive_Vehicles;@MagazineLoading;@Loot Barrel Transfer;@Nomadbackpack;@Mounts Sights;@VPPAdminTools;@TerjePartyMod;@TerjeCore;@TerjeCompatibilityVPP;@TerjeSkills;@TerjeMedicine;@RaG_Immersive_Wells;@PvZmoD_Spawn_System;@LoftDModGR Clothes Pack;@GoreZ;@LoftD_old_size;@pvez test;@BoomLay's Craftables;@RaG_BaseItems;@Terje for FOG v2;@SimpleLootChests;@More Durable Weapons;@WindstridesClothingPack;@DayZ-Expansion-Core;@DayZ-Expansion-AI;@RolePlayMod;@GarbageSearch;@No Build Zones;@Zombie_Sound;@RUSForma_vehicles;@DayZ-Expansion-Market;@Ammo Making;@RandomItemsPack;@FC_Fish_Equip;@InediaInfectedAI;@Harks Blood Plague;@GSC Gameworld Assets JMC Edition;@RaG_BaseBuilding;@Alteria;@CookZ;@CBD Loot Rooms;@TWOC_CombineItems;@Utopia Animated Heli Crashs;@Territory Plus;@TerjeSleepingBagAttach;@InediaTerjeCompatibility;@TerjeStartScreen;@AI War Zones;@Realistic Display Quantity;@MuchCarKey profiles profiles 
