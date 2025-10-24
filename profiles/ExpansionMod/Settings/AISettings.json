@@ -1,5 +1,5 @@
 {
-    "m_Version": 15,
+    "m_Version": 16,
     "AccuracyMin": 85.0,
     "AccuracyMax": 90.0,
     "ThreatDistanceLimit": 150.0,
@@ -15,6 +15,7 @@
     "MemeLevel": 1,
     "CanRecruitFriendly": 0,
     "CanRecruitGuards": 0,
+    "MaxRecruitableAI": 1,
     "PreventClimb": [],
     "FormationScale": 1.0,
     "PlayerFactions": [],

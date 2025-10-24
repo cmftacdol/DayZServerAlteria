@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Recipe XML Generator</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #111;
+      color: #eee;
+      padding: 20px;
+    }
+    textarea, input {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0 10px;
+      border-radius: 5px;
+      border: none;
+      background: #222;
+      color: #eee;
+    }
+    label {
+      font-weight: bold;
+      display: block;
+      margin-top: 10px;
+    }
+    button {
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      background: #0b84ff;
+      color: white;
+      cursor: pointer;
+      margin-right: 10px;
+    }
+    button:hover {
+      background: #0066cc;
+    }
+    pre {
+      background: #222;
+      padding: 15px;
+      border-radius: 8px;
+      white-space: pre-wrap;
+      word-break: break-all;
+    }
+    #copyMsg {
+      color: #0f0;
+      display: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h2>🧩 Recipe XML Generator</h2>
+
+  <label>Display Name</label>
+  <input type="text" id="displayName" value="Scrap for parts">
+
+  <label>Time</label>
+  <input type="number" id="time" value="1">
+
+  <label>First Ingredient Items (one per line)</label>
+  <textarea id="firstIngredient" rows="8" placeholder="Enter items like ESP_M110"></textarea>
+
+  <label>Second Ingredient Item</label>
+  <input type="text" id="secondIngredient" value="RIP_MetalworkingKit">
+
+  <label>Result Name</label>
+  <input type="text" id="resultName" value="Bp_Rifles_RepearKit">
+
+  <label>Result Quantity</label>
+  <input type="number" id="resultQuantity" value="20">
+
+  <button onclick="generateXML()">Generate XML</button>
+  <button onclick="copyXML()">Copy to Clipboard</button>
+  <span id="copyMsg">✅ Copied!</span>
+
+  <h3>Generated XML:</h3>
+  <pre id="output"></pre>
+
+  <script>
+    function generateXML() {
+      const displayName = document.getElementById("displayName").value;
+      const time = document.getElementById("time").value;
+      const firstList = document.getElementById("firstIngredient").value
+        .split("\n")
+        .map(item => item.trim())
+        .filter(item => item.length > 0);
+      const second = document.getElementById("secondIngredient").value.trim();
+      const resultName = document.getElementById("resultName").value.trim();
+      const resultQty = document.getElementById("resultQuantity").value;
+
+      const firstItems = firstList.map(i => `\t\t\t<Item>${i}</Item>`).join("\n");
+
+      const xml = `<Recipe displayName="${displayName}" enabled="1" time="${time}">
+\t<FirstIngredient singleUse="1" maxDamage="3">
+${firstItems}
+\t</FirstIngredient>
+\t<SecondIngredient singleUse="0" setHealth="90">
+\t\t<Item>${second}</Item>
+\t</SecondIngredient>
+\t<CraftingResults>
+\t\t<Result setQuantity="${resultQty}">${resultName}</Result>
+\t</CraftingResults>
+\t<Conditions>
+\t\t<SkillPerk skillId="surv" perkId="bushcraft" requiredLevel="2" />
+\t</Conditions>
+</Recipe>`;
+
+      document.getElementById("output").textContent = xml;
+      document.getElementById("copyMsg").style.display = "none";
+    }
+
+    function copyXML() {
+      const text = document.getElementById("output").textContent;
+      if (!text.trim()) return;
+      navigator.clipboard.writeText(text).then(() => {
+        const msg = document.getElementById("copyMsg");
+        msg.style.display = "inline";
+        setTimeout(() => (msg.style.display = "none"), 1500);
+      });
+    }
+  </script>
+</body>
+</html>

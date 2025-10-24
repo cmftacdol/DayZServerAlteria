@@ -1635,7 +1635,7 @@
                         "Classname": "KB_Welding_2",
                         "Amount": 1,
                         "Destroy": 0,
-                        "Changehealth": 50
+                        "Changehealth": -50
                     },
                     {
                         "Classname": "RIP_nuts",
@@ -2316,6 +2316,1760 @@
                         "Amount": 2,
                         "Destroy": 1,
                         "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolCasing",
+                "ResultCount": 50,
+                "CraftType": "craft",
+                "RecipeName": "22lr - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing22LR",
+                        "Amount": 50,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "357 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing357",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolCasing",
+                "ResultCount": 35,
+                "CraftType": "craft",
+                "RecipeName": "380 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing380ACP",
+                        "Amount": 35,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolCasing",
+                "ResultCount": 25,
+                "CraftType": "craft",
+                "RecipeName": "45ACP - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing45ACP",
+                        "Amount": 25,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolCasing",
+                "ResultCount": 25,
+                "CraftType": "craft",
+                "RecipeName": "9x19 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing9X19",
+                        "Amount": 25,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "308 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing308Win",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "545- Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing545x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "556 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing556x45",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "762x39 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing762x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "762x54 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing762x54",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleCasing",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "9x39 - Craft Deformed Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "Casing9x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing308Win",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "308 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing545x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "545x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing556x45",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "556x45 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x54",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x54 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing9x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "9x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolCasing",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing308Win",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "308 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing545x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "545x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing556x45",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "556x45 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing762x54",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x54 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Casing9x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "9x39 Casing",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleCasing",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleCasingMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolTips",
+                "ResultCount": 50,
+                "CraftType": "craft",
+                "RecipeName": "22lr - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips22LR",
+                        "Amount": 50,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "357 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips357",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolTips",
+                "ResultCount": 35,
+                "CraftType": "craft",
+                "RecipeName": "380 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips380ACP",
+                        "Amount": 35,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolTips",
+                "ResultCount": 25,
+                "CraftType": "craft",
+                "RecipeName": "45ACP - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips45ACP",
+                        "Amount": 25,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedPistolTips",
+                "ResultCount": 25,
+                "CraftType": "craft",
+                "RecipeName": "9x19 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips9X19",
+                        "Amount": 25,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "308 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips308Win",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "545- Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips545x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "556 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips556x45",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "762x39 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips762x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "762x54 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips762x54",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "DeFormedRifleTips",
+                "ResultCount": 20,
+                "CraftType": "craft",
+                "RecipeName": "9x39 - Craft Deformed Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "Tips9x39",
+                        "Amount": 20,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "RIP_Drill",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips308Win",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "308 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips545x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "545x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips556x45",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "556x45 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x54",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x54 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips9x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "9x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedPistolTips",
+                        "Amount": 120,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips308Win",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "308 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips545x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "545x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips556x45",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "556x45 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips762x54",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "762x54 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    }
+                ],
+                "AttachmentsNeed": [
+                    "BPGrinder",
+                    "BPCutting_saw",
+                    "BPDrill"
+                ]
+            },
+            {
+                "Result": "Tips9x39",
+                "ResultCount": 60,
+                "CraftType": "craft",
+                "RecipeName": "9x39 Tips",
+                "CraftComponents": [
+                    {
+                        "Classname": "DeFormedRifleTips",
+                        "Amount": 60,
+                        "Destroy": 1,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "EmptyCrucible",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StandAloneSmelter",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": 0
+                    },
+                    {
+                        "Classname": "StrongRifleTipsMold",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
+                    },
+                    {
+                        "Classname": "LargeGasCanister",
+                        "Amount": 1,
+                        "Destroy": 0,
+                        "Changehealth": -50
                     }
                 ],
                 "AttachmentsNeed": [

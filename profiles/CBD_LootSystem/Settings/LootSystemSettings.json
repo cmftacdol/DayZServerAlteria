@@ -175,8 +175,8 @@
             "BPZMB_Din_holl_bl",
             "BPZMB_Din_holl_blue"
         ],
-        "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 10
+        "DefendersToSpawnAmount": 50,
+        "DefendersSpawnRadius": 50
     },
     {
         "LootRoomName": "Airfield Base",
@@ -354,7 +354,7 @@
             "BPZMB_Din_holl_bl",
             "BPZMB_Din_holl_blue"
         ],
-        "DefendersToSpawnAmount": 40,
-        "DefendersSpawnRadius": 10
+        "DefendersToSpawnAmount": 50,
+        "DefendersSpawnRadius": 50
     }
 ]

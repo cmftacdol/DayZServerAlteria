@@ -1,0 +1,10 @@
+Loot System Logs Active: 2025_10_21-7_41_4
+7_41_4 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_10_21-7_35_37.log
+7_41_4 | INFO | Deleted old log file: $profile:CBD_LootSystem\Logging\Logs\/2025_10_21-7_41_4.log
+7_42_6 | INFO | Loot System has started
+7_42_6 | INFO | Room settings loaded successfully.
+7_42_6 | INFO | Box settings loaded successfully.
+7_42_6 | INFO | LockAllLootRooms called
+7_42_6 | INFO | Locking room: South Port Industrial Base
+7_42_6 | INFO | Locking room: Airfield Base
+7_42_28 | INFO | Player and identity are valid on connect.

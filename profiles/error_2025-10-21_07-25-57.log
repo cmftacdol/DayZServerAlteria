@@ -1,0 +1,44 @@
+---------------------------------------------
+Log error_2025-10-21_07-25-57.log started at 2025-10-21 07:26:59
+
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+MARKET CONFIGURATION ERROR: Item bp_smg_repearkit (ID 1257) in category Melee_Weapons (ID 48) was already added in category Knifes (ID 40) as bp_smg_repearkit (ID 1137)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+MARKET CONFIGURATION ERROR: Item bp_pistol_repearkit (ID 1258) in category Melee_Weapons (ID 48) was already added in category Knifes (ID 40) as bp_pistol_repearkit (ID 1138)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+MARKET CONFIGURATION ERROR: Item bp_shotgun_repearkit (ID 1259) in category Melee_Weapons (ID 48) was already added in category Knifes (ID 40) as bp_shotgun_repearkit (ID 1139)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+MARKET CONFIGURATION ERROR: Item bp_rifles_repearkit (ID 1260) in category Melee_Weapons (ID 48) was already added in category Knifes (ID 40) as bp_rifles_repearkit (ID 1140)
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+MARKET CONFIGURATION ERROR: Can't add nvgoggles to trader Components - item does not exist in market
+Use https://github.com/lava76/check_expansion_market_variants/releases to fix
+
+
+------------------------------------
+DESKTOP-ABTUUDS, 2025-10-21 07:26:59
+
+TRADER CONFIGURATION ERROR: Category Launchers in Weapons does not exist!

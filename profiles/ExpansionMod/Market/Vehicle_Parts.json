@@ -2284,7 +2284,18 @@
             "Variants": []
         },
         {
-            "ClassName": "GAZ_33081_doors_driver",
+            "ClassName": "GAZ_33081_doors_cargo1",
+            "MaxPriceThreshold": 3870,
+            "MinPriceThreshold": 2520,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ_33081_doors_cargo2",
             "MaxPriceThreshold": 3870,
             "MinPriceThreshold": 2520,
             "SellPricePercent": -1,
@@ -2306,7 +2317,7 @@
             "Variants": []
         },
         {
-            "ClassName": "GAZ_33081_doors_cargo1",
+            "ClassName": "GAZ_33081_doors_driver",
             "MaxPriceThreshold": 3870,
             "MinPriceThreshold": 2520,
             "SellPricePercent": -1,
@@ -2317,7 +2328,18 @@
             "Variants": []
         },
         {
-            "ClassName": "GAZ_33081_doors_cargo2",
+            "ClassName": "GAZ_33081_doors_hood",
+            "MaxPriceThreshold": 3870,
+            "MinPriceThreshold": 2520,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 100,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GAZ_33081_tent",
             "MaxPriceThreshold": 3870,
             "MinPriceThreshold": 2520,
             "SellPricePercent": -1,

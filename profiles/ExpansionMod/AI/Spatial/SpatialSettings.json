@@ -729,6 +729,109 @@
             ]
         },
         {
+            "Spatial_Name": "SOUTH HARBOR AI BASE",
+            "Spatial_TriggerRadius": 50.0,
+            "Spatial_ZoneLoadout": "Tier3Loadout.json",
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 2,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "West",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.85,
+            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_Sensitivity": 0.01,
+            "Spatial_Timer": 60.0,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                1985.67,
+                27.9592,
+                554.45
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    1730.281006,
+                    19.528612,
+                    530.052002
+                ],
+                [
+                    1783.012329,
+                    15.604889,
+                    650.511841
+                ],
+                [
+                    2059.458740,
+                    8.011173,
+                    243.491516
+                ],
+                [
+                    1609.511841,
+                    13.478415,
+                    281.901947
+                ],
+                [
+                    1670.609619,
+                    6.011800,
+                    401.923889
+                ],
+                [
+                    1826.618896,
+                    23.622952,
+                    282.571472
+                ]
+            ]
+        },
+        {
+            "Spatial_Name": "AIRFIELD AI BASE",
+            "Spatial_TriggerRadius": 20.0,
+            "Spatial_ZoneLoadout": "Tier3Loadout.json",
+            "Spatial_MinCount": 1,
+            "Spatial_MaxCount": 2,
+            "Spatial_HuntMode": 1,
+            "Spatial_Faction": "West",
+            "Spatial_Lootable": 1,
+            "Spatial_Chance": 1,
+            "Spatial_MinAccuracy": 0.85,
+            "Spatial_MaxAccuracy": 0.90,
+            "Spatial_Sensitivity": 0.01,
+            "Spatial_Timer": 60.0,
+            "Spatial_SpawnMode": 1,
+            "Spatial_UnlimitedReload": 1,
+            "Spatial_TriggerPosition": [
+                6920.41,
+                28.8331,
+                2204.72
+            ],
+            "Spatial_SpawnPosition": [
+                [
+                    6572.328613,
+                    31.953953,
+                    1825.117310
+                ],
+                [
+                    6094.648438,
+                    26.921272,
+                    2077.852539
+                ],
+                [
+                    7669.805664,
+                    28.631607,
+                    2089.202393
+                ],
+                [
+                    7804.815430,
+                    26.881310,
+                    1902.841309
+                ],
+                [
+                    7648.477051,
+                    29.634529,
+                    1539.355957
+                ]
+            ]
+        },
+        {
             "Spatial_Name": "Tier 4 Bunker",
             "Spatial_TriggerRadius": 30.0,
             "Spatial_ZoneLoadout": "Tier4Loadout.json",

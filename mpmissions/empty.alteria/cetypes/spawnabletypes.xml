@@ -3440,9 +3440,8 @@
         <cargo chance="0.60">
             <item name="PunchedCard" />
         </cargo>
-
-        <cargo chance="1">
-            <item name="jmc_SnowOwl_Ammo" />
+         <cargo chance="0.60">
+            <item name="SA_Loot_Key_Yellow" />
         </cargo>
 
         <cargo chance="1">
@@ -3462,18 +3461,21 @@
         </cargo>
 
         <cargo chance="1">
-            <item name="CrucibleOreLead" />
+            <item name="jmc_SnowOwl_Ammo" />
+        </cargo>
+
+        <cargo chance="1">
+            <item name="CrucibleMoltenBrass" />
         </cargo>
         <cargo chance="1">
             <item name="CrucibleMoltenBrass" />
         </cargo>
         <cargo chance="1">
-            <item name="CrucibleOreLead" />
+            <item name="CrucibleMoltenBrass" />
         </cargo>
         <cargo chance="1">
             <item name="CrucibleMoltenBrass" />
         </cargo>
-
 
         <cargo chance="0.30">
             <item name="FOG_Bag_6ShBagT_White" />
@@ -3568,32 +3570,6 @@
         </cargo>
         <cargo chance="1">
             <item name="CBD_UnlockingSledge" />
-        </cargo>
-
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_T" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_W" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_B" />
-        </cargo>
-
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_T" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_W" />
-        </cargo>
-        <cargo chance="1">
-            <item name="FOG_GPNVG_Elite_B" />
         </cargo>
 
         <cargo chance="1">
